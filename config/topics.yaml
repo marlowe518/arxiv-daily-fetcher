@@ -3,7 +3,7 @@
 
 # Search configuration
 max_results_per_topic: 20  # Maximum papers to fetch per topic per run
-lookback_days: 7           # Only fetch papers from last N days
+lookback_days: null        # Only fetch papers from last N days (null to disable)
 
 # Topic definitions
 topics:

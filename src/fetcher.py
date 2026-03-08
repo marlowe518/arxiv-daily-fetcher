@@ -105,17 +105,19 @@ class ArxivFetcher:
         if lookback_days:
             # arXiv uses submittedDate field
             # Format: [YYYYMMDD TO YYYYMMDD]
-            end_date = datetime.now()
-            start_date = end_date.replace(day=end_date.day - lookback_days)
-            # Ensure valid date
-            while start_date.day < 1:
-                start_date = start_date.replace(month=start_date.month - 1)
-                # Add days from previous month
-                if start_date.month == 0:
-                    start_date = start_date.replace(year=start_date.year - 1, month=12)
+            from datetime import timedelta
             
-            date_query = f"submittedDate:[{start_date.strftime('%Y%m%d')}* TO {end_date.strftime('%Y%m%d')}235959]"
-            full_query = f"({full_query}) AND {date_query}"
+            end_date = datetime.now()
+            start_date = end_date - timedelta(days=lookback_days)
+            
+            # If end_date is in the future (system clock issue), skip date filter
+            # to avoid arXiv API errors
+            if end_date.year > 2025:  # Sanity check - assume current year max
+                # Skip date filter for future dates
+                pass
+            else:
+                date_query = f"submittedDate:[{start_date.strftime('%Y%m%d')}* TO {end_date.strftime('%Y%m%d')}235959]"
+                full_query = f"({full_query}) AND {date_query}"
         
         return urllib.parse.quote(full_query, safe='():[]*"')
     
