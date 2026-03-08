@@ -1,0 +1,103 @@
+# arXiv Daily Paper Fetcher - Topic Configuration
+# Add, remove, or edit topics below. Each topic can have multiple queries and categories.
+
+# Search configuration
+max_results_per_topic: 20  # Maximum papers to fetch per topic per run
+lookback_days: 7           # Only fetch papers from last N days
+
+# Topic definitions
+topics:
+  - name: "Graph Neural Networks"
+    description: "Papers on GNNs, graph learning, and graph-based ML"
+    queries:
+      - "graph neural networks"
+      - "GNN"
+      - "graph learning"
+    categories:
+      - "cs.LG"
+      - "cs.AI"
+      - "cs.SI"
+
+  - name: "Graph Generation"
+    description: "Deep generative models for graphs"
+    queries:
+      - "graph generation"
+      - "graph synthesis"
+      - "molecular generation"
+    categories:
+      - "cs.LG"
+      - "cs.AI"
+      - "q-bio.BM"
+
+  - name: "Graph Summarization"
+    description: "Techniques for summarizing graph data"
+    queries:
+      - "graph summarization"
+      - "graph compression"
+      - "graph coarsening"
+    categories:
+      - "cs.DB"
+      - "cs.LG"
+
+  - name: "Differential Privacy"
+    description: "Differential privacy theory and applications"
+    queries:
+      - "differential privacy"
+      - "DP-SGD"
+      - "privacy-preserving learning"
+    categories:
+      - "cs.CR"
+      - "cs.LG"
+      - "cs.DB"
+
+  - name: "Private Graph Learning"
+    description: "Privacy techniques for graph data and GNNs"
+    queries:
+      - "private graph"
+      - "privacy graph neural"
+      - "dp-gnn"
+    categories:
+      - "cs.CR"
+      - "cs.LG"
+
+  - name: "Federated Learning"
+    description: "Federated and distributed learning"
+    queries:
+      - "federated learning"
+      - "federated optimization"
+      - "distributed learning"
+    categories:
+      - "cs.LG"
+      - "cs.DC"
+      - "cs.CR"
+
+  - name: "Recommender Systems"
+    description: "Recommendation algorithms and systems"
+    queries:
+      - "recommender systems"
+      - "recommendation"
+      - "collaborative filtering"
+    categories:
+      - "cs.IR"
+      - "cs.LG"
+      - "cs.HC"
+
+  - name: "Collaborative Filtering"
+    description: "Matrix factorization and CF methods"
+    queries:
+      - "collaborative filtering"
+      - "matrix factorization"
+      - "neural collaborative filtering"
+    categories:
+      - "cs.IR"
+      - "cs.LG"
+
+  - name: "Implicit Feedback"
+    description: "Learning from implicit user feedback"
+    queries:
+      - "implicit feedback"
+      - "one-class collaborative filtering"
+      - "positive unlabeled"
+    categories:
+      - "cs.IR"
+      - "cs.LG"
