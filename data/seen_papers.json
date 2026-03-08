@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-08T06:39:45.616167",
+  "last_updated": "2026-03-08T14:58:41.717083",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -12,7 +12,7 @@
         "Tianfan Fu"
       ],
       "published": "2026-03-05T16:20:21+00:00",
-      "first_seen": "2026-03-08T06:39:21.767779",
+      "first_seen": "2026-03-08T14:58:17.702884",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG"
@@ -29,7 +29,7 @@
         "Heribert Vollmer"
       ],
       "published": "2026-03-05T13:10:27+00:00",
-      "first_seen": "2026-03-08T06:39:21.767791",
+      "first_seen": "2026-03-08T14:58:17.702893",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.CC",
@@ -46,7 +46,7 @@
         "Enyan Dai"
       ],
       "published": "2026-03-05T09:51:43+00:00",
-      "first_seen": "2026-03-08T06:39:21.767798",
+      "first_seen": "2026-03-08T14:58:17.702898",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -62,7 +62,7 @@
         "Erdal Kayacan"
       ],
       "published": "2026-03-04T22:45:53+00:00",
-      "first_seen": "2026-03-08T06:39:21.767805",
+      "first_seen": "2026-03-08T14:58:17.702902",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.RO",
@@ -79,7 +79,7 @@
         "Essam Mansour"
       ],
       "published": "2026-03-04T19:30:14+00:00",
-      "first_seen": "2026-03-08T06:39:21.767811",
+      "first_seen": "2026-03-08T14:58:17.702907",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -97,7 +97,7 @@
         "Bardh Prenkaj"
       ],
       "published": "2026-03-04T15:56:14+00:00",
-      "first_seen": "2026-03-08T06:39:21.767817",
+      "first_seen": "2026-03-08T14:58:17.702910",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG"
@@ -113,7 +113,7 @@
         "Wenwu Yu"
       ],
       "published": "2026-03-04T11:47:57+00:00",
-      "first_seen": "2026-03-08T06:39:21.767823",
+      "first_seen": "2026-03-08T14:58:17.702914",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -136,7 +136,7 @@
         "Min Xu"
       ],
       "published": "2026-03-04T06:17:51+00:00",
-      "first_seen": "2026-03-08T06:39:21.767835",
+      "first_seen": "2026-03-08T14:58:17.702917",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.AI",
@@ -153,7 +153,7 @@
         "Jian Pei"
       ],
       "published": "2026-03-04T02:59:23+00:00",
-      "first_seen": "2026-03-08T06:39:21.767842",
+      "first_seen": "2026-03-08T14:58:17.702920",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -173,7 +173,7 @@
         "Sheng Li"
       ],
       "published": "2026-03-04T02:34:48+00:00",
-      "first_seen": "2026-03-08T06:39:21.767848",
+      "first_seen": "2026-03-08T14:58:17.702925",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -191,7 +191,7 @@
         "Sheng Li"
       ],
       "published": "2026-03-03T15:41:10+00:00",
-      "first_seen": "2026-03-08T06:39:21.767853",
+      "first_seen": "2026-03-08T14:58:17.702928",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -206,7 +206,7 @@
         "Elizabeth Nyambere"
       ],
       "published": "2026-03-03T15:34:02+00:00",
-      "first_seen": "2026-03-08T06:39:21.767859",
+      "first_seen": "2026-03-08T14:58:17.702932",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.AI",
@@ -227,7 +227,7 @@
         "Junlan Feng"
       ],
       "published": "2026-03-03T12:47:44+00:00",
-      "first_seen": "2026-03-08T06:39:21.767865",
+      "first_seen": "2026-03-08T14:58:17.702935",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -247,7 +247,7 @@
         "You Zhou"
       ],
       "published": "2026-03-03T10:43:01+00:00",
-      "first_seen": "2026-03-08T06:39:21.767870",
+      "first_seen": "2026-03-08T14:58:17.702938",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -265,7 +265,7 @@
         "Shaodong Zhou"
       ],
       "published": "2026-03-03T09:54:34+00:00",
-      "first_seen": "2026-03-08T06:39:21.767875",
+      "first_seen": "2026-03-08T14:58:17.702942",
       "topic": "Graph Neural Networks",
       "categories": [
         "physics.chem-ph",
@@ -282,7 +282,7 @@
         "Moshe Eliasof"
       ],
       "published": "2026-03-03T09:00:01+00:00",
-      "first_seen": "2026-03-08T06:39:21.767880",
+      "first_seen": "2026-03-08T14:58:17.702945",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG"
@@ -298,7 +298,7 @@
         "Jinhong Jung"
       ],
       "published": "2026-03-03T06:37:44+00:00",
-      "first_seen": "2026-03-08T06:39:21.767885",
+      "first_seen": "2026-03-08T14:58:17.702948",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.IR",
@@ -319,7 +319,7 @@
         "Zhongxiang Dai"
       ],
       "published": "2026-03-03T05:59:05+00:00",
-      "first_seen": "2026-03-08T06:39:21.767890",
+      "first_seen": "2026-03-08T14:58:17.702951",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -334,7 +334,7 @@
         "Gia-Wei Chern"
       ],
       "published": "2026-03-02T16:23:25+00:00",
-      "first_seen": "2026-03-08T06:39:21.767895",
+      "first_seen": "2026-03-08T14:58:17.702955",
       "topic": "Graph Neural Networks",
       "categories": [
         "cond-mat.str-el",
@@ -356,7 +356,7 @@
         "Wei Ye"
       ],
       "published": "2026-03-02T16:07:24+00:00",
-      "first_seen": "2026-03-08T06:39:21.767900",
+      "first_seen": "2026-03-08T14:58:17.702958",
       "topic": "Graph Neural Networks",
       "categories": [
         "cs.LG",
@@ -373,7 +373,7 @@
         "Lu Lin"
       ],
       "published": "2026-03-02T15:55:07+00:00",
-      "first_seen": "2026-03-08T06:39:24.473526",
+      "first_seen": "2026-03-08T14:58:20.696778",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG",
@@ -395,7 +395,7 @@
         "Gholamreza Haffari"
       ],
       "published": "2026-03-01T13:02:36+00:00",
-      "first_seen": "2026-03-08T06:39:24.473537",
+      "first_seen": "2026-03-08T14:58:20.696786",
       "topic": "Graph Generation",
       "categories": [
         "cs.CL",
@@ -411,7 +411,7 @@
         "Samuel Kaski"
       ],
       "published": "2026-02-27T10:19:57+00:00",
-      "first_seen": "2026-03-08T06:39:24.473543",
+      "first_seen": "2026-03-08T14:58:20.696791",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG"
@@ -427,7 +427,7 @@
         "Cheng Soon Ong"
       ],
       "published": "2026-02-27T00:22:21+00:00",
-      "first_seen": "2026-03-08T06:39:24.473549",
+      "first_seen": "2026-03-08T14:58:20.696795",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG",
@@ -445,7 +445,7 @@
         "Giannis Nikolentzos"
       ],
       "published": "2026-02-24T20:19:49+00:00",
-      "first_seen": "2026-03-08T06:39:24.473555",
+      "first_seen": "2026-03-08T14:58:20.696798",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG",
@@ -462,7 +462,7 @@
         "Pascal Frossard"
       ],
       "published": "2026-02-20T09:17:57+00:00",
-      "first_seen": "2026-03-08T06:39:24.473560",
+      "first_seen": "2026-03-08T14:58:20.696802",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG"
@@ -482,7 +482,7 @@
         "Dae-Woong Jeong"
       ],
       "published": "2026-02-19T18:27:11+00:00",
-      "first_seen": "2026-03-08T06:39:24.473566",
+      "first_seen": "2026-03-08T14:58:20.696806",
       "topic": "Graph Generation",
       "categories": [
         "cs.AI"
@@ -500,7 +500,7 @@
         "Xujie Si"
       ],
       "published": "2026-02-18T23:37:15+00:00",
-      "first_seen": "2026-03-08T06:39:24.473571",
+      "first_seen": "2026-03-08T14:58:20.696809",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG"
@@ -513,7 +513,7 @@
         "Mohammed Zain Ali Ahmed"
       ],
       "published": "2026-02-18T02:36:33+00:00",
-      "first_seen": "2026-03-08T06:39:24.473576",
+      "first_seen": "2026-03-08T14:58:20.696813",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG"
@@ -536,7 +536,7 @@
         "Masaru Tateno"
       ],
       "published": "2026-02-17T09:38:11+00:00",
-      "first_seen": "2026-03-08T06:39:24.473581",
+      "first_seen": "2026-03-08T14:58:20.696816",
       "topic": "Graph Generation",
       "categories": [
         "q-bio.QM",
@@ -561,7 +561,7 @@
         "Tommi Jaakkola"
       ],
       "published": "2026-02-16T18:58:55+00:00",
-      "first_seen": "2026-03-08T06:39:24.473586",
+      "first_seen": "2026-03-08T14:58:20.696820",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG",
@@ -582,7 +582,7 @@
         "İsmail İlkan Ceylan"
       ],
       "published": "2026-02-16T18:00:53+00:00",
-      "first_seen": "2026-03-08T06:39:24.473591",
+      "first_seen": "2026-03-08T14:58:20.696823",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG"
@@ -598,7 +598,7 @@
         "Borivoje Nikolic"
       ],
       "published": "2026-02-12T20:52:39+00:00",
-      "first_seen": "2026-03-08T06:39:24.473597",
+      "first_seen": "2026-03-08T14:58:20.696828",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG",
@@ -615,7 +615,7 @@
         "Charlotte Laclau"
       ],
       "published": "2026-02-12T10:29:44+00:00",
-      "first_seen": "2026-03-08T06:39:24.473602",
+      "first_seen": "2026-03-08T14:58:20.696832",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG"
@@ -631,7 +631,7 @@
         "Hasan Kurban"
       ],
       "published": "2026-02-10T00:59:13+00:00",
-      "first_seen": "2026-03-08T06:39:24.473608",
+      "first_seen": "2026-03-08T14:58:20.696835",
       "topic": "Graph Generation",
       "categories": [
         "cond-mat.mtrl-sci",
@@ -649,7 +649,7 @@
         "Jun Wang"
       ],
       "published": "2026-02-09T16:20:07+00:00",
-      "first_seen": "2026-03-08T06:39:24.473613",
+      "first_seen": "2026-03-08T14:58:20.696838",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG"
@@ -664,7 +664,7 @@
         "Ron Levie"
       ],
       "published": "2026-02-09T15:25:36+00:00",
-      "first_seen": "2026-03-08T06:39:24.473618",
+      "first_seen": "2026-03-08T14:58:20.696841",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG"
@@ -682,7 +682,7 @@
         "Kaoru Ota"
       ],
       "published": "2026-02-09T15:03:06+00:00",
-      "first_seen": "2026-03-08T06:39:24.473623",
+      "first_seen": "2026-03-08T14:58:20.696844",
       "topic": "Graph Generation",
       "categories": [
         "cs.LG",
@@ -699,7 +699,7 @@
         "Paul Groth"
       ],
       "published": "2026-02-06T13:50:22+00:00",
-      "first_seen": "2026-03-08T06:39:24.473628",
+      "first_seen": "2026-03-08T14:58:20.696848",
       "topic": "Graph Generation",
       "categories": [
         "cs.AI"
@@ -723,7 +723,7 @@
         "Varinia Bernales"
       ],
       "published": "2026-02-04T18:38:48+00:00",
-      "first_seen": "2026-03-08T06:39:24.473633",
+      "first_seen": "2026-03-08T14:58:20.696851",
       "topic": "Graph Generation",
       "categories": [
         "physics.chem-ph",
@@ -740,7 +740,7 @@
         "Md Rubel Ahmed"
       ],
       "published": "2026-02-22T20:29:30+00:00",
-      "first_seen": "2026-03-08T06:39:27.398150",
+      "first_seen": "2026-03-08T14:58:23.717866",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG"
@@ -756,7 +756,7 @@
         "Aravindan Vijayaraghavan"
       ],
       "published": "2026-02-07T12:55:54+00:00",
-      "first_seen": "2026-03-08T06:39:27.398161",
+      "first_seen": "2026-03-08T14:58:23.717884",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG",
@@ -775,7 +775,7 @@
         "Guoren Wang"
       ],
       "published": "2026-01-30T13:02:26+00:00",
-      "first_seen": "2026-03-08T06:39:27.398167",
+      "first_seen": "2026-03-08T14:58:23.717895",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG"
@@ -789,7 +789,7 @@
         "Etienne Lasalle"
       ],
       "published": "2025-12-30T16:27:48+00:00",
-      "first_seen": "2026-03-08T06:39:27.398174",
+      "first_seen": "2026-03-08T14:58:23.717907",
       "topic": "Graph Summarization",
       "categories": [
         "stat.ML",
@@ -806,7 +806,7 @@
         "César A. Uribe"
       ],
       "published": "2025-11-11T19:49:51+00:00",
-      "first_seen": "2026-03-08T06:39:27.398179",
+      "first_seen": "2026-03-08T14:58:23.717917",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG"
@@ -822,7 +822,7 @@
         "Chul-Ho Lee"
       ],
       "published": "2025-10-31T03:20:48+00:00",
-      "first_seen": "2026-03-08T06:39:27.398184",
+      "first_seen": "2026-03-08T14:58:23.717925",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG"
@@ -837,7 +837,7 @@
         "Yueheng Sun"
       ],
       "published": "2025-10-09T06:45:07+00:00",
-      "first_seen": "2026-03-08T06:39:27.398189",
+      "first_seen": "2026-03-08T14:58:23.717935",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG",
@@ -853,7 +853,7 @@
         "Santiago Segarra"
       ],
       "published": "2025-09-30T03:05:04+00:00",
-      "first_seen": "2026-03-08T06:39:27.398196",
+      "first_seen": "2026-03-08T14:58:23.717944",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG"
@@ -870,7 +870,7 @@
         "Alejandro Ribeiro"
       ],
       "published": "2025-09-21T21:57:27+00:00",
-      "first_seen": "2026-03-08T06:39:27.398201",
+      "first_seen": "2026-03-08T14:58:23.717952",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG",
@@ -886,7 +886,7 @@
         "S. I. Egorov"
       ],
       "published": "2025-08-26T06:27:50+00:00",
-      "first_seen": "2026-03-08T06:39:27.398206",
+      "first_seen": "2026-03-08T14:58:23.717961",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG",
@@ -911,7 +911,7 @@
         "Huijie Tang"
       ],
       "published": "2025-07-28T03:59:57+00:00",
-      "first_seen": "2026-03-08T06:39:27.398211",
+      "first_seen": "2026-03-08T14:58:23.717969",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG"
@@ -928,7 +928,7 @@
         "Bei Wang"
       ],
       "published": "2025-07-24T17:43:40+00:00",
-      "first_seen": "2026-03-08T06:39:27.398216",
+      "first_seen": "2026-03-08T14:58:23.717978",
       "topic": "Graph Summarization",
       "categories": [
         "cs.CG",
@@ -944,7 +944,7 @@
         "Aline Roumy"
       ],
       "published": "2025-06-13T12:55:03+00:00",
-      "first_seen": "2026-03-08T06:39:27.398222",
+      "first_seen": "2026-03-08T14:58:23.717986",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG",
@@ -963,7 +963,7 @@
         "Michele Grossi"
       ],
       "published": "2025-06-11T15:36:29+00:00",
-      "first_seen": "2026-03-08T06:39:27.398227",
+      "first_seen": "2026-03-08T14:58:23.717994",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG",
@@ -981,7 +981,7 @@
         "Yifan Chen"
       ],
       "published": "2025-05-20T07:30:45+00:00",
-      "first_seen": "2026-03-08T06:39:27.398232",
+      "first_seen": "2026-03-08T14:58:23.718003",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG",
@@ -999,7 +999,7 @@
         "Jayadeva"
       ],
       "published": "2025-05-18T09:57:33+00:00",
-      "first_seen": "2026-03-08T06:39:27.398238",
+      "first_seen": "2026-03-08T14:58:23.718011",
       "topic": "Graph Summarization",
       "categories": [
         "cs.SI",
@@ -1021,7 +1021,7 @@
         "Shunyu Liu"
       ],
       "published": "2025-05-01T07:22:51+00:00",
-      "first_seen": "2026-03-08T06:39:27.398243",
+      "first_seen": "2026-03-08T14:58:23.718020",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG"
@@ -1039,7 +1039,7 @@
         "Babak Salimi"
       ],
       "published": "2025-04-21T08:01:32+00:00",
-      "first_seen": "2026-03-08T06:39:27.398248",
+      "first_seen": "2026-03-08T14:58:23.718029",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG",
@@ -1056,7 +1056,7 @@
         "Yinghui Wu"
       ],
       "published": "2025-04-17T15:42:13+00:00",
-      "first_seen": "2026-03-08T06:39:27.398253",
+      "first_seen": "2026-03-08T14:58:23.718037",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG"
@@ -1074,7 +1074,7 @@
         "Kai Wen"
       ],
       "published": "2025-03-20T16:58:40+00:00",
-      "first_seen": "2026-03-08T06:39:27.398259",
+      "first_seen": "2026-03-08T14:58:23.718045",
       "topic": "Graph Summarization",
       "categories": [
         "cs.LG",
@@ -1091,7 +1091,7 @@
         "Elad Michael Schiller"
       ],
       "published": "2026-03-05T13:28:51+00:00",
-      "first_seen": "2026-03-08T06:39:30.678338",
+      "first_seen": "2026-03-08T14:58:26.722243",
       "topic": "Differential Privacy",
       "categories": [
         "cs.LG"
@@ -1112,7 +1112,7 @@
         "Hui Li"
       ],
       "published": "2026-03-05T11:40:26+00:00",
-      "first_seen": "2026-03-08T06:39:30.678349",
+      "first_seen": "2026-03-08T14:58:26.722255",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CR"
@@ -1126,7 +1126,7 @@
         "Kexin Chen"
       ],
       "published": "2026-03-05T07:19:31+00:00",
-      "first_seen": "2026-03-08T06:39:30.678355",
+      "first_seen": "2026-03-08T14:58:26.722261",
       "topic": "Differential Privacy",
       "categories": [
         "cs.LG",
@@ -1143,7 +1143,7 @@
         "Christian P Robert"
       ],
       "published": "2026-03-04T15:46:24+00:00",
-      "first_seen": "2026-03-08T06:39:30.678361",
+      "first_seen": "2026-03-08T14:58:26.722265",
       "topic": "Differential Privacy",
       "categories": [
         "math.ST",
@@ -1163,7 +1163,7 @@
         "Anastasiia Koloskova"
       ],
       "published": "2026-03-03T18:17:57+00:00",
-      "first_seen": "2026-03-08T06:39:30.678367",
+      "first_seen": "2026-03-08T14:58:26.722275",
       "topic": "Differential Privacy",
       "categories": [
         "cs.LG",
@@ -1179,7 +1179,7 @@
         "Amartya Sanyal"
       ],
       "published": "2026-03-03T17:21:38+00:00",
-      "first_seen": "2026-03-08T06:39:30.678373",
+      "first_seen": "2026-03-08T14:58:26.722281",
       "topic": "Differential Privacy",
       "categories": [
         "cs.LG"
@@ -1197,7 +1197,7 @@
         "Liehuang Zhu"
       ],
       "published": "2026-03-03T15:41:54+00:00",
-      "first_seen": "2026-03-08T06:39:30.678378",
+      "first_seen": "2026-03-08T14:58:26.722285",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CR"
@@ -1212,7 +1212,7 @@
         "Catuscia Palamidessi"
       ],
       "published": "2026-03-02T16:01:41+00:00",
-      "first_seen": "2026-03-08T06:39:30.678384",
+      "first_seen": "2026-03-08T14:58:26.722290",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CR"
@@ -1226,7 +1226,7 @@
         "Jan Ramon"
       ],
       "published": "2026-03-02T15:40:16+00:00",
-      "first_seen": "2026-03-08T06:39:30.678389",
+      "first_seen": "2026-03-08T14:58:26.722298",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CR",
@@ -1243,7 +1243,7 @@
         "Daniel Truhn"
       ],
       "published": "2026-03-01T13:30:36+00:00",
-      "first_seen": "2026-03-08T06:39:30.678394",
+      "first_seen": "2026-03-08T14:58:26.722301",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CV",
@@ -1260,7 +1260,7 @@
         "Varun Chandrasekaran"
       ],
       "published": "2026-02-27T22:21:14+00:00",
-      "first_seen": "2026-03-08T06:39:30.678399",
+      "first_seen": "2026-03-08T14:58:26.722305",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CR",
@@ -1281,7 +1281,7 @@
         "Yuan Hong"
       ],
       "published": "2026-02-26T21:40:36+00:00",
-      "first_seen": "2026-03-08T06:39:30.678405",
+      "first_seen": "2026-03-08T14:58:26.722308",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CR",
@@ -1300,7 +1300,7 @@
         "Amanda Prorok"
       ],
       "published": "2026-02-26T17:36:48+00:00",
-      "first_seen": "2026-03-08T06:39:30.678410",
+      "first_seen": "2026-03-08T14:58:26.722315",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CV",
@@ -1317,7 +1317,7 @@
         "Satoshi Hasegawa"
       ],
       "published": "2026-02-26T07:21:00+00:00",
-      "first_seen": "2026-03-08T06:39:30.678415",
+      "first_seen": "2026-03-08T14:58:26.722319",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CR",
@@ -1336,7 +1336,7 @@
         "Hong Chen"
       ],
       "published": "2026-02-26T04:32:14+00:00",
-      "first_seen": "2026-03-08T06:39:30.678420",
+      "first_seen": "2026-03-08T14:58:26.722323",
       "topic": "Differential Privacy",
       "categories": [
         "cs.LG"
@@ -1353,7 +1353,7 @@
         "Hong Chen"
       ],
       "published": "2026-02-26T04:32:07+00:00",
-      "first_seen": "2026-03-08T06:39:30.678426",
+      "first_seen": "2026-03-08T14:58:26.722326",
       "topic": "Differential Privacy",
       "categories": [
         "cs.LG",
@@ -1369,7 +1369,7 @@
         "Nagi Gebraeel"
       ],
       "published": "2026-02-25T14:05:38+00:00",
-      "first_seen": "2026-03-08T06:39:30.678431",
+      "first_seen": "2026-03-08T14:58:26.722334",
       "topic": "Differential Privacy",
       "categories": [
         "cs.LG",
@@ -1385,7 +1385,7 @@
         "Hai Zhang"
       ],
       "published": "2026-02-25T12:21:30+00:00",
-      "first_seen": "2026-03-08T06:39:30.678436",
+      "first_seen": "2026-03-08T14:58:26.722339",
       "topic": "Differential Privacy",
       "categories": [
         "cs.CR",
@@ -1404,7 +1404,7 @@
         "Alexander Rakhlin"
       ],
       "published": "2026-02-24T06:15:59+00:00",
-      "first_seen": "2026-03-08T06:39:30.678442",
+      "first_seen": "2026-03-08T14:58:26.722342",
       "topic": "Differential Privacy",
       "categories": [
         "stat.ML",
@@ -1421,7 +1421,7 @@
         "Junkang Liu"
       ],
       "published": "2026-02-23T15:15:47+00:00",
-      "first_seen": "2026-03-08T06:39:30.678447",
+      "first_seen": "2026-03-08T14:58:26.722346",
       "topic": "Differential Privacy",
       "categories": [
         "cs.LG",
@@ -1440,7 +1440,7 @@
         "Feiping Nie"
       ],
       "published": "2025-11-14T03:05:22+00:00",
-      "first_seen": "2026-03-08T06:39:33.475713",
+      "first_seen": "2026-03-08T14:58:29.711110",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG"
@@ -1456,7 +1456,7 @@
         "Andrea J. Goldsmith"
       ],
       "published": "2025-10-08T15:30:27+00:00",
-      "first_seen": "2026-03-08T06:39:33.475724",
+      "first_seen": "2026-03-08T14:58:29.711119",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.IT",
@@ -1475,7 +1475,7 @@
         "Wendy Hui Wang"
       ],
       "published": "2025-09-05T18:17:57+00:00",
-      "first_seen": "2026-03-08T06:39:33.475730",
+      "first_seen": "2026-03-08T14:58:29.711133",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG",
@@ -1494,7 +1494,7 @@
         "Leqi Zhu"
       ],
       "published": "2025-08-04T08:26:58+00:00",
-      "first_seen": "2026-03-08T06:39:33.475736",
+      "first_seen": "2026-03-08T14:58:29.711138",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.DS",
@@ -1511,7 +1511,7 @@
         "Zhiwei Steven Wu"
       ],
       "published": "2025-07-30T03:20:15+00:00",
-      "first_seen": "2026-03-08T06:39:33.475741",
+      "first_seen": "2026-03-08T14:58:29.711142",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.CR"
@@ -1527,7 +1527,7 @@
         "Quanquan C. Liu"
       ],
       "published": "2025-06-25T20:54:07+00:00",
-      "first_seen": "2026-03-08T06:39:33.475747",
+      "first_seen": "2026-03-08T14:58:29.711145",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.DS",
@@ -1547,7 +1547,7 @@
         "Philip S. Yu"
       ],
       "published": "2025-06-11T14:46:11+00:00",
-      "first_seen": "2026-03-08T06:39:33.475754",
+      "first_seen": "2026-03-08T14:58:29.711149",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG",
@@ -1562,7 +1562,7 @@
         "Jonathan Hehir"
       ],
       "published": "2025-04-24T06:02:02+00:00",
-      "first_seen": "2026-03-08T06:39:33.475760",
+      "first_seen": "2026-03-08T14:58:29.711153",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG",
@@ -1580,7 +1580,7 @@
         "Jianliang Xu"
       ],
       "published": "2025-03-27T12:13:28+00:00",
-      "first_seen": "2026-03-08T06:39:33.475765",
+      "first_seen": "2026-03-08T14:58:29.711156",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG",
@@ -1597,7 +1597,7 @@
         "Adam Dziedzic"
       ],
       "published": "2025-03-13T16:58:07+00:00",
-      "first_seen": "2026-03-08T06:39:33.475771",
+      "first_seen": "2026-03-08T14:58:29.711159",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG"
@@ -1612,7 +1612,7 @@
         "Yang Zhang"
       ],
       "published": "2025-03-03T22:56:32+00:00",
-      "first_seen": "2026-03-08T06:39:33.475776",
+      "first_seen": "2026-03-08T14:58:29.711162",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG",
@@ -1630,7 +1630,7 @@
         "Yunsi Fei"
       ],
       "published": "2025-02-20T20:09:14+00:00",
-      "first_seen": "2026-03-08T06:39:33.475782",
+      "first_seen": "2026-03-08T14:58:29.711165",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.CR",
@@ -1649,7 +1649,7 @@
         "Jiguo Yu"
       ],
       "published": "2025-01-14T09:19:06+00:00",
-      "first_seen": "2026-03-08T06:39:33.475788",
+      "first_seen": "2026-03-08T14:58:29.711170",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.CR"
@@ -1669,7 +1669,7 @@
         "Weiping Wang"
       ],
       "published": "2024-12-18T02:26:07+00:00",
-      "first_seen": "2026-03-08T06:39:33.475794",
+      "first_seen": "2026-03-08T14:58:29.711173",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG",
@@ -1692,7 +1692,7 @@
         "Jiming Chen"
       ],
       "published": "2024-12-16T01:56:32+00:00",
-      "first_seen": "2026-03-08T06:39:33.475799",
+      "first_seen": "2026-03-08T14:58:29.711176",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.CR"
@@ -1710,7 +1710,7 @@
         "Zhonghai Wu"
       ],
       "published": "2024-11-18T05:59:29+00:00",
-      "first_seen": "2026-03-08T06:39:33.475805",
+      "first_seen": "2026-03-08T14:58:29.711179",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG"
@@ -1728,7 +1728,7 @@
         "Yang Yang"
       ],
       "published": "2024-11-06T04:44:51+00:00",
-      "first_seen": "2026-03-08T06:39:33.475810",
+      "first_seen": "2026-03-08T14:58:29.711182",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.LG",
@@ -1748,7 +1748,7 @@
         "Beng Chin Ooi"
       ],
       "published": "2024-07-06T09:59:56+00:00",
-      "first_seen": "2026-03-08T06:39:33.475815",
+      "first_seen": "2026-03-08T14:58:29.711185",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.CR"
@@ -1763,7 +1763,7 @@
         "Pan Li"
       ],
       "published": "2024-06-22T15:32:53+00:00",
-      "first_seen": "2026-03-08T06:39:33.475820",
+      "first_seen": "2026-03-08T14:58:29.711188",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.IR",
@@ -1780,7 +1780,7 @@
         "Zongrui Zou"
       ],
       "published": "2024-06-04T09:44:24+00:00",
-      "first_seen": "2026-03-08T06:39:33.475826",
+      "first_seen": "2026-03-08T14:58:29.711191",
       "topic": "Private Graph Learning",
       "categories": [
         "cs.CR",
@@ -1797,7 +1797,7 @@
         "Maria Sinziiana Astefanoaei"
       ],
       "published": "2026-03-05T15:12:40+00:00",
-      "first_seen": "2026-03-08T06:39:36.572449",
+      "first_seen": "2026-03-08T14:58:32.701348",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG"
@@ -1823,7 +1823,7 @@
         "Yogesh Simmhan"
       ],
       "published": "2026-03-05T14:30:10+00:00",
-      "first_seen": "2026-03-08T06:39:36.572459",
+      "first_seen": "2026-03-08T14:58:32.701380",
       "topic": "Federated Learning",
       "categories": [
         "cs.DC"
@@ -1841,7 +1841,7 @@
         "YunXiang Gong"
       ],
       "published": "2026-03-05T12:37:17+00:00",
-      "first_seen": "2026-03-08T06:39:36.572466",
+      "first_seen": "2026-03-08T14:58:32.701391",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG",
@@ -1857,7 +1857,7 @@
         "Ying-Chang Liang"
       ],
       "published": "2026-03-05T08:36:49+00:00",
-      "first_seen": "2026-03-08T06:39:36.572471",
+      "first_seen": "2026-03-08T14:58:32.701400",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG"
@@ -1878,7 +1878,7 @@
         "Zhou Yu"
       ],
       "published": "2026-03-05T07:30:51+00:00",
-      "first_seen": "2026-03-08T06:39:36.572477",
+      "first_seen": "2026-03-08T14:58:32.701409",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG",
@@ -1898,7 +1898,7 @@
         "Liqiang Wang"
       ],
       "published": "2026-03-05T02:29:50+00:00",
-      "first_seen": "2026-03-08T06:39:36.572482",
+      "first_seen": "2026-03-08T14:58:32.701424",
       "topic": "Federated Learning",
       "categories": [
         "cs.CR"
@@ -1914,7 +1914,7 @@
         "Ian Morilla"
       ],
       "published": "2026-03-04T17:44:39+00:00",
-      "first_seen": "2026-03-08T06:39:36.572487",
+      "first_seen": "2026-03-08T14:58:32.701433",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG",
@@ -1933,7 +1933,7 @@
         "Odej Kao"
       ],
       "published": "2026-03-04T15:43:48+00:00",
-      "first_seen": "2026-03-08T06:39:36.572492",
+      "first_seen": "2026-03-08T14:58:32.701441",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG",
@@ -1949,7 +1949,7 @@
         "Ying-Jun Angela Zhang"
       ],
       "published": "2026-03-04T13:40:09+00:00",
-      "first_seen": "2026-03-08T06:39:36.572498",
+      "first_seen": "2026-03-08T14:58:32.701451",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG",
@@ -1967,7 +1967,7 @@
         "Liu Xue Hua"
       ],
       "published": "2026-03-04T09:19:32+00:00",
-      "first_seen": "2026-03-08T06:39:36.572503",
+      "first_seen": "2026-03-08T14:58:32.701459",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG",
@@ -1985,7 +1985,7 @@
         "Lin Liu"
       ],
       "published": "2026-03-04T06:34:46+00:00",
-      "first_seen": "2026-03-08T06:39:36.572508",
+      "first_seen": "2026-03-08T14:58:32.701468",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG"
@@ -1999,7 +1999,7 @@
         "Ishani Karmarkar"
       ],
       "published": "2026-03-04T06:14:24+00:00",
-      "first_seen": "2026-03-08T06:39:36.572513",
+      "first_seen": "2026-03-08T14:58:32.701476",
       "topic": "Federated Learning",
       "categories": [
         "cs.MA",
@@ -2018,7 +2018,7 @@
         "Elad Michael Schiller"
       ],
       "published": "2026-03-03T13:23:29+00:00",
-      "first_seen": "2026-03-08T06:39:36.572518",
+      "first_seen": "2026-03-08T14:58:32.701484",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG"
@@ -2031,7 +2031,7 @@
         "Edouard Lansiaux"
       ],
       "published": "2026-03-03T12:43:44+00:00",
-      "first_seen": "2026-03-08T06:39:36.572524",
+      "first_seen": "2026-03-08T14:58:32.701492",
       "topic": "Federated Learning",
       "categories": [
         "cs.CR",
@@ -2048,7 +2048,7 @@
         "Erik Buchmann"
       ],
       "published": "2026-03-03T09:36:55+00:00",
-      "first_seen": "2026-03-08T06:39:36.572529",
+      "first_seen": "2026-03-08T14:58:32.701500",
       "topic": "Federated Learning",
       "categories": [
         "cs.CR"
@@ -2063,7 +2063,7 @@
         "Behrouz Touri"
       ],
       "published": "2026-03-03T06:09:19+00:00",
-      "first_seen": "2026-03-08T06:39:36.572534",
+      "first_seen": "2026-03-08T14:58:32.701508",
       "topic": "Federated Learning",
       "categories": [
         "math.OC",
@@ -2080,7 +2080,7 @@
         "Khaled B. Letaief"
       ],
       "published": "2026-03-03T03:28:57+00:00",
-      "first_seen": "2026-03-08T06:39:36.572539",
+      "first_seen": "2026-03-08T14:58:32.701516",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG"
@@ -2094,7 +2094,7 @@
         "Sarah Evans"
       ],
       "published": "2026-03-02T22:45:26+00:00",
-      "first_seen": "2026-03-08T06:39:36.572544",
+      "first_seen": "2026-03-08T14:58:32.701527",
       "topic": "Federated Learning",
       "categories": [
         "cs.CR"
@@ -2110,7 +2110,7 @@
         "Lili Su"
       ],
       "published": "2026-03-02T22:10:56+00:00",
-      "first_seen": "2026-03-08T06:39:36.572549",
+      "first_seen": "2026-03-08T14:58:32.701536",
       "topic": "Federated Learning",
       "categories": [
         "cs.LG"
@@ -2125,7 +2125,7 @@
         "Xihong Lin"
       ],
       "published": "2026-03-05T17:24:41+00:00",
-      "first_seen": "2026-03-08T06:39:39.460989",
+      "first_seen": "2026-03-08T14:58:35.712389",
       "topic": "Recommender Systems",
       "categories": [
         "stat.ML",
@@ -2140,7 +2140,7 @@
         "Michael G. Schimek"
       ],
       "published": "2026-03-05T17:00:59+00:00",
-      "first_seen": "2026-03-08T06:39:39.461000",
+      "first_seen": "2026-03-08T14:58:35.712404",
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG"
@@ -2156,7 +2156,7 @@
         "Rainer Malaka"
       ],
       "published": "2026-03-05T14:42:01+00:00",
-      "first_seen": "2026-03-08T06:39:39.461007",
+      "first_seen": "2026-03-08T14:58:35.712431",
       "topic": "Recommender Systems",
       "categories": [
         "cs.HC",
@@ -2174,7 +2174,7 @@
         "Qing Li"
       ],
       "published": "2026-03-05T09:25:19+00:00",
-      "first_seen": "2026-03-08T06:39:39.461012",
+      "first_seen": "2026-03-08T14:58:35.712440",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR",
@@ -2191,7 +2191,7 @@
         "Rishab Nithyanand"
       ],
       "published": "2026-03-04T18:47:12+00:00",
-      "first_seen": "2026-03-08T06:39:39.461017",
+      "first_seen": "2026-03-08T14:58:35.712448",
       "topic": "Recommender Systems",
       "categories": [
         "cs.CY",
@@ -2216,7 +2216,7 @@
         "Edith C. H. Ngai"
       ],
       "published": "2026-03-04T17:39:35+00:00",
-      "first_seen": "2026-03-08T06:39:39.461023",
+      "first_seen": "2026-03-08T14:58:35.712456",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR",
@@ -2241,7 +2241,7 @@
         "Xiaoyi Zeng"
       ],
       "published": "2026-03-04T12:32:43+00:00",
-      "first_seen": "2026-03-08T06:39:39.461029",
+      "first_seen": "2026-03-08T14:58:35.712464",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
@@ -2257,7 +2257,7 @@
         "Charlotte Laclau"
       ],
       "published": "2026-03-04T11:10:12+00:00",
-      "first_seen": "2026-03-08T06:39:39.461034",
+      "first_seen": "2026-03-08T14:58:35.712475",
       "topic": "Recommender Systems",
       "categories": [
         "cs.SI",
@@ -2273,7 +2273,7 @@
         "Charlotte Laclau"
       ],
       "published": "2026-03-04T09:20:06+00:00",
-      "first_seen": "2026-03-08T06:39:39.461039",
+      "first_seen": "2026-03-08T14:58:35.712483",
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG"
@@ -2290,7 +2290,7 @@
         "Mingsheng Shang"
       ],
       "published": "2026-03-04T08:14:21+00:00",
-      "first_seen": "2026-03-08T06:39:39.461045",
+      "first_seen": "2026-03-08T14:58:35.712492",
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG",
@@ -2311,7 +2311,7 @@
         "Huan Wu"
       ],
       "published": "2026-03-04T06:43:10+00:00",
-      "first_seen": "2026-03-08T06:39:39.461051",
+      "first_seen": "2026-03-08T14:58:35.712500",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR",
@@ -2331,7 +2331,7 @@
         "Zuotao Liu"
       ],
       "published": "2026-03-04T06:27:47+00:00",
-      "first_seen": "2026-03-08T06:39:39.461056",
+      "first_seen": "2026-03-08T14:58:35.712507",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR",
@@ -2350,7 +2350,7 @@
         "Lu Cheng"
       ],
       "published": "2026-03-03T21:46:53+00:00",
-      "first_seen": "2026-03-08T06:39:39.461061",
+      "first_seen": "2026-03-08T14:58:35.712515",
       "topic": "Recommender Systems",
       "categories": [
         "cs.CL",
@@ -2365,7 +2365,7 @@
         "Joshua Steier"
       ],
       "published": "2026-03-03T16:52:06+00:00",
-      "first_seen": "2026-03-08T06:39:39.461067",
+      "first_seen": "2026-03-08T14:58:35.712522",
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG",
@@ -2380,7 +2380,7 @@
         "Jonas Wilinski"
       ],
       "published": "2026-03-03T15:58:18+00:00",
-      "first_seen": "2026-03-08T06:39:39.461072",
+      "first_seen": "2026-03-08T14:58:35.712529",
       "topic": "Recommender Systems",
       "categories": [
         "cs.DL",
@@ -2401,7 +2401,7 @@
         "Mingsheng Shang"
       ],
       "published": "2026-03-03T15:32:42+00:00",
-      "first_seen": "2026-03-08T06:39:39.461077",
+      "first_seen": "2026-03-08T14:58:35.712537",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR",
@@ -2422,7 +2422,7 @@
         "Jun Zhang"
       ],
       "published": "2026-03-03T13:50:22+00:00",
-      "first_seen": "2026-03-08T06:39:39.461082",
+      "first_seen": "2026-03-08T14:58:35.712545",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
@@ -2439,7 +2439,7 @@
         "Min Zhang"
       ],
       "published": "2026-03-03T08:29:15+00:00",
-      "first_seen": "2026-03-08T06:39:39.461087",
+      "first_seen": "2026-03-08T14:58:35.712551",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
@@ -2459,7 +2459,7 @@
         "Tingwen Liu"
       ],
       "published": "2026-03-03T08:21:42+00:00",
-      "first_seen": "2026-03-08T06:39:39.461092",
+      "first_seen": "2026-03-08T14:58:35.712559",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
@@ -2472,7 +2472,7 @@
         "Sean Plummer"
       ],
       "published": "2026-03-05T18:50:20+00:00",
-      "first_seen": "2026-03-08T06:39:42.441837",
+      "first_seen": "2026-03-08T14:58:38.709954",
       "topic": "Collaborative Filtering",
       "categories": [
         "stat.ML",
@@ -2488,7 +2488,7 @@
         "Chulhee Yun"
       ],
       "published": "2026-03-05T00:54:19+00:00",
-      "first_seen": "2026-03-08T06:39:42.441848",
+      "first_seen": "2026-03-08T14:58:38.709974",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG"
@@ -2509,7 +2509,7 @@
         "Le Wu"
       ],
       "published": "2026-03-02T07:06:56+00:00",
-      "first_seen": "2026-03-08T06:39:42.441854",
+      "first_seen": "2026-03-08T14:58:38.709984",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR",
@@ -2525,7 +2525,7 @@
         "Peter Bartlett"
       ],
       "published": "2026-03-02T06:44:54+00:00",
-      "first_seen": "2026-03-08T06:39:42.441860",
+      "first_seen": "2026-03-08T14:58:38.709993",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG",
@@ -2542,7 +2542,7 @@
         "C. H. S. N. P. Sairam Rallabandi"
       ],
       "published": "2026-02-27T16:01:10+00:00",
-      "first_seen": "2026-03-08T06:39:42.441866",
+      "first_seen": "2026-03-08T14:58:38.710001",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR",
@@ -2558,7 +2558,7 @@
         "Limin Li"
       ],
       "published": "2026-02-26T02:23:50+00:00",
-      "first_seen": "2026-03-08T06:39:42.441872",
+      "first_seen": "2026-03-08T14:58:38.710010",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG"
@@ -2575,7 +2575,7 @@
         "Guoren Wang"
       ],
       "published": "2026-02-26T01:32:45+00:00",
-      "first_seen": "2026-03-08T06:39:42.441878",
+      "first_seen": "2026-03-08T14:58:38.710018",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR",
@@ -2591,7 +2591,7 @@
         "Yue Li"
       ],
       "published": "2026-02-25T20:34:07+00:00",
-      "first_seen": "2026-03-08T06:39:42.441883",
+      "first_seen": "2026-03-08T14:58:38.710026",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG"
@@ -2612,7 +2612,7 @@
         "Chao Wang"
       ],
       "published": "2026-02-24T17:01:47+00:00",
-      "first_seen": "2026-03-08T06:39:42.441889",
+      "first_seen": "2026-03-08T14:58:38.710034",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR"
@@ -2626,7 +2626,7 @@
         "Yeon-Chang Lee"
       ],
       "published": "2026-02-24T13:19:42+00:00",
-      "first_seen": "2026-03-08T06:39:42.441894",
+      "first_seen": "2026-03-08T14:58:38.710042",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR",
@@ -2644,7 +2644,7 @@
         "Martin Bøgsted"
       ],
       "published": "2026-02-24T08:08:38+00:00",
-      "first_seen": "2026-03-08T06:39:42.441900",
+      "first_seen": "2026-03-08T14:58:38.710054",
       "topic": "Collaborative Filtering",
       "categories": [
         "stat.AP",
@@ -2661,7 +2661,7 @@
         "Guillaume Rabusseau"
       ],
       "published": "2026-02-23T05:55:52+00:00",
-      "first_seen": "2026-03-08T06:39:42.441905",
+      "first_seen": "2026-03-08T14:58:38.710062",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG",
@@ -2676,7 +2676,7 @@
         "Taha Bouhsine"
       ],
       "published": "2026-02-23T00:00:57+00:00",
-      "first_seen": "2026-03-08T06:39:42.441911",
+      "first_seen": "2026-03-08T14:58:38.710070",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG"
@@ -2689,7 +2689,7 @@
         "Yangchen Zeng"
       ],
       "published": "2026-02-21T17:03:06+00:00",
-      "first_seen": "2026-03-08T06:39:42.441917",
+      "first_seen": "2026-03-08T14:58:38.710078",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG",
@@ -2708,7 +2708,7 @@
         "Guoren Wang"
       ],
       "published": "2026-02-20T15:35:48+00:00",
-      "first_seen": "2026-03-08T06:39:42.441922",
+      "first_seen": "2026-03-08T14:58:38.710085",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR"
@@ -2725,7 +2725,7 @@
         "Guoren Wang"
       ],
       "published": "2026-02-20T14:32:41+00:00",
-      "first_seen": "2026-03-08T06:39:42.441927",
+      "first_seen": "2026-03-08T14:58:38.710093",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR"
@@ -2742,7 +2742,7 @@
         "Guoren Wang"
       ],
       "published": "2026-02-20T13:34:43+00:00",
-      "first_seen": "2026-03-08T06:39:42.441932",
+      "first_seen": "2026-03-08T14:58:38.710101",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR"
@@ -2762,7 +2762,7 @@
         "Ji-rong Wen"
       ],
       "published": "2026-02-19T14:37:43+00:00",
-      "first_seen": "2026-03-08T06:39:42.441937",
+      "first_seen": "2026-03-08T14:58:38.710108",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR",
@@ -2783,7 +2783,7 @@
         "Jingrui He"
       ],
       "published": "2026-02-17T21:42:28+00:00",
-      "first_seen": "2026-03-08T06:39:42.441942",
+      "first_seen": "2026-03-08T14:58:38.710116",
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR"
@@ -2800,7 +2800,7 @@
         "Nesar Ramachandra"
       ],
       "published": "2026-02-15T23:07:10+00:00",
-      "first_seen": "2026-03-08T06:39:42.441948",
+      "first_seen": "2026-03-08T14:58:38.710123",
       "topic": "Collaborative Filtering",
       "categories": [
         "astro-ph.IM",
@@ -2819,7 +2819,7 @@
         "Xiaodong Wang"
       ],
       "published": "2026-03-02T14:39:18+00:00",
-      "first_seen": "2026-03-08T06:39:45.615299",
+      "first_seen": "2026-03-08T14:58:41.713741",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.IR",
@@ -2841,7 +2841,7 @@
         "Sulong Xu"
       ],
       "published": "2026-02-27T12:17:06+00:00",
-      "first_seen": "2026-03-08T06:39:45.615310",
+      "first_seen": "2026-03-08T14:58:41.713758",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.IR"
@@ -2856,7 +2856,7 @@
         "Yuanbo Xu"
       ],
       "published": "2026-02-21T08:53:10+00:00",
-      "first_seen": "2026-03-08T06:39:45.615316",
+      "first_seen": "2026-03-08T14:58:41.713769",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.IR",
@@ -2875,7 +2875,7 @@
         "Luca Pappalardo"
       ],
       "published": "2026-02-18T09:52:52+00:00",
-      "first_seen": "2026-03-08T06:39:45.615322",
+      "first_seen": "2026-03-08T14:58:41.713778",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.IR",
@@ -2892,7 +2892,7 @@
         "Sebastian Sun"
       ],
       "published": "2026-02-17T04:58:21+00:00",
-      "first_seen": "2026-03-08T06:39:45.615327",
+      "first_seen": "2026-03-08T14:58:41.713799",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.IR"
@@ -2908,7 +2908,7 @@
         "Jasper Kanes"
       ],
       "published": "2026-02-10T00:25:38+00:00",
-      "first_seen": "2026-03-08T06:39:45.615333",
+      "first_seen": "2026-03-08T14:58:41.713809",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.LG",
@@ -2925,7 +2925,7 @@
         "Simon Hadfield"
       ],
       "published": "2026-02-06T21:32:38+00:00",
-      "first_seen": "2026-03-08T06:39:45.615338",
+      "first_seen": "2026-03-08T14:58:41.713818",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.LG",
@@ -2942,7 +2942,7 @@
         "Andrey Zimovnov"
       ],
       "published": "2026-02-04T13:54:52+00:00",
-      "first_seen": "2026-03-08T06:39:45.615343",
+      "first_seen": "2026-03-08T14:58:41.713838",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.IR",
@@ -2958,7 +2958,7 @@
         "Dabeen Lee"
       ],
       "published": "2026-02-02T13:01:41+00:00",
-      "first_seen": "2026-03-08T06:39:45.615349",
+      "first_seen": "2026-03-08T14:58:41.713846",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.LG"
@@ -2981,7 +2981,7 @@
         "Andreas Krause"
       ],
       "published": "2026-01-28T17:45:12+00:00",
-      "first_seen": "2026-03-08T06:39:45.615354",
+      "first_seen": "2026-03-08T14:58:41.713855",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.LG",
@@ -3005,7 +3005,7 @@
         "Tat-Seng Chua"
       ],
       "published": "2026-01-28T15:14:50+00:00",
-      "first_seen": "2026-03-08T06:39:45.615359",
+      "first_seen": "2026-03-08T14:58:41.713864",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.LG"
@@ -3021,7 +3021,7 @@
         "Christina Lioma"
       ],
       "published": "2026-01-25T22:01:16+00:00",
-      "first_seen": "2026-03-08T06:39:45.615364",
+      "first_seen": "2026-03-08T14:58:41.713872",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.IR"
@@ -3040,7 +3040,7 @@
         "Xin Li"
       ],
       "published": "2026-01-07T15:20:27+00:00",
-      "first_seen": "2026-03-08T06:39:45.615370",
+      "first_seen": "2026-03-08T14:58:41.713881",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.IR",
@@ -3059,7 +3059,7 @@
         "Ying Ma"
       ],
       "published": "2026-01-04T09:29:45+00:00",
-      "first_seen": "2026-03-08T06:39:45.615378",
+      "first_seen": "2026-03-08T14:58:41.713894",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.IR"
@@ -3074,7 +3074,7 @@
         "Mihály Fazekas"
       ],
       "published": "2025-12-22T15:44:47+00:00",
-      "first_seen": "2026-03-08T06:39:45.615384",
+      "first_seen": "2026-03-08T14:58:41.713904",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.LG",
@@ -3090,7 +3090,7 @@
         "Antonios Gasteratos"
       ],
       "published": "2025-12-07T10:59:35+00:00",
-      "first_seen": "2026-03-08T06:39:45.615390",
+      "first_seen": "2026-03-08T14:58:41.713913",
       "topic": "Implicit Feedback",
       "categories": [
         "cs.LG",

@@ -1,0 +1,27 @@
+# Private Graph Learning Papers
+
+Latest papers on Private Graph Learning from arXiv.
+Newest entries appear at the top.
+
+| Date | Title | One-line Summary |
+|------|-------|------------------|
+| 2025-11-14 | [Towards Federated Clustering: A Client-wise Private Graph Aggregation Framework](https://arxiv.org/abs/2511.10915) | Federated clustering addresses the critical challenge of extracting patterns from decentralized, unlabeled data. |
+| 2025-10-08 | [Spectral Graph Clustering under Differential Privacy: Balancing Privacy, Accuracy, and Efficiency](https://arxiv.org/abs/2510.07136) | We study the problem of spectral graph clustering under edge differential privacy (DP). |
+| 2025-09-05 | [Safeguarding Graph Neural Networks against Topology Inference Attacks](https://arxiv.org/abs/2509.05429) | Graph Neural Networks (GNNs) have emerged as powerful models for learning from graph-structured data. |
+| 2025-08-04 | [Near-Optimal Differentially Private Graph Algorithms via the Multidimensional AboveThreshold Mechanism](https://arxiv.org/abs/2508.02182) | Many differentially private and classical non-private graph algorithms rely crucially on determining whether some property of each vertex meets a threshold. |
+| 2025-07-30 | [Benchmarking Fraud Detectors on Private Graph Data](https://arxiv.org/abs/2507.22347) | We introduce the novel problem of benchmarking fraud detectors on private graph-structured data. |
+| 2025-06-25 | [Practical and Accurate Local Edge Differentially Private Graph Algorithms](https://arxiv.org/abs/2506.20828) | The rise of massive networks across diverse domains necessitates sophisticated graph analytics, often involving sensitive data and raising privacy concerns. |
+| 2025-06-11 | [Devil's Hand: Data Poisoning Attacks to Locally Private Graph Learning Protocols](https://arxiv.org/abs/2506.09803) | Graph neural networks (GNNs) have achieved significant success in graph representation learning and have been applied to various domains. |
+| 2025-04-24 | [Signal Recovery from Random Dot-Product Graphs Under Local Differential Privacy](https://arxiv.org/abs/2504.17274) | We consider the problem of recovering latent information from graphs under $\varepsilon$-edge local differential privacy where the presence of relationships/edges between two users/vertices remains... |
+| 2025-03-27 | [AdvSGM: Differentially Private Graph Learning via Adversarial Skip-gram Model](https://arxiv.org/abs/2503.21426) | The skip-gram model (SGM), which employs a neural network to generate node vectors, serves as the basis for numerous popular graph embedding techniques. |
+| 2025-03-13 | [DP-GPL: Differentially Private Graph Prompt Learning](https://arxiv.org/abs/2503.10544) | Graph Neural Networks (GNNs) have shown remarkable performance in various applications. |
+| 2025-03-03 | [Fairness and/or Privacy on Social Graphs](https://arxiv.org/abs/2503.02114) | Graph Neural Networks (GNNs) have shown remarkable success in various graph-based learning tasks. |
+| 2025-02-20 | [Graph in the Vault: Protecting Edge GNN Inference with Trusted Execution Environment](https://arxiv.org/abs/2502.15012) | Wide deployment of machine learning models on edge devices has rendered the model intellectual property (IP) and data privacy vulnerable. |
+| 2025-01-14 | [Differentially Private Distance Query with Asymmetric Noise](https://arxiv.org/abs/2501.07955) | With the growth of online social services, social information graphs are becoming increasingly complex. |
+| 2024-12-18 | [Communication-Efficient Personalized Federal Graph Learning via Low-Rank Decomposition](https://arxiv.org/abs/2412.13442) | Federated graph learning (FGL) has gained significant attention for enabling heterogeneous clients to process their private graph data locally while interacting with a centralized server, thus... |
+| 2024-12-16 | [PSGraph: Differentially Private Streaming Graph Synthesis by Considering Temporal Dynamics](https://arxiv.org/abs/2412.11369) | Streaming graphs are ubiquitous in daily life, such as evolving social networks and dynamic communication systems. |
+| 2024-11-18 | [Personalized One-shot Federated Graph Learning for Heterogeneous Clients](https://arxiv.org/abs/2411.11304) | Federated Graph Learning (FGL) has emerged as a promising paradigm for breaking data silos among distributed private graphs. |
+| 2024-11-06 | [Can Graph Neural Networks Expose Training Data Properties? An Efficient Risk Assessment Approach](https://arxiv.org/abs/2411.03663) | Graph neural networks (GNNs) have attracted considerable attention due to their diverse applications. |
+| 2024-07-06 | [GCON: Differentially Private Graph Convolutional Network via Objective Perturbation](https://arxiv.org/abs/2407.05034) | Graph Convolutional Networks (GCNs) are a popular machine learning model with a wide range of applications in graph analytics, including healthcare, transportation, and finance. |
+| 2024-06-22 | [Differentially Private Graph Diffusion with Applications in Personalized PageRanks](https://arxiv.org/abs/2407.00077) | Graph diffusion, which iteratively propagates real-valued substances among the graph, is used in numerous graph/network-involved applications. |
+| 2024-06-04 | [Almost linear time differentially private release of synthetic graphs](https://arxiv.org/abs/2406.02156) | In this paper, we give an almost linear time and space algorithms to sample from an exponential mechanism with an $\ell_1$-score function defined over an exponentially large non-convex set. |
