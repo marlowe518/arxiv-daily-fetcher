@@ -236,7 +236,7 @@ def create_pipeline(
     state_manager = create_state_manager(data_dir)
     
     # Create markdown writer
-    markdown_writer = create_writer(output_dir, "papers.md")
+    markdown_writer = create_writer(output_dir)
     
     return ArxivPipeline(
         config=config,

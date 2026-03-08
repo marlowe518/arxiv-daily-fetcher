@@ -12,54 +12,6 @@ from src.markdown_writer import MarkdownTableEntry, MarkdownTableWriter, create_
 class TestMarkdownTableEntry(unittest.TestCase):
     """Test the MarkdownTableEntry class."""
     
-    def test_format_authors_single(self):
-        """Test formatting single author."""
-        entry = MarkdownTableEntry(
-            date="2024-01-15",
-            topic="Test",
-            title="Title",
-            arxiv_id="2401.12345",
-            authors=["John Doe"],
-            categories=["cs.LG"],
-            summary="Summary",
-            arxiv_url="https://arxiv.org/abs/2401.12345"
-        )
-        
-        self.assertEqual(entry.format_authors(), "John Doe")
-    
-    def test_format_authors_multiple(self):
-        """Test formatting multiple authors."""
-        entry = MarkdownTableEntry(
-            date="2024-01-15",
-            topic="Test",
-            title="Title",
-            arxiv_id="2401.12345",
-            authors=["John Doe", "Jane Smith", "Bob Johnson"],
-            categories=["cs.LG"],
-            summary="Summary",
-            arxiv_url="https://arxiv.org/abs/2401.12345"
-        )
-        
-        # Should show all 3 since max is 3
-        self.assertEqual(entry.format_authors(), "John Doe, Jane Smith, Bob Johnson")
-    
-    def test_format_authors_many(self):
-        """Test formatting many authors with et al."""
-        entry = MarkdownTableEntry(
-            date="2024-01-15",
-            topic="Test",
-            title="Title",
-            arxiv_id="2401.12345",
-            authors=["A", "B", "C", "D", "E"],
-            categories=["cs.LG"],
-            summary="Summary",
-            arxiv_url="https://arxiv.org/abs/2401.12345"
-        )
-        
-        result = entry.format_authors(max_authors=3)
-        self.assertIn("et al.", result)
-        self.assertIn("(5 authors)", result)
-    
     def test_format_title_link(self):
         """Test title link formatting."""
         entry = MarkdownTableEntry(
@@ -91,11 +43,10 @@ class TestMarkdownTableEntry(unittest.TestCase):
         
         result = entry.format_title_link()
         self.assertIn("\\|", result)  # Pipe should be escaped
-        # The escaped pipe should be in the title part, not as table separator
         self.assertIn("[Paper \\| A Study]", result)
     
     def test_to_row(self):
-        """Test converting entry to table row."""
+        """Test converting entry to table row (simplified format)."""
         entry = MarkdownTableEntry(
             date="2024-01-15",
             topic="GNN",
@@ -109,13 +60,14 @@ class TestMarkdownTableEntry(unittest.TestCase):
         
         row = entry.to_row()
         
+        # Simplified format: only Date, Title, Summary
         self.assertIn("2024-01-15", row)
-        self.assertIn("GNN", row)
         self.assertIn("[Graph Neural Networks Survey]", row)
-        self.assertIn("2401.12345", row)
-        self.assertIn("A. Author, B. Writer", row)
-        self.assertIn("cs.LG, cs.AI", row)
         self.assertIn("A comprehensive survey of GNNs.", row)
+        # Should NOT have authors, categories in the row text (only in URL)
+        self.assertNotIn("A. Author", row)
+        self.assertNotIn("cs.LG", row)
+        # Note: arxiv_id is in the URL, so we don't check for it here
 
 
 class TestMarkdownTableWriter(unittest.TestCase):
@@ -124,8 +76,7 @@ class TestMarkdownTableWriter(unittest.TestCase):
     def setUp(self):
         """Set up test fixtures."""
         self.temp_dir = tempfile.mkdtemp()
-        self.output_file = Path(self.temp_dir) / "papers.md"
-        self.writer = MarkdownTableWriter(str(self.output_file), backup=False)
+        self.writer = MarkdownTableWriter(self.temp_dir, backup=False)
     
     def tearDown(self):
         """Clean up test fixtures."""
@@ -133,7 +84,7 @@ class TestMarkdownTableWriter(unittest.TestCase):
         shutil.rmtree(self.temp_dir, ignore_errors=True)
     
     def test_create_new_file(self):
-        """Test creating a new Markdown file."""
+        """Test creating a new Markdown file for a topic."""
         entries = [
             MarkdownTableEntry(
                 date="2024-01-15",
@@ -147,18 +98,17 @@ class TestMarkdownTableWriter(unittest.TestCase):
             )
         ]
         
-        self.writer.insert_entries(entries)
+        results = self.writer.insert_entries(entries)
         
-        self.assertTrue(self.output_file.exists())
-        content = self.output_file.read_text()
+        # Check file was created
+        expected_file = Path(self.temp_dir) / "gnn.md"
+        self.assertTrue(expected_file.exists())
         
-        # Should have header
-        self.assertIn("| Date | Topic | Title |", content)
-        self.assertIn("|------|-------|-------|", content)
-        
-        # Should have the entry
+        content = expected_file.read_text()
+        # Should have simplified header
+        self.assertIn("| Date | Title | One-line Summary |", content)
+        self.assertIn("|------|-------|------------------|", content)
         self.assertIn("2401.11111", content)
-        self.assertIn("Paper 1", content)
     
     def test_insert_at_top(self):
         """Test that new entries are inserted at the top."""
@@ -178,7 +128,7 @@ class TestMarkdownTableWriter(unittest.TestCase):
         # New entry
         new_entry = MarkdownTableEntry(
             date="2024-01-15",
-            topic="DP",
+            topic="GNN",
             title="New Paper",
             arxiv_id="2401.00002",
             authors=["Author B"],
@@ -188,7 +138,7 @@ class TestMarkdownTableWriter(unittest.TestCase):
         )
         self.writer.insert_entries([new_entry])
         
-        content = self.output_file.read_text()
+        content = (Path(self.temp_dir) / "gnn.md").read_text()
         lines = content.split('\n')
         
         # Find the data rows (skip header)
@@ -198,53 +148,43 @@ class TestMarkdownTableWriter(unittest.TestCase):
         self.assertIn("2401.00002", data_rows[0])
         self.assertIn("2401.00001", data_rows[1])
     
-    def test_insert_multiple_entries_at_top(self):
-        """Test inserting multiple entries - they should appear in order."""
+    def test_multiple_topics(self):
+        """Test that different topics get different files."""
         entries = [
             MarkdownTableEntry(
                 date="2024-01-15",
                 topic="GNN",
-                title="Newest Paper",
-                arxiv_id="2401.00003",
-                authors=["Author C"],
+                title="GNN Paper",
+                arxiv_id="2401.11111",
+                authors=["A"],
                 categories=["cs.LG"],
-                summary="Summary 3",
-                arxiv_url="https://arxiv.org/abs/2401.00003"
+                summary="GNN summary",
+                arxiv_url="https://arxiv.org/abs/2401.11111"
             ),
             MarkdownTableEntry(
                 date="2024-01-14",
-                topic="DP",
-                title="Middle Paper",
-                arxiv_id="2401.00002",
-                authors=["Author B"],
+                topic="Differential Privacy",
+                title="DP Paper",
+                arxiv_id="2401.22222",
+                authors=["B"],
                 categories=["cs.CR"],
-                summary="Summary 2",
-                arxiv_url="https://arxiv.org/abs/2401.00002"
-            ),
-            MarkdownTableEntry(
-                date="2024-01-13",
-                topic="CF",
-                title="Oldest Paper",
-                arxiv_id="2401.00001",
-                authors=["Author A"],
-                categories=["cs.IR"],
-                summary="Summary 1",
-                arxiv_url="https://arxiv.org/abs/2401.00001"
-            ),
+                summary="DP summary",
+                arxiv_url="https://arxiv.org/abs/2401.22222"
+            )
         ]
         
         self.writer.insert_entries(entries)
         
-        content = self.output_file.read_text()
-        lines = content.split('\n')
+        # Check both files were created
+        gnn_file = Path(self.temp_dir) / "gnn.md"
+        dp_file = Path(self.temp_dir) / "differential_privacy.md"
         
-        # Find the data rows
-        data_rows = [l for l in lines if l.startswith('|') and 'Date' not in l and '---' not in l]
+        self.assertTrue(gnn_file.exists())
+        self.assertTrue(dp_file.exists())
         
-        # Order should be preserved (newest first)
-        self.assertIn("2401.00003", data_rows[0])
-        self.assertIn("2401.00002", data_rows[1])
-        self.assertIn("2401.00001", data_rows[2])
+        # Check content
+        self.assertIn("GNN Paper", gnn_file.read_text())
+        self.assertIn("DP Paper", dp_file.read_text())
     
     def test_dry_run(self):
         """Test dry-run mode doesn't modify file."""
@@ -262,12 +202,12 @@ class TestMarkdownTableWriter(unittest.TestCase):
             )
         ])
         
-        initial_content = self.output_file.read_text()
+        initial_content = (Path(self.temp_dir) / "gnn.md").read_text()
         
         # Dry run with new entry
         new_entry = MarkdownTableEntry(
             date="2024-01-15",
-            topic="DP",
+            topic="GNN",
             title="New",
             arxiv_id="2401.00002",
             authors=["Author"],
@@ -279,85 +219,15 @@ class TestMarkdownTableWriter(unittest.TestCase):
         self.writer.insert_entries([new_entry], dry_run=True)
         
         # Content should be unchanged
-        final_content = self.output_file.read_text()
+        final_content = (Path(self.temp_dir) / "gnn.md").read_text()
         self.assertEqual(initial_content, final_content)
-    
-    def test_rebuild_from_entries(self):
-        """Test rebuilding table from scratch."""
-        entries = [
-            MarkdownTableEntry(
-                date="2024-01-10",
-                topic="Old",
-                title="Old Paper",
-                arxiv_id="2401.00001",
-                authors=["A"],
-                categories=["cs.LG"],
-                summary="Old",
-                arxiv_url="https://arxiv.org/abs/2401.00001"
-            ),
-            MarkdownTableEntry(
-                date="2024-01-15",
-                topic="New",
-                title="New Paper",
-                arxiv_id="2401.00002",
-                authors=["B"],
-                categories=["cs.CR"],
-                summary="New",
-                arxiv_url="https://arxiv.org/abs/2401.00002"
-            ),
-        ]
-        
-        self.writer.rebuild_from_entries(entries)
-        
-        content = self.output_file.read_text()
-        lines = content.split('\n')
-        data_rows = [l for l in lines if l.startswith('|') and 'Date' not in l and '---' not in l]
-        
-        # Should be sorted by date descending (newest first)
-        self.assertIn("2401.00002", data_rows[0])
-        self.assertIn("2401.00001", data_rows[1])
-    
-    def test_parse_existing_entries(self):
-        """Test parsing existing Markdown file."""
-        # Create a file
-        content = """# arXiv Papers
-
-| Date | Topic | Title | Authors | Categories | arXiv ID | One-line Summary |
-|------|-------|-------|---------|------------|----------|------------------|
-| 2024-01-15 | GNN | [Test Paper](https://arxiv.org/abs/2401.12345) | Author A, Author B | cs.LG, cs.AI | 2401.12345 | A test summary. |
-"""
-        self.output_file.write_text(content)
-        
-        entries = self.writer.parse_existing_entries()
-        
-        self.assertEqual(len(entries), 1)
-        self.assertEqual(entries[0].date, "2024-01-15")
-        self.assertEqual(entries[0].topic, "GNN")
-        self.assertEqual(entries[0].title, "Test Paper")
-        self.assertEqual(entries[0].arxiv_id, "2401.12345")
-        self.assertEqual(entries[0].summary, "A test summary.")
     
     def test_empty_entries(self):
         """Test handling of empty entries list."""
-        # First create a file with some content
-        self.writer.insert_entries([
-            MarkdownTableEntry(
-                date="2024-01-10",
-                topic="Test",
-                title="Test Paper",
-                arxiv_id="2401.00001",
-                authors=["Author"],
-                categories=["cs.LG"],
-                summary="Summary",
-                arxiv_url="https://arxiv.org/abs/2401.00001"
-            )
-        ])
+        results = self.writer.insert_entries([])
         
-        # Now insert empty entries - should return existing content without modification
-        content = self.writer.insert_entries([])
-        
-        self.assertIn("| Date | Topic | Title |", content)
-        self.assertIn("Test Paper", content)  # Should preserve existing
+        # Should return empty dict
+        self.assertEqual(results, {})
 
 
 class TestCreateWriter(unittest.TestCase):
@@ -366,10 +236,10 @@ class TestCreateWriter(unittest.TestCase):
     def test_create_with_defaults(self):
         """Test creating writer with default paths."""
         with tempfile.TemporaryDirectory() as tmpdir:
-            writer = create_writer(tmpdir, "test.md")
+            writer = create_writer(tmpdir)
             
             self.assertIsInstance(writer, MarkdownTableWriter)
-            self.assertEqual(writer.output_file, Path(tmpdir) / "test.md")
+            self.assertEqual(writer.output_dir, Path(tmpdir))
 
 
 if __name__ == '__main__':

@@ -78,18 +78,19 @@ def main():
             entries.append(entry)
         
         # Create writer and rebuild
-        writer = create_writer(args.output_dir, "papers.md")
-        content = writer.rebuild_from_entries(entries, dry_run=args.dry_run)
+        writer = create_writer(args.output_dir)
+        results = writer.rebuild_from_entries(entries, dry_run=args.dry_run)
         
         if args.dry_run:
-            print("\n--- Preview (first 50 lines) ---")
-            lines = content.split('\n')
-            for line in lines[:50]:
-                print(line)
-            if len(lines) > 50:
-                print(f"\n... ({len(lines) - 50} more lines)")
+            print(f"\n--- Preview (showing first topic) ---")
+            for topic, content in list(results.items())[:1]:
+                lines = content.split('\n')
+                for line in lines[:30]:
+                    print(line)
+                if len(lines) > 30:
+                    print(f"\n... ({len(lines) - 30} more lines)")
         else:
-            print(f"Successfully rebuilt output with {len(entries)} entries")
+            print(f"Successfully rebuilt {len(results)} topic files with {len(entries)} total entries")
         
         sys.exit(0)
         

@@ -83,7 +83,7 @@ class TestConfig(unittest.TestCase):
         config = Config.from_dict(data)
         
         self.assertEqual(config.max_results_per_topic, 20)
-        self.assertEqual(config.lookback_days, 7)
+        self.assertIsNone(config.lookback_days)  # Default is None (disabled)
     
     def test_validate_valid(self):
         """Test validation with valid config."""
