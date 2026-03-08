@@ -31,3 +31,42 @@
 
 ---
 
+## Step 3: Phase 2 Bootstrap - Git Initialization
+- Completed:
+  - Initialized git repository
+  - Created initial commit with bootstrap files
+- Files changed: .git/ repository initialized
+- Tests run: N/A
+- Test results: N/A
+- Issues found: None
+- Fixes applied: None
+- Next step: Phase 3 Data Fetching - implement arXiv fetcher module
+
+---
+
+## Step 4: Phase 3 Data Fetching - arXiv Fetcher Module
+- Completed:
+  - Implemented `src/fetcher.py` with ArxivFetcher class
+  - Supports Atom feed parsing via feedparser
+  - Rate limiting (3s between requests)
+  - Query building for keywords and categories
+  - Date filtering support
+  - ArxivPaper dataclass with metadata
+  - Error handling with ArxivFetchError
+- Files changed:
+  - src/__init__.py
+  - src/fetcher.py (new)
+  - tests/__init__.py
+  - tests/test_fetcher.py (new)
+- Tests run: `python -m pytest tests/test_fetcher.py -v`
+- Test results: 11 passed, 1 skipped (integration test skipped by design)
+- Issues found:
+  - Initial tests failed due to MagicMock not supporting attribute access like feedparser entries
+  - Date parsing assumed string but mock returned MagicMock
+- Fixes applied:
+  - Updated _parse_entry to handle both dict-like and attribute access
+  - Fixed test to use proper mock class instead of MagicMock for entry
+- Next step: Phase 4 Filtering/Deduplication - State manager module
+
+---
+
