@@ -53,7 +53,7 @@ class Config:
         self,
         topics: List[TopicConfig],
         max_results_per_topic: int = 20,
-        lookback_days: int = 7
+        lookback_days: Optional[int] = 7
     ):
         """
         Initialize configuration.
@@ -74,7 +74,7 @@ class Config:
         return cls(
             topics=topics,
             max_results_per_topic=data.get('max_results_per_topic', 20),
-            lookback_days=data.get('lookback_days', 7)
+            lookback_days=data.get('lookback_days', None)
         )
     
     def validate(self) -> List[str]:
@@ -98,7 +98,7 @@ class Config:
         if self.max_results_per_topic < 1:
             errors.append("max_results_per_topic must be at least 1")
         
-        if self.lookback_days < 1:
+        if self.lookback_days is not None and self.lookback_days < 1:
             errors.append("lookback_days must be at least 1")
         
         return errors
