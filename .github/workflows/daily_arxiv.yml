@@ -69,7 +69,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           
           # Add all changed files
-          git add output/papers.md
+          git add output/*.md
           git add data/seen_papers.json
           
           # Commit with timestamp
