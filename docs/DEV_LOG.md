@@ -142,3 +142,33 @@
 
 ---
 
+## Step 8: Phase 7 Pipeline Integration - Orchestrator
+- Completed:
+  - Implemented `src/config.py` for YAML configuration loading
+  - Implemented `src/pipeline.py` with:
+    - PipelineResult class for tracking run statistics
+    - ArxivPipeline class as main orchestrator
+    - Dry-run mode support
+    - Error handling and logging
+    - Factory functions for easy instantiation
+  - Created `scripts/run.py` - main entry point with CLI args
+  - Created `scripts/rebuild_output.py` - utility to rebuild from state
+- Files changed:
+  - src/config.py (new)
+  - src/pipeline.py (new)
+  - scripts/run.py (new)
+  - scripts/rebuild_output.py (new)
+  - tests/test_config.py (new)
+  - tests/test_pipeline.py (new)
+- Tests run: `python -m pytest tests/test_config.py tests/test_pipeline.py -v`
+- Test results: 21 passed
+- Issues found:
+  - YAML parsing errors not caught and converted to ValueError
+  - Pipeline only called insert_entries when there were entries, but test expected it always
+- Fixes applied:
+  - Added try/except around yaml.safe_load to catch YAMLError
+  - Modified pipeline to always call insert_entries (ensures headers are created)
+- Next step: Phase 8 Automation - GitHub Actions workflow
+
+---
+
