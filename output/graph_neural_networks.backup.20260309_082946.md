@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-06 | [Polarized Direct Cross-Attention Message Passing in GNNs for Machinery Fault Diagnosis](https://arxiv.org/abs/2603.06303) | The reliability of safety-critical industrial systems hinges on accurate and robust fault diagnosis in rotating machinery. |
-| 2026-03-06 | [Ensemble Graph Neural Networks for Probabilistic Sea Surface Temperature Forecasting via Input Perturbations](https://arxiv.org/abs/2603.06153) | Accurate regional ocean forecasting requires models that are both computationally efficient and capable of representing predictive uncertainty. |
-| 2026-03-06 | [Stochastic Event Prediction via Temporal Motif Transitions](https://arxiv.org/abs/2603.05874) | Networks of timestamped interactions arise across social, financial, and biological domains, where forecasting future events requires modeling both evolving topology and temporal ordering. |
 | 2026-03-05 | [Preserving Continuous Symmetry in Discrete Spaces: Geometric-Aware Quantization for SO(3)-Equivariant GNNs](https://arxiv.org/abs/2603.05343) | Equivariant Graph Neural Networks (GNNs) are essential for physically consistent molecular simulations but suffer from high computational costs and memory bottlenecks, especially with high-order... |
 | 2026-03-05 | [Recurrent Graph Neural Networks and Arithmetic Circuits](https://arxiv.org/abs/2603.05140) | We characterise the computational power of recurrent graph neural networks (GNNs) in terms of arithmetic circuits over the real numbers. |
 | 2026-03-05 | [Poisoning the Inner Prediction Logic of Graph Neural Networks for Clean-Label Backdoor Attacks](https://arxiv.org/abs/2603.05004) | Graph Neural Networks (GNNs) have achieved remarkable results in various tasks. |

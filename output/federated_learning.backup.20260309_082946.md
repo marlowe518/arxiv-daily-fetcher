@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-06 | [Edge Intelligence-Driven LegalEdge Contracts for EV Charging Stations: A Fedrated Learning with Deep Q-Networks Approach](https://arxiv.org/abs/2603.06041) | We introduce LegalEdge, an edge intelligence-driven framework that integrates Federated Learning (FL) and Deep Q-Networks (DQN) to optimize electric vehicle (EV) charging infrastructure. |
-| 2026-03-06 | [First-Order Softmax Weighted Switching Gradient Method for Distributed Stochastic Minimax Optimization with Stochastic Constraints](https://arxiv.org/abs/2603.05774) | This paper addresses the distributed stochastic minimax optimization problem subject to stochastic constraints. |
 | 2026-03-05 | [A Behaviour-Aware Federated Forecasting Framework for Distributed Stand-Alone Wind Turbines](https://arxiv.org/abs/2603.05263) | Accurate short-term wind power forecasting is essential for grid dispatch and market operations, yet centralising turbine data raises privacy, cost, and heterogeneity concerns. |
 | 2026-03-05 | [Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks](https://arxiv.org/abs/2603.05217) | Real-time city-scale traffic analytics requires processing 100s-1000s of CCTV streams under strict latency, bandwidth, and compute limits. |
 | 2026-03-05 | [FedBCD:Communication-Efficient Accelerated Block Coordinate Gradient Descent for Federated Learning](https://arxiv.org/abs/2603.05116) | Although Federated Learning has been widely studied in recent years, there are still high overhead expenses in each communication round for large-scale models such as Vision Transformer. |

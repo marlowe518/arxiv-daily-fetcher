@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-08T08:16:22.622307",
+  "last_updated": "2026-03-09T08:29:46.921193",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -3095,6 +3095,185 @@
       "categories": [
         "cs.LG",
         "cs.AI"
+      ]
+    },
+    "2603.06303": {
+      "arxiv_id": "2603.06303",
+      "title": "Polarized Direct Cross-Attention Message Passing in GNNs for Machinery Fault Diagnosis",
+      "authors": [
+        "Zongyu Shi",
+        "Laibin Zhang",
+        "Maoyin Chen"
+      ],
+      "published": "2026-03-06T14:08:07+00:00",
+      "first_seen": "2026-03-09T08:29:23.190946",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.06153": {
+      "arxiv_id": "2603.06153",
+      "title": "Ensemble Graph Neural Networks for Probabilistic Sea Surface Temperature Forecasting via Input Perturbations",
+      "authors": [
+        "Alejandro J. González-Santana",
+        "Giovanny A. Cuervo-Londoño",
+        "Javier Sánchez"
+      ],
+      "published": "2026-03-06T11:04:12+00:00",
+      "first_seen": "2026-03-09T08:29:23.190959",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "physics.geo-ph"
+      ]
+    },
+    "2603.05874": {
+      "arxiv_id": "2603.05874",
+      "title": "Stochastic Event Prediction via Temporal Motif Transitions",
+      "authors": [
+        "İbrahim Bahadır Altun",
+        "Ahmet Erdem Sarıyüce"
+      ],
+      "published": "2026-03-06T03:51:40+00:00",
+      "first_seen": "2026-03-09T08:29:23.190966",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.SI"
+      ]
+    },
+    "2603.06041": {
+      "arxiv_id": "2603.06041",
+      "title": "Edge Intelligence-Driven LegalEdge Contracts for EV Charging Stations: A Fedrated Learning with Deep Q-Networks Approach",
+      "authors": [
+        "Rahim Rahmani",
+        "Arman Chianeh"
+      ],
+      "published": "2026-03-06T08:53:39+00:00",
+      "first_seen": "2026-03-09T08:29:38.075936",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC"
+      ]
+    },
+    "2603.05774": {
+      "arxiv_id": "2603.05774",
+      "title": "First-Order Softmax Weighted Switching Gradient Method for Distributed Stochastic Minimax Optimization with Stochastic Constraints",
+      "authors": [
+        "Zhankun Luo",
+        "Antesh Upadhyay",
+        "Sang Bin Moon",
+        "Abolfazl Hashemi"
+      ],
+      "published": "2026-03-06T00:14:46+00:00",
+      "first_seen": "2026-03-09T08:29:38.075948",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2603.06556": {
+      "arxiv_id": "2603.06556",
+      "title": "Capability at a Glance: Design Guidelines for Intuitive Avatars Communicating Augmented Actions in Virtual Reality",
+      "authors": [
+        "Yang Lu",
+        "Tianyu Zhang",
+        "Jiamu Tang",
+        "Yanna Lin",
+        "Jiankun Yang",
+        "Longyu Zhang",
+        "Shijian Luo",
+        "Yukang Yan"
+      ],
+      "published": "2026-03-06T18:45:30+00:00",
+      "first_seen": "2026-03-09T08:29:40.976278",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2603.06350": {
+      "arxiv_id": "2603.06350",
+      "title": "MoEless: Efficient MoE LLM Serving via Serverless Computing",
+      "authors": [
+        "Hanfei Yu",
+        "Bei Ouyang",
+        "Shwai He",
+        "Ang Li",
+        "Hao Wang"
+      ],
+      "published": "2026-03-06T14:58:16+00:00",
+      "first_seen": "2026-03-09T08:29:40.976289",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.DC",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2603.06243": {
+      "arxiv_id": "2603.06243",
+      "title": "MLLMRec-R1: Incentivizing Reasoning Capability in Large Language Models for Multimodal Sequential Recommendation",
+      "authors": [
+        "Yu Wang",
+        "Yonghui Yang",
+        "Le Wu",
+        "Jiancan Wu",
+        "Hefei Xu",
+        "Hui Lin"
+      ],
+      "published": "2026-03-06T13:05:06+00:00",
+      "first_seen": "2026-03-09T08:29:40.976299",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.05780": {
+      "arxiv_id": "2603.05780",
+      "title": "Balancing Domestic and Global Perspectives: Evaluating Dual-Calibration and LLM-Generated Nudges for Diverse News Recommendation",
+      "authors": [
+        "Ruixuan Sun",
+        "Matthew Zent",
+        "Minzhu Zhao",
+        "Thanmayee Boyapati",
+        "Xinyi Li",
+        "Joseph A. Konstan"
+      ],
+      "published": "2026-03-06T00:21:43+00:00",
+      "first_seen": "2026-03-09T08:29:40.976306",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2603.05653": {
+      "arxiv_id": "2603.05653",
+      "title": "The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok",
+      "authors": [
+        "Sara Solarova",
+        "Matej Mosnar",
+        "Matus Tibensky",
+        "Jan Jakubcik",
+        "Adrian Bindas",
+        "Simon Liska",
+        "Filip Hossner",
+        "Matúš Mesarčík",
+        "Ivan Srba"
+      ],
+      "published": "2026-03-05T20:02:48+00:00",
+      "first_seen": "2026-03-09T08:29:40.976312",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.AI",
+        "cs.IR",
+        "cs.SI"
       ]
     }
   }
