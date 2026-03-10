@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-02-28 | [How the Graph Construction Technique Shapes Performance in IoT Botnet Detection](https://arxiv.org/abs/2603.06654) | The increasing incidence of IoT-based botnet attacks has driven interest in advanced learning models for detection. |
 | 2026-03-02 | [Mitigating topology biases in Graph Diffusion via Counterfactual Intervention](https://arxiv.org/abs/2603.02005) | Graph diffusion models have gained significant attention in graph generation tasks, but they often inherit and amplify topology biases from sensitive attributes (e.g. gender, age, region), leading to... |
 | 2026-03-01 | [CARD: Towards Conditional Design of Multi-agent Topological Structures](https://arxiv.org/abs/2603.01089) | Large language model (LLM)-based multi-agent systems have shown strong capabilities in tasks such as code generation and collaborative reasoning. |
 | 2026-02-27 | [A Theory of Random Graph Shift in Truncated-Spectrum vRKHS](https://arxiv.org/abs/2602.23880) | This paper develops a theory of graph classification under domain shift through a random-graph generative lens, where we consider intra-class graphs sharing the same random graph model (RGM) and the... |
