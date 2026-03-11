@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-10 | [A Multi-Prototype-Guided Federated Knowledge Distillation Approach in AI-RAN Enabled Multi-Access Edge Computing System](https://arxiv.org/abs/2603.09727) | With the development of wireless network, Multi-Access Edge Computing (MEC) and Artificial Intelligence (AI)-native Radio Access Network (RAN) have attracted significant attention. |
-| 2026-03-09 | [MAcPNN: Mutual Assisted Learning on Data Streams with Temporal Dependence](https://arxiv.org/abs/2603.08972) | Internet of Things (IoT) Analytics often involves applying machine learning (ML) models on data streams. |
-| 2026-03-09 | [FedLECC: Cluster- and Loss-Guided Client Selection for Federated Learning under Non-IID Data](https://arxiv.org/abs/2603.08911) | Federated Learning (FL) enables distributed Artificial Intelligence (AI) across cloud-edge environments by allowing collaborative model training without centralizing data. |
 | 2026-03-09 | [Split Federated Learning Architectures for High-Accuracy and Low-Delay Model Training](https://arxiv.org/abs/2603.08687) | Can we find a network architecture for ML model training so as to optimize training loss (and thus, accuracy) in Split Federated Learning (SFL)? |
 | 2026-03-09 | [FedPrism: Adaptive Personalized Federated Learning under Non-IID Data](https://arxiv.org/abs/2603.08252) | Federated Learning (FL) suffers significant performance degradation in real-world deployments characterized by moderate to extreme statistical heterogeneity (non-IID client data). |
 | 2026-03-09 | [Revisiting Gradient Staleness: Evaluating Distance Metrics for Asynchronous Federated Learning Aggregation](https://arxiv.org/abs/2603.08211) | In asynchronous federated learning (FL), client devices send updates to a central server at varying times based on their computational speed, often using stale versions of the global model. |

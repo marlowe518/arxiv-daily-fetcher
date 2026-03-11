@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-10T08:25:54.932458",
+  "last_updated": "2026-03-11T08:25:44.859496",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -3886,6 +3886,338 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.HC"
+      ]
+    },
+    "2603.09675": {
+      "arxiv_id": "2603.09675",
+      "title": "GNNs for Time Series Anomaly Detection: An Open-Source Framework and a Critical Evaluation",
+      "authors": [
+        "Federico Bello",
+        "Gonzalo Chiarlone",
+        "Marcelo Fiori",
+        "Gastón García González",
+        "Federico Larroca"
+      ],
+      "published": "2026-03-10T13:45:34+00:00",
+      "first_seen": "2026-03-11T08:25:21.020110",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.09257": {
+      "arxiv_id": "2603.09257",
+      "title": "Transductive Generalization via Optimal Transport and Its Application to Graph Node Classification",
+      "authors": [
+        "MoonJeong Park",
+        "Seungbeom Lee",
+        "Kyungmin Kim",
+        "Jaeseung Heo",
+        "Seunghyuk Cho",
+        "Shouheng Li",
+        "Sangdon Park",
+        "Dongwoo Kim"
+      ],
+      "published": "2026-03-10T06:43:18+00:00",
+      "first_seen": "2026-03-11T08:25:21.020120",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2603.09195": {
+      "arxiv_id": "2603.09195",
+      "title": "$P^2$GNN: Two Prototype Sets to boost GNN Performance",
+      "authors": [
+        "Arihant Jain",
+        "Gundeep Arora",
+        "Anoop Saladi",
+        "Chaosheng Dong"
+      ],
+      "published": "2026-03-10T05:10:02+00:00",
+      "first_seen": "2026-03-11T08:25:21.020127",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.08825": {
+      "arxiv_id": "2603.08825",
+      "title": "Are Expressive Encoders Necessary for Discrete Graph Generation?",
+      "authors": [
+        "Jay Revolinsky",
+        "Harry Shomer",
+        "Jiliang Tang"
+      ],
+      "published": "2026-03-09T18:36:06+00:00",
+      "first_seen": "2026-03-11T08:25:21.020134",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.09583": {
+      "arxiv_id": "2603.09583",
+      "title": "Nonparametric Variational Differential Privacy via Embedding Parameter Clipping",
+      "authors": [
+        "Dina El Zein",
+        "Shashi Kumar",
+        "James Henderson"
+      ],
+      "published": "2026-03-10T12:34:03+00:00",
+      "first_seen": "2026-03-11T08:25:29.888853",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.09577": {
+      "arxiv_id": "2603.09577",
+      "title": "Randomized Distributed Function Computation (RDFC): Ultra-Efficient Semantic Communication Applications to Privacy",
+      "authors": [
+        "Onur Günlü"
+      ],
+      "published": "2026-03-10T12:23:50+00:00",
+      "first_seen": "2026-03-11T08:25:29.888865",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.IT",
+        "cs.CR",
+        "cs.DC",
+        "cs.SC",
+        "eess.SP"
+      ]
+    },
+    "2603.09356": {
+      "arxiv_id": "2603.09356",
+      "title": "Democratising Clinical AI through Dataset Condensation for Classical Clinical Models",
+      "authors": [
+        "Anshul Thakur",
+        "Soheila Molaei",
+        "Pafue Christy Nganjimi",
+        "Joshua Fieggen",
+        "Andrew A. S. Soltan",
+        "Danielle Belgrave",
+        "Lei Clifton",
+        "David A. Clifton"
+      ],
+      "published": "2026-03-10T08:36:39+00:00",
+      "first_seen": "2026-03-11T08:25:29.888872",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    "2603.09167": {
+      "arxiv_id": "2603.09167",
+      "title": "Optimal partition selection with Rényi differential privacy",
+      "authors": [
+        "Charlie Harrison",
+        "Pasin Pasin Manurangsi"
+      ],
+      "published": "2026-03-10T04:13:38+00:00",
+      "first_seen": "2026-03-11T08:25:29.888880",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2603.09166": {
+      "arxiv_id": "2603.09166",
+      "title": "Fast and Optimal Differentially Private Frequent-Substring Mining",
+      "authors": [
+        "Peaker Guo",
+        "Rayne Holland",
+        "Hao Wu"
+      ],
+      "published": "2026-03-10T04:04:52+00:00",
+      "first_seen": "2026-03-11T08:25:29.888887",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DS",
+        "cs.CR"
+      ]
+    },
+    "2603.08832": {
+      "arxiv_id": "2603.08832",
+      "title": "HeteroFedSyn: Differentially Private Tabular Data Synthesis for Heterogeneous Federated Settings",
+      "authors": [
+        "Xiaochen Li",
+        "Fengyu Gao",
+        "Xizixiang Wei",
+        "Tianhao Wang",
+        "Cong Shen",
+        "Jing Yang"
+      ],
+      "published": "2026-03-09T18:44:01+00:00",
+      "first_seen": "2026-03-11T08:25:29.888893",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2603.09727": {
+      "arxiv_id": "2603.09727",
+      "title": "A Multi-Prototype-Guided Federated Knowledge Distillation Approach in AI-RAN Enabled Multi-Access Edge Computing System",
+      "authors": [
+        "Luyao Zou",
+        "Hayoung Oh",
+        "Chu Myaet Thwal",
+        "Apurba Adhikary",
+        "Seohyeon Hong",
+        "Zhu Han"
+      ],
+      "published": "2026-03-10T14:32:41+00:00",
+      "first_seen": "2026-03-11T08:25:35.892637",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.08972": {
+      "arxiv_id": "2603.08972",
+      "title": "MAcPNN: Mutual Assisted Learning on Data Streams with Temporal Dependence",
+      "authors": [
+        "Federico Giannini",
+        "Emanuele Della Valle"
+      ],
+      "published": "2026-03-09T22:03:37+00:00",
+      "first_seen": "2026-03-11T08:25:35.892649",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.08911": {
+      "arxiv_id": "2603.08911",
+      "title": "FedLECC: Cluster- and Loss-Guided Client Selection for Federated Learning under Non-IID Data",
+      "authors": [
+        "Daniel M. Jimenez-Gutierrez",
+        "Giovanni Giunta",
+        "Mehrdad Hassanzadeh",
+        "Aris Anagnostopoulos",
+        "Ioannis Chatzigiannakis",
+        "Andrea Vitaletti"
+      ],
+      "published": "2026-03-09T20:28:17+00:00",
+      "first_seen": "2026-03-11T08:25:35.892658",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2603.09964": {
+      "arxiv_id": "2603.09964",
+      "title": "Understanding the Use of a Large Language Model-Powered Guide to Make Virtual Reality Accessible for Blind and Low Vision People",
+      "authors": [
+        "Jazmin Collins",
+        "Sharon Y Lin",
+        "Tianqi Liu",
+        "Andrea Stevenson Won",
+        "Shiri Azenkot"
+      ],
+      "published": "2026-03-10T17:56:57+00:00",
+      "first_seen": "2026-03-11T08:25:38.900763",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI",
+        "cs.ET"
+      ]
+    },
+    "2603.09843": {
+      "arxiv_id": "2603.09843",
+      "title": "RecThinker: An Agentic Framework for Tool-Augmented Reasoning in Recommendation",
+      "authors": [
+        "Haobo Zhang",
+        "Yutao Zhu",
+        "Kelong Mao",
+        "Tianhao Li",
+        "Zhicheng Dou"
+      ],
+      "published": "2026-03-10T16:07:17+00:00",
+      "first_seen": "2026-03-11T08:25:38.900773",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.09753": {
+      "arxiv_id": "2603.09753",
+      "title": "The Richest Paradigm You're Not Using: Commercial Videogames at the Intersection of Human-Computer Interaction and Cognitive Science",
+      "authors": [
+        "Jaap Munneke",
+        "Jennifer E. Corbett"
+      ],
+      "published": "2026-03-10T14:55:48+00:00",
+      "first_seen": "2026-03-11T08:25:38.900780",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2603.09532": {
+      "arxiv_id": "2603.09532",
+      "title": "What Do We Care About in Bandits with Noncompliance? BRACE: Bandits with Recommendations, Abstention, and Certified Effects",
+      "authors": [
+        "Nicolás Della Penna"
+      ],
+      "published": "2026-03-10T11:40:42+00:00",
+      "first_seen": "2026-03-11T08:25:38.900786",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2603.08970": {
+      "arxiv_id": "2603.08970",
+      "title": "Integrating Virtual and Augmented Reality into Public Education: Opportunities and Challenges in Language Learning",
+      "authors": [
+        "Tanja Kojić",
+        "Maurizio Vergari",
+        "Giulia-Marielena Benta",
+        "Joy Krupinski",
+        "Maximilian Warsinke",
+        "Sebastian Möller",
+        "Jan-Niklas Voigt-Antons"
+      ],
+      "published": "2026-03-09T22:02:57+00:00",
+      "first_seen": "2026-03-11T08:25:38.900792",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2603.08935": {
+      "arxiv_id": "2603.08935",
+      "title": "PathoScribe: Transforming Pathology Data into a Living Library with a Unified LLM-Driven Framework for Semantic Retrieval and Clinical Integration",
+      "authors": [
+        "Abdul Rehman Akbar",
+        "Samuel Wales-McGrath",
+        "Alejadro Levya",
+        "Lina Gokhale",
+        "Rajendra Singh",
+        "Wei Chen",
+        "Anil Parwani",
+        "Muhammad Khalid Khan Niazi"
+      ],
+      "published": "2026-03-09T21:09:24+00:00",
+      "first_seen": "2026-03-11T08:25:38.900798",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.CL",
+        "cs.DL",
+        "cs.IR"
       ]
     }
   }
