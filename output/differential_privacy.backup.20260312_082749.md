@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-11 | [Separating Oblivious and Adaptive Differential Privacy under Continual Observation](https://arxiv.org/abs/2603.11029) | We resolve an open question of Jain, Raskhodnikova, Sivakumar, and Smith (ICML 2023) by exhibiting a problem separating differential privacy under continual observation in the oblivious and adaptive... |
 | 2026-03-10 | [Nonparametric Variational Differential Privacy via Embedding Parameter Clipping](https://arxiv.org/abs/2603.09583) | The nonparametric variational information bottleneck (NVIB) provides the foundation for nonparametric variational differential privacy (NVDP), a framework for building privacy-preserving language... |
 | 2026-03-10 | [Randomized Distributed Function Computation (RDFC): Ultra-Efficient Semantic Communication Applications to Privacy](https://arxiv.org/abs/2603.09577) | We establish the randomized distributed function computation (RDFC) framework, in which a sender transmits just enough information for a receiver to generate a randomized function of the input data. |
 | 2026-03-10 | [Democratising Clinical AI through Dataset Condensation for Classical Clinical Models](https://arxiv.org/abs/2603.09356) | Dataset condensation (DC) learns a compact synthetic dataset that enables models to match the performance of full-data training, prioritising utility over distributional fidelity. |

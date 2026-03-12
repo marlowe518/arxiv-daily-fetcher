@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-11T08:25:44.859496",
+  "last_updated": "2026-03-12T08:27:49.361823",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -4218,6 +4218,407 @@
         "cs.CL",
         "cs.DL",
         "cs.IR"
+      ]
+    },
+    "2603.10983": {
+      "arxiv_id": "2603.10983",
+      "title": "Federated Learning-driven Beam Management in LEO 6G Non-Terrestrial Networks",
+      "authors": [
+        "Maria Lamprini Bartsioka",
+        "Ioannis A. Bartsiokas",
+        "Athanasios D. Panagopoulos",
+        "Dimitra I. Kaklamani",
+        "Iakovos S. Venieris"
+      ],
+      "published": "2026-03-11T17:13:41+00:00",
+      "first_seen": "2026-03-12T08:27:25.421863",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "physics.space-ph"
+      ]
+    },
+    "2603.10802": {
+      "arxiv_id": "2603.10802",
+      "title": "Towards Intelligent Spectrum Management: Spectrum Demand Estimation Using Graph Neural Networks",
+      "authors": [
+        "Mohamad Alkadamani",
+        "Amir Ghasemi",
+        "Halim Yanikomeroglu"
+      ],
+      "published": "2026-03-11T14:11:44+00:00",
+      "first_seen": "2026-03-12T08:27:25.421875",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.NI",
+        "cs.AI",
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2603.10676": {
+      "arxiv_id": "2603.10676",
+      "title": "Spatio-Temporal Attention Graph Neural Network: Explaining Causalities With Attention",
+      "authors": [
+        "Kosti Koistinen",
+        "Kirsi Hellsten",
+        "Joni Herttuainen",
+        "Kimmo K. Kaski"
+      ],
+      "published": "2026-03-11T11:41:38+00:00",
+      "first_seen": "2026-03-12T08:27:25.421883",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CE"
+      ]
+    },
+    "2603.10544": {
+      "arxiv_id": "2603.10544",
+      "title": "SCORE: Replacing Layer Stacking with Contractive Recurrent Depth",
+      "authors": [
+        "Guillaume Godin"
+      ],
+      "published": "2026-03-11T08:49:03+00:00",
+      "first_seen": "2026-03-12T08:27:25.421890",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.10298": {
+      "arxiv_id": "2603.10298",
+      "title": "GaLoRA: Parameter-Efficient Graph-Aware LLMs for Node Classification",
+      "authors": [
+        "Mayur Choudhary",
+        "Saptarshi Sengupta",
+        "Katerina Potika"
+      ],
+      "published": "2026-03-11T00:45:57+00:00",
+      "first_seen": "2026-03-12T08:27:25.421897",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.10277": {
+      "arxiv_id": "2603.10277",
+      "title": "Estimating condition number with Graph Neural Networks",
+      "authors": [
+        "Erin Carson",
+        "Xinye Chen"
+      ],
+      "published": "2026-03-10T23:38:48+00:00",
+      "first_seen": "2026-03-12T08:27:25.421904",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "math.NA"
+      ]
+    },
+    "2603.11039": {
+      "arxiv_id": "2603.11039",
+      "title": "Instruction set for the representation of graphs",
+      "authors": [
+        "Ezequiel Lopez-Rubio",
+        "Mario Pascual-Gonzalez"
+      ],
+      "published": "2026-03-11T17:57:44+00:00",
+      "first_seen": "2026-03-12T08:27:28.410916",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.DS"
+      ]
+    },
+    "2603.10395": {
+      "arxiv_id": "2603.10395",
+      "title": "Graph-GRPO: Training Graph Flow Models with Reinforcement Learning",
+      "authors": [
+        "Baoheng Zhu",
+        "Deyu Bo",
+        "Delvin Ce Zhang",
+        "Xiao Wang"
+      ],
+      "published": "2026-03-11T04:20:45+00:00",
+      "first_seen": "2026-03-12T08:27:28.410929",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.10093": {
+      "arxiv_id": "2603.10093",
+      "title": "Equivariant Asynchronous Diffusion: An Adaptive Denoising Schedule for Accelerated Molecular Conformation Generation",
+      "authors": [
+        "Junyi An",
+        "Chao Qu",
+        "Yun-Fei Shi",
+        "Zhijian Zhou",
+        "Fenglei Cao",
+        "Yuan Qi"
+      ],
+      "published": "2026-03-10T16:05:39+00:00",
+      "first_seen": "2026-03-12T08:27:28.410937",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "q-bio.QM"
+      ]
+    },
+    "2603.11029": {
+      "arxiv_id": "2603.11029",
+      "title": "Separating Oblivious and Adaptive Differential Privacy under Continual Observation",
+      "authors": [
+        "Mark Bun",
+        "Marco Gaboardi",
+        "Connor Wagaman"
+      ],
+      "published": "2026-03-11T17:51:35+00:00",
+      "first_seen": "2026-03-12T08:27:34.686620",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.DS"
+      ]
+    },
+    "2603.10977": {
+      "arxiv_id": "2603.10977",
+      "title": "FRIEND: Federated Learning for Joint Optimization of multi-RIS Configuration and Eavesdropper Intelligent Detection in B5G Networks",
+      "authors": [
+        "Maria Lamprini A. Bartsioka",
+        "Ioannis A. Bartsiokas",
+        "Anastasios K. Papazafeiropoulos",
+        "Maria A. Seimeni",
+        "Dimitra I. Kaklamani",
+        "Iakovos S. Venieris"
+      ],
+      "published": "2026-03-11T17:02:40+00:00",
+      "first_seen": "2026-03-12T08:27:40.550777",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.10902": {
+      "arxiv_id": "2603.10902",
+      "title": "Data Augmentation and Convolutional Network Architecture Influence on Distributed Learning",
+      "authors": [
+        "Victor Forattini Jansen",
+        "Emanuel Teixeira Martins",
+        "Yasmin Souza Lima",
+        "Flavio de Oliveira Silva",
+        "Rodrigo Moreira",
+        "Larissa Ferreira Rodrigues Moreira"
+      ],
+      "published": "2026-03-11T15:46:53+00:00",
+      "first_seen": "2026-03-12T08:27:40.550788",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC"
+      ]
+    },
+    "2603.10776": {
+      "arxiv_id": "2603.10776",
+      "title": "Incremental Federated Learning for Intrusion Detection in IoT Networks under Evolving Threat Landscape",
+      "authors": [
+        "Muaan Ur Rehman",
+        "Hayretdin Bahs",
+        "Rajesh Kalakoti"
+      ],
+      "published": "2026-03-11T13:51:11+00:00",
+      "first_seen": "2026-03-12T08:27:40.550795",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2603.10763": {
+      "arxiv_id": "2603.10763",
+      "title": "Prioritizing Gradient Sign Over Modulus: An Importance-Aware Framework for Wireless Federated Learning",
+      "authors": [
+        "Yiyang Yue",
+        "Jiacheng Yao",
+        "Wei Xu",
+        "Zhaohui Yang",
+        "George K. Karagiannidis",
+        "Dusit Niyato"
+      ],
+      "published": "2026-03-11T13:41:02+00:00",
+      "first_seen": "2026-03-12T08:27:40.550801",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.IT",
+        "eess.SP"
+      ]
+    },
+    "2603.10692": {
+      "arxiv_id": "2603.10692",
+      "title": "Repurposing Backdoors for Good: Ephemeral Intrinsic Proofs for Verifiable Aggregation in Cross-silo Federated Learning",
+      "authors": [
+        "Xian Qin",
+        "Xue Yang",
+        "Xiaohu Tang"
+      ],
+      "published": "2026-03-11T12:04:18+00:00",
+      "first_seen": "2026-03-12T08:27:40.550807",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2603.10090": {
+      "arxiv_id": "2603.10090",
+      "title": "A Survey of Weight Space Learning: Understanding, Representation, and Generation",
+      "authors": [
+        "Xiaolong Han",
+        "Zehong Wang",
+        "Bo Zhao",
+        "Binchi Zhang",
+        "Jundong Li",
+        "Damian Borth",
+        "Rose Yu",
+        "Haggai Maron",
+        "Yanfang Ye",
+        "Lu Yin",
+        "Ferrante Neri"
+      ],
+      "published": "2026-03-10T15:32:23+00:00",
+      "first_seen": "2026-03-12T08:27:40.550813",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.10075": {
+      "arxiv_id": "2603.10075",
+      "title": "TASER: Task-Aware Spectral Energy Refine for Backdoor Suppression in UAV Swarms Decentralized Federated Learning",
+      "authors": [
+        "Sizhe Huang",
+        "Shujie Yang"
+      ],
+      "published": "2026-03-10T07:20:47+00:00",
+      "first_seen": "2026-03-12T08:27:40.550818",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2603.10063": {
+      "arxiv_id": "2603.10063",
+      "title": "Building Privacy-and-Security-Focused Federated Learning Infrastructure for Global Multi-Centre Healthcare Research",
+      "authors": [
+        "Fan Zhang",
+        "Daniel Kreuter",
+        "Javier Fernandez-Marques",
+        "BloodCounts Consortium",
+        "Gregory Verghese",
+        "Bernard Butler",
+        "Nicholas Lane",
+        "Suthesh Sivapalaratnam",
+        "Joseph Taylor",
+        "Norbert C. J. de Wit",
+        "Nicholas S. Gleadall",
+        "Carola-Bibiane Schönlieb",
+        "Michael Roberts"
+      ],
+      "published": "2026-03-09T22:13:00+00:00",
+      "first_seen": "2026-03-12T08:27:40.550825",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.SE"
+      ]
+    },
+    "2603.11025": {
+      "arxiv_id": "2603.11025",
+      "title": "LLMGreenRec: LLM-Based Multi-Agent Recommender System for Sustainable E-Commerce",
+      "authors": [
+        "Hao N. Nguyen",
+        "Hieu M. Nguyen",
+        "Son Van Nguyen",
+        "Nguyen Thi Hanh"
+      ],
+      "published": "2026-03-11T17:49:53+00:00",
+      "first_seen": "2026-03-12T08:27:43.733299",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.MA",
+        "cs.IR"
+      ]
+    },
+    "2603.10673": {
+      "arxiv_id": "2603.10673",
+      "title": "Breaking User-Centric Agency: A Tri-Party Framework for Agent-Based Recommendation",
+      "authors": [
+        "Yaxin Gong",
+        "Chongming Gao",
+        "Chenxiao Fan",
+        "Wenjie Wang",
+        "Fuli Feng",
+        "Xiangnan He"
+      ],
+      "published": "2026-03-11T11:40:13+00:00",
+      "first_seen": "2026-03-12T08:27:43.733310",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.10471": {
+      "arxiv_id": "2603.10471",
+      "title": "Modeling Stage-wise Evolution of User Interests for News Recommendation",
+      "authors": [
+        "Zhiyong Cheng",
+        "Yike Jin",
+        "Zhijie Zhang",
+        "Huilin Chen",
+        "Zhangling Duan",
+        "Meng Wang"
+      ],
+      "published": "2026-03-11T06:42:52+00:00",
+      "first_seen": "2026-03-12T08:27:43.733316",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2603.10369": {
+      "arxiv_id": "2603.10369",
+      "title": "Beyond Interleaving: Causal Attention Reformulations for Generative Recommender Systems",
+      "authors": [
+        "Hailing Cheng"
+      ],
+      "published": "2026-03-11T03:30:49+00:00",
+      "first_seen": "2026-03-12T08:27:43.733322",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2603.10279": {
+      "arxiv_id": "2603.10279",
+      "title": "Robust Post-Training for Generative Recommenders: Why Exponential Reward-Weighted SFT Outperforms RLHF",
+      "authors": [
+        "Keertana Chidambaram",
+        "Sanath Kumar Krishnamurthy",
+        "Qiuling Xu",
+        "Ko-Jen Hsiao",
+        "Moumita Bhattacharya"
+      ],
+      "published": "2026-03-10T23:48:25+00:00",
+      "first_seen": "2026-03-12T08:27:43.733327",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
       ]
     }
   }
