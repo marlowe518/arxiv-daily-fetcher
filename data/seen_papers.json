@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-12T08:27:49.361823",
+  "last_updated": "2026-03-13T08:25:19.193769",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -4619,6 +4619,346 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG"
+      ]
+    },
+    "2603.12031": {
+      "arxiv_id": "2603.12031",
+      "title": "AGMARL-DKS: An Adaptive Graph-Enhanced Multi-Agent Reinforcement Learning for Dynamic Kubernetes Scheduling",
+      "authors": [
+        "Hamed Hamzeh"
+      ],
+      "published": "2026-03-12T15:09:48+00:00",
+      "first_seen": "2026-03-13T08:24:55.467434",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.DC",
+        "cs.LG",
+        "cs.MA"
+      ]
+    },
+    "2603.11944": {
+      "arxiv_id": "2603.11944",
+      "title": "Effective Resistance Rewiring: A Simple Topological Correction for Over-Squashing",
+      "authors": [
+        "Bertran Miquel-Oliver",
+        "Manel Gil-Sorribes",
+        "Victor Guallar",
+        "Alexis Molina"
+      ],
+      "published": "2026-03-12T13:55:48+00:00",
+      "first_seen": "2026-03-13T08:24:55.467447",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.11811": {
+      "arxiv_id": "2603.11811",
+      "title": "RADAR: Closed-Loop Robotic Data Generation via Semantic Planning and Autonomous Causal Environment Reset",
+      "authors": [
+        "Yongzhong Wang",
+        "Keyu Zhu",
+        "Yong Zhong",
+        "Liqiong Wang",
+        "Jinyu Yang",
+        "Feng Zheng"
+      ],
+      "published": "2026-03-12T11:18:52+00:00",
+      "first_seen": "2026-03-13T08:24:55.467455",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    "2603.11783": {
+      "arxiv_id": "2603.11783",
+      "title": "HELM: Hierarchical and Explicit Label Modeling with Graph Learning for Multi-Label Image Classification",
+      "authors": [
+        "Marjan Stoimchev",
+        "Boshko Koloski",
+        "Jurica Levatić",
+        "Dragi Kocev",
+        "Sašo Džeroski"
+      ],
+      "published": "2026-03-12T10:41:17+00:00",
+      "first_seen": "2026-03-13T08:24:55.467461",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    "2603.11099": {
+      "arxiv_id": "2603.11099",
+      "title": "Graph Tokenization for Bridging Graphs and Transformers",
+      "authors": [
+        "Zeyuan Guo",
+        "Enmao Diao",
+        "Cheng Yang",
+        "Chuan Shi"
+      ],
+      "published": "2026-03-11T08:57:10+00:00",
+      "first_seen": "2026-03-13T08:24:55.467467",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.12142": {
+      "arxiv_id": "2603.12142",
+      "title": "Understanding Disclosure Risk in Differential Privacy with Applications to Noise Calibration and Auditing (Extended Version)",
+      "authors": [
+        "Patricia Guerra-Balboa",
+        "Annika Sauer",
+        "Héber H. Arcolezi",
+        "Thorsten Strufe"
+      ],
+      "published": "2026-03-12T16:43:55+00:00",
+      "first_seen": "2026-03-13T08:25:04.648829",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.IT"
+      ]
+    },
+    "2603.12112": {
+      "arxiv_id": "2603.12112",
+      "title": "Structure Selection for Fairness-Constrained Differentially Private Data Synthesis",
+      "authors": [
+        "Naeim Ghahramanpour",
+        "Mostafa Milani"
+      ],
+      "published": "2026-03-12T16:15:46+00:00",
+      "first_seen": "2026-03-13T08:25:04.648841",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DB"
+      ]
+    },
+    "2603.11523": {
+      "arxiv_id": "2603.11523",
+      "title": "Strict Optimality of Frequency Estimation Under Local Differential Privacy",
+      "authors": [
+        "Mingen Pan"
+      ],
+      "published": "2026-03-12T04:16:22+00:00",
+      "first_seen": "2026-03-13T08:25:04.648851",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.IT",
+        "cs.CR"
+      ]
+    },
+    "2603.12001": {
+      "arxiv_id": "2603.12001",
+      "title": "Decentralized Orchestration Architecture for Fluid Computing: A Secure Distributed AI Use Case",
+      "authors": [
+        "Diego Cajaraville-Aboy",
+        "Ana Fernández-Vilas",
+        "Rebeca P. Díaz-Redondo",
+        "Manuel Fernández-Veiga",
+        "Pablo Picallo-López"
+      ],
+      "published": "2026-03-12T14:49:12+00:00",
+      "first_seen": "2026-03-13T08:25:10.369498",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2603.11992": {
+      "arxiv_id": "2603.11992",
+      "title": "Few-for-Many Personalized Federated Learning",
+      "authors": [
+        "Ping Guo",
+        "Tiantian Zhang",
+        "Xi Lin",
+        "Xiang Li",
+        "Zhi-Ri Tang",
+        "Qingfu Zhang"
+      ],
+      "published": "2026-03-12T14:43:46+00:00",
+      "first_seen": "2026-03-13T08:25:10.369510",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2603.11620": {
+      "arxiv_id": "2603.11620",
+      "title": "Personalized Federated Learning via Gaussian Generative Modeling",
+      "authors": [
+        "Peng Hu",
+        "Jianwei Ma"
+      ],
+      "published": "2026-03-12T07:26:03+00:00",
+      "first_seen": "2026-03-13T08:25:10.369516",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.11307": {
+      "arxiv_id": "2603.11307",
+      "title": "Client-Conditional Federated Learning via Local Training Data Statistics",
+      "authors": [
+        "Rickard Brännvall"
+      ],
+      "published": "2026-03-11T21:06:12+00:00",
+      "first_seen": "2026-03-13T08:25:10.369523",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.12230": {
+      "arxiv_id": "2603.12230",
+      "title": "Security Considerations for Artificial Intelligence Agents",
+      "authors": [
+        "Ninghui Li",
+        "Kaiyuan Zhang",
+        "Kyle Polley",
+        "Jerry Ma"
+      ],
+      "published": "2026-03-12T17:49:39+00:00",
+      "first_seen": "2026-03-13T08:25:13.425388",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    "2603.12094": {
+      "arxiv_id": "2603.12094",
+      "title": "Human-Centred LLM Privacy Audits: Findings and Frictions",
+      "authors": [
+        "Dimitri Staufer",
+        "Kirsten Morehouse",
+        "David Hartmann",
+        "Bettina Berendt"
+      ],
+      "published": "2026-03-12T16:01:01+00:00",
+      "first_seen": "2026-03-13T08:25:13.425399",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ]
+    },
+    "2603.11901": {
+      "arxiv_id": "2603.11901",
+      "title": "FlexRec: Adapting LLM-based Recommenders for Flexible Needs via Reinforcement Learning",
+      "authors": [
+        "Yijun Pan",
+        "Weikang Qiu",
+        "Qiyao Ma",
+        "Mingxuan Ju",
+        "Tong Zhao",
+        "Neil Shah",
+        "Rex Ying"
+      ],
+      "published": "2026-03-12T13:14:57+00:00",
+      "first_seen": "2026-03-13T08:25:13.425405",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.11796": {
+      "arxiv_id": "2603.11796",
+      "title": "Enhancing Music Recommendation with User Mood Input",
+      "authors": [
+        "Terence Zeng"
+      ],
+      "published": "2026-03-12T10:59:07+00:00",
+      "first_seen": "2026-03-13T08:25:13.425411",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.11610": {
+      "arxiv_id": "2603.11610",
+      "title": "Federated Learning and Unlearning for Recommendation with Personalized Data Sharing",
+      "authors": [
+        "Liang Qu",
+        "Jianxin Li",
+        "Wei Yuan",
+        "Shangfei Zheng",
+        "Lu Chen",
+        "Chengfei Liu",
+        "Hongzhi Yin"
+      ],
+      "published": "2026-03-12T07:05:02+00:00",
+      "first_seen": "2026-03-13T08:25:13.425418",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.11503": {
+      "arxiv_id": "2603.11503",
+      "title": "Sharpness-Aware Minimization for Generalized Embedding Learning in Federated Recommendation",
+      "authors": [
+        "Fengyuan Yu",
+        "Xiaohua Feng",
+        "Yuyuan Li",
+        "Changwang Zhang",
+        "Jun Wang",
+        "Chaochao Chen"
+      ],
+      "published": "2026-03-12T03:43:25+00:00",
+      "first_seen": "2026-03-13T08:25:13.425424",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.11486": {
+      "arxiv_id": "2603.11486",
+      "title": "Quantized Inference for OneRec-V2",
+      "authors": [
+        "Yi Su",
+        "Xinchen Luo",
+        "Hongtao Cheng",
+        "Ziteng Shu",
+        "Yunfeng Zhao",
+        "Fangyu Zhang",
+        "Jiaqiang Liu",
+        "Xiao Liang",
+        "Yiwu Liu",
+        "Ruiming Tang"
+      ],
+      "published": "2026-03-12T03:13:08+00:00",
+      "first_seen": "2026-03-13T08:25:13.425430",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.11413": {
+      "arxiv_id": "2603.11413",
+      "title": "Evaluation format, not model capability, drives triage failure in the assessment of consumer health AI",
+      "authors": [
+        "David Fraile Navarro",
+        "Farah Magrabi",
+        "Enrico Coiera"
+      ],
+      "published": "2026-03-12T00:58:22+00:00",
+      "first_seen": "2026-03-13T08:25:13.425436",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
       ]
     }
   }
