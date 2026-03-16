@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-13 | [Balancing the privacy-utility trade-off: How to draw reliable conclusions from private data](https://arxiv.org/abs/2603.12753) | Absolute anonymization, conceived as an irreversible transformation that prevents re-identification and sensitive value disclosure, has proven to be a broken promise. |
 | 2026-03-12 | [Understanding Disclosure Risk in Differential Privacy with Applications to Noise Calibration and Auditing (Extended Version)](https://arxiv.org/abs/2603.12142) | Differential Privacy (DP) is widely adopted in data management systems to enable data sharing with formal disclosure guarantees. |
 | 2026-03-12 | [Structure Selection for Fairness-Constrained Differentially Private Data Synthesis](https://arxiv.org/abs/2603.12112) | Differential privacy (DP) enables safe data release, with synthetic data generation emerging as a common approach in recent years. |
 | 2026-03-12 | [Strict Optimality of Frequency Estimation Under Local Differential Privacy](https://arxiv.org/abs/2603.11523) | This paper establishes the strict optimality in precision for frequency estimation under local differential privacy (LDP). |

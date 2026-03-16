@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-15T08:23:09.972524",
+  "last_updated": "2026-03-16T08:42:45.604745",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -4959,6 +4959,295 @@
       "categories": [
         "cs.HC",
         "cs.AI"
+      ]
+    },
+    "2603.13042": {
+      "arxiv_id": "2603.13042",
+      "title": "OpenACMv2: An Accuracy-Constrained Co-Optimization Framework for Approximate DCiM",
+      "authors": [
+        "Yiqi Zhou",
+        "Yue Yuan",
+        "Yikai Wang",
+        "Bohao Liu",
+        "Qinxin Mei",
+        "Zhuohua Liu",
+        "Shan Shen",
+        "Wei Xing",
+        "Daying Sun",
+        "Li Li",
+        "Guozhu Liu"
+      ],
+      "published": "2026-03-13T14:50:52+00:00",
+      "first_seen": "2026-03-16T08:42:21.727728",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AR"
+      ]
+    },
+    "2603.13035": {
+      "arxiv_id": "2603.13035",
+      "title": "Association-Aware GNN for Precoder Learning in Cell-Free Systems",
+      "authors": [
+        "Mingyu Deng",
+        "Shengqian Han"
+      ],
+      "published": "2026-03-13T14:45:00+00:00",
+      "first_seen": "2026-03-16T08:42:21.727741",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SP",
+        "cs.LG"
+      ]
+    },
+    "2603.12557": {
+      "arxiv_id": "2603.12557",
+      "title": "Lyapunov Stable Graph Neural Flow",
+      "authors": [
+        "Haoyu Chu",
+        "Xiaotong Chen",
+        "Wei Zhou",
+        "Wenjun Cui",
+        "Kai Zhao",
+        "Shikui Wei",
+        "Qiyu Kang"
+      ],
+      "published": "2026-03-13T01:40:45+00:00",
+      "first_seen": "2026-03-16T08:42:21.727749",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CV"
+      ]
+    },
+    "2603.12353": {
+      "arxiv_id": "2603.12353",
+      "title": "Spatial PDE-aware Selective State-space with Nested Memory for Mobile Traffic Grid Forecasting",
+      "authors": [
+        "Zineddine Bettouche",
+        "Khalid Ali",
+        "Andreas Fischer",
+        "Andreas Kassler"
+      ],
+      "published": "2026-03-12T18:17:57+00:00",
+      "first_seen": "2026-03-16T08:42:21.727755",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.12290": {
+      "arxiv_id": "2603.12290",
+      "title": "Detecting Miscitation on the Scholarly Web through LLM-Augmented Text-Rich Graph Learning",
+      "authors": [
+        "Huidong Wu",
+        "Haojia Xiang",
+        "Jingtong Gao",
+        "Xiangyu Zhao",
+        "Dengsheng Wu",
+        "Jianping Li"
+      ],
+      "published": "2026-03-10T12:44:28+00:00",
+      "first_seen": "2026-03-16T08:42:21.727761",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2603.12734": {
+      "arxiv_id": "2603.12734",
+      "title": "VecMol: Vector-Field Representations for 3D Molecule Generation",
+      "authors": [
+        "Yuchen Hua",
+        "Xingang Peng",
+        "Jianzhu Ma",
+        "Muhan Zhang"
+      ],
+      "published": "2026-03-13T07:26:15+00:00",
+      "first_seen": "2026-03-16T08:42:24.764299",
+      "topic": "Graph Generation",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2603.12753": {
+      "arxiv_id": "2603.12753",
+      "title": "Balancing the privacy-utility trade-off: How to draw reliable conclusions from private data",
+      "authors": [
+        "Raphaël de Fondeville"
+      ],
+      "published": "2026-03-13T07:54:08+00:00",
+      "first_seen": "2026-03-16T08:42:30.628311",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ME",
+        "cs.CR"
+      ]
+    },
+    "2603.13037": {
+      "arxiv_id": "2603.13037",
+      "title": "Federated Few-Shot Learning on Neuromorphic Hardware: An Empirical Study Across Physical Edge Nodes",
+      "authors": [
+        "Steven Motta",
+        "Gioele Nanni"
+      ],
+      "published": "2026-03-13T14:45:52+00:00",
+      "first_seen": "2026-03-16T08:42:36.653955",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.NE",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2603.12976": {
+      "arxiv_id": "2603.12976",
+      "title": "SCOPE: Semantic Coreset with Orthogonal Projection Embeddings for Federated learning",
+      "authors": [
+        "Md Anwar Hossen",
+        "Nathan R. Tallent",
+        "Luanzheng Guo",
+        "Ali Jannesary"
+      ],
+      "published": "2026-03-13T13:24:12+00:00",
+      "first_seen": "2026-03-16T08:42:36.653967",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CV"
+      ]
+    },
+    "2603.12684": {
+      "arxiv_id": "2603.12684",
+      "title": "Federated Hierarchical Clustering with Automatic Selection of Optimal Cluster Numbers",
+      "authors": [
+        "Yue Zhang",
+        "Chuanlong Qiu",
+        "Xinfa Liao",
+        "Yiqun Zhang"
+      ],
+      "published": "2026-03-13T05:58:35+00:00",
+      "first_seen": "2026-03-16T08:42:36.653974",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2603.12591": {
+      "arxiv_id": "2603.12591",
+      "title": "CA-HFP: Curvature-Aware Heterogeneous Federated Pruning with Model Reconstruction",
+      "authors": [
+        "Gang Hu",
+        "Yinglei Teng",
+        "Pengfei Wu",
+        "Shijun Ma"
+      ],
+      "published": "2026-03-13T02:45:00+00:00",
+      "first_seen": "2026-03-16T08:42:36.653980",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.11850": {
+      "arxiv_id": "2603.11850",
+      "title": "Deep Learning-based Assessment of the Relation Between the Third Molar and Mandibular Canal on Panoramic Radiographs using Local, Centralized, and Federated Learning",
+      "authors": [
+        "Johan Andreas Balle Rubak",
+        "Sara Haghighat",
+        "Sanyam Jain",
+        "Mostafa Aldesoki",
+        "Akhilanand Chaurasia",
+        "Sarah Sadat Ehsani",
+        "Faezeh Dehghan Ghanatkaman",
+        "Ahmad Badruddin Ghazali",
+        "Julien Issa",
+        "Basel Khalil",
+        "Rishi Ramani",
+        "Ruben Pauwels"
+      ],
+      "published": "2026-03-12T12:17:17+00:00",
+      "first_seen": "2026-03-16T08:42:36.653985",
+      "topic": "Federated Learning",
+      "categories": [
+        "eess.IV",
+        "cs.CV",
+        "cs.DC"
+      ]
+    },
+    "2603.12935": {
+      "arxiv_id": "2603.12935",
+      "title": "Can Fairness Be Prompted? Prompt-Based Debiasing Strategies in High-Stakes Recommendations",
+      "authors": [
+        "Mihaela Rotar",
+        "Theresia Veronika Rampisela",
+        "Maria Maistro"
+      ],
+      "published": "2026-03-13T12:30:42+00:00",
+      "first_seen": "2026-03-16T08:42:39.656591",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.12752": {
+      "arxiv_id": "2603.12752",
+      "title": "Taming the Long Tail: Efficient Item-wise Sharpness-Aware Minimization for LLM-based Recommender Systems",
+      "authors": [
+        "Jiaming Zhang",
+        "Yuyuan Li",
+        "Xiaohua Feng",
+        "Li Zhang",
+        "Longfei Li",
+        "Jun Zhou",
+        "Chaochao Chen"
+      ],
+      "published": "2026-03-13T07:50:12+00:00",
+      "first_seen": "2026-03-16T08:42:39.656603",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2603.12726": {
+      "arxiv_id": "2603.12726",
+      "title": "Anchored Alignment: Preventing Positional Collapse in Multimodal Recommender Systems",
+      "authors": [
+        "Yonghun Jeong",
+        "David Yoon Suk Kang",
+        "Yeon-Chang Lee"
+      ],
+      "published": "2026-03-13T07:17:09+00:00",
+      "first_seen": "2026-03-16T08:42:39.656610",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2603.12625": {
+      "arxiv_id": "2603.12625",
+      "title": "VLM4Rec: Multimodal Semantic Representation for Recommendation with Large Vision-Language Models",
+      "authors": [
+        "Ty Valencia",
+        "Burak Barlas",
+        "Varun Singhal",
+        "Ruchir Bhatia",
+        "Wei Yang"
+      ],
+      "published": "2026-03-13T03:57:41+00:00",
+      "first_seen": "2026-03-16T08:42:39.656616",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CV"
       ]
     }
   }
