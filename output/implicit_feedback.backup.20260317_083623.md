@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-02 | [Not All Queries Need Rewriting: When Prompt-Only LLM Refinement Helps and Hurts Dense Retrieval](https://arxiv.org/abs/2603.13301) | Prompt-only, single-step LLM query rewriting, where a rewrite is generated from the query alone without retrieval feedback, is commonly used in production RAG pipelines, but its effect on dense... |
 | 2026-03-02 | [MealRec: Multi-granularity Sequential Modeling via Hierarchical Diffusion Models for Micro-Video Recommendation](https://arxiv.org/abs/2603.01926) | Micro-video recommendation aims to capture user preferences from the collaborative and context information of the interacted micro-videos, thereby predicting the appropriate videos. |
 | 2026-02-27 | [RAD-DPO: Robust Adaptive Denoising Direct Preference Optimization for Generative Retrieval in E-commerce](https://arxiv.org/abs/2602.23964) | Generative Retrieval (GR) has emerged as a powerful paradigm in e-commerce search, retrieving items via autoregressive decoding of Semantic IDs (SIDs). |
 | 2026-02-21 | [Towards Reliable Negative Sampling for Recommendation with Implicit Feedback via In-Community Popularity](https://arxiv.org/abs/2602.18759) | Learning from implicit feedback is a fundamental problem in modern recommender systems, where only positive interactions are observed and explicit negative signals are unavailable. |
