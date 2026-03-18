@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-17T08:36:23.455471",
+  "last_updated": "2026-03-18T08:33:35.190120",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -5997,6 +5997,250 @@
         "cs.IR",
         "cs.AI",
         "cs.LG"
+      ]
+    },
+    "2603.16800": {
+      "arxiv_id": "2603.16800",
+      "title": "RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation",
+      "authors": [
+        "Yixuan Huang",
+        "Jiawei Chen",
+        "Shengfan Zhang",
+        "Zongsheng Cao"
+      ],
+      "published": "2026-03-17T17:05:23+00:00",
+      "first_seen": "2026-03-18T08:33:11.323677",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.16080": {
+      "arxiv_id": "2603.16080",
+      "title": "A Depth-Aware Comparative Study of Euclidean and Hyperbolic Graph Neural Networks on Bitcoin Transaction Systems",
+      "authors": [
+        "Ankit Ghimire",
+        "Saydul Akbar Murad",
+        "Nick Rahimi"
+      ],
+      "published": "2026-03-17T02:58:29+00:00",
+      "first_seen": "2026-03-18T08:33:11.323688",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.15681": {
+      "arxiv_id": "2603.15681",
+      "title": "Flood Risk Follows Valleys, Not Grids: Graph Neural Networks for Flash Flood Susceptibility Mapping in Himachal Pradesh with Conformal Uncertainty Quantification",
+      "authors": [
+        "Paras Sharma",
+        "Swastika Sharma"
+      ],
+      "published": "2026-03-15T02:54:24+00:00",
+      "first_seen": "2026-03-18T08:33:11.323696",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.16216": {
+      "arxiv_id": "2603.16216",
+      "title": "Generative AI for Quantum Circuits and Quantum Code: A Technical Review and Taxonomy",
+      "authors": [
+        "Juhani Merilehto"
+      ],
+      "published": "2026-03-17T07:45:40+00:00",
+      "first_seen": "2026-03-18T08:33:14.420670",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CE",
+        "cs.AI",
+        "cs.ET"
+      ]
+    },
+    "2603.15901": {
+      "arxiv_id": "2603.15901",
+      "title": "Federated Learning for Privacy-Preserving Medical AI",
+      "authors": [
+        "Tin Hoang"
+      ],
+      "published": "2026-03-16T20:46:21+00:00",
+      "first_seen": "2026-03-18T08:33:20.329034",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    "2603.15842": {
+      "arxiv_id": "2603.15842",
+      "title": "Informationally Compressive Anonymization: Non-Degrading Sensitive Input Protection for Privacy-Preserving Supervised Machine Learning",
+      "authors": [
+        "Jeremy J Samuelson"
+      ],
+      "published": "2026-03-16T19:17:51+00:00",
+      "first_seen": "2026-03-18T08:33:20.329046",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.IT"
+      ]
+    },
+    "2603.16846": {
+      "arxiv_id": "2603.16846",
+      "title": "Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning",
+      "authors": [
+        "Reek Das",
+        "Biplab Kanti Sen"
+      ],
+      "published": "2026-03-17T17:54:00+00:00",
+      "first_seen": "2026-03-18T08:33:26.522786",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.16723": {
+      "arxiv_id": "2603.16723",
+      "title": "Federated Learning with Multi-Partner OneFlorida+ Consortium Data for Predicting Major Postoperative Complications",
+      "authors": [
+        "Yuanfang Ren",
+        "Varun Sai Vemuri",
+        "Zhenhong Hu",
+        "Benjamin Shickel",
+        "Ziyuan Guan",
+        "Tyler J. Loftus",
+        "Parisa Rashidi",
+        "Tezcan Ozrazgat-Baslanti",
+        "Azra Bihorac"
+      ],
+      "published": "2026-03-17T16:09:33+00:00",
+      "first_seen": "2026-03-18T08:33:26.522799",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.16370": {
+      "arxiv_id": "2603.16370",
+      "title": "FederatedFactory: Generative One-Shot Learning for Extremely Non-IID Distributed Scenarios",
+      "authors": [
+        "Andrea Moleri",
+        "Christian Internò",
+        "Ali Raza",
+        "Markus Olhofer",
+        "David Klindt",
+        "Fabio Stella",
+        "Barbara Hammer"
+      ],
+      "published": "2026-03-17T10:58:44+00:00",
+      "first_seen": "2026-03-18T08:33:26.522806",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.16353": {
+      "arxiv_id": "2603.16353",
+      "title": "Biased Compression in Gradient Coding for Distributed Learning",
+      "authors": [
+        "Chengxi Li",
+        "Ming Xiao",
+        "Mikael Skoglund"
+      ],
+      "published": "2026-03-17T10:36:02+00:00",
+      "first_seen": "2026-03-18T08:33:26.522813",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC"
+      ]
+    },
+    "2603.16755": {
+      "arxiv_id": "2603.16755",
+      "title": "A Practical Algorithm for Feature-Rich, Non-Stationary Bandit Problems",
+      "authors": [
+        "Wei Min Loh",
+        "Sajib Kumer Sinha",
+        "Ankur Agarwal",
+        "Pascal Poupart"
+      ],
+      "published": "2026-03-17T16:34:23+00:00",
+      "first_seen": "2026-03-18T08:33:30.328671",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.16236": {
+      "arxiv_id": "2603.16236",
+      "title": "ReFORM: Review-aggregated Profile Generation via LLM with Multi-Factor Attention for Restaurant Recommendation",
+      "authors": [
+        "Moonsoo Park",
+        "Seulbeen Je",
+        "Donghyeon Park"
+      ],
+      "published": "2026-03-17T08:22:17+00:00",
+      "first_seen": "2026-03-18T08:33:30.328681",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2603.16088": {
+      "arxiv_id": "2603.16088",
+      "title": "RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems",
+      "authors": [
+        "Hui Wang",
+        "Tianzhu Hu",
+        "Mingming Li",
+        "Xi Zhou",
+        "Chun Gan",
+        "Jiao Dai",
+        "Jizhong Han",
+        "Songlin Hu",
+        "Tao Guo"
+      ],
+      "published": "2026-03-17T03:25:05+00:00",
+      "first_seen": "2026-03-18T08:33:30.328688",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2603.16039": {
+      "arxiv_id": "2603.16039",
+      "title": "Residual Stream Duality in Modern Transformer Architectures",
+      "authors": [
+        "Yifan Zhang"
+      ],
+      "published": "2026-03-17T00:56:29+00:00",
+      "first_seen": "2026-03-18T08:33:30.328694",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2603.15824": {
+      "arxiv_id": "2603.15824",
+      "title": "Same Performance, Hidden Bias: Evaluating Hypothesis- and Recommendation-Driven AI",
+      "authors": [
+        "Michaela Benk",
+        "Tim Miller"
+      ],
+      "published": "2026-03-16T18:58:28+00:00",
+      "first_seen": "2026-03-18T08:33:30.328699",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
       ]
     }
   }

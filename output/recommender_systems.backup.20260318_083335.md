@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-17 | [A Practical Algorithm for Feature-Rich, Non-Stationary Bandit Problems](https://arxiv.org/abs/2603.16755) | Contextual bandits are incredibly useful in many practical problems. |
-| 2026-03-17 | [ReFORM: Review-aggregated Profile Generation via LLM with Multi-Factor Attention for Restaurant Recommendation](https://arxiv.org/abs/2603.16236) | In recommender systems, large language models (LLMs) have gained popularity for generating descriptive summarization to improve recommendation robustness, along with Graph Convolution Networks. |
-| 2026-03-17 | [RecBundle: A Next-Generation Geometric Paradigm for Explainable Recommender Systems](https://arxiv.org/abs/2603.16088) | Recommender systems are inherently dynamic feedback loops where prolonged local interactions accumulate into macroscopic structural degradation such as information cocoons. |
-| 2026-03-17 | [Residual Stream Duality in Modern Transformer Architectures](https://arxiv.org/abs/2603.16039) | Recent work has made clear that the residual pathway is not mere optimization plumbing; it is part of the model's representational machinery. |
-| 2026-03-16 | [Same Performance, Hidden Bias: Evaluating Hypothesis- and Recommendation-Driven AI](https://arxiv.org/abs/2603.15824) | The HCI community commonly evaluates decision support systems based on whether they improve task performance or promote appropriate user reliance. |
 | 2026-03-16 | [Multi-Scenario User Profile Construction via Recommendation Lists](https://arxiv.org/abs/2603.15357) | Recommender systems (RS) play a core role in various domains, including business analytics, helping users and companies make appropriate decisions. |
 | 2026-03-16 | [Towards Foundation Models for Consensus Rank Aggregation](https://arxiv.org/abs/2603.15218) | Aggregating a consensus ranking from multiple input rankings is a fundamental problem with applications in recommendation systems, search engines, job recruitment, and elections. |
 | 2026-03-16 | [Sampling-guided exploration of active feature selection policies](https://arxiv.org/abs/2603.15110) | Determining the most appropriate features for machine learning predictive models is challenging regarding performance and feature acquisition costs. |

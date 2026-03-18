@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-17 | [Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning](https://arxiv.org/abs/2603.16846) | Federated Learning (FL) is increasingly applied in sectors like healthcare, finance, and IoT, enabling collaborative model training while safeguarding user privacy. |
-| 2026-03-17 | [Federated Learning with Multi-Partner OneFlorida+ Consortium Data for Predicting Major Postoperative Complications](https://arxiv.org/abs/2603.16723) | Background: This study aims to develop and validate federated learning models for predicting major postoperative complications and mortality using a large multicenter dataset from the OneFlorida Data... |
-| 2026-03-17 | [FederatedFactory: Generative One-Shot Learning for Extremely Non-IID Distributed Scenarios](https://arxiv.org/abs/2603.16370) | Federated Learning (FL) enables distributed optimization without compromising data sovereignty. |
-| 2026-03-17 | [Biased Compression in Gradient Coding for Distributed Learning](https://arxiv.org/abs/2603.16353) | Communication bottlenecks and the presence of stragglers pose significant challenges in distributed learning (DL). |
 | 2026-03-16 | [Federated Learning of Binary Neural Networks: Enabling Low-Cost Inference](https://arxiv.org/abs/2603.15507) | Federated Learning (FL) preserves privacy by distributing training across devices. |
 | 2026-03-16 | [Joint Routing and Model Pruning for Decentralized Federated Learning in Bandwidth-Constrained Multi-Hop Wireless Networks](https://arxiv.org/abs/2603.15188) | Decentralized federated learning (D-FL) enables privacy-preserving training without a central server, but multi-hop model exchanges and aggregation are often bottlenecked by communication resource... |
 | 2026-03-16 | [Accelerating Byzantine-Robust Distributed Learning with Compressed Communication via Double Momentum and Variance Reduction](https://arxiv.org/abs/2603.15144) | In collaborative and distributed learning, Byzantine robustness reflects a major facet of optimization algorithms. |

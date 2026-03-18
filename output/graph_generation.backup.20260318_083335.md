@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-17 | [Generative AI for Quantum Circuits and Quantum Code: A Technical Review and Taxonomy](https://arxiv.org/abs/2603.16216) | We review thirteen generative systems and five supporting datasets for quantum circuit and quantum code generation, identified through a structured scoping review of Hugging Face, arXiv, and... |
 | 2026-03-13 | [VecMol: Vector-Field Representations for 3D Molecule Generation](https://arxiv.org/abs/2603.12734) | Generative modeling of three-dimensional (3D) molecules is a fundamental yet challenging problem in drug discovery and materials science. |
 | 2026-03-11 | [Instruction set for the representation of graphs](https://arxiv.org/abs/2603.11039) | We present IsalGraph, a method for representing the structure of any finite, simple graph as a compact string over a nine-character instruction alphabet. |
 | 2026-03-11 | [Graph-GRPO: Training Graph Flow Models with Reinforcement Learning](https://arxiv.org/abs/2603.10395) | Graph generation is a fundamental task with broad applications, such as drug discovery. |
