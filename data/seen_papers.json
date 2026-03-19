@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-18T08:33:35.190120",
+  "last_updated": "2026-03-19T08:27:48.964559",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -6241,6 +6241,345 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.HC"
+      ]
+    },
+    "2603.17692": {
+      "arxiv_id": "2603.17692",
+      "title": "Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization",
+      "authors": [
+        "Joohyoung Jeon",
+        "Hongchul Lee"
+      ],
+      "published": "2026-03-18T13:09:11+00:00",
+      "first_seen": "2026-03-19T08:27:25.011640",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "q-fin.CP",
+        "q-fin.PM"
+      ]
+    },
+    "2603.17544": {
+      "arxiv_id": "2603.17544",
+      "title": "Per-Domain Generalizing Policies: On Learning Efficient and Robust Q-Value Functions (Extended Version with Technical Appendix)",
+      "authors": [
+        "Nicola J. Müller",
+        "Moritz Oster",
+        "Isabel Valera",
+        "Jörg Hoffmann",
+        "Timo P. Gros"
+      ],
+      "published": "2026-03-18T09:48:38+00:00",
+      "first_seen": "2026-03-19T08:27:25.011660",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2603.17196": {
+      "arxiv_id": "2603.17196",
+      "title": "Self-Conditioned Denoising for Atomistic Representation Learning",
+      "authors": [
+        "Tynan Perez",
+        "Rafael Gomez-Bombarelli"
+      ],
+      "published": "2026-03-17T22:52:18+00:00",
+      "first_seen": "2026-03-19T08:27:25.011675",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.17902": {
+      "arxiv_id": "2603.17902",
+      "title": "Differential Privacy in Generative AI Agents: Analysis and Optimal Tradeoffs",
+      "authors": [
+        "Ya-Ting Yang",
+        "Quanyan Zhu"
+      ],
+      "published": "2026-03-18T16:35:12+00:00",
+      "first_seen": "2026-03-19T08:27:33.961715",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2603.17623": {
+      "arxiv_id": "2603.17623",
+      "title": "ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery",
+      "authors": [
+        "Zirui Gong",
+        "Leo Yu Zhang",
+        "Yanjun Zhang",
+        "Viet Vo",
+        "Tianqing Zhu",
+        "Shirui Pan",
+        "Cong Wang"
+      ],
+      "published": "2026-03-18T11:40:44+00:00",
+      "first_seen": "2026-03-19T08:27:40.045838",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2603.17507": {
+      "arxiv_id": "2603.17507",
+      "title": "QuantFL: Sustainable Federated Learning for Edge IoT via Pre-Trained Model Quantisation",
+      "authors": [
+        "Charuka Herath",
+        "Yogachandran Rahulamathavan",
+        "Varuna De Silva",
+        "Sangarapillai Lambotharan"
+      ],
+      "published": "2026-03-18T09:08:28+00:00",
+      "first_seen": "2026-03-19T08:27:40.045850",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.17331": {
+      "arxiv_id": "2603.17331",
+      "title": "Federated Computing as Code (FCaC): Sovereignty-aware Systems by Design",
+      "authors": [
+        "Enzo Fenoglio",
+        "Philip Treleaven"
+      ],
+      "published": "2026-03-18T03:52:40+00:00",
+      "first_seen": "2026-03-19T08:27:40.045857",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2603.17139": {
+      "arxiv_id": "2603.17139",
+      "title": "Contextual Preference Distribution Learning",
+      "authors": [
+        "Benjamin Hudson",
+        "Laurent Charlin",
+        "Emma Frejinger"
+      ],
+      "published": "2026-03-17T21:11:21+00:00",
+      "first_seen": "2026-03-19T08:27:40.045866",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2603.17540": {
+      "arxiv_id": "2603.17540",
+      "title": "Deploying Semantic ID-based Generative Retrieval for Large-Scale Podcast Discovery at Spotify",
+      "authors": [
+        "Edoardo D'Amico",
+        "Marco De Nadai",
+        "Praveen Chandar",
+        "Divita Vohra",
+        "Shawn Lin",
+        "Max Lefarov",
+        "Paul Gigioli",
+        "Gustavo Penha",
+        "Ilya Kopysitsky",
+        "Ivo Joel Senese",
+        "Darren Mei",
+        "Francesco Fabbri",
+        "Oguz Semerci",
+        "Yu Zhao",
+        "Vincent Tang",
+        "Brian St. Thomas",
+        "Alexandra Ranieri",
+        "Matthew N. K. Smith",
+        "Aaron Bernkopf",
+        "Bryan Leung",
+        "Ghazal Fazelnia",
+        "Mark VanMiddlesworth",
+        "Timothy Christopher Heath",
+        "Petter Pehrson Skiden",
+        "Alice Y. Wang",
+        "Doug J. Cole",
+        "Andreas Damianou",
+        "Maya Hristakeva",
+        "Reid Wilbur",
+        "Tarun Chillara",
+        "Vladan Radosavljevic",
+        "Pooja Chitkara",
+        "Sainath Adapa",
+        "Juan Elenter",
+        "Bernd Huber",
+        "Jacqueline Wood",
+        "Saaketh Vedantam",
+        "Jan Stypka",
+        "Sandeep Ghael",
+        "Martin D. Gould",
+        "David Murgatroyd",
+        "Yves Raimond",
+        "Mounia Lalmas",
+        "Paul N. Bennett"
+      ],
+      "published": "2026-03-18T09:46:10+00:00",
+      "first_seen": "2026-03-19T08:27:42.974856",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2603.17533": {
+      "arxiv_id": "2603.17533",
+      "title": "A Unified Language Model for Large Scale Search, Recommendation, and Reasoning",
+      "authors": [
+        "Marco De Nadai",
+        "Edoardo D'Amico",
+        "Max Lefarov",
+        "Alexandre Tamborrino",
+        "Divita Vohra",
+        "Mark VanMiddlesworth",
+        "Shawn Lin",
+        "Jacqueline Wood",
+        "Jan Stypka",
+        "Eliza Klyce",
+        "Keshi Dai",
+        "Timothy Christopher Heath",
+        "Martin D. Gould",
+        "Yves Raimond",
+        "Sandeep Ghael",
+        "Tony Jebara",
+        "Andreas Damianou",
+        "Vladan Radosavljevic",
+        "Paul N. Bennett",
+        "Mounia Lalmas",
+        "Praveen Chandar"
+      ],
+      "published": "2026-03-18T09:42:32+00:00",
+      "first_seen": "2026-03-19T08:27:42.974866",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2603.17450": {
+      "arxiv_id": "2603.17450",
+      "title": "VLM2Rec: Resolving Modality Collapse in Vision-Language Model Embedders for Multimodal Sequential Recommendation",
+      "authors": [
+        "Junyoung Kim",
+        "Woojoo Kim",
+        "Jaehyung Lim",
+        "Dongha Kim",
+        "Hwanjo Yu"
+      ],
+      "published": "2026-03-18T07:46:30+00:00",
+      "first_seen": "2026-03-19T08:27:42.974873",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2603.17361": {
+      "arxiv_id": "2603.17361",
+      "title": "Public Profile Matters: A Scalable Integrated Approach to Recommend Citations in the Wild",
+      "authors": [
+        "Karan Goyal",
+        "Dikshant Kukreja",
+        "Vikram Goyal",
+        "Mukesh Mohania"
+      ],
+      "published": "2026-03-18T04:52:42+00:00",
+      "first_seen": "2026-03-19T08:27:42.974879",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL",
+        "cs.SI"
+      ]
+    },
+    "2603.17315": {
+      "arxiv_id": "2603.17315",
+      "title": "Learning Evolving Preferences: A Federated Continual Framework for User-Centric Recommendation",
+      "authors": [
+        "Chunxu Zhang",
+        "Zhiheng Xue",
+        "Guodong Long",
+        "Weipeng Zhang",
+        "Bo Yang"
+      ],
+      "published": "2026-03-18T03:20:15+00:00",
+      "first_seen": "2026-03-19T08:27:42.974885",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.17168": {
+      "arxiv_id": "2603.17168",
+      "title": "HierarchicalKV: A GPU Hash Table with Cache Semantics for Continuous Online Embedding Storage",
+      "authors": [
+        "Haidong Rong",
+        "Jiashu Yao",
+        "Matthias Langer",
+        "Shijie Liu",
+        "Li Fan",
+        "Dongxin Wang",
+        "Jia He",
+        "Jinglin Chen",
+        "Jiaheng Rang",
+        "Julian Qian",
+        "Mengyao Xu",
+        "Fan Yu",
+        "Minseok Lee",
+        "Zehuan Wang",
+        "Even Oldridge"
+      ],
+      "published": "2026-03-17T21:59:59+00:00",
+      "first_seen": "2026-03-19T08:27:42.974891",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.DB",
+        "cs.DC",
+        "cs.IR"
+      ]
+    },
+    "2603.16937": {
+      "arxiv_id": "2603.16937",
+      "title": "Integrating Explainable Machine Learning and Mixed-Integer Optimization for Personalized Sleep Quality Intervention",
+      "authors": [
+        "Mahfuz Ahmed Anik",
+        "Mohsin Mahmud Topu",
+        "Azmine Toushik Wasi",
+        "Md Isfar Khan",
+        "MD Manjurul Ahsan"
+      ],
+      "published": "2026-03-14T19:54:07+00:00",
+      "first_seen": "2026-03-19T08:27:42.974896",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "stat.AP",
+        "stat.ME"
+      ]
+    },
+    "2603.17577": {
+      "arxiv_id": "2603.17577",
+      "title": "Identifying Latent Actions and Dynamics from Offline Data via Demonstrator Diversity",
+      "authors": [
+        "Felix Schur"
+      ],
+      "published": "2026-03-18T10:33:38+00:00",
+      "first_seen": "2026-03-19T08:27:45.892920",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "stat.ML"
       ]
     }
   }

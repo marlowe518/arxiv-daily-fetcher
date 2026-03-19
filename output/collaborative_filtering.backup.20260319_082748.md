@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-18 | [Identifying Latent Actions and Dynamics from Offline Data via Demonstrator Diversity](https://arxiv.org/abs/2603.17577) | Can latent actions and environment dynamics be recovered from offline trajectories when actions are never observed? |
 | 2026-03-14 | [GreCon3: Mitigating High Resource Utilization of GreCon Algorithms for Boolean Matrix Factorization](https://arxiv.org/abs/2603.13772) | Boolean matrix factorization (BMF) is a fundamental tool for analyzing binary data and discovering latent information hidden in the data. |
 | 2026-02-24 | [A Counterfactual Approach for Addressing Individual User Unfairness in Collaborative Recommender System](https://arxiv.org/abs/2603.13253) | Recommender Systems (RSs) are exploited by various business enterprises to suggest their products (items) to consumers (users). |
 | 2026-03-05 | [Thermodynamic Response Functions in Singular Bayesian Models](https://arxiv.org/abs/2603.05480) | Singular statistical models-including mixtures, matrix factorization, and neural networks-violate regular asymptotics due to parameter non-identifiability and degenerate Fisher geometry. |

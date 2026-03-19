@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-18 | [ARES: Scalable and Practical Gradient Inversion Attack in Federated Learning through Activation Recovery](https://arxiv.org/abs/2603.17623) | Federated Learning (FL) enables collaborative model training by sharing model updates instead of raw data, aiming to protect user privacy. |
-| 2026-03-18 | [QuantFL: Sustainable Federated Learning for Edge IoT via Pre-Trained Model Quantisation](https://arxiv.org/abs/2603.17507) | Federated Learning (FL) enables privacy-preserving intelligence on Internet of Things (IoT) devices but incurs a significant carbon footprint due to the high energy cost of frequent uplink... |
-| 2026-03-18 | [Federated Computing as Code (FCaC): Sovereignty-aware Systems by Design](https://arxiv.org/abs/2603.17331) | Federated computing (FC) enables collaborative computation such as machine learning, analytics, or data processing across distributed organizations keeping raw data local. |
-| 2026-03-17 | [Contextual Preference Distribution Learning](https://arxiv.org/abs/2603.17139) | Decision-making problems often feature uncertainty stemming from heterogeneous and context-dependent human preferences. |
 | 2026-03-17 | [Dynamic Meta-Layer Aggregation for Byzantine-Robust Federated Learning](https://arxiv.org/abs/2603.16846) | Federated Learning (FL) is increasingly applied in sectors like healthcare, finance, and IoT, enabling collaborative model training while safeguarding user privacy. |
 | 2026-03-17 | [Federated Learning with Multi-Partner OneFlorida+ Consortium Data for Predicting Major Postoperative Complications](https://arxiv.org/abs/2603.16723) | Background: This study aims to develop and validate federated learning models for predicting major postoperative complications and mortality using a large multicenter dataset from the OneFlorida Data... |
 | 2026-03-17 | [FederatedFactory: Generative One-Shot Learning for Extremely Non-IID Distributed Scenarios](https://arxiv.org/abs/2603.16370) | Federated Learning (FL) enables distributed optimization without compromising data sovereignty. |

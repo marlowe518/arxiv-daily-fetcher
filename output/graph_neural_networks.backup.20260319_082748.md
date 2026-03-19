@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-18 | [Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization](https://arxiv.org/abs/2603.17692) | For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. |
-| 2026-03-18 | [Per-Domain Generalizing Policies: On Learning Efficient and Robust Q-Value Functions (Extended Version with Technical Appendix)](https://arxiv.org/abs/2603.17544) | Learning per-domain generalizing policies is a key challenge in learning for planning. |
-| 2026-03-17 | [Self-Conditioned Denoising for Atomistic Representation Learning](https://arxiv.org/abs/2603.17196) | The success of large-scale pretraining in NLP and computer vision has catalyzed growing efforts to develop analogous foundation models for the physical sciences. |
 | 2026-03-17 | [RaDAR: Relation-aware Diffusion-Asymmetric Graph Contrastive Learning for Recommendation](https://arxiv.org/abs/2603.16800) | Collaborative filtering (CF) recommendation has been significantly advanced by integrating Graph Neural Networks (GNNs) and Graph Contrastive Learning (GCL). |
 | 2026-03-17 | [A Depth-Aware Comparative Study of Euclidean and Hyperbolic Graph Neural Networks on Bitcoin Transaction Systems](https://arxiv.org/abs/2603.16080) | Bitcoin transaction networks are large scale socio- technical systems in which activities are represented through multi-hop interaction patterns. |
 | 2026-03-15 | [Flood Risk Follows Valleys, Not Grids: Graph Neural Networks for Flash Flood Susceptibility Mapping in Himachal Pradesh with Conformal Uncertainty Quantification](https://arxiv.org/abs/2603.15681) | Flash floods are the most destructive natural hazard in Himachal Pradesh (HP), India, causing over 400 fatalities and $1. |
