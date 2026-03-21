@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-19T08:27:48.964559",
+  "last_updated": "2026-03-21T08:17:06.425074",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -6580,6 +6580,377 @@
         "cs.LG",
         "cs.AI",
         "stat.ML"
+      ]
+    },
+    "2603.19091": {
+      "arxiv_id": "2603.19091",
+      "title": "Position: Spectral GNNs Are Neither Spectral Nor Superior for Node Classification",
+      "authors": [
+        "Qin Jiang",
+        "Chengjia Wang",
+        "Michael Lones",
+        "Dongdong Chen",
+        "Wei Pang"
+      ],
+      "published": "2026-03-19T16:17:45+00:00",
+      "first_seen": "2026-03-21T08:16:42.690984",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.18719": {
+      "arxiv_id": "2603.18719",
+      "title": "Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer",
+      "authors": [
+        "Mohamed Youssef",
+        "Mayar Elfares",
+        "Anna-Maria Meer",
+        "Matteo Bortoletto",
+        "Andreas Bulling"
+      ],
+      "published": "2026-03-19T10:16:15+00:00",
+      "first_seen": "2026-03-21T08:16:42.691003",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    "2603.18581": {
+      "arxiv_id": "2603.18581",
+      "title": "WarPGNN: A Parametric Thermal Warpage Analysis Framework with Physics-aware Graph Neural Network",
+      "authors": [
+        "Haotian Lu",
+        "Jincong Lu",
+        "Sachin Sachdeva",
+        "Sheldon X. -D. Tan"
+      ],
+      "published": "2026-03-19T07:40:57+00:00",
+      "first_seen": "2026-03-21T08:16:42.691015",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AR",
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2603.18570": {
+      "arxiv_id": "2603.18570",
+      "title": "Attack by Unlearning: Unlearning-Induced Adversarial Attacks on Graph Neural Networks",
+      "authors": [
+        "Jiahao Zhang",
+        "Yilong Wang",
+        "Suhang Wang"
+      ],
+      "published": "2026-03-19T07:30:28+00:00",
+      "first_seen": "2026-03-21T08:16:42.691025",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2603.18397": {
+      "arxiv_id": "2603.18397",
+      "title": "FlowMS: Flow Matching for De Novo Structure Elucidation from Mass Spectra",
+      "authors": [
+        "Jianan Nie",
+        "Peng Gao"
+      ],
+      "published": "2026-03-19T01:41:52+00:00",
+      "first_seen": "2026-03-21T08:16:45.439601",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.18256": {
+      "arxiv_id": "2603.18256",
+      "title": "MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models",
+      "authors": [
+        "Philippe Formont",
+        "Maxime Darrin",
+        "Ismail Ben Ayed",
+        "Pablo Piantanida"
+      ],
+      "published": "2026-03-18T20:21:04+00:00",
+      "first_seen": "2026-03-21T08:16:45.439611",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.19040": {
+      "arxiv_id": "2603.19040",
+      "title": "When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence",
+      "authors": [
+        "Chen Yaoling",
+        "Liang Hao",
+        "Tu Xiaotong"
+      ],
+      "published": "2026-03-19T15:38:06+00:00",
+      "first_seen": "2026-03-21T08:16:51.403867",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.18779": {
+      "arxiv_id": "2603.18779",
+      "title": "SoK: Practical Aspects of Releasing Differentially Private Graphs",
+      "authors": [
+        "Nicholas D'Silva",
+        "Surya Nepal",
+        "Salil S. Kanhere"
+      ],
+      "published": "2026-03-19T11:30:59+00:00",
+      "first_seen": "2026-03-21T08:16:51.403880",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.SI"
+      ]
+    },
+    "2603.19101": {
+      "arxiv_id": "2603.19101",
+      "title": "FedTrident: Resilient Road Condition Classification Against Poisoning Attacks in Federated Learning",
+      "authors": [
+        "Sheng Liu",
+        "Panos Papadimitratos"
+      ],
+      "published": "2026-03-19T16:26:13+00:00",
+      "first_seen": "2026-03-21T08:16:57.546762",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2603.19067": {
+      "arxiv_id": "2603.19067",
+      "title": "Communication-Efficient and Robust Multi-Modal Federated Learning via Latent-Space Consensus",
+      "authors": [
+        "Mohamed Badi",
+        "Chaouki Ben Issaid",
+        "Mehdi Bennis"
+      ],
+      "published": "2026-03-19T15:56:28+00:00",
+      "first_seen": "2026-03-21T08:16:57.546771",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "eess.SP"
+      ]
+    },
+    "2603.18872": {
+      "arxiv_id": "2603.18872",
+      "title": "DriftGuard: Mitigating Asynchronous Data Drift in Federated Learning",
+      "authors": [
+        "Yizhou Han",
+        "Di Wu",
+        "Blesson Varghese"
+      ],
+      "published": "2026-03-19T13:15:57+00:00",
+      "first_seen": "2026-03-21T08:16:57.546777",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.18680": {
+      "arxiv_id": "2603.18680",
+      "title": "Revisiting Label Inference Attacks in Vertical Federated Learning: Why They Are Vulnerable and How to Defend",
+      "authors": [
+        "Yige Liu",
+        "Dexuan Xu",
+        "Zimai Guo",
+        "Yongzhi Cao",
+        "Hanpin Wang"
+      ],
+      "published": "2026-03-19T09:41:06+00:00",
+      "first_seen": "2026-03-21T08:16:57.546783",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2603.18538": {
+      "arxiv_id": "2603.18538",
+      "title": "Beyond Passive Aggregation: Active Auditing and Topology-Aware Defense in Decentralized Federated Learning",
+      "authors": [
+        "Sheng Pan",
+        "Niansheng Tang"
+      ],
+      "published": "2026-03-19T06:46:55+00:00",
+      "first_seen": "2026-03-21T08:16:57.546788",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "stat.ME"
+      ]
+    },
+    "2603.18083": {
+      "arxiv_id": "2603.18083",
+      "title": "Probabilistic Federated Learning on Uncertain and Heterogeneous Data with Model Personalization",
+      "authors": [
+        "Ratun Rahman",
+        "Dinh C. Nguyen"
+      ],
+      "published": "2026-03-18T07:59:36+00:00",
+      "first_seen": "2026-03-21T08:16:57.546793",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.18972": {
+      "arxiv_id": "2603.18972",
+      "title": "Best-of-Both-Worlds Multi-Dueling Bandits: Unified Algorithms for Stochastic and Adversarial Preferences under Condorcet and Borda Objectives",
+      "authors": [
+        "S. Akash",
+        "Pratik Gajane",
+        "Jawar Singh"
+      ],
+      "published": "2026-03-19T14:38:52+00:00",
+      "first_seen": "2026-03-21T08:17:00.429923",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.18702": {
+      "arxiv_id": "2603.18702",
+      "title": "Off-Policy Learning with Limited Supply",
+      "authors": [
+        "Koichi Tanaka",
+        "Ren Kishimoto",
+        "Bushun Kawagishi",
+        "Yusuke Narita",
+        "Yasuo Yamamoto",
+        "Nobuyuki Shimizu",
+        "Yuta Saito"
+      ],
+      "published": "2026-03-19T10:01:39+00:00",
+      "first_seen": "2026-03-21T08:17:00.429933",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.18697": {
+      "arxiv_id": "2603.18697",
+      "title": "OCP: Orthogonal Constrained Projection for Sparse Scaling in Industrial Commodity Recommendation",
+      "authors": [
+        "Chen Sun",
+        "Beilin Xu",
+        "Boheng Tan",
+        "Jiacheng Wang",
+        "Yuefeng Sun",
+        "Rite Bo",
+        "Ying He",
+        "Yaqiang Zang",
+        "Pinghua Gong"
+      ],
+      "published": "2026-03-19T09:57:26+00:00",
+      "first_seen": "2026-03-21T08:17:00.429939",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.18573": {
+      "arxiv_id": "2603.18573",
+      "title": "Interplay: Training Independent Simulators for Reference-Free Conversational Recommendation",
+      "authors": [
+        "Jerome Ramos",
+        "Feng Xia",
+        "Xi Wang",
+        "Shubham Chatterjee",
+        "Xiao Fu",
+        "Hossein A. Rahmani",
+        "Aldo Lipani"
+      ],
+      "published": "2026-03-19T07:33:50+00:00",
+      "first_seen": "2026-03-21T08:17:00.429945",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2603.18556": {
+      "arxiv_id": "2603.18556",
+      "title": "Latent Factor Modeling with Expert Network for Multi-Behavior Recommendation",
+      "authors": [
+        "Mingshi Yan",
+        "Zhiyong Cheng",
+        "Yahong Han",
+        "Meng Wang"
+      ],
+      "published": "2026-03-19T07:09:56+00:00",
+      "first_seen": "2026-03-21T08:17:00.429950",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.18459": {
+      "arxiv_id": "2603.18459",
+      "title": "HypeMed: Enhancing Medication Recommendations with Hypergraph-Based Patient Relationships",
+      "authors": [
+        "Xiangxu Zhang",
+        "Xiao Zhou",
+        "Hongteng Xu",
+        "Jianxun Lian"
+      ],
+      "published": "2026-03-19T03:40:02+00:00",
+      "first_seen": "2026-03-21T08:17:00.429956",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2603.19147": {
+      "arxiv_id": "2603.19147",
+      "title": "Fast and Effective Computation of Generalized Symmetric Matrix Factorization",
+      "authors": [
+        "Lei Yang",
+        "Han Wan",
+        "Min Zhang",
+        "Ling Liang"
+      ],
+      "published": "2026-03-19T17:03:52+00:00",
+      "first_seen": "2026-03-21T08:17:03.392810",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "math.OC",
+        "cs.LG"
+      ]
+    },
+    "2603.18432": {
+      "arxiv_id": "2603.18432",
+      "title": "MLOW: Interpretable Low-Rank Frequency Magnitude Decomposition of Multiple Effects for Time Series Forecasting",
+      "authors": [
+        "Runze Yang",
+        "Longbing Cao",
+        "Xiaoming Wu",
+        "Xin You",
+        "Kun Fang",
+        "Jianxun Li",
+        "Jie Yang"
+      ],
+      "published": "2026-03-19T02:48:54+00:00",
+      "first_seen": "2026-03-21T08:17:03.392818",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG"
       ]
     }
   }

@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-19 | [When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence](https://arxiv.org/abs/2603.19040) | Differentially private wireless federated learning (DPWFL) is a promising framework for protecting sensitive user data. |
-| 2026-03-19 | [SoK: Practical Aspects of Releasing Differentially Private Graphs](https://arxiv.org/abs/2603.18779) | Graph data is increasingly prevalent across domains, offering analytical value but raising significant privacy concerns. |
 | 2026-03-18 | [Differential Privacy in Generative AI Agents: Analysis and Optimal Tradeoffs](https://arxiv.org/abs/2603.17902) | Large language models (LLMs) and AI agents are increasingly integrated into enterprise systems to access internal databases and generate context-aware responses. |
 | 2026-03-16 | [Federated Learning for Privacy-Preserving Medical AI](https://arxiv.org/abs/2603.15901) | This dissertation investigates privacy-preserving federated learning for Alzheimer's disease classification using three-dimensional MRI data from the Alzheimer's Disease Neuroimaging Initiative... |
 | 2026-03-16 | [Informationally Compressive Anonymization: Non-Degrading Sensitive Input Protection for Privacy-Preserving Supervised Machine Learning](https://arxiv.org/abs/2603.15842) | Modern machine learning systems increasingly rely on sensitive data, creating significant privacy, security, and regulatory risks that existing privacy-preserving machine learning (ppML) techniques,... |

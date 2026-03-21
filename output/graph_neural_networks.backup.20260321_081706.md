@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-19 | [Position: Spectral GNNs Are Neither Spectral Nor Superior for Node Classification](https://arxiv.org/abs/2603.19091) | Spectral Graph Neural Networks (Spectral GNNs) for node classification promise frequency-domain filtering on graphs, yet rest on flawed foundations. |
-| 2026-03-19 | [Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer](https://arxiv.org/abs/2603.18719) | Bridging the simulation-to-reality (sim2real) gap remains challenging as labelled real-world data is scarce. |
-| 2026-03-19 | [WarPGNN: A Parametric Thermal Warpage Analysis Framework with Physics-aware Graph Neural Network](https://arxiv.org/abs/2603.18581) | With the advent of system-in-package (SiP) chiplet-based design and heterogeneous 2. |
-| 2026-03-19 | [Attack by Unlearning: Unlearning-Induced Adversarial Attacks on Graph Neural Networks](https://arxiv.org/abs/2603.18570) | Graph neural networks (GNNs) are widely used for learning from graph-structured data in domains such as social networks, recommender systems, and financial platforms. |
 | 2026-03-18 | [Can Blindfolded LLMs Still Trade? An Anonymization-First Framework for Portfolio Optimization](https://arxiv.org/abs/2603.17692) | For LLM trading agents to be genuinely trustworthy, they must demonstrate understanding of market dynamics rather than exploitation of memorized ticker associations. |
 | 2026-03-18 | [Per-Domain Generalizing Policies: On Learning Efficient and Robust Q-Value Functions (Extended Version with Technical Appendix)](https://arxiv.org/abs/2603.17544) | Learning per-domain generalizing policies is a key challenge in learning for planning. |
 | 2026-03-17 | [Self-Conditioned Denoising for Atomistic Representation Learning](https://arxiv.org/abs/2603.17196) | The success of large-scale pretraining in NLP and computer vision has catalyzed growing efforts to develop analogous foundation models for the physical sciences. |

@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-19 | [FlowMS: Flow Matching for De Novo Structure Elucidation from Mass Spectra](https://arxiv.org/abs/2603.18397) | Mass spectrometry (MS) stands as a cornerstone analytical technique for molecular identification, yet de novo structure elucidation from spectra remains challenging due to the combinatorial... |
-| 2026-03-18 | [MolRGen: A Training and Evaluation Setting for De Novo Molecular Generation with Reasonning Models](https://arxiv.org/abs/2603.18256) | Recent advances in reasoning-based large language models (LLMs) have demonstrated substantial improvements in complex problem-solving tasks. |
 | 2026-03-17 | [Generative AI for Quantum Circuits and Quantum Code: A Technical Review and Taxonomy](https://arxiv.org/abs/2603.16216) | We review thirteen generative systems and five supporting datasets for quantum circuit and quantum code generation, identified through a structured scoping review of Hugging Face, arXiv, and... |
 | 2026-03-13 | [VecMol: Vector-Field Representations for 3D Molecule Generation](https://arxiv.org/abs/2603.12734) | Generative modeling of three-dimensional (3D) molecules is a fundamental yet challenging problem in drug discovery and materials science. |
 | 2026-03-11 | [Instruction set for the representation of graphs](https://arxiv.org/abs/2603.11039) | We present IsalGraph, a method for representing the structure of any finite, simple graph as a compact string over a nine-character instruction alphabet. |
