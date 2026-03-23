@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-20 | [Minimax and Adaptive Covariance Matrix Estimation under Differential Privacy](https://arxiv.org/abs/2603.19703) | The covariance matrix plays a fundamental role in the analysis of high-dimensional data. |
-| 2026-03-20 | [Acyclic Graph Pattern Counting under Local Differential Privacy](https://arxiv.org/abs/2603.19671) | Graph pattern counting serves as a cornerstone of network analysis with extensive real-world applications. |
-| 2026-03-14 | [DPxFin: Adaptive Differential Privacy for Anti-Money Laundering Detection via Reputation-Weighted Federated Learning](https://arxiv.org/abs/2603.19314) | In the modern financial system, combating money laundering is a critical challenge complicated by data privacy concerns and increasingly complex fraud transaction patterns. |
 | 2026-03-19 | [When Differential Privacy Meets Wireless Federated Learning: An Improved Analysis for Privacy and Convergence](https://arxiv.org/abs/2603.19040) | Differentially private wireless federated learning (DPWFL) is a promising framework for protecting sensitive user data. |
 | 2026-03-19 | [SoK: Practical Aspects of Releasing Differentially Private Graphs](https://arxiv.org/abs/2603.18779) | Graph data is increasingly prevalent across domains, offering analytical value but raising significant privacy concerns. |
 | 2026-03-18 | [Differential Privacy in Generative AI Agents: Analysis and Optimal Tradeoffs](https://arxiv.org/abs/2603.17902) | Large language models (LLMs) and AI agents are increasingly integrated into enterprise systems to access internal databases and generate context-aware responses. |

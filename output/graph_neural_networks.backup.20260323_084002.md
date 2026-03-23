@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-20 | [Modeling subgrid scale production rates on complex meshes using graph neural networks](https://arxiv.org/abs/2603.19841) | Large-eddy simulations (LES) require closures for filtered production rates because the resolved fields do not contain all correlations that govern chemical source terms. |
-| 2026-03-20 | [GDEGAN: Gaussian Dynamic Equivariant Graph Attention Network for Ligand Binding Site Prediction](https://arxiv.org/abs/2603.19817) | Accurate prediction of binding sites of a given protein, to which ligands can bind, is a critical step in structure-based computational drug discovery. |
-| 2026-03-20 | [Evolving Embodied Intelligence: Graph Neural Network--Driven Co-Design of Morphology and Control in Soft Robotics](https://arxiv.org/abs/2603.19582) | The intelligent behavior of robots does not emerge solely from control systems, but from the tight coupling between body and brain, a principle known as embodied intelligence. |
-| 2026-03-19 | [Stochastic Sequential Decision Making over Expanding Networks with Graph Filtering](https://arxiv.org/abs/2603.19501) | Graph filters leverage topological information to process networked data with existing methods mainly studying fixed graphs, ignoring that graphs often expand as nodes continually attach with an... |
 | 2026-03-19 | [Position: Spectral GNNs Are Neither Spectral Nor Superior for Node Classification](https://arxiv.org/abs/2603.19091) | Spectral Graph Neural Networks (Spectral GNNs) for node classification promise frequency-domain filtering on graphs, yet rest on flawed foundations. |
 | 2026-03-19 | [Ontology-Guided Diffusion for Zero-Shot Visual Sim2Real Transfer](https://arxiv.org/abs/2603.18719) | Bridging the simulation-to-reality (sim2real) gap remains challenging as labelled real-world data is scarce. |
 | 2026-03-19 | [WarPGNN: A Parametric Thermal Warpage Analysis Framework with Physics-aware Graph Neural Network](https://arxiv.org/abs/2603.18581) | With the advent of system-in-package (SiP) chiplet-based design and heterogeneous 2. |
