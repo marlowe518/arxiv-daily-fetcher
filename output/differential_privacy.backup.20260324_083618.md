@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-23 | [Towards Secure Retrieval-Augmented Generation: A Comprehensive Review of Threats, Defenses and Benchmarks](https://arxiv.org/abs/2603.21654) | Retrieval-Augmented Generation (RAG) significantly mitigates the hallucinations and domain knowledge deficiency in large language models by incorporating external knowledge bases. |
-| 2026-03-23 | [Hardening Confidential Federated Compute against Side-channel Attacks](https://arxiv.org/abs/2603.21469) | In this work, we identify a set of side-channels in our Confidential Federated Compute platform that a hypothetical insider could exploit to circumvent differential privacy (DP) guarantees. |
-| 2026-03-21 | [Composition Theorems for Multiple Differential Privacy Constraints](https://arxiv.org/abs/2603.20968) | The exact composition of mechanisms for which two differential privacy (DP) constraints hold simultaneously is studied. |
 | 2026-03-20 | [Minimax and Adaptive Covariance Matrix Estimation under Differential Privacy](https://arxiv.org/abs/2603.19703) | The covariance matrix plays a fundamental role in the analysis of high-dimensional data. |
 | 2026-03-20 | [Acyclic Graph Pattern Counting under Local Differential Privacy](https://arxiv.org/abs/2603.19671) | Graph pattern counting serves as a cornerstone of network analysis with extensive real-world applications. |
 | 2026-03-14 | [DPxFin: Adaptive Differential Privacy for Anti-Money Laundering Detection via Reputation-Weighted Federated Learning](https://arxiv.org/abs/2603.19314) | In the modern financial system, combating money laundering is a critical challenge complicated by data privacy concerns and increasingly complex fraud transaction patterns. |
