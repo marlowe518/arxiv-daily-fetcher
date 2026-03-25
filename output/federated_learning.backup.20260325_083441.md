@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-24 | [Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication](https://arxiv.org/abs/2603.22727) | This work proposes a novel immersive communication framework that leverages brain-computer interface (BCI) to acquire brain signals for inferring user-centric states (e.g., intention and... |
-| 2026-03-23 | [Communication-Efficient Approximate Gradient Coding](https://arxiv.org/abs/2603.22514) | Large-scale distributed learning aims at minimizing a loss function $L$ that depends on a training dataset with respect to a $d$-length parameter vector. |
-| 2026-03-23 | [A Theoretical Framework for Energy-Aware Gradient Pruning in Federated Learning](https://arxiv.org/abs/2603.22465) | Federated Learning (FL) is constrained by the communication and energy limitations of decentralized edge devices. |
-| 2026-03-23 | [Modeling Quantum Federated Autoencoder for Anomaly Detection in IoT Networks](https://arxiv.org/abs/2603.22366) | We propose a Quantum Federated Autoencoder for Anomaly Detection, a framework that leverages quantum federated learning for efficient, secure, and distributed processing in IoT networks. |
 | 2026-03-23 | [TrustFed: Enabling Trustworthy Medical AI under Data Privacy Constraints](https://arxiv.org/abs/2603.21656) | Protecting patient privacy remains a fundamental barrier to scaling machine learning across healthcare institutions, where centralizing sensitive data is often infeasible due to ethical, legal, and... |
 | 2026-03-23 | [FedCVU: Federated Learning for Cross-View Video Understanding](https://arxiv.org/abs/2603.21647) | Federated learning (FL) has emerged as a promising paradigm for privacy-preserving multi-camera video understanding. |
 | 2026-03-23 | [In-network Attack Detection with Federated Deep Learning in IoT Networks: Real Implementation and Analysis](https://arxiv.org/abs/2603.21596) | The rapid expansion of the Internet of Things (IoT) and its integration with backbone networks have heightened the risk of security breaches. |

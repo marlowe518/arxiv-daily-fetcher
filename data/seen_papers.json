@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-24T08:36:18.158310",
+  "last_updated": "2026-03-25T08:34:41.694646",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -7985,6 +7985,417 @@
         "cs.IR",
         "cs.AI",
         "cs.LG"
+      ]
+    },
+    "2603.23356": {
+      "arxiv_id": "2603.23356",
+      "title": "Contrastive Metric Learning for Point Cloud Segmentation in Highly Granular Detectors",
+      "authors": [
+        "Max Marriott-Clarke",
+        "Lazar Novakovic",
+        "Elizabeth Ratzer",
+        "Robert J. Bainbridge",
+        "Loukas Gouskos",
+        "Benedikt Maier"
+      ],
+      "published": "2026-03-24T15:55:36+00:00",
+      "first_seen": "2026-03-25T08:34:17.852025",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "hep-ex",
+        "cs.AI",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2603.22984": {
+      "arxiv_id": "2603.22984",
+      "title": "Can Graph Foundation Models Generalize Over Architecture?",
+      "authors": [
+        "Benjamin Gutteridge",
+        "Michael Bronstein",
+        "Xiaowen Dong"
+      ],
+      "published": "2026-03-24T09:22:25+00:00",
+      "first_seen": "2026-03-25T08:34:17.852037",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.SI"
+      ]
+    },
+    "2603.22854": {
+      "arxiv_id": "2603.22854",
+      "title": "Avoiding Over-smoothing in Social Media Rumor Detection with Pre-trained Propagation Tree Transformer",
+      "authors": [
+        "Chaoqun Cui",
+        "Caiyan Jia"
+      ],
+      "published": "2026-03-24T06:45:02+00:00",
+      "first_seen": "2026-03-25T08:34:17.852044",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    },
+    "2603.22810": {
+      "arxiv_id": "2603.22810",
+      "title": "Universal and efficient graph neural networks with dynamic attention for machine learning interatomic potentials",
+      "authors": [
+        "Shuyu Bi",
+        "Zhede Zhao",
+        "Qiangchao Sun",
+        "Tao Hu",
+        "Xionggang Lu",
+        "Hongwei Cheng"
+      ],
+      "published": "2026-03-24T05:14:33+00:00",
+      "first_seen": "2026-03-25T08:34:17.852052",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.22365": {
+      "arxiv_id": "2603.22365",
+      "title": "Q-AGNN: Quantum-Enhanced Attentive Graph Neural Network for Intrusion Detection",
+      "authors": [
+        "Devashish Chaudhary",
+        "Sutharshan Rajasegarar",
+        "Shiva Raj Pokhrel"
+      ],
+      "published": "2026-03-23T05:07:54+00:00",
+      "first_seen": "2026-03-25T08:34:17.852058",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2603.22318": {
+      "arxiv_id": "2603.22318",
+      "title": "A graph neural network based chemical mechanism reduction method for combustion applications",
+      "authors": [
+        "Manuru Nithin Padiyar",
+        "Priyabrat Dash",
+        "Konduri Aditya"
+      ],
+      "published": "2026-03-20T09:47:07+00:00",
+      "first_seen": "2026-03-25T08:34:17.852064",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.23398": {
+      "arxiv_id": "2603.23398",
+      "title": "Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation",
+      "authors": [
+        "Michal Balcerak",
+        "Suprosana Shit",
+        "Chinmay Prabhakar",
+        "Sebastian Kaltenbach",
+        "Michael S. Albergo",
+        "Yilun Du",
+        "Bjoern Menze"
+      ],
+      "published": "2026-03-24T16:35:25+00:00",
+      "first_seen": "2026-03-25T08:34:21.505908",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "stat.ML"
+      ]
+    },
+    "2603.23255": {
+      "arxiv_id": "2603.23255",
+      "title": "Permutation-Symmetrized Diffusion for Unconditional Molecular Generation",
+      "authors": [
+        "Gyeonghoon Ko",
+        "Juho Lee"
+      ],
+      "published": "2026-03-24T14:20:42+00:00",
+      "first_seen": "2026-03-25T08:34:21.505922",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.23136": {
+      "arxiv_id": "2603.23136",
+      "title": "HGNet: Scalable Foundation Model for Automated Knowledge Graph Generation from Scientific Literature",
+      "authors": [
+        "Devvrat Joshi",
+        "Islem Rekik"
+      ],
+      "published": "2026-03-24T12:35:10+00:00",
+      "first_seen": "2026-03-25T08:34:21.505930",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2603.23472": {
+      "arxiv_id": "2603.23472",
+      "title": "Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions",
+      "authors": [
+        "Rustem Islamov",
+        "Grigory Malinovsky",
+        "Alexander Gaponov",
+        "Aurelien Lucchi",
+        "Peter Richtárik",
+        "Eduard Gorbunov"
+      ],
+      "published": "2026-03-24T17:39:09+00:00",
+      "first_seen": "2026-03-25T08:34:26.434437",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "math.OC"
+      ]
+    },
+    "2603.22968": {
+      "arxiv_id": "2603.22968",
+      "title": "Beyond Theoretical Bounds: Empirical Privacy Loss Calibration for Text Rewriting Under Local Differential Privacy",
+      "authors": [
+        "Weijun Li",
+        "Arnaud Grivet Sébert",
+        "Qiongkai Xu",
+        "Annabelle McIver",
+        "Mark Dras"
+      ],
+      "published": "2026-03-24T09:05:16+00:00",
+      "first_seen": "2026-03-25T08:34:26.434447",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.CL"
+      ]
+    },
+    "2603.22563": {
+      "arxiv_id": "2603.22563",
+      "title": "Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling",
+      "authors": [
+        "Young Hyun Cho",
+        "Will Wei Sun"
+      ],
+      "published": "2026-03-23T20:45:17+00:00",
+      "first_seen": "2026-03-25T08:34:26.434454",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2603.22727": {
+      "arxiv_id": "2603.22727",
+      "title": "Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication",
+      "authors": [
+        "Chen Shang",
+        "Dinh Thai Hoang",
+        "Diep N. Nguyen",
+        "Jiadong Yu"
+      ],
+      "published": "2026-03-24T02:46:47+00:00",
+      "first_seen": "2026-03-25T08:34:34.916893",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "eess.SP"
+      ]
+    },
+    "2603.22514": {
+      "arxiv_id": "2603.22514",
+      "title": "Communication-Efficient Approximate Gradient Coding",
+      "authors": [
+        "Sifat Munim",
+        "Aditya Ramamoorthy"
+      ],
+      "published": "2026-03-23T19:23:23+00:00",
+      "first_seen": "2026-03-25T08:34:34.916903",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.IT",
+        "cs.DC"
+      ]
+    },
+    "2603.22465": {
+      "arxiv_id": "2603.22465",
+      "title": "A Theoretical Framework for Energy-Aware Gradient Pruning in Federated Learning",
+      "authors": [
+        "Emmanouil M. Athanasakos"
+      ],
+      "published": "2026-03-23T18:31:07+00:00",
+      "first_seen": "2026-03-25T08:34:34.916910",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC",
+        "cs.IT",
+        "cs.NI",
+        "stat.ML"
+      ]
+    },
+    "2603.22366": {
+      "arxiv_id": "2603.22366",
+      "title": "Modeling Quantum Federated Autoencoder for Anomaly Detection in IoT Networks",
+      "authors": [
+        "Devashish Chaudhary",
+        "Sutharshan Rajasegarar",
+        "Shiva Raj Pokhrel"
+      ],
+      "published": "2026-03-23T05:15:53+00:00",
+      "first_seen": "2026-03-25T08:34:34.916915",
+      "topic": "Federated Learning",
+      "categories": [
+        "quant-ph",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2603.23391": {
+      "arxiv_id": "2603.23391",
+      "title": "\"I Might be Using His... But It is Also Mine!\": Ownership and Control in Accounts Designed for Sharing",
+      "authors": [
+        "Ji Eun Song",
+        "Jaeyoun You",
+        "Joongseek Lee"
+      ],
+      "published": "2026-03-24T16:25:09+00:00",
+      "first_seen": "2026-03-25T08:34:35.590283",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2603.23183": {
+      "arxiv_id": "2603.23183",
+      "title": "Reasoning over Semantic IDs Enhances Generative Recommendation",
+      "authors": [
+        "Yingzhi He",
+        "Yan Sun",
+        "Junfei Tan",
+        "Yuxin Chen",
+        "Xiaoyu Kong",
+        "Chunxu Shen",
+        "Xiang Wang",
+        "An Zhang",
+        "Tat-Seng Chua"
+      ],
+      "published": "2026-03-24T13:31:48+00:00",
+      "first_seen": "2026-03-25T08:34:35.590293",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2603.23063": {
+      "arxiv_id": "2603.23063",
+      "title": "Machine Learning Models for the Early Detection of Burnout in Software Engineering: a Systematic Literature Review",
+      "authors": [
+        "Tien Rahayu Tulili",
+        "Ayushi Rastogi",
+        "Andrea Capiluppi"
+      ],
+      "published": "2026-03-24T10:58:34+00:00",
+      "first_seen": "2026-03-25T08:34:35.590300",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.SE",
+        "cs.AI",
+        "cs.CY",
+        "cs.LG"
+      ]
+    },
+    "2603.22916": {
+      "arxiv_id": "2603.22916",
+      "title": "GateSID: Adaptive Gating for Semantic-Collaborative Alignment in Cold-Start Recommendation",
+      "authors": [
+        "Hai Zhu",
+        "Yantao Yu",
+        "Lei Shen",
+        "Bing Wang",
+        "Xiaoyi Zeng"
+      ],
+      "published": "2026-03-24T08:04:41+00:00",
+      "first_seen": "2026-03-25T08:34:35.590305",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.22817": {
+      "arxiv_id": "2603.22817",
+      "title": "\"Don't Mess Up My Algorithm\": Phatic Communication and Algorithmic Contagion in Meme Sharing",
+      "authors": [
+        "Ji Eun Song",
+        "Hyunsoo Jang",
+        "Juhee Im",
+        "Joongseek Lee"
+      ],
+      "published": "2026-03-24T05:39:36+00:00",
+      "first_seen": "2026-03-25T08:34:35.590310",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2603.22673": {
+      "arxiv_id": "2603.22673",
+      "title": "Design Implications for Student and Educator Needs in AI-Supported Programming Learning Tools",
+      "authors": [
+        "Boxuan Ma",
+        "Yinjie Xie",
+        "Huiyong Li",
+        "Gen Li",
+        "Li Chen",
+        "Atsushi Shimada",
+        "Shin'Ichi Konomi"
+      ],
+      "published": "2026-03-24T00:48:02+00:00",
+      "first_seen": "2026-03-25T08:34:35.590316",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2603.22401": {
+      "arxiv_id": "2603.22401",
+      "title": "Probabilistic modeling over permutations using quantum computers",
+      "authors": [
+        "Vasilis Belis",
+        "Giulio Crognaletti",
+        "Matteo Argenton",
+        "Michele Grossi",
+        "Maria Schuld"
+      ],
+      "published": "2026-03-23T18:00:12+00:00",
+      "first_seen": "2026-03-25T08:34:35.590322",
+      "topic": "Recommender Systems",
+      "categories": [
+        "quant-ph",
+        "cs.LG"
+      ]
+    },
+    "2603.22349": {
+      "arxiv_id": "2603.22349",
+      "title": "Personalized Federated Sequential Recommender",
+      "authors": [
+        "Yicheng Di"
+      ],
+      "published": "2026-03-22T07:56:17+00:00",
+      "first_seen": "2026-03-25T08:34:35.590328",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.DB"
       ]
     }
   }

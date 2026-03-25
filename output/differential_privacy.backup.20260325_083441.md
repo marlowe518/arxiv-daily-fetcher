@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-24 | [Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions](https://arxiv.org/abs/2603.23472) | Federated Learning (FL) enables heterogeneous clients to collaboratively train a shared model without centralizing their raw data, offering an inherent level of privacy. |
-| 2026-03-24 | [Beyond Theoretical Bounds: Empirical Privacy Loss Calibration for Text Rewriting Under Local Differential Privacy](https://arxiv.org/abs/2603.22968) | The growing use of large language models has increased interest in sharing textual data in a privacy-preserving manner. |
-| 2026-03-23 | [Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling](https://arxiv.org/abs/2603.22563) | Preference-based fine-tuning has become an important component in training large language models, and the data used at this stage may contain sensitive user information. |
 | 2026-03-23 | [Towards Secure Retrieval-Augmented Generation: A Comprehensive Review of Threats, Defenses and Benchmarks](https://arxiv.org/abs/2603.21654) | Retrieval-Augmented Generation (RAG) significantly mitigates the hallucinations and domain knowledge deficiency in large language models by incorporating external knowledge bases. |
 | 2026-03-23 | [Hardening Confidential Federated Compute against Side-channel Attacks](https://arxiv.org/abs/2603.21469) | In this work, we identify a set of side-channels in our Confidential Federated Compute platform that a hypothetical insider could exploit to circumvent differential privacy (DP) guarantees. |
 | 2026-03-21 | [Composition Theorems for Multiple Differential Privacy Constraints](https://arxiv.org/abs/2603.20968) | The exact composition of mechanisms for which two differential privacy (DP) constraints hold simultaneously is studied. |
