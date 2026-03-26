@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-25 | [Identification of NMF by choosing maximum-volume basis vectors](https://arxiv.org/abs/2603.24227) | In nonnegative matrix factorization (NMF), minimum-volume-constrained NMF is a widely used framework for identifying the solution of NMF by making basis vectors as similar as possible. |
 | 2026-03-19 | [Fast and Effective Computation of Generalized Symmetric Matrix Factorization](https://arxiv.org/abs/2603.19147) | In this paper, we study a nonconvex, nonsmooth, and non-Lipschitz generalized symmetric matrix factorization model that unifies a broad class of matrix factorization formulations arising in machine... |
 | 2026-03-19 | [MLOW: Interpretable Low-Rank Frequency Magnitude Decomposition of Multiple Effects for Time Series Forecasting](https://arxiv.org/abs/2603.18432) | Separating multiple effects in time series is fundamental yet challenging for time-series forecasting (TSF). |
 | 2026-03-18 | [Identifying Latent Actions and Dynamics from Offline Data via Demonstrator Diversity](https://arxiv.org/abs/2603.17577) | Can latent actions and environment dynamics be recovered from offline trajectories when actions are never observed? |

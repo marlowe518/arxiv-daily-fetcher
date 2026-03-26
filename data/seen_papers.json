@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-03-25T08:34:41.694646",
+  "last_updated": "2026-03-26T08:39:06.600728",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -8396,6 +8396,316 @@
       "categories": [
         "cs.IR",
         "cs.DB"
+      ]
+    },
+    "2603.24577": {
+      "arxiv_id": "2603.24577",
+      "title": "EndoVGGT: GNN-Enhanced Depth Estimation for Surgical 3D Reconstruction",
+      "authors": [
+        "Falong Fan",
+        "Yi Xie",
+        "Arnis Lektauers",
+        "Bo Liu",
+        "Jerzy Rozenblit"
+      ],
+      "published": "2026-03-25T17:53:34+00:00",
+      "first_seen": "2026-03-26T08:38:42.945494",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    "2603.24304": {
+      "arxiv_id": "2603.24304",
+      "title": "CGRL: Causal-Guided Representation Learning for Graph Out-of-Distribution Generalization",
+      "authors": [
+        "Bowen Lu",
+        "Liangqiang Yang",
+        "Teng Li"
+      ],
+      "published": "2026-03-25T13:43:22+00:00",
+      "first_seen": "2026-03-26T08:38:42.945506",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2603.24291": {
+      "arxiv_id": "2603.24291",
+      "title": "Cost-Sensitive Neighborhood Aggregation for Heterophilous Graphs: When Does Per-Edge Routing Help?",
+      "authors": [
+        "Eyal Weiss"
+      ],
+      "published": "2026-03-25T13:28:31+00:00",
+      "first_seen": "2026-03-26T08:38:42.945513",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.24265": {
+      "arxiv_id": "2603.24265",
+      "title": "DeepDTF: Dual-Branch Transformer Fusion for Multi-Omics Anticancer Drug Response Prediction",
+      "authors": [
+        "Yuhan Zhao",
+        "Jacob Tennant",
+        "James Yang",
+        "Zhishan Guo",
+        "Young Whang",
+        "Ning Sui"
+      ],
+      "published": "2026-03-25T12:58:07+00:00",
+      "first_seen": "2026-03-26T08:38:42.945520",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.24131": {
+      "arxiv_id": "2603.24131",
+      "title": "Reservoir-Based Graph Convolutional Networks",
+      "authors": [
+        "Mayssa Soussia",
+        "Gita Ayu Salsabila",
+        "Mohamed Ali Mahjoub",
+        "Islem Rekik"
+      ],
+      "published": "2026-03-25T09:50:50+00:00",
+      "first_seen": "2026-03-26T08:38:42.945526",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CV"
+      ]
+    },
+    "2603.24101": {
+      "arxiv_id": "2603.24101",
+      "title": "KCLNet: Electrically Equivalence-Oriented Graph Representation Learning for Analog Circuits",
+      "authors": [
+        "Peng Xu",
+        "Yapeng Li",
+        "Tinghuan Chen",
+        "Tsung-Yi Ho",
+        "Bei Yu"
+      ],
+      "published": "2026-03-25T09:06:19+00:00",
+      "first_seen": "2026-03-26T08:38:42.945532",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.24076": {
+      "arxiv_id": "2603.24076",
+      "title": "The impact of sensor placement on graph-neural-network-based leakage detection",
+      "authors": [
+        "J. J. H. van Gemert",
+        "V. Breschi",
+        "D. R. Yntema",
+        "K. J. Keesman",
+        "M. Lazar"
+      ],
+      "published": "2026-03-25T08:31:37+00:00",
+      "first_seen": "2026-03-26T08:38:42.945537",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2603.23584": {
+      "arxiv_id": "2603.23584",
+      "title": "LineMVGNN: Anti-Money Laundering with Line-Graph-Assisted Multi-View Graph Neural Networks",
+      "authors": [
+        "Chung-Hoo Poon",
+        "James Kwok",
+        "Calvin Chow",
+        "Jang-Hyeon Choi"
+      ],
+      "published": "2026-03-24T16:17:21+00:00",
+      "first_seen": "2026-03-26T08:38:42.945549",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "q-fin.CP"
+      ]
+    },
+    "2603.24392": {
+      "arxiv_id": "2603.24392",
+      "title": "Federated fairness-aware classification under differential privacy",
+      "authors": [
+        "Gengyu Xue",
+        "Yi Yu"
+      ],
+      "published": "2026-03-25T15:09:12+00:00",
+      "first_seen": "2026-03-26T08:38:51.532824",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "stat.ME"
+      ]
+    },
+    "2603.24003": {
+      "arxiv_id": "2603.24003",
+      "title": "PAC-DP: Personalized Adaptive Clipping for Differentially Private Federated Learning",
+      "authors": [
+        "Hao Zhou",
+        "Siqi Cai",
+        "Hua Dai",
+        "Geng Yang",
+        "Jing Luo",
+        "Hui Cai"
+      ],
+      "published": "2026-03-25T07:06:33+00:00",
+      "first_seen": "2026-03-26T08:38:51.532835",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2603.24209": {
+      "arxiv_id": "2603.24209",
+      "title": "HEART-PFL: Stable Personalized Federated Learning under Heterogeneity with Hierarchical Directional Alignment and Adversarial Knowledge Transfer",
+      "authors": [
+        "Minjun Kim",
+        "Minje Kim"
+      ],
+      "published": "2026-03-25T11:35:07+00:00",
+      "first_seen": "2026-03-26T08:38:57.489264",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2603.23574": {
+      "arxiv_id": "2603.23574",
+      "title": "PoiCGAN: A Targeted Poisoning Based on Feature-Label Joint Perturbation in Federated Learning",
+      "authors": [
+        "Tao Liu",
+        "Jiguang Lv",
+        "Dapeng Man",
+        "Weiye Xi",
+        "Yaole Li",
+        "Feiyu Zhao",
+        "Kuiming Wang",
+        "Yingchao Bian",
+        "Chen Xu",
+        "Wu Yang"
+      ],
+      "published": "2026-03-24T13:08:53+00:00",
+      "first_seen": "2026-03-26T08:38:57.489282",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2603.24396": {
+      "arxiv_id": "2603.24396",
+      "title": "Exploring How Fair Model Representations Relate to Fair Recommendations",
+      "authors": [
+        "Bjørnar Vassøy",
+        "Benjamin Kille",
+        "Helge Langseth"
+      ],
+      "published": "2026-03-25T15:12:20+00:00",
+      "first_seen": "2026-03-26T08:39:00.454180",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2603.24226": {
+      "arxiv_id": "2603.24226",
+      "title": "UniScale: Synergistic Entire Space Data and Model Scaling for Search Ranking",
+      "authors": [
+        "Liren Yu",
+        "Caiyuan Li",
+        "Feiyi Dong",
+        "Tao Zhang",
+        "Zhixuan Zhang",
+        "Dan Ou",
+        "Haihong Tang",
+        "Bo Zheng"
+      ],
+      "published": "2026-03-25T12:00:26+00:00",
+      "first_seen": "2026-03-26T08:39:00.454191",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2603.24136": {
+      "arxiv_id": "2603.24136",
+      "title": "Sequence-aware Large Language Models for Explainable Recommendation",
+      "authors": [
+        "Gangyi Zhang",
+        "Runzhe Teng",
+        "Chongming Gao"
+      ],
+      "published": "2026-03-25T10:00:13+00:00",
+      "first_seen": "2026-03-26T08:39:00.454200",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2603.24132": {
+      "arxiv_id": "2603.24132",
+      "title": "MedAidDialog: A Multilingual Multi-Turn Medical Dialogue Dataset for Accessible Healthcare",
+      "authors": [
+        "Shubham Kumar Nigam",
+        "Suparnojit Sarkar",
+        "Piyush Patel"
+      ],
+      "published": "2026-03-25T09:51:44+00:00",
+      "first_seen": "2026-03-26T08:39:00.454206",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2603.23780": {
+      "arxiv_id": "2603.23780",
+      "title": "Lightweight Fairness for LLM-Based Recommendations via Kernelized Projection and Gated Adapters",
+      "authors": [
+        "Nan Cui",
+        "Wendy Hui Wang",
+        "Yue Ning"
+      ],
+      "published": "2026-03-24T23:26:04+00:00",
+      "first_seen": "2026-03-26T08:39:00.454212",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2603.24227": {
+      "arxiv_id": "2603.24227",
+      "title": "Identification of NMF by choosing maximum-volume basis vectors",
+      "authors": [
+        "Qianqian Qi",
+        "Zhongming Chen",
+        "Peter G. M. van der Heijden"
+      ],
+      "published": "2026-03-25T12:00:53+00:00",
+      "first_seen": "2026-03-26T08:39:03.434050",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG",
+        "stat.ME"
       ]
     }
   }

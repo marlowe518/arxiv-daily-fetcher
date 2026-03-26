@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-25 | [Federated fairness-aware classification under differential privacy](https://arxiv.org/abs/2603.24392) | Privacy and algorithmic fairness have become two central issues in modern machine learning. |
-| 2026-03-25 | [PAC-DP: Personalized Adaptive Clipping for Differentially Private Federated Learning](https://arxiv.org/abs/2603.24003) | Differential privacy (DP) is crucial for safeguarding sensitive client information in federated learning (FL), yet traditional DP-FL methods rely predominantly on fixed gradient clipping thresholds. |
 | 2026-03-24 | [Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions](https://arxiv.org/abs/2603.23472) | Federated Learning (FL) enables heterogeneous clients to collaboratively train a shared model without centralizing their raw data, offering an inherent level of privacy. |
 | 2026-03-24 | [Beyond Theoretical Bounds: Empirical Privacy Loss Calibration for Text Rewriting Under Local Differential Privacy](https://arxiv.org/abs/2603.22968) | The growing use of large language models has increased interest in sharing textual data in a privacy-preserving manner. |
 | 2026-03-23 | [Privacy-Preserving Reinforcement Learning from Human Feedback via Decoupled Reward Modeling](https://arxiv.org/abs/2603.22563) | Preference-based fine-tuning has become an important component in training large language models, and the data used at this stage may contain sensitive user information. |

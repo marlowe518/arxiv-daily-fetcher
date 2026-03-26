@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-25 | [HEART-PFL: Stable Personalized Federated Learning under Heterogeneity with Hierarchical Directional Alignment and Adversarial Knowledge Transfer](https://arxiv.org/abs/2603.24209) | Personalized Federated Learning (PFL) aims to deliver effective client-specific models under heterogeneous distributions, yet existing methods suffer from shallow prototype alignment and brittle... |
-| 2026-03-24 | [PoiCGAN: A Targeted Poisoning Based on Feature-Label Joint Perturbation in Federated Learning](https://arxiv.org/abs/2603.23574) | Federated Learning (FL), as a popular distributed learning paradigm, has shown outstanding performance in improving computational efficiency and protecting data privacy, and is widely applied in... |
 | 2026-03-24 | [Spiking Personalized Federated Learning for Brain-Computer Interface-Enabled Immersive Communication](https://arxiv.org/abs/2603.22727) | This work proposes a novel immersive communication framework that leverages brain-computer interface (BCI) to acquire brain signals for inferring user-centric states (e.g., intention and... |
 | 2026-03-23 | [Communication-Efficient Approximate Gradient Coding](https://arxiv.org/abs/2603.22514) | Large-scale distributed learning aims at minimizing a loss function $L$ that depends on a training dataset with respect to a $d$-length parameter vector. |
 | 2026-03-23 | [A Theoretical Framework for Energy-Aware Gradient Pruning in Federated Learning](https://arxiv.org/abs/2603.22465) | Federated Learning (FL) is constrained by the communication and energy limitations of decentralized edge devices. |
