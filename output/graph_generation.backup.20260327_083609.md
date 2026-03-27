@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-26 | [Modernising Reinforcement Learning-Based Navigation for Embodied Semantic Scene Graph Generation](https://arxiv.org/abs/2603.25415) | Semantic world models enable embodied agents to reason about objects, relations, and spatial context beyond purely geometric representations. |
-| 2026-03-26 | [SIGMA: Structure-Invariant Generative Molecular Alignment for Chemical Language Models via Autoregressive Contrastive Learning](https://arxiv.org/abs/2603.25062) | Linearized string representations serve as the foundation of scalable autoregressive molecular generation; however, they introduce a fundamental modality mismatch where a single molecular graph maps... |
 | 2026-03-24 | [Graph Energy Matching: Transport-Aligned Energy-Based Modeling for Graph Generation](https://arxiv.org/abs/2603.23398) | Energy-based models for discrete domains, such as graphs, explicitly capture relative likelihoods, naturally enabling composable probabilistic inference tasks like conditional generation or enforcing... |
 | 2026-03-24 | [Permutation-Symmetrized Diffusion for Unconditional Molecular Generation](https://arxiv.org/abs/2603.23255) | Permutation invariance is fundamental in molecular point-cloud generation, yet most diffusion models enforce it indirectly via permutation-equivariant networks on an ordered space. |
 | 2026-03-24 | [HGNet: Scalable Foundation Model for Automated Knowledge Graph Generation from Scientific Literature](https://arxiv.org/abs/2603.23136) | Automated knowledge graph (KG) construction is essential for navigating the rapidly expanding body of scientific literature. |

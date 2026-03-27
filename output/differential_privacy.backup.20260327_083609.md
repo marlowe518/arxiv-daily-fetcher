@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-25 | [Synthetic Cardiac MRI Image Generation using Deep Generative Models](https://arxiv.org/abs/2603.24764) | Synthetic cardiac MRI (CMRI) generation has emerged as a promising strategy to overcome the scarcity of annotated medical imaging data. |
-| 2026-03-25 | [Amplified Patch-Level Differential Privacy for Free via Random Cropping](https://arxiv.org/abs/2603.24695) | Random cropping is one of the most common data augmentation techniques in computer vision, yet the role of its inherent randomness in training differentially private machine learning models has thus... |
 | 2026-03-25 | [Federated fairness-aware classification under differential privacy](https://arxiv.org/abs/2603.24392) | Privacy and algorithmic fairness have become two central issues in modern machine learning. |
 | 2026-03-25 | [PAC-DP: Personalized Adaptive Clipping for Differentially Private Federated Learning](https://arxiv.org/abs/2603.24003) | Differential privacy (DP) is crucial for safeguarding sensitive client information in federated learning (FL), yet traditional DP-FL methods rely predominantly on fixed gradient clipping thresholds. |
 | 2026-03-24 | [Byzantine-Robust and Differentially Private Federated Optimization under Weaker Assumptions](https://arxiv.org/abs/2603.23472) | Federated Learning (FL) enables heterogeneous clients to collaboratively train a shared model without centralizing their raw data, offering an inherent level of privacy. |
