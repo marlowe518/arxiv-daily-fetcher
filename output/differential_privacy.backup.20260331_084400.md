@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-30 | [Key-Embedded Privacy for Decentralized AI in Biomedical Omics](https://arxiv.org/abs/2603.28334) | The rapid adoption of data-driven methods in biomedicine has intensified concerns over privacy, governance, and regulation, limiting raw data sharing and hindering the assembly of representative... |
-| 2026-03-27 | [Privacy-Accuracy Trade-offs in High-Dimensional LASSO under Perturbation Mechanisms](https://arxiv.org/abs/2603.26227) | We study privacy-preserving sparse linear regression in the high-dimensional regime, focusing on the LASSO estimator. |
-| 2026-03-27 | [Protecting User Prompts Via Character-Level Differential Privacy](https://arxiv.org/abs/2603.26032) | Large Language Models (LLMs) generate responses based on user prompts. |
 | 2026-03-25 | [Synthetic Cardiac MRI Image Generation using Deep Generative Models](https://arxiv.org/abs/2603.24764) | Synthetic cardiac MRI (CMRI) generation has emerged as a promising strategy to overcome the scarcity of annotated medical imaging data. |
 | 2026-03-25 | [Amplified Patch-Level Differential Privacy for Free via Random Cropping](https://arxiv.org/abs/2603.24695) | Random cropping is one of the most common data augmentation techniques in computer vision, yet the role of its inherent randomness in training differentially private machine learning models has thus... |
 | 2026-03-25 | [Federated fairness-aware classification under differential privacy](https://arxiv.org/abs/2603.24392) | Privacy and algorithmic fairness have become two central issues in modern machine learning. |
