@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-01 | [Differentially Private Manifold Denoising](https://arxiv.org/abs/2604.00942) | We introduce a differentially private manifold denoising framework that allows users to exploit sensitive reference datasets to correct noisy, non-private query points without compromising privacy. |
-| 2026-03-30 | [Differential Privacy for Symbolic Trajectories via the Permute-and-Flip Mechanism](https://arxiv.org/abs/2603.28903) | Privacy techniques have been developed for data-driven systems, but systems with non-numeric data cannot use typical noise-adding techniques. |
 | 2026-03-30 | [Key-Embedded Privacy for Decentralized AI in Biomedical Omics](https://arxiv.org/abs/2603.28334) | The rapid adoption of data-driven methods in biomedicine has intensified concerns over privacy, governance, and regulation, limiting raw data sharing and hindering the assembly of representative... |
 | 2026-03-27 | [Privacy-Accuracy Trade-offs in High-Dimensional LASSO under Perturbation Mechanisms](https://arxiv.org/abs/2603.26227) | We study privacy-preserving sparse linear regression in the high-dimensional regime, focusing on the LASSO estimator. |
 | 2026-03-27 | [Protecting User Prompts Via Character-Level Differential Privacy](https://arxiv.org/abs/2603.26032) | Large Language Models (LLMs) generate responses based on user prompts. |

@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-31 | [Nonnegative Matrix Factorization in the Component-Wise L1 Norm for Sparse Data](https://arxiv.org/abs/2603.29715) | Nonnegative matrix factorization (NMF) approximates a nonnegative matrix, $X$, by the product of two nonnegative factors, $WH$, where $W$ has $r$ columns and $H$ has $r$ rows. |
 | 2026-03-28 | [On the Loss Landscape Geometry of Regularized Deep Matrix Factorization: Uniqueness and Sharpness](https://arxiv.org/abs/2603.27072) | Weight decay is ubiquitous in training deep neural network architectures. |
 | 2026-03-27 | [STN-GPR: A Singularity Tensor Network Framework for Efficient Option Pricing](https://arxiv.org/abs/2603.26318) | We develop a tensor-network surrogate for option pricing, targeting large-scale portfolio revaluation problems arising in market risk management (e.g., VaR and Expected Shortfall computations). |
 | 2026-03-25 | [Identification of NMF by choosing maximum-volume basis vectors](https://arxiv.org/abs/2603.24227) | In nonnegative matrix factorization (NMF), minimum-volume-constrained NMF is a widely used framework for identifying the solution of NMF by making basis vectors as similar as possible. |

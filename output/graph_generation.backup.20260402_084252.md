@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-31 | [Hierarchical Discrete Flow Matching for Graph Generation](https://arxiv.org/abs/2604.00236) | Denoising-based models, including diffusion and flow matching, have led to substantial advances in graph generation. |
 | 2026-03-30 | [Unrestrained Simplex Denoising for Discrete Data. A Non-Markovian Approach Applied to Graph Generation](https://arxiv.org/abs/2603.28572) | Denoising models such as Diffusion or Flow Matching have recently advanced generative modeling for discrete structures, yet most approaches either operate directly in the discrete state space,... |
 | 2026-03-28 | [Hierarchy-Guided Topology Latent Flow for Molecular Graph Generation](https://arxiv.org/abs/2603.27113) | Generating chemically valid 3D molecules is hindered by discrete bond topology: small local bond errors can cause global failures (valence violations, disconnections, implausible rings), especially... |
 | 2026-03-27 | [Property-Guided Molecular Generation and Optimization via Latent Flows](https://arxiv.org/abs/2603.26889) | Molecular discovery is increasingly framed as an inverse design problem: identifying molecular structures that satisfy desired property profiles under feasibility constraints. |

@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-03-31 | [Efficient and Scalable Granular-ball Graph Coarsening Method for Large-scale Graph Node Classification](https://arxiv.org/abs/2603.29148) | Graph Convolutional Network (GCN) is a model that can effectively handle graph data tasks and has been successfully applied. |
 | 2026-03-07 | [StructSAM: Structure- and Spectrum-Preserving Token Merging for Segment Anything Models](https://arxiv.org/abs/2603.07307) | Recent token merging techniques for Vision Transformers (ViTs) provide substantial speedups by reducing the number of tokens processed by self-attention, often without retraining. |
 | 2026-02-22 | [CTS-Bench: Benchmarking Graph Coarsening Trade-offs for GNNs in Clock Tree Synthesis](https://arxiv.org/abs/2602.19330) | Graph Neural Networks (GNNs) are increasingly explored for physical design analysis in Electronic Design Automation, particularly for modeling Clock Tree Synthesis behavior such as clock skew and... |
 | 2026-02-07 | [Compact Conformal Subgraphs](https://arxiv.org/abs/2602.07530) | Conformal prediction provides rigorous, distribution-free uncertainty guarantees, but often yields prohibitively large prediction sets in structured domains such as routing, planning, or sequential... |
