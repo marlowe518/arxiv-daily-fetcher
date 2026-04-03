@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-01 | [UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression](https://arxiv.org/abs/2604.01305) | Reconstructing high-dimensional spatiotemporal fields from sparse sensor measurements is critical in a wide range of scientific applications. |
 | 2026-03-31 | [Loss Gap Parity for Fairness in Heterogeneous Federated Learning](https://arxiv.org/abs/2603.29818) | While clients may join federated learning to improve performance on data they rarely observe locally, they often remain self-interested, expecting the global model to perform well on their own data. |
 | 2026-03-31 | [Client-Verifiable and Efficient Federated Unlearning in Low-Altitude Wireless Networks](https://arxiv.org/abs/2603.29688) | In low-altitude wireless networks (LAWN), federated learning (FL) enables collaborative intelligence among unmanned aerial vehicles (UAVs) and integrated sensing and communication (ISAC) devices... |
 | 2026-03-31 | [Beyond Corner Patches: Semantics-Aware Backdoor Attack in Federated Learning](https://arxiv.org/abs/2603.29328) | Backdoor attacks on federated learning (FL) are most often evaluated with synthetic corner patches or out-of-distribution (OOD) patterns that are unlikely to arise in practice. |

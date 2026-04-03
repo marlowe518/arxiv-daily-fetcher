@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-02 | [Crystalite: A Lightweight Transformer for Efficient Crystal Modeling](https://arxiv.org/abs/2604.02270) | Generative models for crystalline materials often rely on equivariant graph neural networks, which capture geometric structure well but are costly to train and slow to sample. |
-| 2026-04-02 | [Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives](https://arxiv.org/abs/2604.02250) | Understanding causal dependencies in observational data is critical for informing decision-making. |
-| 2026-04-02 | [Physics Informed Reinforcement Learning with Gibbs Priors for Topology Control in Power Grids](https://arxiv.org/abs/2604.01830) | Topology control for power grid operation is a challenging sequential decision making problem because the action space grows combinatorially with the size of the grid and action evaluation through... |
 | 2026-04-01 | [EmbedPart: Embedding-Driven Graph Partitioning for Scalable Graph Neural Network Training](https://arxiv.org/abs/2604.01000) | Graph Neural Networks (GNNs) are widely used for learning on graph-structured data, but scaling GNN training to massive graphs remains challenging. |
 | 2026-04-01 | [Generalization Bounds for Spectral GNNs via Fourier Domain Analysis](https://arxiv.org/abs/2604.00918) | Spectral graph neural networks learn graph filters, but their behavior with increasing depth and polynomial order is not well understood. |
 | 2026-04-01 | [Predicting Dynamics of Ultra-Large Complex Systems by Inferring Governing Equations](https://arxiv.org/abs/2604.00599) | Predicting the behavior of ultra-large complex systems, from climate to biological and technological networks, is a central unsolved challenge. |

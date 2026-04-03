@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-02T08:42:52.441005",
+  "last_updated": "2026-04-03T08:37:56.560129",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -10701,6 +10701,166 @@
         "eess.SP",
         "math.OC",
         "stat.ML"
+      ]
+    },
+    "2604.02270": {
+      "arxiv_id": "2604.02270",
+      "title": "Crystalite: A Lightweight Transformer for Efficient Crystal Modeling",
+      "authors": [
+        "Tin Hadži Veljković",
+        "Joshua Rosenthal",
+        "Ivor Lončarić",
+        "Jan-Willem van de Meent"
+      ],
+      "published": "2026-04-02T17:03:42+00:00",
+      "first_seen": "2026-04-03T08:37:32.840785",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.02250": {
+      "arxiv_id": "2604.02250",
+      "title": "Smoothing the Landscape: Causal Structure Learning via Diffusion Denoising Objectives",
+      "authors": [
+        "Hao Zhu",
+        "Di Zhou",
+        "Donna Slonim"
+      ],
+      "published": "2026-04-02T16:41:20+00:00",
+      "first_seen": "2026-04-03T08:37:32.840807",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2604.01830": {
+      "arxiv_id": "2604.01830",
+      "title": "Physics Informed Reinforcement Learning with Gibbs Priors for Topology Control in Power Grids",
+      "authors": [
+        "Pantelis Dogoulis",
+        "Maxime Cordy"
+      ],
+      "published": "2026-04-02T09:45:35+00:00",
+      "first_seen": "2026-04-03T08:37:32.840824",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2604.02248": {
+      "arxiv_id": "2604.02248",
+      "title": "BVFLMSP : Bayesian Vertical Federated Learning for Multimodal Survival with Privacy",
+      "authors": [
+        "Abhilash Kar",
+        "Basisth Saha",
+        "Tanmay Sen",
+        "Biswabrata Pradhan"
+      ],
+      "published": "2026-04-02T16:37:44+00:00",
+      "first_seen": "2026-04-03T08:37:41.566782",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2604.01305": {
+      "arxiv_id": "2604.01305",
+      "title": "UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression",
+      "authors": [
+        "Mars Liyao Gao",
+        "Yuxuan Bao",
+        "Amy S. Rude",
+        "Xinwei Shen",
+        "J. Nathan Kutz"
+      ],
+      "published": "2026-04-01T18:18:09+00:00",
+      "first_seen": "2026-04-03T08:37:47.973289",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CE"
+      ]
+    },
+    "2604.02324": {
+      "arxiv_id": "2604.02324",
+      "title": "Grounded Token Initialization for New Vocabulary in LMs for Generative Recommendation",
+      "authors": [
+        "Daiwei Chen",
+        "Zhoutong Fu",
+        "Chengming Jiang",
+        "Haichao Zhang",
+        "Ran Zhou",
+        "Tan Wang",
+        "Chunnan Yao",
+        "Guoyao Li",
+        "Rui Cai",
+        "Yihan Cao",
+        "Ruijie Jiang",
+        "Fedor Borisyuk",
+        "Jianqiang Shen",
+        "Jingwei Wu",
+        "Ramya Korlakai Vinayak"
+      ],
+      "published": "2026-04-02T17:59:19+00:00",
+      "first_seen": "2026-04-03T08:37:50.542440",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.02211": {
+      "arxiv_id": "2604.02211",
+      "title": "Multi-Agent Video Recommenders: Evolution, Patterns, and Open Challenges",
+      "authors": [
+        "Srivaths Ranganathan",
+        "Abhishek Dharmaratnakar",
+        "Anushree Sinha",
+        "Debanshu Das"
+      ],
+      "published": "2026-04-02T16:04:52+00:00",
+      "first_seen": "2026-04-03T08:37:50.542452",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    "2604.01733": {
+      "arxiv_id": "2604.01733",
+      "title": "From BM25 to Corrective RAG: Benchmarking Retrieval Strategies for Text-and-Table Documents",
+      "authors": [
+        "Meftun Akarsu",
+        "Recep Kaan Karaman",
+        "Christopher Mierbach"
+      ],
+      "published": "2026-04-02T07:53:40+00:00",
+      "first_seen": "2026-04-03T08:37:50.542461",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CL"
+      ]
+    },
+    "2604.01449": {
+      "arxiv_id": "2604.01449",
+      "title": "When AI Gets it Wong: Reliability and Risk in AI-Assisted Medication Decision Systems",
+      "authors": [
+        "Khalid Adnan Alsayed"
+      ],
+      "published": "2026-04-01T22:53:17+00:00",
+      "first_seen": "2026-04-03T08:37:50.542468",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
       ]
     }
   }

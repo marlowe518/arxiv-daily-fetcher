@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-02 | [BVFLMSP : Bayesian Vertical Federated Learning for Multimodal Survival with Privacy](https://arxiv.org/abs/2604.02248) | Multimodal time-to-event prediction often requires integrating sensitive data distributed across multiple parties, making centralized model training impractical due to privacy constraints. |
 | 2026-04-01 | [Differentially Private Manifold Denoising](https://arxiv.org/abs/2604.00942) | We introduce a differentially private manifold denoising framework that allows users to exploit sensitive reference datasets to correct noisy, non-private query points without compromising privacy. |
 | 2026-03-30 | [Differential Privacy for Symbolic Trajectories via the Permute-and-Flip Mechanism](https://arxiv.org/abs/2603.28903) | Privacy techniques have been developed for data-driven systems, but systems with non-numeric data cannot use typical noise-adding techniques. |
 | 2026-03-30 | [Key-Embedded Privacy for Decentralized AI in Biomedical Omics](https://arxiv.org/abs/2603.28334) | The rapid adoption of data-driven methods in biomedicine has intensified concerns over privacy, governance, and regulation, limiting raw data sharing and hindering the assembly of representative... |
