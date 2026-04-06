@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-05T08:29:32.733049",
+  "last_updated": "2026-04-06T08:58:48.699487",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -10860,6 +10860,314 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.03154": {
+      "arxiv_id": "2604.03154",
+      "title": "DSBD: Dual-Aligned Structural Basis Distillation for Graph Domain Adaptation",
+      "authors": [
+        "Yingxu Wang",
+        "Kunyu Zhang",
+        "Jiaxin Huang",
+        "Mengzhu Wang",
+        "Mingyan Xiao",
+        "Siyang Gao",
+        "Nan Yin"
+      ],
+      "published": "2026-04-03T16:23:59+00:00",
+      "first_seen": "2026-04-06T08:58:25.091260",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.02876": {
+      "arxiv_id": "2604.02876",
+      "title": "Toward an Operational GNN-Based Multimesh Surrogate for Fast Flood Forecasting",
+      "authors": [
+        "Valentin Mercier",
+        "Serge Gratton",
+        "Lapeyre Corentin",
+        "Gwenaël Chevallet"
+      ],
+      "published": "2026-04-03T08:42:51+00:00",
+      "first_seen": "2026-04-06T08:58:25.091272",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.02756": {
+      "arxiv_id": "2604.02756",
+      "title": "STDDN: A Physics-Guided Deep Learning Framework for Crowd Simulation",
+      "authors": [
+        "Zijin Liu",
+        "Xu Geng",
+        "Wenshuai Xu",
+        "Xiang Zhao",
+        "Yan Xia",
+        "You Song"
+      ],
+      "published": "2026-04-03T06:06:04+00:00",
+      "first_seen": "2026-04-06T08:58:25.091281",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.02651": {
+      "arxiv_id": "2604.02651",
+      "title": "Communication-free Sampling and 4D Hybrid Parallelism for Scalable Mini-batch GNN Training",
+      "authors": [
+        "Cunyang Wei",
+        "Siddharth Singh",
+        "Aishwarya Sarkar",
+        "Daniel Nichols",
+        "Tisha Patel",
+        "Aditya K. Ranjan",
+        "Sayan Ghosh",
+        "Ali Jannesari",
+        "Nathan R. Tallent",
+        "Abhinav Bhatele"
+      ],
+      "published": "2026-04-03T02:30:27+00:00",
+      "first_seen": "2026-04-06T08:58:25.091288",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2604.02633": {
+      "arxiv_id": "2604.02633",
+      "title": "Analytic Drift Resister for Non-Exemplar Continual Graph Learning",
+      "authors": [
+        "Lei Song",
+        "Shihan Guan",
+        "Youyong Kong"
+      ],
+      "published": "2026-04-03T01:58:11+00:00",
+      "first_seen": "2026-04-06T08:58:25.091295",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.02615": {
+      "arxiv_id": "2604.02615",
+      "title": "Complex-Valued GNNs for Distributed Basis-Invariant Control of Planar Systems",
+      "authors": [
+        "Samuel Honor",
+        "Mohamed Abdelnaby",
+        "Kevin Leahy"
+      ],
+      "published": "2026-04-03T01:08:39+00:00",
+      "first_seen": "2026-04-06T08:58:25.091301",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.02477": {
+      "arxiv_id": "2604.02477",
+      "title": "Guideline2Graph: Profile-Aware Multimodal Parsing for Executable Clinical Decision Graphs",
+      "authors": [
+        "Onur Selim Kilic",
+        "Yeti Z. Gurbuz",
+        "Cem O. Yaldiz",
+        "Afra Nawar",
+        "Etrit Haxholli",
+        "Ogul Can",
+        "Eli Waxman"
+      ],
+      "published": "2026-04-02T19:21:31+00:00",
+      "first_seen": "2026-04-06T08:58:28.194578",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2604.02558": {
+      "arxiv_id": "2604.02558",
+      "title": "Communication-Efficient Distributed Learning with Differential Privacy",
+      "authors": [
+        "Xiaoxing Ren",
+        "Yuwen Ma",
+        "Nicola Bastianello",
+        "Karl H. Johansson",
+        "Thomas Parisini",
+        "Andreas A. Malikopoulos"
+      ],
+      "published": "2026-04-02T22:19:58+00:00",
+      "first_seen": "2026-04-06T08:58:33.700368",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "math.OC"
+      ]
+    },
+    "2604.03226": {
+      "arxiv_id": "2604.03226",
+      "title": "Enhancing Robustness of Federated Learning via Server Learning",
+      "authors": [
+        "Van Sy Mai",
+        "Kushal Chakrabarti",
+        "Richard J. La",
+        "Dipankar Maity"
+      ],
+      "published": "2026-04-03T17:51:29+00:00",
+      "first_seen": "2026-04-06T08:58:39.795030",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.02990": {
+      "arxiv_id": "2604.02990",
+      "title": "FedSQ: Optimized Weight Averaging via Fixed Gating",
+      "authors": [
+        "Cristian Pérez-Corral",
+        "Jose I. Mestre",
+        "Alberto Fernández-Hernández",
+        "Manuel F. Dolz",
+        "José Duato",
+        "Enrique S. Quintana-Ortí"
+      ],
+      "published": "2026-04-03T11:54:23+00:00",
+      "first_seen": "2026-04-06T08:58:39.795041",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2604.02372": {
+      "arxiv_id": "2604.02372",
+      "title": "Backdoor Attacks on Decentralised Post-Training",
+      "authors": [
+        "Oğuzhan Ersoy",
+        "Nikolay Blagoev",
+        "Jona te Lintelo",
+        "Stefanos Koffas",
+        "Marina Krček",
+        "Stjepan Picek"
+      ],
+      "published": "2026-03-31T16:00:40+00:00",
+      "first_seen": "2026-04-06T08:58:39.795048",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2604.03014": {
+      "arxiv_id": "2604.03014",
+      "title": "User-Aware Conditional Generative Total Correlation Learning for Multi-Modal Recommendation",
+      "authors": [
+        "Jing Du",
+        "Zesheng Ye",
+        "Congbo Ma",
+        "Feng Liu",
+        "Flora. D. Salim"
+      ],
+      "published": "2026-04-03T12:56:58+00:00",
+      "first_seen": "2026-04-06T08:58:43.099500",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2604.02833": {
+      "arxiv_id": "2604.02833",
+      "title": "Bilateral Intent-Enhanced Sequential Recommendation with Embedding Perturbation-Based Contrastive Learning",
+      "authors": [
+        "Shanfan Zhang",
+        "Yongyi Lin",
+        "Yuan Rao"
+      ],
+      "published": "2026-04-03T07:55:04+00:00",
+      "first_seen": "2026-04-06T08:58:43.099511",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.02684": {
+      "arxiv_id": "2604.02684",
+      "title": "MBGR: Multi-Business Prediction for Generative Recommendation at Meituan",
+      "authors": [
+        "Changhao Li",
+        "Junwei Yin",
+        "Zhilin Zeng",
+        "Senjie Kou",
+        "Shuli Wang",
+        "Wenshuai Chen",
+        "Yinhua Zhu",
+        "Haitao Wang",
+        "Xingxing Wang"
+      ],
+      "published": "2026-04-03T03:26:36+00:00",
+      "first_seen": "2026-04-06T08:58:43.099518",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.02539": {
+      "arxiv_id": "2604.02539",
+      "title": "Synapse: Evolving Job-Person Fit with Explainable Two-phase Retrieval and LLM-guided Genetic Resume Optimization",
+      "authors": [
+        "Ansel Kaplan Erol",
+        "Seohee Yoon",
+        "Keenan Hom",
+        "Xisheng Zhang"
+      ],
+      "published": "2026-04-02T21:44:23+00:00",
+      "first_seen": "2026-04-06T08:58:43.099524",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.02527": {
+      "arxiv_id": "2604.02527",
+      "title": "Jump Start or False Start? A Theoretical and Empirical Evaluation of LLM-initialized Bandits",
+      "authors": [
+        "Adam Bayley",
+        "Xiaodan Zhu",
+        "Raquel Aoki",
+        "Yanshuai Cao",
+        "Kevin H. Wilson"
+      ],
+      "published": "2026-04-02T21:27:18+00:00",
+      "first_seen": "2026-04-06T08:58:43.099529",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.02488": {
+      "arxiv_id": "2604.02488",
+      "title": "Causal-Audit: A Framework for Risk Assessment of Assumption Violations in Time-Series Causal Discovery",
+      "authors": [
+        "Marco Ruiz",
+        "Miguel Arana-Catania",
+        "David R. Ardila",
+        "Rodrigo Ventura"
+      ],
+      "published": "2026-04-02T19:43:57+00:00",
+      "first_seen": "2026-04-06T08:58:43.099535",
+      "topic": "Recommender Systems",
+      "categories": [
         "cs.LG"
       ]
     }

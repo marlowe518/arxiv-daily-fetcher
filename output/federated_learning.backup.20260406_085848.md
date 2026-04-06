@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-03 | [Enhancing Robustness of Federated Learning via Server Learning](https://arxiv.org/abs/2604.03226) | This paper explores the use of server learning for enhancing the robustness of federated learning against malicious attacks even when clients' training data are not independent and identically... |
-| 2026-04-03 | [FedSQ: Optimized Weight Averaging via Fixed Gating](https://arxiv.org/abs/2604.02990) | Federated learning (FL) enables collaborative training across organizations without sharing raw data, but it is hindered by statistical heterogeneity (non-i. |
-| 2026-03-31 | [Backdoor Attacks on Decentralised Post-Training](https://arxiv.org/abs/2604.02372) | Decentralised post-training of large language models utilises data and pipeline parallelism techniques to split the data and the model. |
 | 2026-04-01 | [UQ-SHRED: uncertainty quantification of shallow recurrent decoder networks for sparse sensing via engression](https://arxiv.org/abs/2604.01305) | Reconstructing high-dimensional spatiotemporal fields from sparse sensor measurements is critical in a wide range of scientific applications. |
 | 2026-03-31 | [Loss Gap Parity for Fairness in Heterogeneous Federated Learning](https://arxiv.org/abs/2603.29818) | While clients may join federated learning to improve performance on data they rarely observe locally, they often remain self-interested, expecting the global model to perform well on their own data. |
 | 2026-03-31 | [Client-Verifiable and Efficient Federated Unlearning in Low-Altitude Wireless Networks](https://arxiv.org/abs/2603.29688) | In low-altitude wireless networks (LAWN), federated learning (FL) enables collaborative intelligence among unmanned aerial vehicles (UAVs) and integrated sensing and communication (ISAC) devices... |

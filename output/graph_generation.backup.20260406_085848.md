@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-02 | [Guideline2Graph: Profile-Aware Multimodal Parsing for Executable Clinical Decision Graphs](https://arxiv.org/abs/2604.02477) | Clinical practice guidelines are long, multimodal documents whose branching recommendations are difficult to convert into executable clinical decision support (CDS), and one-shot parsing often breaks... |
 | 2026-03-31 | [Hierarchical Discrete Flow Matching for Graph Generation](https://arxiv.org/abs/2604.00236) | Denoising-based models, including diffusion and flow matching, have led to substantial advances in graph generation. |
 | 2026-03-30 | [Unrestrained Simplex Denoising for Discrete Data. A Non-Markovian Approach Applied to Graph Generation](https://arxiv.org/abs/2603.28572) | Denoising models such as Diffusion or Flow Matching have recently advanced generative modeling for discrete structures, yet most approaches either operate directly in the discrete state space,... |
 | 2026-03-28 | [Hierarchy-Guided Topology Latent Flow for Molecular Graph Generation](https://arxiv.org/abs/2603.27113) | Generating chemically valid 3D molecules is hindered by discrete bond topology: small local bond errors can cause global failures (valence violations, disconnections, implausible rings), especially... |
