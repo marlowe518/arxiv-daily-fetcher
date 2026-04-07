@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-06 | [Digital Privacy in IoT: Exploring Challenges, Approaches and Open Issues](https://arxiv.org/abs/2604.04572) | Privacy has always been a critical issue in the digital era, particularly with the increasing use of Internet of Things (IoT) devices. |
-| 2026-04-06 | [DP-OPD: Differentially Private On-Policy Distillation for Language Models](https://arxiv.org/abs/2604.04461) | Large language models (LLMs) are increasingly adapted to proprietary and domain-specific corpora that contain sensitive information, creating a tension between formal privacy guarantees and efficient... |
-| 2026-04-05 | [Stable and Privacy-Preserving Synthetic Educational Data with Empirical Marginals: A Copula-Based Approach](https://arxiv.org/abs/2604.04195) | To advance Educational Data Mining (EDM) within strict privacy-protecting regulatory frameworks, researchers must develop methods that enable data-driven analysis while protecting sensitive student... |
 | 2026-04-02 | [Communication-Efficient Distributed Learning with Differential Privacy](https://arxiv.org/abs/2604.02558) | We address nonconvex learning problems over undirected networks. |
 | 2026-04-02 | [BVFLMSP : Bayesian Vertical Federated Learning for Multimodal Survival with Privacy](https://arxiv.org/abs/2604.02248) | Multimodal time-to-event prediction often requires integrating sensitive data distributed across multiple parties, making centralized model training impractical due to privacy constraints. |
 | 2026-04-01 | [Differentially Private Manifold Denoising](https://arxiv.org/abs/2604.00942) | We introduce a differentially private manifold denoising framework that allows users to exploit sensitive reference datasets to correct noisy, non-private query points without compromising privacy. |
