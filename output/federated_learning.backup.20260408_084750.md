@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-07 | [Towards Securing IIoT: An Innovative Privacy-Preserving Anomaly Detector Based on Federated Learning](https://arxiv.org/abs/2604.06101) | In the light of the growing connectivity and sensitivity of industrial data, cyberattacks and data breaches are becoming more common in the Industrial Internet of Things (IIoT). |
-| 2026-04-06 | [Scalar Federated Learning for Linear Quadratic Regulator](https://arxiv.org/abs/2604.05088) | We propose ScalarFedLQR, a communication-efficient federated algorithm for model-free learning of a common policy in linear quadratic regulator (LQR) control of heterogeneous agents. |
 | 2026-04-06 | [Forgetting to Witness: Efficient Federated Unlearning and Its Visible Evaluation](https://arxiv.org/abs/2604.04800) | With the increasing importance of data privacy and security, federated unlearning has emerged as a novel research field dedicated to ensuring that federated learning models no longer retain or leak... |
 | 2026-04-06 | [Dynamic Free-Rider Detection in Federated Learning via Simulated Attack Patterns](https://arxiv.org/abs/2604.04611) | Federated learning (FL) enables multiple clients to collaboratively train a global model by aggregating local updates without sharing private data. |
 | 2026-04-06 | [Discrete Prototypical Memories for Federated Time Series Foundation Models](https://arxiv.org/abs/2604.04475) | Leveraging Large Language Models (LLMs) as federated learning (FL)-based time series foundation models offers a promising way to transfer the generalization capabilities of LLMs to time series data... |

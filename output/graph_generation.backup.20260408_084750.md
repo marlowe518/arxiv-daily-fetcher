@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-07 | [ReLU Networks for Exact Generation of Similar Graphs](https://arxiv.org/abs/2604.05929) | Generation of graphs constrained by a specified graph edit distance from a source graph is important in applications such as cheminformatics, network anomaly synthesis, and structured data... |
-| 2026-04-07 | [Same Graph, Different Likelihoods: Calibration of Autoregressive Graph Generators via Permutation-Equivalent Encodings](https://arxiv.org/abs/2604.05613) | Autoregressive graph generators define likelihoods via a sequential construction process, but these likelihoods are only meaningful if they are consistent across all linearizations of the same graph. |
 | 2026-04-02 | [Guideline2Graph: Profile-Aware Multimodal Parsing for Executable Clinical Decision Graphs](https://arxiv.org/abs/2604.02477) | Clinical practice guidelines are long, multimodal documents whose branching recommendations are difficult to convert into executable clinical decision support (CDS), and one-shot parsing often breaks... |
 | 2026-03-31 | [Hierarchical Discrete Flow Matching for Graph Generation](https://arxiv.org/abs/2604.00236) | Denoising-based models, including diffusion and flow matching, have led to substantial advances in graph generation. |
 | 2026-03-30 | [Unrestrained Simplex Denoising for Discrete Data. A Non-Markovian Approach Applied to Graph Generation](https://arxiv.org/abs/2603.28572) | Denoising models such as Diffusion or Flow Matching have recently advanced generative modeling for discrete structures, yet most approaches either operate directly in the discrete state space,... |

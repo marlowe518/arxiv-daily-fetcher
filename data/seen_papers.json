@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-07T08:49:07.078636",
+  "last_updated": "2026-04-08T08:47:50.157284",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -11737,6 +11737,379 @@
       ],
       "published": "2026-04-04T09:10:35+00:00",
       "first_seen": "2026-04-07T08:49:01.394361",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.06074": {
+      "arxiv_id": "2604.06074",
+      "title": "Graph-PiT: Enhancing Structural Coherence in Part-Based Image Synthesis via Graph Priors",
+      "authors": [
+        "Junbin Zhang",
+        "Meng Cao",
+        "Feng Tan",
+        "Yikai Lin",
+        "Yuexian Zou"
+      ],
+      "published": "2026-04-07T16:53:23+00:00",
+      "first_seen": "2026-04-08T08:47:26.251367",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.MM"
+      ]
+    },
+    "2604.05732": {
+      "arxiv_id": "2604.05732",
+      "title": "Graph Topology Information Enhanced Heterogeneous Graph Representation Learning",
+      "authors": [
+        "He Zhao",
+        "Zhiwei Zeng",
+        "Yongwei Wang",
+        "Chunyan Miao"
+      ],
+      "published": "2026-04-07T11:35:45+00:00",
+      "first_seen": "2026-04-08T08:47:26.251379",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2604.05254": {
+      "arxiv_id": "2604.05254",
+      "title": "EAGLE: Edge-Aware Graph Learning for Proactive Delivery Delay Prediction in Smart Logistics Networks",
+      "authors": [
+        "Zhiming Xue",
+        "Menghao Huo",
+        "Yujue Wang"
+      ],
+      "published": "2026-04-06T23:35:15+00:00",
+      "first_seen": "2026-04-08T08:47:26.251387",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.05175": {
+      "arxiv_id": "2604.05175",
+      "title": "Graph Signal Diffusion Models for Wireless Resource Allocation",
+      "authors": [
+        "Yigit Berkay Uslu",
+        "Samar Hadou",
+        "Shirin Saeedi Bidokhti",
+        "Alejandro Ribeiro"
+      ],
+      "published": "2026-04-06T21:12:25+00:00",
+      "first_seen": "2026-04-08T08:47:26.251393",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SP",
+        "cs.IT",
+        "cs.LG"
+      ]
+    },
+    "2604.05077": {
+      "arxiv_id": "2604.05077",
+      "title": "Feature-Aware Anisotropic Local Differential Privacy for Utility-Preserving Graph Representation Learning in Metal Additive Manufacturing",
+      "authors": [
+        "MD Shafikul Islam",
+        "Mahathir Mohammad Bappy",
+        "Saifur Rahman Tushar",
+        "Md Arifuzzaman"
+      ],
+      "published": "2026-04-06T18:29:21+00:00",
+      "first_seen": "2026-04-08T08:47:26.251400",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    "2604.04977": {
+      "arxiv_id": "2604.04977",
+      "title": "Towards Predicting Multi-Vulnerability Attack Chains in Software Supply Chains from Software Bill of Materials Graphs",
+      "authors": [
+        "Laura Baird",
+        "Armin Moin"
+      ],
+      "published": "2026-04-04T17:29:39+00:00",
+      "first_seen": "2026-04-08T08:47:26.251406",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SE",
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2604.05929": {
+      "arxiv_id": "2604.05929",
+      "title": "ReLU Networks for Exact Generation of Similar Graphs",
+      "authors": [
+        "Mamoona Ghafoor",
+        "Tatsuya Akutsu"
+      ],
+      "published": "2026-04-07T14:31:19+00:00",
+      "first_seen": "2026-04-08T08:47:29.188883",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DM"
+      ]
+    },
+    "2604.05613": {
+      "arxiv_id": "2604.05613",
+      "title": "Same Graph, Different Likelihoods: Calibration of Autoregressive Graph Generators via Permutation-Equivalent Encodings",
+      "authors": [
+        "Laurits Fredsgaard",
+        "Aaron Thomas",
+        "Michael Riis Andersen",
+        "Mikkel N. Schmidt",
+        "Mahito Sugiyama"
+      ],
+      "published": "2026-04-07T09:03:06+00:00",
+      "first_seen": "2026-04-08T08:47:29.188896",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.06101": {
+      "arxiv_id": "2604.06101",
+      "title": "Towards Securing IIoT: An Innovative Privacy-Preserving Anomaly Detector Based on Federated Learning",
+      "authors": [
+        "Samira Kamali Poorazad",
+        "Chafika Benzaïd",
+        "Tarik Taleb"
+      ],
+      "published": "2026-04-07T17:14:10+00:00",
+      "first_seen": "2026-04-08T08:47:41.326852",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2604.05088": {
+      "arxiv_id": "2604.05088",
+      "title": "Scalar Federated Learning for Linear Quadratic Regulator",
+      "authors": [
+        "Mohammadreza Rostami",
+        "Shahriar Talebi",
+        "Solmaz S. Kia"
+      ],
+      "published": "2026-04-06T18:42:31+00:00",
+      "first_seen": "2026-04-08T08:47:41.326863",
+      "topic": "Federated Learning",
+      "categories": [
+        "eess.SY",
+        "cs.LG"
+      ]
+    },
+    "2604.05866": {
+      "arxiv_id": "2604.05866",
+      "title": "Beyond Paper-to-Paper: Structured Profiling and Rubric Scoring for Paper-Reviewer Matching",
+      "authors": [
+        "Yicheng Pan",
+        "Zhiyuan Ning",
+        "Ludi Wang",
+        "Yi Du"
+      ],
+      "published": "2026-04-07T13:27:40+00:00",
+      "first_seen": "2026-04-08T08:47:44.203575",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CL",
+        "cs.DL"
+      ]
+    },
+    "2604.05379": {
+      "arxiv_id": "2604.05379",
+      "title": "Retrieve-then-Adapt: Retrieval-Augmented Test-Time Adaptation for Sequential Recommendation",
+      "authors": [
+        "Xing Tang",
+        "Jingyang Bin",
+        "Ziqiang Cui",
+        "Xiaokun Zhang",
+        "Fuyuan Lyu",
+        "Jingyan Jiang",
+        "Dugang Liu",
+        "Chen Ma",
+        "Xiuqiang He"
+      ],
+      "published": "2026-04-07T03:24:56+00:00",
+      "first_seen": "2026-04-08T08:47:44.203585",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.05365": {
+      "arxiv_id": "2604.05365",
+      "title": "From Clues to Generation: Language-Guided Conditional Diffusion for Cross-Domain Recommendation",
+      "authors": [
+        "Ziang Lu",
+        "Lei Sang",
+        "Lin Mu",
+        "Yiwen Zhang"
+      ],
+      "published": "2026-04-07T03:05:22+00:00",
+      "first_seen": "2026-04-08T08:47:44.203592",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.05341": {
+      "arxiv_id": "2604.05341",
+      "title": "Curr-RLCER:Curriculum Reinforcement Learning For Coherence Explainable Recommendation",
+      "authors": [
+        "Xiangchen Pan",
+        "Wei Wei"
+      ],
+      "published": "2026-04-07T02:25:36+00:00",
+      "first_seen": "2026-04-08T08:47:44.203597",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.05329": {
+      "arxiv_id": "2604.05329",
+      "title": "Semantic Trimming and Auxiliary Multi-step Prediction for Generative Recommendation",
+      "authors": [
+        "Tianyu Zhan",
+        "Kairui Fu",
+        "Chengfei Lv",
+        "Zheqi Lv",
+        "Shengyu Zhang"
+      ],
+      "published": "2026-04-07T02:00:23+00:00",
+      "first_seen": "2026-04-08T08:47:44.203602",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.05314": {
+      "arxiv_id": "2604.05314",
+      "title": "Next-Scale Generative Reranking: A Tree-based Generative Rerank Method at Meituan",
+      "authors": [
+        "Shuli Wang",
+        "Changhao Li",
+        "Ke Fan",
+        "Senjie Kou Junwei Yin",
+        "Chi Wang",
+        "Yinhua Zhu",
+        "Haitao Wang",
+        "Xingxing Wang"
+      ],
+      "published": "2026-04-07T01:35:20+00:00",
+      "first_seen": "2026-04-08T08:47:44.203608",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.05309": {
+      "arxiv_id": "2604.05309",
+      "title": "Pay Attention to Sequence Split: Uncovering the Impacts of Sub-Sequence Splitting on Sequential Recommendation Models",
+      "authors": [
+        "Yizhou Dang",
+        "Yifan Wu",
+        "Minhan Huang",
+        "Chuang Zhao",
+        "Lianbo Ma",
+        "Guibing Guo",
+        "Xingwei Wang",
+        "Zhu Sun"
+      ],
+      "published": "2026-04-07T01:28:14+00:00",
+      "first_seen": "2026-04-08T08:47:44.203613",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.05113": {
+      "arxiv_id": "2604.05113",
+      "title": "CRAB: Codebook Rebalancing for Bias Mitigation in Generative Recommendation",
+      "authors": [
+        "Zezhong Fan",
+        "Ziheng Chen",
+        "Luyi Ma",
+        "Jin Huang",
+        "Lalitesh Morishetti",
+        "Kaushiki Nag",
+        "Sushant Kumar",
+        "Kannan Achan"
+      ],
+      "published": "2026-04-06T19:18:24+00:00",
+      "first_seen": "2026-04-08T08:47:44.203619",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2604.04982": {
+      "arxiv_id": "2604.04982",
+      "title": "CURE:Circuit-Aware Unlearning for LLM-based Recommendation",
+      "authors": [
+        "Ziheng Chen",
+        "Jiali Cheng",
+        "Zezhong Fan",
+        "Hadi Amiri",
+        "Yunzhi Yao",
+        "Xiangguo Sun",
+        "Yang Zhang"
+      ],
+      "published": "2026-04-04T23:13:55+00:00",
+      "first_seen": "2026-04-08T08:47:44.203624",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2604.04976": {
+      "arxiv_id": "2604.04976",
+      "title": "Tencent Advertising Algorithm Challenge 2025: All-Modality Generative Recommendation",
+      "authors": [
+        "Junwei Pan",
+        "Wei Xue",
+        "Chao Zhou",
+        "Xing Zhou",
+        "Lunan Fan",
+        "Yanbo Wang",
+        "Haoran Xin",
+        "Zhiyu Hu",
+        "Yaozheng Wang",
+        "Fengye Xu",
+        "Yurong Yang",
+        "Xiaotian Li",
+        "Junbang Huo",
+        "Wentao Ning",
+        "Yuliang Sun",
+        "Chengguo Yin",
+        "Jun Zhang",
+        "Shudong Huang",
+        "Lei Xiao",
+        "Huan Yu",
+        "Irwin King",
+        "Haijie Gu",
+        "Jie Jiang"
+      ],
+      "published": "2026-04-04T17:05:15+00:00",
+      "first_seen": "2026-04-08T08:47:44.203630",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
