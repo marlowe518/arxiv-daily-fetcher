@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-08T08:47:50.157284",
+  "last_updated": "2026-04-09T08:56:53.198107",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -12112,6 +12112,339 @@
       "first_seen": "2026-04-08T08:47:44.203630",
       "topic": "Recommender Systems",
       "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.07292": {
+      "arxiv_id": "2604.07292",
+      "title": "Graph Neural ODE Digital Twins for Control-Oriented Reactor Thermal-Hydraulic Forecasting Under Partial Observability",
+      "authors": [
+        "Akzhol Almukhametov",
+        "Doyeong Lim",
+        "Rui Hu",
+        "Yang Liu"
+      ],
+      "published": "2026-04-08T16:58:14+00:00",
+      "first_seen": "2026-04-09T08:56:29.364713",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.07264": {
+      "arxiv_id": "2604.07264",
+      "title": "Validated Intent Compilation for Constrained Routing in LEO Mega-Constellations",
+      "authors": [
+        "Yuanhang Li"
+      ],
+      "published": "2026-04-08T16:29:25+00:00",
+      "first_seen": "2026-04-09T08:56:29.364726",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2604.07126": {
+      "arxiv_id": "2604.07126",
+      "title": "Self-Discovered Intention-aware Transformer for Multi-modal Vehicle Trajectory Prediction",
+      "authors": [
+        "Diyi Liu",
+        "Zihan Niu",
+        "Tu Xu",
+        "Lishan Sun"
+      ],
+      "published": "2026-04-08T14:20:09+00:00",
+      "first_seen": "2026-04-09T08:56:29.364734",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.06914": {
+      "arxiv_id": "2604.06914",
+      "title": "Equivariant Multi-agent Reinforcement Learning for Multimodal Vehicle-to-Infrastructure Systems",
+      "authors": [
+        "Charbel Bou Chaaya",
+        "Mehdi Bennis"
+      ],
+      "published": "2026-04-08T10:13:29+00:00",
+      "first_seen": "2026-04-09T08:56:29.364752",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.06652": {
+      "arxiv_id": "2604.06652",
+      "title": "FlowAdam: Implicit Regularization via Geometry-Aware Soft Momentum Injection",
+      "authors": [
+        "Devender Singh",
+        "Tarun Sheel"
+      ],
+      "published": "2026-04-08T03:57:52+00:00",
+      "first_seen": "2026-04-09T08:56:29.364758",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.06391": {
+      "arxiv_id": "2604.06391",
+      "title": "Toward a universal foundation model for graph-structured data",
+      "authors": [
+        "Sakib Mostafa",
+        "Lei Xing",
+        "Md. Tauhidul Islam"
+      ],
+      "published": "2026-04-07T19:21:21+00:00",
+      "first_seen": "2026-04-09T08:56:29.364765",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.06336": {
+      "arxiv_id": "2604.06336",
+      "title": "BiScale-GTR: Fragment-Aware Graph Transformers for Multi-Scale Molecular Representation Learning",
+      "authors": [
+        "Yi Yang",
+        "Ovidiu Daescu"
+      ],
+      "published": "2026-04-07T18:16:02+00:00",
+      "first_seen": "2026-04-09T08:56:29.364771",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.07125": {
+      "arxiv_id": "2604.07125",
+      "title": "DDP-SA: Scalable Privacy-Preserving Federated Learning via Distributed Differential Privacy and Secure Aggregation",
+      "authors": [
+        "Wenjing Wei",
+        "Farid Nait-Abdesselam",
+        "Alla Jammine"
+      ],
+      "published": "2026-04-08T14:19:39+00:00",
+      "first_seen": "2026-04-09T08:56:38.050237",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2604.06492": {
+      "arxiv_id": "2604.06492",
+      "title": "Optimal Rates for Pure {\\varepsilon}-Differentially Private Stochastic Convex Optimization with Heavy Tails",
+      "authors": [
+        "Andrew Lowy"
+      ],
+      "published": "2026-04-07T21:54:29+00:00",
+      "first_seen": "2026-04-09T08:56:38.050251",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "stat.ML"
+      ]
+    },
+    "2604.06833": {
+      "arxiv_id": "2604.06833",
+      "title": "FedDetox: Robust Federated SLM Alignment via On-Device Data Sanitization",
+      "authors": [
+        "Shunan Zhu",
+        "Jiawei Chen",
+        "Yonghao Yu",
+        "Hideya Ochiai"
+      ],
+      "published": "2026-04-08T08:51:46+00:00",
+      "first_seen": "2026-04-09T08:56:44.098979",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2604.06727": {
+      "arxiv_id": "2604.06727",
+      "title": "Bi-level Heterogeneous Learning for Time Series Foundation Models: A Federated Learning Approach",
+      "authors": [
+        "Shengchao Chen",
+        "Guodong Long",
+        "Dikai Liu",
+        "Jing Jiang"
+      ],
+      "published": "2026-04-08T06:50:37+00:00",
+      "first_seen": "2026-04-09T08:56:44.098989",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.06631": {
+      "arxiv_id": "2604.06631",
+      "title": "SubFLOT: Submodel Extraction for Efficient and Personalized Federated Learning via Optimal Transport",
+      "authors": [
+        "Zheng Jiang",
+        "Nan He",
+        "Yiming Chen",
+        "Lifeng Sun"
+      ],
+      "published": "2026-04-08T03:13:10+00:00",
+      "first_seen": "2026-04-09T08:56:44.098997",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    "2604.06297": {
+      "arxiv_id": "2604.06297",
+      "title": "FedSpy-LLM: Towards Scalable and Generalizable Data Reconstruction Attacks from Gradients on LLMs",
+      "authors": [
+        "Syed Irfan Ali Meerza",
+        "Feiyi Wang",
+        "Jian Liu"
+      ],
+      "published": "2026-04-07T17:19:54+00:00",
+      "first_seen": "2026-04-09T08:56:44.099003",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2604.07090": {
+      "arxiv_id": "2604.07090",
+      "title": "Leveraging Artist Catalogs for Cold-Start Music Recommendation",
+      "authors": [
+        "Yan-Martin Tamm",
+        "Gregor Meehan",
+        "Vojtěch Nekl",
+        "Vojtěch Vančura",
+        "Rodrigo Alves",
+        "Johan Pauwels",
+        "Anna Aljanaki"
+      ],
+      "published": "2026-04-08T13:43:00+00:00",
+      "first_seen": "2026-04-09T08:56:47.072689",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.06956": {
+      "arxiv_id": "2604.06956",
+      "title": "NestPipe: Large-Scale Recommendation Training on 1,500+ Accelerators via Nested Pipelining",
+      "authors": [
+        "Zhida Jiang",
+        "Zhaolong Xing",
+        "Huichao Chai",
+        "Tianxing Sun",
+        "Qiang Peng",
+        "Baopeng Yuan",
+        "Jiaxing Wang",
+        "Hua Du",
+        "Zhixin Wu",
+        "Xuemiao Li",
+        "Yikui Cao",
+        "Xinyu Liu",
+        "Yongxiang Feng",
+        "Zhen Chen",
+        "Ke Zhang"
+      ],
+      "published": "2026-04-08T11:19:17+00:00",
+      "first_seen": "2026-04-09T08:56:47.072700",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2604.06928": {
+      "arxiv_id": "2604.06928",
+      "title": "Leveraging LLMs and Heterogeneous Knowledge Graphs for Persona-Driven Session-Based Recommendation",
+      "authors": [
+        "Muskan Gupta",
+        "Suraj Thapa",
+        "Jyotsana Khatri"
+      ],
+      "published": "2026-04-08T10:40:30+00:00",
+      "first_seen": "2026-04-09T08:56:47.072707",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.06718": {
+      "arxiv_id": "2604.06718",
+      "title": "CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation",
+      "authors": [
+        "Yanan Cao",
+        "Ashish Ranjan",
+        "Sinduja Subramaniam",
+        "Evren Korpeoglu",
+        "Kaushiki Nag",
+        "Kannan Achan"
+      ],
+      "published": "2026-04-08T06:31:34+00:00",
+      "first_seen": "2026-04-09T08:56:47.072712",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.06420": {
+      "arxiv_id": "2604.06420",
+      "title": "The Unreasonable Effectiveness of Data for Recommender Systems",
+      "authors": [
+        "Youssef Abdou"
+      ],
+      "published": "2026-04-07T19:56:05+00:00",
+      "first_seen": "2026-04-09T08:56:47.072718",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.06454": {
+      "arxiv_id": "2604.06454",
+      "title": "Anticipating tipping in spatiotemporal systems with machine learning",
+      "authors": [
+        "Smita Deb",
+        "Zheng-Meng Zhai",
+        "Mulugeta Haile",
+        "Ying-Cheng Lai"
+      ],
+      "published": "2026-04-07T20:51:58+00:00",
+      "first_seen": "2026-04-09T08:56:50.180037",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "nlin.CD",
+        "cs.LG",
+        "physics.data-an"
+      ]
+    },
+    "2604.06232": {
+      "arxiv_id": "2604.06232",
+      "title": "What Do Humanities Scholars Need? A User Model for Recommendation in Digital Archives",
+      "authors": [
+        "Florian Atzenhofer-Baumgartner",
+        "Dominik Kowald"
+      ],
+      "published": "2026-04-02T21:11:15+00:00",
+      "first_seen": "2026-04-09T08:56:50.180048",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.DL",
         "cs.IR"
       ]
     }

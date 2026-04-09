@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-07 | [Anticipating tipping in spatiotemporal systems with machine learning](https://arxiv.org/abs/2604.06454) | In nonlinear dynamical systems, tipping refers to a critical transition from one steady state to another, typically catastrophic, steady state, often resulting from a saddle-node bifurcation. |
-| 2026-04-02 | [What Do Humanities Scholars Need? A User Model for Recommendation in Digital Archives](https://arxiv.org/abs/2604.06232) | User models for recommender systems (RecSys) typically assume stable preferences, similarity-based relevance, and session-bounded interactions -- assumptions derived from high-volume consumer... |
 | 2026-03-31 | [Nonnegative Matrix Factorization in the Component-Wise L1 Norm for Sparse Data](https://arxiv.org/abs/2603.29715) | Nonnegative matrix factorization (NMF) approximates a nonnegative matrix, $X$, by the product of two nonnegative factors, $WH$, where $W$ has $r$ columns and $H$ has $r$ rows. |
 | 2026-03-28 | [On the Loss Landscape Geometry of Regularized Deep Matrix Factorization: Uniqueness and Sharpness](https://arxiv.org/abs/2603.27072) | Weight decay is ubiquitous in training deep neural network architectures. |
 | 2026-03-27 | [STN-GPR: A Singularity Tensor Network Framework for Efficient Option Pricing](https://arxiv.org/abs/2603.26318) | We develop a tensor-network surrogate for option pricing, targeting large-scale portfolio revaluation problems arising in market risk management (e.g., VaR and Expected Shortfall computations). |

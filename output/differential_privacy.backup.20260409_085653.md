@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-08 | [DDP-SA: Scalable Privacy-Preserving Federated Learning via Distributed Differential Privacy and Secure Aggregation](https://arxiv.org/abs/2604.07125) | This article presents DDP-SA, a scalable privacy-preserving federated learning framework that jointly leverages client-side local differential privacy (LDP) and full-threshold additive secret sharing... |
-| 2026-04-07 | [Optimal Rates for Pure {\varepsilon}-Differentially Private Stochastic Convex Optimization with Heavy Tails](https://arxiv.org/abs/2604.06492) | We study stochastic convex optimization (SCO) with heavy-tailed gradients under pure epsilon-differential privacy (DP). |
 | 2026-04-06 | [Digital Privacy in IoT: Exploring Challenges, Approaches and Open Issues](https://arxiv.org/abs/2604.04572) | Privacy has always been a critical issue in the digital era, particularly with the increasing use of Internet of Things (IoT) devices. |
 | 2026-04-06 | [DP-OPD: Differentially Private On-Policy Distillation for Language Models](https://arxiv.org/abs/2604.04461) | Large language models (LLMs) are increasingly adapted to proprietary and domain-specific corpora that contain sensitive information, creating a tension between formal privacy guarantees and efficient... |
 | 2026-04-05 | [Stable and Privacy-Preserving Synthetic Educational Data with Empirical Marginals: A Copula-Based Approach](https://arxiv.org/abs/2604.04195) | To advance Educational Data Mining (EDM) within strict privacy-protecting regulatory frameworks, researchers must develop methods that enable data-driven analysis while protecting sensitive student... |

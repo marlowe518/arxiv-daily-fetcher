@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-08 | [Leveraging Artist Catalogs for Cold-Start Music Recommendation](https://arxiv.org/abs/2604.07090) | The item cold-start problem poses a fundamental challenge for music recommendation: newly added tracks lack the interaction history that collaborative filtering (CF) requires. |
-| 2026-04-08 | [NestPipe: Large-Scale Recommendation Training on 1,500+ Accelerators via Nested Pipelining](https://arxiv.org/abs/2604.06956) | Modern recommendation models have increased to trillions of parameters. |
-| 2026-04-08 | [Leveraging LLMs and Heterogeneous Knowledge Graphs for Persona-Driven Session-Based Recommendation](https://arxiv.org/abs/2604.06928) | Session-based recommendation systems (SBRS) aim to capture user's short-term intent from interaction sequences. |
-| 2026-04-08 | [CASE: Cadence-Aware Set Encoding for Large-Scale Next Basket Repurchase Recommendation](https://arxiv.org/abs/2604.06718) | Repurchase behavior is a primary signal in large-scale retail recommendation, particularly in categories with frequent replenishment: many items in a user's next basket were previously purchased and... |
-| 2026-04-07 | [The Unreasonable Effectiveness of Data for Recommender Systems](https://arxiv.org/abs/2604.06420) | In recommender systems, collecting, storing, and processing large-scale interaction data is increasingly costly in terms of time, energy, and computation, yet it remains unclear when additional data... |
 | 2026-04-07 | [Beyond Paper-to-Paper: Structured Profiling and Rubric Scoring for Paper-Reviewer Matching](https://arxiv.org/abs/2604.05866) | As conference submission volumes continue to grow, accurately recommending suitable reviewers has become a challenge. |
 | 2026-04-07 | [Retrieve-then-Adapt: Retrieval-Augmented Test-Time Adaptation for Sequential Recommendation](https://arxiv.org/abs/2604.05379) | The sequential recommendation (SR) task aims to predict the next item based on users' historical interaction sequences. |
 | 2026-04-07 | [From Clues to Generation: Language-Guided Conditional Diffusion for Cross-Domain Recommendation](https://arxiv.org/abs/2604.05365) | Cross-domain Recommendation (CDR) exploits multi-domain correlations to alleviate data sparsity. |
