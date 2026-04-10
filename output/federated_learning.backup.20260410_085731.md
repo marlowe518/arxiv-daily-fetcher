@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-09 | [Quantization Impact on the Accuracy and Communication Efficiency Trade-off in Federated Learning for Aerospace Predictive Maintenance](https://arxiv.org/abs/2604.08474) | Federated learning (FL) enables privacy-preserving predictive maintenance across distributed aerospace fleets, but gradient communication overhead constrains deployment on bandwidth-limited IoT nodes. |
-| 2026-04-09 | [Automating aggregation strategy selection in federated learning](https://arxiv.org/abs/2604.08056) | Federated Learning enables collaborative model training without centralising data, but its effectiveness varies with the selection of the aggregation strategy. |
 | 2026-04-08 | [FedDetox: Robust Federated SLM Alignment via On-Device Data Sanitization](https://arxiv.org/abs/2604.06833) | As high quality public data becomes scarce, Federated Learning (FL) provides a vital pathway to leverage valuable private user data while preserving privacy. |
 | 2026-04-08 | [Bi-level Heterogeneous Learning for Time Series Foundation Models: A Federated Learning Approach](https://arxiv.org/abs/2604.06727) | Heterogeneity in time series data is more pronounced than in vision or language, as temporal dynamics vary substantially across domains and tasks. |
 | 2026-04-08 | [SubFLOT: Submodel Extraction for Efficient and Personalized Federated Learning via Optimal Transport](https://arxiv.org/abs/2604.06631) | Federated Learning (FL) enables collaborative model training while preserving data privacy, but its practical deployment is hampered by system and statistical heterogeneity. |

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-09T08:56:53.198107",
+  "last_updated": "2026-04-10T08:57:31.400790",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -12446,6 +12446,473 @@
       "categories": [
         "cs.DL",
         "cs.IR"
+      ]
+    },
+    "2604.08469": {
+      "arxiv_id": "2604.08469",
+      "title": "Persistence-Augmented Neural Networks",
+      "authors": [
+        "Elena Xinyi Wang",
+        "Arnur Nigmetov",
+        "Dmitriy Morozov"
+      ],
+      "published": "2026-04-09T17:06:06+00:00",
+      "first_seen": "2026-04-10T08:57:06.565110",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.08295": {
+      "arxiv_id": "2604.08295",
+      "title": "U-CECE: A Universal Multi-Resolution Framework for Conceptual Counterfactual Explanations",
+      "authors": [
+        "Angeliki Dimitriou",
+        "Nikolaos Chaidos",
+        "Maria Lymperaiou",
+        "Giorgos Filandrianos",
+        "Giorgos Stamou"
+      ],
+      "published": "2026-04-09T14:30:00+00:00",
+      "first_seen": "2026-04-10T08:57:06.565122",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    "2604.07781": {
+      "arxiv_id": "2604.07781",
+      "title": "Toward Generalizable Graph Learning for 3D Engineering AI: Explainable Workflows for CAE Mode Shape Classification and CFD Field Prediction",
+      "authors": [
+        "Tong Duy Son",
+        "Kohta Sugiura",
+        "Marc Brughmans",
+        "Andrey Hense",
+        "Zhihao Liu",
+        "Amirthalakshmi Veeraraghavan",
+        "Ajinkya Bhave",
+        "Jay Masters",
+        "Paolo di Carlo",
+        "Theo Geluk"
+      ],
+      "published": "2026-04-09T04:15:17+00:00",
+      "first_seen": "2026-04-10T08:57:06.565131",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SY",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.07712": {
+      "arxiv_id": "2604.07712",
+      "title": "CausalVAE as a Plug-in for World Models: Towards Reliable Counterfactual Dynamics",
+      "authors": [
+        "Ziyi Ding",
+        "Xianxin Lai",
+        "Weiyu Chen",
+        "Xiao-Ping Zhang",
+        "Jiayu Chen"
+      ],
+      "published": "2026-04-09T01:56:06+00:00",
+      "first_seen": "2026-04-10T08:57:06.565137",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.07512": {
+      "arxiv_id": "2604.07512",
+      "title": "Rhizome OS-1: Rhizome's Semi-Autonomous Operating System for Small Molecule Drug Discovery",
+      "authors": [
+        "Yiwen Wang",
+        "Gregory Sinenka",
+        "Xhuliano Brace"
+      ],
+      "published": "2026-04-08T18:49:08+00:00",
+      "first_seen": "2026-04-10T08:57:06.565144",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.08189": {
+      "arxiv_id": "2604.08189",
+      "title": "Equivariant Efficient Joint Discrete and Continuous MeanFlow for Molecular Graph Generation",
+      "authors": [
+        "Rongjian Xu",
+        "Teng Pang",
+        "Zhiqiang Dong",
+        "Guoqiang Wu"
+      ],
+      "published": "2026-04-09T12:42:01+00:00",
+      "first_seen": "2026-04-10T08:57:09.305581",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.08504": {
+      "arxiv_id": "2604.08504",
+      "title": "Differentially Private Language Generation and Identification in the Limit",
+      "authors": [
+        "Anay Mehrotra",
+        "Grigoris Velegkas",
+        "Xifan Yu",
+        "Felix Zhou"
+      ],
+      "published": "2026-04-09T17:48:46+00:00",
+      "first_seen": "2026-04-10T08:57:15.320961",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.AI",
+        "cs.CL",
+        "cs.DS",
+        "cs.LG"
+      ]
+    },
+    "2604.08113": {
+      "arxiv_id": "2604.08113",
+      "title": "TADP-RME: A Trust-Adaptive Differential Privacy Framework for Enhancing Reliability of Data-Driven Systems",
+      "authors": [
+        "Labani Halder",
+        "Payel Sadhukhan",
+        "Sarbani Palit"
+      ],
+      "published": "2026-04-09T11:32:57+00:00",
+      "first_seen": "2026-04-10T08:57:15.320976",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.08037": {
+      "arxiv_id": "2604.08037",
+      "title": "PrivFedTalk: Privacy-Aware Federated Diffusion with Identity-Stable Adapters for Personalized Talking-Head Generation",
+      "authors": [
+        "Soumya Mazumdar",
+        "Vineet Kumar Rakesh",
+        "Tapas Samanta"
+      ],
+      "published": "2026-04-09T09:41:30+00:00",
+      "first_seen": "2026-04-10T08:57:15.320984",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2604.07493": {
+      "arxiv_id": "2604.07493",
+      "title": "Differentially Private Modeling of Disease Transmission within Human Contact Networks",
+      "authors": [
+        "Shlomi Hod",
+        "Debanuj Nayak",
+        "Jason R. Gantenberg",
+        "Iden Kalemaj",
+        "Thomas A. Trikalinos",
+        "Adam Smith"
+      ],
+      "published": "2026-04-08T18:34:20+00:00",
+      "first_seen": "2026-04-10T08:57:15.320990",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG",
+        "stat.AP"
+      ]
+    },
+    "2604.07486": {
+      "arxiv_id": "2604.07486",
+      "title": "Private Seeds, Public LLMs: Realistic and Privacy-Preserving Synthetic Data Generation",
+      "authors": [
+        "Qian Ma",
+        "Sarah Rajtmajer"
+      ],
+      "published": "2026-04-08T18:26:34+00:00",
+      "first_seen": "2026-04-10T08:57:15.320996",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2604.08474": {
+      "arxiv_id": "2604.08474",
+      "title": "Quantization Impact on the Accuracy and Communication Efficiency Trade-off in Federated Learning for Aerospace Predictive Maintenance",
+      "authors": [
+        "Abdelkarim Loukili"
+      ],
+      "published": "2026-04-09T17:13:15+00:00",
+      "first_seen": "2026-04-10T08:57:21.355847",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.08056": {
+      "arxiv_id": "2604.08056",
+      "title": "Automating aggregation strategy selection in federated learning",
+      "authors": [
+        "Dian S. Y. Pang",
+        "Endrias Y. Ergetu",
+        "Eric Topham",
+        "Ahmed E. Fetit"
+      ],
+      "published": "2026-04-09T10:08:28+00:00",
+      "first_seen": "2026-04-10T08:57:21.355857",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.08385": {
+      "arxiv_id": "2604.08385",
+      "title": "Let Me Introduce You: Stimulating Taste-Broadening Serendipity Through Song Introductions",
+      "authors": [
+        "Brett Binst",
+        "Ulysse Maes",
+        "Martijn C. Willemsen",
+        "Annelien Smets"
+      ],
+      "published": "2026-04-09T15:45:07+00:00",
+      "first_seen": "2026-04-10T08:57:24.303436",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2604.08181": {
+      "arxiv_id": "2604.08181",
+      "title": "Long-Term Embeddings for Balanced Personalization",
+      "authors": [
+        "Andrii Dzhoha",
+        "Egor Malykh"
+      ],
+      "published": "2026-04-09T12:36:29+00:00",
+      "first_seen": "2026-04-10T08:57:24.303448",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.08030": {
+      "arxiv_id": "2604.08030",
+      "title": "From Universal to Individualized Actionability: Revisiting Personalization in Algorithmic Recourse",
+      "authors": [
+        "Lena Marie Budde",
+        "Ayan Majumdar",
+        "Richard Uth",
+        "Markus Langer",
+        "Isabel Valera"
+      ],
+      "published": "2026-04-09T09:30:25+00:00",
+      "first_seen": "2026-04-10T08:57:24.303454",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.08011": {
+      "arxiv_id": "2604.08011",
+      "title": "Beyond Dense Connectivity: Explicit Sparsity for Scalable Recommendation",
+      "authors": [
+        "Yantao Yu",
+        "Sen Qiao",
+        "Lei Shen",
+        "Bing Wang",
+        "Xiaoyi Zeng"
+      ],
+      "published": "2026-04-09T09:13:21+00:00",
+      "first_seen": "2026-04-10T08:57:24.303460",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.07992": {
+      "arxiv_id": "2604.07992",
+      "title": "Context-Aware Disentanglement for Cross-Domain Sequential Recommendation: A Causal View",
+      "authors": [
+        "Xingzi Wang",
+        "Qingtian Bian",
+        "Hui Fang"
+      ],
+      "published": "2026-04-09T09:00:49+00:00",
+      "first_seen": "2026-04-10T08:57:24.303465",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.07869": {
+      "arxiv_id": "2604.07869",
+      "title": "Ensembles at Any Cost? Accuracy-Energy Trade-offs in Recommender Systems",
+      "authors": [
+        "Jannik Nitschke",
+        "Lukas Wegmeth",
+        "Joeran Beel"
+      ],
+      "published": "2026-04-09T06:33:19+00:00",
+      "first_seen": "2026-04-10T08:57:24.303471",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.07851": {
+      "arxiv_id": "2604.07851",
+      "title": "ReRec: Reasoning-Augmented LLM-based Recommendation Assistant via Reinforcement Fine-tuning",
+      "authors": [
+        "Jiani Huang",
+        "Shijie Wang",
+        "Liangbo Ning",
+        "Wenqi Fan",
+        "Qing Li"
+      ],
+      "published": "2026-04-09T06:07:03+00:00",
+      "first_seen": "2026-04-10T08:57:24.303477",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2604.07825": {
+      "arxiv_id": "2604.07825",
+      "title": "Filling the Gaps: Selective Knowledge Augmentation for LLM Recommenders",
+      "authors": [
+        "Jaehyun Lee",
+        "Sanghwan Jang",
+        "SeongKu Kang",
+        "Hwanjo Yu"
+      ],
+      "published": "2026-04-09T05:27:04+00:00",
+      "first_seen": "2026-04-10T08:57:24.303482",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2604.07813": {
+      "arxiv_id": "2604.07813",
+      "title": "Agentivism: a learning theory for the age of artificial intelligence",
+      "authors": [
+        "Lixiang Yan",
+        "Dragan Gašević"
+      ],
+      "published": "2026-04-09T05:09:48+00:00",
+      "first_seen": "2026-04-10T08:57:24.303488",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2604.07739": {
+      "arxiv_id": "2604.07739",
+      "title": "Efficient Dataset Selection for Continual Adaptation of Generative Recommenders",
+      "authors": [
+        "Cathy Jiao",
+        "Juan Elenter",
+        "Praveen Ravichandran",
+        "Bernd Huber",
+        "Joseph Cauteruccio",
+        "Todd Wasson",
+        "Timothy Heath",
+        "Chenyan Xiong",
+        "Mounia Lalmas",
+        "Paul Bennett"
+      ],
+      "published": "2026-04-09T02:48:52+00:00",
+      "first_seen": "2026-04-10T08:57:24.303493",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.07572": {
+      "arxiv_id": "2604.07572",
+      "title": "HiMARS: Hybrid multi-objective algorithms for recommender systems",
+      "authors": [
+        "Elaheh Lotfian",
+        "Alireza Kabgani"
+      ],
+      "published": "2026-04-08T20:23:00+00:00",
+      "first_seen": "2026-04-10T08:57:24.303498",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.07531": {
+      "arxiv_id": "2604.07531",
+      "title": "PRISM: Evaluating a Rule-Based, Scenario-Driven Social Media Privacy Education Program for Young Autistic Adults",
+      "authors": [
+        "Kirsten Chapman",
+        "Garrett Smith",
+        "Kaitlyn Klabacka",
+        "Joseph Thomas Bills",
+        "Addisyn Bushman",
+        "Terisa Gabrielsen",
+        "Pamela J Wisniewski",
+        "Xinru Page"
+      ],
+      "published": "2026-04-08T19:13:59+00:00",
+      "first_seen": "2026-04-10T08:57:24.303503",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.HC"
+      ]
+    },
+    "2604.07513": {
+      "arxiv_id": "2604.07513",
+      "title": "SYN-DIGITS: A Synthetic Control Framework for Calibrated Digital Twin Simulation",
+      "authors": [
+        "Grace Jiarui Fan",
+        "Chengpiao Huang",
+        "Tianyi Peng",
+        "Kaizheng Wang",
+        "Yuhang Wu"
+      ],
+      "published": "2026-04-08T18:50:01+00:00",
+      "first_seen": "2026-04-10T08:57:24.303508",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ]
+    },
+    "2604.08161": {
+      "arxiv_id": "2604.08161",
+      "title": "Shift- and stretch-invariant non-negative matrix factorization with an application to brain tissue delineation in emission tomography data",
+      "authors": [
+        "Anders S. Olsen",
+        "Miriam L. Navarro",
+        "Claus Svarer",
+        "Jesper L. Hinrich",
+        "Morten Mørup",
+        "Gitte M. Knudsen"
+      ],
+      "published": "2026-04-09T12:22:04+00:00",
+      "first_seen": "2026-04-10T08:57:29.402971",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG"
       ]
     }
   }

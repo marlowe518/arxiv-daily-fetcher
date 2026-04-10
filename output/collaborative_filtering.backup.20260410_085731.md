@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-09 | [Shift- and stretch-invariant non-negative matrix factorization with an application to brain tissue delineation in emission tomography data](https://arxiv.org/abs/2604.08161) | Dynamic neuroimaging data, such as emission tomography measurements of radiotracer transport in blood or cerebrospinal fluid, often exhibit diffusion-like properties. |
 | 2026-04-07 | [Anticipating tipping in spatiotemporal systems with machine learning](https://arxiv.org/abs/2604.06454) | In nonlinear dynamical systems, tipping refers to a critical transition from one steady state to another, typically catastrophic, steady state, often resulting from a saddle-node bifurcation. |
 | 2026-04-02 | [What Do Humanities Scholars Need? A User Model for Recommendation in Digital Archives](https://arxiv.org/abs/2604.06232) | User models for recommender systems (RecSys) typically assume stable preferences, similarity-based relevance, and session-bounded interactions -- assumptions derived from high-volume consumer... |
 | 2026-03-31 | [Nonnegative Matrix Factorization in the Component-Wise L1 Norm for Sparse Data](https://arxiv.org/abs/2603.29715) | Nonnegative matrix factorization (NMF) approximates a nonnegative matrix, $X$, by the product of two nonnegative factors, $WH$, where $W$ has $r$ columns and $H$ has $r$ rows. |
