@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-12T08:34:44.801623",
+  "last_updated": "2026-04-13T09:23:12.770677",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -12913,6 +12913,431 @@
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG"
+      ]
+    },
+    "2604.09320": {
+      "arxiv_id": "2604.09320",
+      "title": "Transferable FB-GNN-MBE Framework for Potential Energy Surfaces: Data-Adaptive Transfer Learning in Deep Learned Many-Body Expansion Theory",
+      "authors": [
+        "Siqi Chen",
+        "Zhiqiang Wang",
+        "Yili Shen",
+        "Xianqi Deng",
+        "Xi Cheng",
+        "Cheng-Wei Ju",
+        "Jun Yi",
+        "Guo Ling",
+        "Dieaa Alhmoud",
+        "Hui Guan",
+        "Zhou Lin"
+      ],
+      "published": "2026-04-10T13:43:19+00:00",
+      "first_seen": "2026-04-13T09:22:49.042700",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "physics.chem-ph",
+        "cs.LG"
+      ]
+    },
+    "2604.09306": {
+      "arxiv_id": "2604.09306",
+      "title": "SatQNet: Satellite-assisted Quantum Network Entanglement Routing Using Directed Line Graph Neural Networks",
+      "authors": [
+        "Tobias Meuser",
+        "Jannis Weil",
+        "Aninda Lahiri",
+        "Marius Paraschiv"
+      ],
+      "published": "2026-04-10T13:14:48+00:00",
+      "first_seen": "2026-04-13T09:22:49.042713",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "quant-ph",
+        "cs.AI",
+        "cs.NI"
+      ]
+    },
+    "2604.09240": {
+      "arxiv_id": "2604.09240",
+      "title": "DiffHLS: Differential Learning for High-Level Synthesis QoR Prediction with GNNs and LLM Code Embeddings",
+      "authors": [
+        "Zedong Peng",
+        "Zeju Li",
+        "Qiang Xu",
+        "Jieru Zhao"
+      ],
+      "published": "2026-04-10T11:54:56+00:00",
+      "first_seen": "2026-04-13T09:22:49.042721",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.09202": {
+      "arxiv_id": "2604.09202",
+      "title": "On the Role of DAG topology in Energy-Aware Cloud Scheduling : A GNN-Based Deep Reinforcement Learning Approach",
+      "authors": [
+        "Anas Hattay",
+        "Fred Ngole Mboula",
+        "Eric Gascard",
+        "Zakaria Yahoun"
+      ],
+      "published": "2026-04-10T10:44:30+00:00",
+      "first_seen": "2026-04-13T09:22:49.042728",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.09130": {
+      "arxiv_id": "2604.09130",
+      "title": "EquiformerV3: Scaling Efficient, Expressive, and General SE(3)-Equivariant Graph Attention Transformers",
+      "authors": [
+        "Yi-Lun Liao",
+        "Alexander J. Hoffman",
+        "Sabrina C. Shen",
+        "Alexandre Duval",
+        "Sam Walton Norwood",
+        "Tess Smidt"
+      ],
+      "published": "2026-04-10T09:12:16+00:00",
+      "first_seen": "2026-04-13T09:22:49.042734",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "physics.comp-ph"
+      ]
+    },
+    "2604.08980": {
+      "arxiv_id": "2604.08980",
+      "title": "Neighbourhood Transformer: Switchable Attention for Monophily-Aware Graph Learning",
+      "authors": [
+        "Yi Luo",
+        "Xu Sun",
+        "Guangchun Luo",
+        "Aiguo Chen"
+      ],
+      "published": "2026-04-10T05:35:21+00:00",
+      "first_seen": "2026-04-13T09:22:49.042741",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.08890": {
+      "arxiv_id": "2604.08890",
+      "title": "A Closer Look at the Application of Causal Inference in Graph Representation Learning",
+      "authors": [
+        "Hang Gao",
+        "Kunyu Li",
+        "Huang Hong",
+        "Baoquan Cui",
+        "Fengge Wu"
+      ],
+      "published": "2026-04-10T02:53:50+00:00",
+      "first_seen": "2026-04-13T09:22:49.042747",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.08810": {
+      "arxiv_id": "2604.08810",
+      "title": "R2G: A Multi-View Circuit Graph Benchmark Suite from RTL to GDSII",
+      "authors": [
+        "Zewei Zhou",
+        "Jiajun Zou",
+        "Jiajia Zhang",
+        "Ao Yang",
+        "Ruichao He",
+        "Haozheng Zhou",
+        "Ao Liu",
+        "Jiawei Liu",
+        "Leilei Jin",
+        "Shan Shen",
+        "Daying Sun"
+      ],
+      "published": "2026-04-09T22:59:27+00:00",
+      "first_seen": "2026-04-13T09:22:49.042760",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2604.08728": {
+      "arxiv_id": "2604.08728",
+      "title": "Wireless Communication Enhanced Value Decomposition for Multi-Agent Reinforcement Learning",
+      "authors": [
+        "Diyi Hu",
+        "Bhaskar Krishnamachari"
+      ],
+      "published": "2026-04-09T19:42:17+00:00",
+      "first_seen": "2026-04-13T09:22:49.042767",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.08669": {
+      "arxiv_id": "2604.08669",
+      "title": "An Algorithm for Fast Assembling Large-Scale Defect-Free Atom Arrays",
+      "authors": [
+        "Tao Zhang",
+        "Xiaodi Li",
+        "Hui Zhai",
+        "Linghui Chen"
+      ],
+      "published": "2026-04-09T18:00:17+00:00",
+      "first_seen": "2026-04-13T09:22:49.042774",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.quant-gas",
+        "cs.LG",
+        "quant-ph"
+      ]
+    },
+    "2604.08819": {
+      "arxiv_id": "2604.08819",
+      "title": "SenBen: Sensitive Scene Graphs for Explainable Content Moderation",
+      "authors": [
+        "Fatih Cagatay Akyon",
+        "Alptekin Temizel"
+      ],
+      "published": "2026-04-09T23:22:05+00:00",
+      "first_seen": "2026-04-13T09:22:51.708203",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG",
+        "cs.MM"
+      ]
+    },
+    "2604.08575": {
+      "arxiv_id": "2604.08575",
+      "title": "MolPaQ: Modular Quantum-Classical Patch Learning for Interpretable Molecular Generation",
+      "authors": [
+        "Syed Rameez Naqvi",
+        "Lu Peng"
+      ],
+      "published": "2026-03-27T17:14:06+00:00",
+      "first_seen": "2026-04-13T09:22:51.708215",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.08630": {
+      "arxiv_id": "2604.08630",
+      "title": "Realisation-Level Privacy Filtering",
+      "authors": [
+        "Sophie Taylor",
+        "Praneeth Vippathalla",
+        "Justin Coon"
+      ],
+      "published": "2026-04-09T16:31:38+00:00",
+      "first_seen": "2026-04-13T09:22:57.783650",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.IT"
+      ]
+    },
+    "2604.09489": {
+      "arxiv_id": "2604.09489",
+      "title": "XFED: Non-Collusive Model Poisoning Attack Against Byzantine-Robust Federated Classifiers",
+      "authors": [
+        "Israt Jahan Mouri",
+        "Muhammad Ridowan",
+        "Muhammad Abdullah Adnan"
+      ],
+      "published": "2026-04-10T16:54:29+00:00",
+      "first_seen": "2026-04-13T09:23:03.667082",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2604.08828": {
+      "arxiv_id": "2604.08828",
+      "title": "Post-Hoc Guidance for Consistency Models by Joint Flow Distribution Learning",
+      "authors": [
+        "Chia-Hong Hsu",
+        "Randall Balestriero"
+      ],
+      "published": "2026-04-10T00:00:08+00:00",
+      "first_seen": "2026-04-13T09:23:03.667093",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CV"
+      ]
+    },
+    "2604.08620": {
+      "arxiv_id": "2604.08620",
+      "title": "StructRL: Recovering Dynamic Programming Structure from Learning Dynamics in Distributional Reinforcement Learning",
+      "authors": [
+        "Ivo Nowak"
+      ],
+      "published": "2026-04-09T09:21:20+00:00",
+      "first_seen": "2026-04-13T09:23:03.667099",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.09439": {
+      "arxiv_id": "2604.09439",
+      "title": "TME-PSR: Time-aware, Multi-interest, and Explanation Personalization for Sequential Recommendation",
+      "authors": [
+        "Qingzhuo Wang",
+        "Leilei Wen",
+        "Juntao Chen",
+        "Kunyu Peng",
+        "Ruiyang Qin",
+        "Zhihua Wei",
+        "Wen Shen"
+      ],
+      "published": "2026-04-10T15:55:54+00:00",
+      "first_seen": "2026-04-13T09:23:06.594307",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2604.09155": {
+      "arxiv_id": "2604.09155",
+      "title": "CORA: Conformal Risk-Controlled Agents for Safeguarded Mobile GUI Automation",
+      "authors": [
+        "Yushi Feng",
+        "Junye Du",
+        "Qifan Wang",
+        "Zizhan Ma",
+        "Qian Niu",
+        "Yutaka Matsuo",
+        "Long Feng",
+        "Lequan Yu"
+      ],
+      "published": "2026-04-10T09:41:21+00:00",
+      "first_seen": "2026-04-13T09:23:06.594319",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.09112": {
+      "arxiv_id": "2604.09112",
+      "title": "Hybrid Cold-Start Recommender System for Closure Model Selection in Multiphase Flow Simulations",
+      "authors": [
+        "S. Hänsch",
+        "A. Sajdoková",
+        "A. Rębowski",
+        "F. Miškařík",
+        "K. Ramakrishna",
+        "F. Schlegel",
+        "V. Rybář",
+        "R. Alves",
+        "P. Kordík"
+      ],
+      "published": "2026-04-10T08:46:30+00:00",
+      "first_seen": "2026-04-13T09:23:06.594326",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.09087": {
+      "arxiv_id": "2604.09087",
+      "title": "DIAURec: Dual-Intent Space Representation Optimization for Recommendation",
+      "authors": [
+        "Yu Zhang",
+        "Yiwen Zhang",
+        "Yi Zhang",
+        "Lei Sang"
+      ],
+      "published": "2026-04-10T08:16:55+00:00",
+      "first_seen": "2026-04-13T09:23:06.594333",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.09085": {
+      "arxiv_id": "2604.09085",
+      "title": "Beyond Isolated Clients: Integrating Graph-Based Embeddings into Event Sequence Models",
+      "authors": [
+        "Harry Proshian",
+        "Nikita Severin",
+        "Sergey Nikolenko",
+        "Kireev Ivan",
+        "Andrey Savchenko",
+        "Ivan Sergeev",
+        "Maria Postnova",
+        "Ilya Makarov"
+      ],
+      "published": "2026-04-10T08:11:41+00:00",
+      "first_seen": "2026-04-13T09:23:06.594338",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.08933": {
+      "arxiv_id": "2604.08933",
+      "title": "IAT: Instance-As-Token Compression for Historical User Sequence Modeling in Industrial Recommender Systems",
+      "authors": [
+        "Xinchun Li",
+        "Ning Zhang",
+        "Qianqian Yang",
+        "Fei Teng",
+        "Wenlin Zhao",
+        "Huizhi Yang",
+        "Heng Shi",
+        "Linlan Chen",
+        "Yixin Wu",
+        "Zhen Wang",
+        "Daiye Hou",
+        "Fei Qin",
+        "Lele Yu",
+        "Yaocheng Tan"
+      ],
+      "published": "2026-04-10T04:02:58+00:00",
+      "first_seen": "2026-04-13T09:23:06.594344",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.08643": {
+      "arxiv_id": "2604.08643",
+      "title": "Creator Incentives in Recommender Systems: A Cooperative Game-Theoretic Approach for Stable and Fair Collaboration in Multi-Agent Bandits",
+      "authors": [
+        "Ramakrishnan Krishnamurthy",
+        "Arpit Agarwal",
+        "Lakshminarayanan Subramanian",
+        "Maximilian Nickel"
+      ],
+      "published": "2026-04-09T17:45:15+00:00",
+      "first_seen": "2026-04-13T09:23:06.594350",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CY",
+        "cs.GT",
+        "cs.SI"
       ]
     }
   }

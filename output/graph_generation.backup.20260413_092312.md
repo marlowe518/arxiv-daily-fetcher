@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-09 | [SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819) | Content moderation systems classify images as safe or unsafe but lack spatial grounding and interpretability: they cannot explain what sensitive behavior was detected, who is involved, or where it... |
-| 2026-03-27 | [MolPaQ: Modular Quantum-Classical Patch Learning for Interpretable Molecular Generation](https://arxiv.org/abs/2604.08575) | Molecular generative models must jointly ensure validity, diversity, and property control, yet existing approaches typically trade off among these objectives. |
 | 2026-04-09 | [Equivariant Efficient Joint Discrete and Continuous MeanFlow for Molecular Graph Generation](https://arxiv.org/abs/2604.08189) | Graph-structured data jointly contain discrete topology and continuous geometry, which poses fundamental challenges for generative modeling due to heterogeneous distributions, incompatible noise... |
 | 2026-04-07 | [ReLU Networks for Exact Generation of Similar Graphs](https://arxiv.org/abs/2604.05929) | Generation of graphs constrained by a specified graph edit distance from a source graph is important in applications such as cheminformatics, network anomaly synthesis, and structured data... |
 | 2026-04-07 | [Same Graph, Different Likelihoods: Calibration of Autoregressive Graph Generators via Permutation-Equivalent Encodings](https://arxiv.org/abs/2604.05613) | Autoregressive graph generators define likelihoods via a sequential construction process, but these likelihoods are only meaningful if they are consistent across all linearizations of the same graph. |

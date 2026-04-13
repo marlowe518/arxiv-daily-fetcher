@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-09 | [Realisation-Level Privacy Filtering](https://arxiv.org/abs/2604.08630) | We study differentially private data release, where a database is accessed through successive, possibly adaptive queries and mechanisms. |
 | 2026-04-09 | [Differentially Private Language Generation and Identification in the Limit](https://arxiv.org/abs/2604.08504) | We initiate the study of language generation in the limit, a model recently introduced by Kleinberg and Mullainathan [KM24], under the constraint of differential privacy. |
 | 2026-04-09 | [TADP-RME: A Trust-Adaptive Differential Privacy Framework for Enhancing Reliability of Data-Driven Systems](https://arxiv.org/abs/2604.08113) | Ensuring reliability in adversarial settings necessitates treating privacy as a foundational component of data-driven systems. |
 | 2026-04-09 | [PrivFedTalk: Privacy-Aware Federated Diffusion with Identity-Stable Adapters for Personalized Talking-Head Generation](https://arxiv.org/abs/2604.08037) | Talking-head generation has advanced rapidly with diffusion-based generative models, but training usually depends on centralized face-video and speech datasets, raising major privacy concerns. |

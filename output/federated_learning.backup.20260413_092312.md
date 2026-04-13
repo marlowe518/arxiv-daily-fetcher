@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-10 | [XFED: Non-Collusive Model Poisoning Attack Against Byzantine-Robust Federated Classifiers](https://arxiv.org/abs/2604.09489) | Model poisoning attacks pose a significant security threat to Federated Learning (FL). |
-| 2026-04-10 | [Post-Hoc Guidance for Consistency Models by Joint Flow Distribution Learning](https://arxiv.org/abs/2604.08828) | Classifier-free Guidance (CFG) lets practitioners trade-off fidelity against diversity in Diffusion Models (DMs). |
-| 2026-04-09 | [StructRL: Recovering Dynamic Programming Structure from Learning Dynamics in Distributional Reinforcement Learning](https://arxiv.org/abs/2604.08620) | Reinforcement learning is typically treated as a uniform, data-driven optimization process, where updates are guided by rewards and temporal-difference errors without explicitly exploiting global... |
 | 2026-04-09 | [Quantization Impact on the Accuracy and Communication Efficiency Trade-off in Federated Learning for Aerospace Predictive Maintenance](https://arxiv.org/abs/2604.08474) | Federated learning (FL) enables privacy-preserving predictive maintenance across distributed aerospace fleets, but gradient communication overhead constrains deployment on bandwidth-limited IoT nodes. |
 | 2026-04-09 | [Automating aggregation strategy selection in federated learning](https://arxiv.org/abs/2604.08056) | Federated Learning enables collaborative model training without centralising data, but its effectiveness varies with the selection of the aggregation strategy. |
 | 2026-04-08 | [FedDetox: Robust Federated SLM Alignment via On-Device Data Sanitization](https://arxiv.org/abs/2604.06833) | As high quality public data becomes scarce, Federated Learning (FL) provides a vital pathway to leverage valuable private user data while preserving privacy. |
