@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-13 | [Answering Counting Queries with Differential Privacy on a Quantum Computer](https://arxiv.org/abs/2604.10881) | Differential privacy is a mathematical notion of data privacy that has fast become the de facto standard in privacy-preserving data analysis. |
-| 2026-04-12 | [Replicable Composition](https://arxiv.org/abs/2604.10423) | Replicability requires that algorithmic conclusions remain consistent when rerun on independently drawn data. |
-| 2026-04-11 | [Mask-Free Privacy Extraction and Rewriting: A Domain-Aware Approach via Prototype Learning](https://arxiv.org/abs/2604.10145) | Client-side privacy rewriting is crucial for deploying LLMs in privacy-sensitive domains. |
 | 2026-04-09 | [Realisation-Level Privacy Filtering](https://arxiv.org/abs/2604.08630) | We study differentially private data release, where a database is accessed through successive, possibly adaptive queries and mechanisms. |
 | 2026-04-09 | [Differentially Private Language Generation and Identification in the Limit](https://arxiv.org/abs/2604.08504) | We initiate the study of language generation in the limit, a model recently introduced by Kleinberg and Mullainathan [KM24], under the constraint of differential privacy. |
 | 2026-04-09 | [TADP-RME: A Trust-Adaptive Differential Privacy Framework for Enhancing Reliability of Data-Driven Systems](https://arxiv.org/abs/2604.08113) | Ensuring reliability in adversarial settings necessitates treating privacy as a foundational component of data-driven systems. |
