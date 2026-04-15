@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-14T09:06:57.550911",
+  "last_updated": "2026-04-15T09:08:07.458836",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -13986,6 +13986,394 @@
       "categories": [
         "cs.LG",
         "cs.AI"
+      ]
+    },
+    "2604.12503": {
+      "arxiv_id": "2604.12503",
+      "title": "Topology-Aware Reasoning over Incomplete Knowledge Graph with Graph-Based Soft Prompting",
+      "authors": [
+        "Shuai Wang",
+        "Xixi Wang",
+        "Yinan Yu"
+      ],
+      "published": "2026-04-14T09:27:52+00:00",
+      "first_seen": "2026-04-15T09:07:42.697965",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    },
+    "2604.12202": {
+      "arxiv_id": "2604.12202",
+      "title": "Latent patterns of urban mixing in mobility analysis across five global cities",
+      "authors": [
+        "Z. Fan",
+        "B. P. Y. Loo",
+        "F. Duarte",
+        "C. Ratti",
+        "E. Moro"
+      ],
+      "published": "2026-04-14T02:10:53+00:00",
+      "first_seen": "2026-04-15T09:07:42.697977",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.SI"
+      ]
+    },
+    "2604.12140": {
+      "arxiv_id": "2604.12140",
+      "title": "XANE(3): An E(3)-Equivariant Graph Neural Network for Accurate Prediction of XANES Spectra from Atomic Structures",
+      "authors": [
+        "Vitor F. Grizzi",
+        "Luke N. Pretzie",
+        "Jiayi Xu",
+        "Cong Liu"
+      ],
+      "published": "2026-04-13T23:42:14+00:00",
+      "first_seen": "2026-04-15T09:07:42.697986",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cond-mat.mtrl-sci",
+        "physics.chem-ph"
+      ]
+    },
+    "2604.11986": {
+      "arxiv_id": "2604.11986",
+      "title": "Exploring Concept Subspace for Self-explainable Text-Attributed Graph Learning",
+      "authors": [
+        "Xiaoxue Han",
+        "Libo Zhang",
+        "Zining Zhu",
+        "Yue Ning"
+      ],
+      "published": "2026-04-13T19:26:36+00:00",
+      "first_seen": "2026-04-15T09:07:42.697993",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.11842": {
+      "arxiv_id": "2604.11842",
+      "title": "DBGL: Decay-aware Bipartite Graph Learning for Irregular Medical Time Series Classification",
+      "authors": [
+        "Jian Chen",
+        "Yuzhu Hu",
+        "Xiaoyan Yuan",
+        "Yuxuan Hu",
+        "Jinfeng Xu",
+        "Yipeng Du",
+        "Wenhao Yuan",
+        "Wei Wang",
+        "Edith C. H. Ngai"
+      ],
+      "published": "2026-04-12T14:43:12+00:00",
+      "first_seen": "2026-04-15T09:07:42.697999",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.12350": {
+      "arxiv_id": "2604.12350",
+      "title": "Scaffold-Conditioned Preference Triplets for Controllable Molecular Optimization with Large Language Models",
+      "authors": [
+        "Yi Xiong",
+        "Liang Xiong",
+        "Xiaohong Ji",
+        "Sen Yang",
+        "Zhifeng Gao",
+        "Huaimin Wang",
+        "Kele Xu"
+      ],
+      "published": "2026-04-14T06:38:07+00:00",
+      "first_seen": "2026-04-15T09:07:46.659892",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.12968": {
+      "arxiv_id": "2604.12968",
+      "title": "Evolution of Optimization Methods: Algorithms, Scenarios, and Evaluations",
+      "authors": [
+        "Tong Zhang",
+        "Jiangning Zhang",
+        "Zhucun Xue",
+        "Juntao Jiang",
+        "Yicheng Xu",
+        "Chengming Xu",
+        "Teng Hu",
+        "Xingyu Xie",
+        "Xiaobin Hu",
+        "Yabiao Wang",
+        "Yong Liu",
+        "Shuicheng Yan"
+      ],
+      "published": "2026-04-14T17:01:36+00:00",
+      "first_seen": "2026-04-15T09:07:53.689375",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CV"
+      ]
+    },
+    "2604.12737": {
+      "arxiv_id": "2604.12737",
+      "title": "Evaluating Differential Privacy Against Membership Inference in Federated Learning: Insights from the NIST Genomics Red Team Challenge",
+      "authors": [
+        "Gustavo de Carvalho Bertoli"
+      ],
+      "published": "2026-04-14T13:51:02+00:00",
+      "first_seen": "2026-04-15T09:07:53.689389",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2604.12348": {
+      "arxiv_id": "2604.12348",
+      "title": "PrivEraserVerify: Efficient, Private, and Verifiable Federated Unlearning",
+      "authors": [
+        "Parthaw Goswami",
+        "Md Khairul Islam",
+        "Ashfak Yeafi"
+      ],
+      "published": "2026-04-14T06:33:58+00:00",
+      "first_seen": "2026-04-15T09:07:53.689397",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.12064": {
+      "arxiv_id": "2604.12064",
+      "title": "LLM-Redactor: An Empirical Evaluation of Eight Techniques for Privacy-Preserving LLM Requests",
+      "authors": [
+        "Justice Owusu Agyemang",
+        "Jerry John Kponyo",
+        "Elliot Amponsah",
+        "Godfred Manu Addo Boakye",
+        "Kwame Opuni-Boachie Obour Agyekum"
+      ],
+      "published": "2026-04-13T21:05:42+00:00",
+      "first_seen": "2026-04-15T09:07:53.689404",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.SE"
+      ]
+    },
+    "2604.12768": {
+      "arxiv_id": "2604.12768",
+      "title": "Rethinking the Personalized Relaxed Initialization in the Federated Learning: Consistency and Generalization",
+      "authors": [
+        "Li Shen",
+        "Yan Sun",
+        "Dacheng Tao"
+      ],
+      "published": "2026-04-14T14:08:57+00:00",
+      "first_seen": "2026-04-15T09:07:57.432921",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.12401": {
+      "arxiv_id": "2604.12401",
+      "title": "Three Birds, One Stone: Solving the Communication-Memory-Privacy Trilemma in LLM Fine-tuning Over Wireless Networks with Zeroth-Order Optimization",
+      "authors": [
+        "Zhijie Cai",
+        "Yuhao Zheng",
+        "Haolong Chen",
+        "Dongzhu Liu",
+        "Bin Wang",
+        "Guangxu Zhu"
+      ],
+      "published": "2026-04-14T07:36:22+00:00",
+      "first_seen": "2026-04-15T09:07:57.432933",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC"
+      ]
+    },
+    "2604.12304": {
+      "arxiv_id": "2604.12304",
+      "title": "Beyond Weather Correlation: A Comparative Study of Static and Temporal Neural Architectures for Fine-Grained Residential Energy Consumption Forecasting in Melbourne, Australia",
+      "authors": [
+        "Prasad Nimantha Madusanka Ukwatta Hewage",
+        "Hao Wu"
+      ],
+      "published": "2026-04-14T05:23:37+00:00",
+      "first_seen": "2026-04-15T09:07:57.432939",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2604.12990": {
+      "arxiv_id": "2604.12990",
+      "title": "Sparse Contrastive Learning for Content-Based Cold Item Recommendation",
+      "authors": [
+        "Gregor Meehan",
+        "Johan Pauwels"
+      ],
+      "published": "2026-04-14T17:24:25+00:00",
+      "first_seen": "2026-04-15T09:08:01.266703",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.12965": {
+      "arxiv_id": "2604.12965",
+      "title": "Efficient Retrieval Scaling with Hierarchical Indexing for Large Scale Recommendation",
+      "authors": [
+        "Dongqi Fu",
+        "Kaushik Rangadurai",
+        "Haiyu Lu",
+        "Yunchen Pu",
+        "Siyang Yuan",
+        "Minhui Huang",
+        "Yiqun Liu",
+        "Golnaz Ghasemiesfeh",
+        "Xingfeng He",
+        "Fangzhou Xu",
+        "Andrew Cui",
+        "Vidhoon Viswanathan",
+        "Lin Yang",
+        "Liang Wang",
+        "Jiyan Yang",
+        "Chonglin Sun"
+      ],
+      "published": "2026-04-14T16:59:03+00:00",
+      "first_seen": "2026-04-15T09:08:01.266714",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.12372": {
+      "arxiv_id": "2604.12372",
+      "title": "Is Sliding Window All You Need? An Open Framework for Long-Sequence Recommendation",
+      "authors": [
+        "Sayak Chakrabarty",
+        "Souradip Pal"
+      ],
+      "published": "2026-04-14T06:59:40+00:00",
+      "first_seen": "2026-04-15T09:08:01.266720",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2604.12349": {
+      "arxiv_id": "2604.12349",
+      "title": "Responsible Trauma Research: Designing Effective and Sustainable Virtual Reality Exposure Studies",
+      "authors": [
+        "Annalisa Degenhard",
+        "Sophia Ppali",
+        "Fotis Liarokapis",
+        "Enrico Rukzio",
+        "Jennifer Spohrs",
+        "Stefan Tschoeke"
+      ],
+      "published": "2026-04-14T06:34:37+00:00",
+      "first_seen": "2026-04-15T09:08:01.266726",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2604.12337": {
+      "arxiv_id": "2604.12337",
+      "title": "Identifying and Mitigating Gender Cues in Academic Recommendation Letters: An Interpretability Case Study",
+      "authors": [
+        "Charlotte S. Alexander",
+        "Shane Storks",
+        "Souradip Pal",
+        "Sayak Chakrabarty",
+        "Arushi Sharma",
+        "Mlen-Too Wesley",
+        "Bailey Russo"
+      ],
+      "published": "2026-04-14T06:19:35+00:00",
+      "first_seen": "2026-04-15T09:08:01.266732",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CY"
+      ]
+    },
+    "2604.12234": {
+      "arxiv_id": "2604.12234",
+      "title": "UniRec: Bridging the Expressive Gap between Generative and Discriminative Recommendation via Chain-of-Attribute",
+      "authors": [
+        "Ziliang Wang",
+        "Gaoyun Lin",
+        "Xuesi Wang",
+        "Shaoqiang Liang",
+        "Yili Huang",
+        "Weijie Bian"
+      ],
+      "published": "2026-04-14T03:13:50+00:00",
+      "first_seen": "2026-04-15T09:08:01.266737",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.12110": {
+      "arxiv_id": "2604.12110",
+      "title": "SOLARIS: Speculative Offloading of Latent-bAsed Representation for Inference Scaling",
+      "authors": [
+        "Zikun Liu",
+        "Liang Luo",
+        "Qianru Li",
+        "Zhengyu Zhang",
+        "Wei Ling",
+        "Jingyi Shen",
+        "Zeliang Chen",
+        "Yaning Huang",
+        "Jingxian Huang",
+        "Abdallah Aboelela",
+        "Chonglin Sun",
+        "Feifan Gu",
+        "Fenggang Wu",
+        "Hang Qu",
+        "Huayu Li",
+        "Jill Pan",
+        "Kaidi Pei",
+        "Laming Chen",
+        "Longhao Jin",
+        "Qin Huang",
+        "Tongyi Tang",
+        "Varna Puvvada",
+        "Wenlin Chen",
+        "Xiaohan Wei",
+        "Xu Cao",
+        "Yantao Yao",
+        "Yuan Jin",
+        "Yunchen Pu",
+        "Yuxin Chen",
+        "Zijian Shen",
+        "Zhengkai Zhang",
+        "Dong Liang",
+        "Ellie Wen"
+      ],
+      "published": "2026-04-13T22:33:28+00:00",
+      "first_seen": "2026-04-15T09:08:01.266743",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
       ]
     }
   }

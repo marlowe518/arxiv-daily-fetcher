@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-14 | [Evolution of Optimization Methods: Algorithms, Scenarios, and Evaluations](https://arxiv.org/abs/2604.12968) | Balancing convergence speed, generalization capability, and computational efficiency remains a core challenge in deep learning optimization. |
-| 2026-04-14 | [Evaluating Differential Privacy Against Membership Inference in Federated Learning: Insights from the NIST Genomics Red Team Challenge](https://arxiv.org/abs/2604.12737) | While Federated Learning (FL) mitigates direct data exposure, the resulting trained models remain susceptible to membership inference attacks (MIAs). |
-| 2026-04-14 | [PrivEraserVerify: Efficient, Private, and Verifiable Federated Unlearning](https://arxiv.org/abs/2604.12348) | Federated learning (FL) enables collaborative model training without sharing raw data, offering a promising path toward privacy preserving artificial intelligence. |
-| 2026-04-13 | [LLM-Redactor: An Empirical Evaluation of Eight Techniques for Privacy-Preserving LLM Requests](https://arxiv.org/abs/2604.12064) | Coding agents and LLM-powered applications routinely send potentially sensitive content to cloud LLM APIs where it may be logged, retained, used for training, or subpoenaed. |
 | 2026-04-13 | [Answering Counting Queries with Differential Privacy on a Quantum Computer](https://arxiv.org/abs/2604.10881) | Differential privacy is a mathematical notion of data privacy that has fast become the de facto standard in privacy-preserving data analysis. |
 | 2026-04-12 | [Replicable Composition](https://arxiv.org/abs/2604.10423) | Replicability requires that algorithmic conclusions remain consistent when rerun on independently drawn data. |
 | 2026-04-11 | [Mask-Free Privacy Extraction and Rewriting: A Domain-Aware Approach via Prototype Learning](https://arxiv.org/abs/2604.10145) | Client-side privacy rewriting is crucial for deploying LLMs in privacy-sensitive domains. |

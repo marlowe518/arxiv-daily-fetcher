@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-14 | [Scaffold-Conditioned Preference Triplets for Controllable Molecular Optimization with Large Language Models](https://arxiv.org/abs/2604.12350) | Molecular property optimization is central to drug discovery, yet many deep learning methods rely on black-box scoring and offer limited control over scaffold preservation, often producing unstable... |
 | 2026-04-13 | [CAGenMol: Condition-Aware Diffusion Language Model for Goal-Directed Molecular Generation](https://arxiv.org/abs/2604.11483) | Goal-directed molecular generation requires satisfying heterogeneous constraints such as protein--ligand compatibility and multi-objective drug-like properties, yet existing methods often optimize... |
 | 2026-04-09 | [SenBen: Sensitive Scene Graphs for Explainable Content Moderation](https://arxiv.org/abs/2604.08819) | Content moderation systems classify images as safe or unsafe but lack spatial grounding and interpretability: they cannot explain what sensitive behavior was detected, who is involved, or where it... |
 | 2026-03-27 | [MolPaQ: Modular Quantum-Classical Patch Learning for Interpretable Molecular Generation](https://arxiv.org/abs/2604.08575) | Molecular generative models must jointly ensure validity, diversity, and property control, yet existing approaches typically trade off among these objectives. |
