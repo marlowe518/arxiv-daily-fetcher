@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-15 | [Secure and Privacy-Preserving Vertical Federated Learning](https://arxiv.org/abs/2604.13474) | We propose a novel end-to-end privacy-preserving framework, instantiated by three efficient protocols for different deployment scenarios, covering both input and output privacy, for the vertically... |
-| 2026-04-14 | [Sequential Change Detection for Multiple Data Streams with Differential Privacy](https://arxiv.org/abs/2604.13274) | Sequential change-point detection seeks to rapidly identify distributional changes in streaming data while controlling false alarms. |
 | 2026-04-14 | [Evolution of Optimization Methods: Algorithms, Scenarios, and Evaluations](https://arxiv.org/abs/2604.12968) | Balancing convergence speed, generalization capability, and computational efficiency remains a core challenge in deep learning optimization. |
 | 2026-04-14 | [Evaluating Differential Privacy Against Membership Inference in Federated Learning: Insights from the NIST Genomics Red Team Challenge](https://arxiv.org/abs/2604.12737) | While Federated Learning (FL) mitigates direct data exposure, the resulting trained models remain susceptible to membership inference attacks (MIAs). |
 | 2026-04-14 | [PrivEraserVerify: Efficient, Private, and Verifiable Federated Unlearning](https://arxiv.org/abs/2604.12348) | Federated learning (FL) enables collaborative model training without sharing raw data, offering a promising path toward privacy preserving artificial intelligence. |

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-15T09:08:07.458836",
+  "last_updated": "2026-04-16T09:07:23.233374",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -14374,6 +14374,345 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG"
+      ]
+    },
+    "2604.14114": {
+      "arxiv_id": "2604.14114",
+      "title": "ID and Graph View Contrastive Learning with Multi-View Attention Fusion for Sequential Recommendation",
+      "authors": [
+        "Xiaofan Zhou",
+        "Kyumin Lee"
+      ],
+      "published": "2026-04-15T17:36:19+00:00",
+      "first_seen": "2026-04-16T09:06:59.458265",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.13979": {
+      "arxiv_id": "2604.13979",
+      "title": "Leveraging LLM-GNN Integration for Open-World Question Answering over Knowledge Graphs",
+      "authors": [
+        "Hussein Abdallah",
+        "Ibrahim Abdelaziz",
+        "Panos Kalnis",
+        "Essam Mansour"
+      ],
+      "published": "2026-04-15T15:25:25+00:00",
+      "first_seen": "2026-04-16T09:06:59.458278",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.DB"
+      ]
+    },
+    "2604.13453": {
+      "arxiv_id": "2604.13453",
+      "title": "FAST: A Synergistic Framework of Attention and State-space Models for Spatiotemporal Traffic Prediction",
+      "authors": [
+        "Xinjin Li",
+        "Jinghan Cao",
+        "Mengyue Wang",
+        "Yue Wu",
+        "Longxiang Yan",
+        "Yeyang Zhou",
+        "Ziqi Sha",
+        "Yu Ma"
+      ],
+      "published": "2026-04-15T04:05:10+00:00",
+      "first_seen": "2026-04-16T09:06:59.458286",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.13354": {
+      "arxiv_id": "2604.13354",
+      "title": "Finetuning-Free Diffusion Model with Adaptive Constraint Guidance for Inorganic Crystal Structure Generation",
+      "authors": [
+        "Auguste de Lambilly",
+        "Vladimir Baturin",
+        "David Portehault",
+        "Guillaume Lambard",
+        "Nataliya Sokolovska",
+        "Florence d'Alché-Buc",
+        "Jean-Claude Crivello"
+      ],
+      "published": "2026-04-14T23:25:54+00:00",
+      "first_seen": "2026-04-16T09:06:59.458292",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cs.AI"
+      ]
+    },
+    "2604.13331": {
+      "arxiv_id": "2604.13331",
+      "title": "Text-Attributed Knowledge Graph Enrichment with Large Language Models for Medical Concept Representation",
+      "authors": [
+        "Mohsen Nayebi Kerdabadi",
+        "Arya Hadizadeh Moghaddam",
+        "Chen Chen",
+        "Dongjie Wang",
+        "Zijun Yao"
+      ],
+      "published": "2026-04-14T22:29:18+00:00",
+      "first_seen": "2026-04-16T09:06:59.458299",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.13474": {
+      "arxiv_id": "2604.13474",
+      "title": "Secure and Privacy-Preserving Vertical Federated Learning",
+      "authors": [
+        "Shan Jin",
+        "Sai Rahul Rachuri",
+        "Yizhen Wang",
+        "Anderson C. A. Nascimento",
+        "Yiwei Cai"
+      ],
+      "published": "2026-04-15T04:55:40+00:00",
+      "first_seen": "2026-04-16T09:07:08.283000",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2604.13274": {
+      "arxiv_id": "2604.13274",
+      "title": "Sequential Change Detection for Multiple Data Streams with Differential Privacy",
+      "authors": [
+        "Lixing Zhang",
+        "Liyan Xie",
+        "Ruizhi Zhang"
+      ],
+      "published": "2026-04-14T20:08:07+00:00",
+      "first_seen": "2026-04-16T09:07:08.283013",
+      "topic": "Differential Privacy",
+      "categories": [
+        "math.ST",
+        "cs.CR"
+      ]
+    },
+    "2604.14051": {
+      "arxiv_id": "2604.14051",
+      "title": "Enhancing Local Life Service Recommendation with Agentic Reasoning in Large Language Model",
+      "authors": [
+        "Shiteng Cao",
+        "Xiaochong Lan",
+        "Yuwei Du",
+        "Jie Feng",
+        "Yinxing Liu",
+        "Xinlei Shi",
+        "Yong Li"
+      ],
+      "published": "2026-04-15T16:29:37+00:00",
+      "first_seen": "2026-04-16T09:07:18.352509",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.14030": {
+      "arxiv_id": "2604.14030",
+      "title": "Dual-Enhancement Product Bundling: Bridging Interactive Graph and Large Language Model",
+      "authors": [
+        "Zhe Huang",
+        "Peng Wang",
+        "Yan Zheng",
+        "Sen Song",
+        "Longjun Cai"
+      ],
+      "published": "2026-04-15T16:09:48+00:00",
+      "first_seen": "2026-04-16T09:07:18.352521",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.IR"
+      ]
+    },
+    "2604.13801": {
+      "arxiv_id": "2604.13801",
+      "title": "DUET: Joint Exploration of User Item Profiles in Recommendation System",
+      "authors": [
+        "Yue Chen",
+        "Yifei Sun",
+        "Lu Wang",
+        "Fangkai Yang",
+        "Pu Zhao",
+        "Minjie Hong",
+        "Yifei Dong",
+        "Minghua He",
+        "Nan Hu",
+        "Jianjin Zhang",
+        "Zhiwei Dai",
+        "Yuefeng Zhan",
+        "Weihao Han",
+        "Hao Sun",
+        "Qingwei Lin",
+        "Weiwei Deng",
+        "Feng Sun",
+        "Qi Zhang",
+        "Saravan Rajmohan",
+        "Dongmei Zhang"
+      ],
+      "published": "2026-04-15T12:37:40+00:00",
+      "first_seen": "2026-04-16T09:07:18.352528",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.13796": {
+      "arxiv_id": "2604.13796",
+      "title": "Driving Engagement in Daily Fantasy Sports with a Scalable and Urgency-Aware Ranking Engine",
+      "authors": [
+        "Unmesh Padalkar"
+      ],
+      "published": "2026-04-15T12:34:20+00:00",
+      "first_seen": "2026-04-16T09:07:18.352533",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.13739": {
+      "arxiv_id": "2604.13739",
+      "title": "Spectral Thompson sampling",
+      "authors": [
+        "Tomas Kocak",
+        "Michal Valko",
+        "Remi Munos",
+        "Shipra Agrawal"
+      ],
+      "published": "2026-04-15T11:27:49+00:00",
+      "first_seen": "2026-04-16T09:07:18.352539",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2604.13738": {
+      "arxiv_id": "2604.13738",
+      "title": "Covariance-adapting algorithm for semi-bandits with application to sparse rewards",
+      "authors": [
+        "Pierre Perrault",
+        "Vianney Perchet",
+        "Michal Valko"
+      ],
+      "published": "2026-04-15T11:27:39+00:00",
+      "first_seen": "2026-04-16T09:07:18.352544",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2604.13737": {
+      "arxiv_id": "2604.13737",
+      "title": "TokenFormer: Unify the Multi-Field and Sequential Recommendation Worlds",
+      "authors": [
+        "Yifeng Zhou",
+        "Yuehong Hu",
+        "Zhixiang Feng",
+        "Junwei Pan",
+        "Kaihui Wu",
+        "Hanyong Li",
+        "Shangyu Zhang",
+        "Shudong Huang",
+        "Zhangbin Zhu",
+        "Chengguo Yin",
+        "Haijie Gu",
+        "Jie Jiang"
+      ],
+      "published": "2026-04-15T11:25:46+00:00",
+      "first_seen": "2026-04-16T09:07:18.352550",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2604.13665": {
+      "arxiv_id": "2604.13665",
+      "title": "RecNextEval: A Reference Implementation for Temporal Next-Batch Recommendation Evaluation",
+      "authors": [
+        "Tze-Kean Ng",
+        "Joshua Teng-Khing Khoo",
+        "Aixin Sun"
+      ],
+      "published": "2026-04-15T09:34:22+00:00",
+      "first_seen": "2026-04-16T09:07:18.352555",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.13573": {
+      "arxiv_id": "2604.13573",
+      "title": "From Transfer to Collaboration: A Federated Framework for Cross-Market Sequential Recommendation",
+      "authors": [
+        "Jundong Chen",
+        "Honglei Zhang",
+        "Xiangmou Qu",
+        "Haoxuan Li",
+        "Han Yu",
+        "Yidong Li"
+      ],
+      "published": "2026-04-15T07:33:50+00:00",
+      "first_seen": "2026-04-16T09:07:18.352560",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.13389": {
+      "arxiv_id": "2604.13389",
+      "title": "RoTE: Coarse-to-Fine Multi-Level Rotary Time Embedding for Sequential Recommendation",
+      "authors": [
+        "Haolin Zhang",
+        "Longtao Xiao",
+        "Guohao Cai",
+        "Ruixuan Li",
+        "Xiu Li"
+      ],
+      "published": "2026-04-15T01:38:41+00:00",
+      "first_seen": "2026-04-16T09:07:18.352566",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.13381": {
+      "arxiv_id": "2604.13381",
+      "title": "Young people's perceptions and recommendations for conversational generative artificial intelligence in youth mental health",
+      "authors": [
+        "Adam Poulsen",
+        "Ian B. Hickie",
+        "Carla Gorban",
+        "Zsofi de Haan",
+        "William Capon",
+        "Ebenezer Eyeson-Annan",
+        "Jalal Radwan",
+        "Elizabeth M. Scott",
+        "Frank Iorfino",
+        "Haley M. LaMonica"
+      ],
+      "published": "2026-04-15T01:10:23+00:00",
+      "first_seen": "2026-04-16T09:07:18.352572",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
       ]
     }
   }
