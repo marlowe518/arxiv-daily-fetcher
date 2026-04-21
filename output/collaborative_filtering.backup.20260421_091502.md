@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-16 | [Collaborative Filtering Through Weighted Similarities of User and Item Embeddings](https://arxiv.org/abs/2604.15573) | In recent years, neural networks and other complex models have dominated recommender systems, often setting new benchmarks for state-of-the-art performance. |
-| 2026-03-25 | [LLMAR: A Tuning-Free Recommendation Framework for Sparse and Text-Rich Industrial Domains](https://arxiv.org/abs/2604.16379) | Industrial B2B applications (e.g., construction site risk prediction, material procurement) face extreme data sparsity yet feature rich textual interactions. |
 | 2026-04-09 | [Shift- and stretch-invariant non-negative matrix factorization with an application to brain tissue delineation in emission tomography data](https://arxiv.org/abs/2604.08161) | Dynamic neuroimaging data, such as emission tomography measurements of radiotracer transport in blood or cerebrospinal fluid, often exhibit diffusion-like properties. |
 | 2026-04-07 | [Anticipating tipping in spatiotemporal systems with machine learning](https://arxiv.org/abs/2604.06454) | In nonlinear dynamical systems, tipping refers to a critical transition from one steady state to another, typically catastrophic, steady state, often resulting from a saddle-node bifurcation. |
 | 2026-04-02 | [What Do Humanities Scholars Need? A User Model for Recommendation in Digital Archives](https://arxiv.org/abs/2604.06232) | User models for recommender systems (RecSys) typically assume stable preferences, similarity-based relevance, and session-bounded interactions -- assumptions derived from high-volume consumer... |

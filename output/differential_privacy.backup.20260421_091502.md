@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-20 | [Tight Auditing of Differential Privacy in MST and AIM](https://arxiv.org/abs/2604.18352) | State-of-the-art Differentially Private (DP) synthetic data generators such as MST and AIM are widely used, yet tightly auditing their privacy guarantees remains challenging. |
-| 2026-04-19 | [Privatar: Scalable Privacy-preserving Multi-user VR via Secure Offloading](https://arxiv.org/abs/2604.17476) | Multi-user virtual reality enables immersive interaction. |
-| 2026-04-17 | [DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy](https://arxiv.org/abs/2604.15851) | Differential privacy (DP) has a wide range of applications for protecting data privacy, but designing and verifying DP algorithms requires expert-level reasoning, creating a high barrier for... |
-| 2026-04-17 | [DPDSyn: Improving Differentially Private Dataset Synthesis for Model Training by Downstream Task Guidance](https://arxiv.org/abs/2604.15660) | How to synthesize a dataset while achieving differential privacy for AI model training is a meaningful but challenging problem. |
-| 2026-04-17 | [Privacy, Prediction, and Allocation](https://arxiv.org/abs/2604.15596) | Algorithmic predictions are increasingly used to inform the allocation of scarce resources. |
 | 2026-04-16 | [Differentially Private Conformal Prediction](https://arxiv.org/abs/2604.14621) | Conformal prediction (CP) has attracted broad attention as a simple and flexible framework for uncertainty quantification through prediction sets. |
 | 2026-04-15 | [Secure and Privacy-Preserving Vertical Federated Learning](https://arxiv.org/abs/2604.13474) | We propose a novel end-to-end privacy-preserving framework, instantiated by three efficient protocols for different deployment scenarios, covering both input and output privacy, for the vertically... |
 | 2026-04-14 | [Sequential Change Detection for Multiple Data Streams with Differential Privacy](https://arxiv.org/abs/2604.13274) | Sequential change-point detection seeks to rapidly identify distributional changes in streaming data while controlling false alarms. |

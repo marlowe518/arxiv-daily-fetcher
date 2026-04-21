@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-16 | ["Excuse me, may I say something..." CoLabScience, A Proactive AI Assistant for Biomedical Discovery and LLM-Expert Collaborations](https://arxiv.org/abs/2604.15588) | The integration of Large Language Models (LLMs) into scientific workflows presents exciting opportunities to accelerate biomedical discovery. |
 | 2026-04-13 | [AbLWR:A Context-Aware Listwise Ranking Framework for Antibody-Antigen Binding Affinity Prediction via Positive-Unlabeled Learning](https://arxiv.org/abs/2604.11272) | Accurate prediction of antibody-antigen binding affinity is fundamental to therapeutic design, yet remains constrained by severe label sparsity and the complexity of antigenic variations. |
 | 2026-03-02 | [Not All Queries Need Rewriting: When Prompt-Only LLM Refinement Helps and Hurts Dense Retrieval](https://arxiv.org/abs/2603.13301) | Prompt-only, single-step LLM query rewriting, where a rewrite is generated from the query alone without retrieval feedback, is commonly used in production RAG pipelines, but its effect on dense... |
 | 2026-03-02 | [MealRec: Multi-granularity Sequential Modeling via Hierarchical Diffusion Models for Micro-Video Recommendation](https://arxiv.org/abs/2603.01926) | Micro-video recommendation aims to capture user preferences from the collaborative and context information of the interacted micro-videos, thereby predicting the appropriate videos. |
