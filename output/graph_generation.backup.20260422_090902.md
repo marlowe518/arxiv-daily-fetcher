@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-21 | [Structure-guided molecular design with contrastive 3D protein-ligand learning](https://arxiv.org/abs/2604.19562) | Structure-based drug discovery faces the dual challenge of accurately capturing 3D protein-ligand interactions while navigating ultra-large chemical spaces to identify synthetically accessible... |
 | 2026-04-20 | [One Pass for All: A Discrete Diffusion Model for Knowledge Graph Triple Set Prediction](https://arxiv.org/abs/2604.18344) | Knowledge Graphs (KGs) are composed of triples, and the goal of Knowledge Graph Completion (KGC) is to infer the missing factual triples. |
 | 2026-04-20 | [How Creative Are Large Language Models in Generating Molecules?](https://arxiv.org/abs/2604.18031) | Molecule generation requires satisfying multiple chemical and biological constraints while searching a large and structured chemical space. |
 | 2026-04-20 | [Efficient Diffusion Models under Nonconvex Equality and Inequality constraints via Landing](https://arxiv.org/abs/2604.17838) | Generative modeling within constrained sets is essential for scientific and engineering applications involving physical, geometric, or safety requirements (e.g., molecular generation, robotics). |

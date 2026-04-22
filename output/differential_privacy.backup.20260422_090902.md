@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-21 | [DP-FlogTinyLLM: Differentially private federated log anomaly detection using Tiny LLMs](https://arxiv.org/abs/2604.19118) | Modern distributed systems generate massive volumes of log data that are critical for detecting anomalies and cyber threats. |
-| 2026-04-20 | [Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs](https://arxiv.org/abs/2604.18697) | Indistinguishability properties such as differential privacy bounds or low empirically measured membership inference are widely treated as proxies to show a model is sufficiently protected against... |
 | 2026-04-20 | [Tight Auditing of Differential Privacy in MST and AIM](https://arxiv.org/abs/2604.18352) | State-of-the-art Differentially Private (DP) synthetic data generators such as MST and AIM are widely used, yet tightly auditing their privacy guarantees remains challenging. |
 | 2026-04-19 | [Privatar: Scalable Privacy-preserving Multi-user VR via Secure Offloading](https://arxiv.org/abs/2604.17476) | Multi-user virtual reality enables immersive interaction. |
 | 2026-04-17 | [DPrivBench: Benchmarking LLMs' Reasoning for Differential Privacy](https://arxiv.org/abs/2604.15851) | Differential privacy (DP) has a wide range of applications for protecting data privacy, but designing and verifying DP algorithms requires expert-level reasoning, creating a high barrier for... |

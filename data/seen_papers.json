@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-21T09:15:02.914486",
+  "last_updated": "2026-04-22T09:09:02.560157",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -16274,6 +16274,422 @@
         "cs.AI",
         "cs.HC",
         "cs.LG"
+      ]
+    },
+    "2604.19663": {
+      "arxiv_id": "2604.19663",
+      "title": "From Top-1 to Top-K: A Reproducibility Study and Benchmarking of Counterfactual Explanations for Recommender Systems",
+      "authors": [
+        "Quang-Huy Nguyen",
+        "Thanh-Hai Nguyen",
+        "Khac-Manh Thai",
+        "Duc-Hoang Pham",
+        "Huy-Son Nguyen",
+        "Cam-Van Thi Nguyen",
+        "Masoud Mansoury",
+        "Duc-Trong Le",
+        "Hoang-Quynh Le"
+      ],
+      "published": "2026-04-21T16:48:13+00:00",
+      "first_seen": "2026-04-22T09:08:38.778011",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.19514": {
+      "arxiv_id": "2604.19514",
+      "title": "When Graph Structure Becomes a Liability: A Critical Re-Evaluation of Graph Neural Networks for Bitcoin Fraud Detection under Temporal Distribution Shift",
+      "authors": [
+        "Saket Maganti"
+      ],
+      "published": "2026-04-21T14:32:20+00:00",
+      "first_seen": "2026-04-22T09:08:38.778024",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR",
+        "cs.SI"
+      ]
+    },
+    "2604.19212": {
+      "arxiv_id": "2604.19212",
+      "title": "The Logical Expressiveness of Topological Neural Networks",
+      "authors": [
+        "Amirreza Akbari",
+        "Amauri H. Souza",
+        "Vikas Garg"
+      ],
+      "published": "2026-04-21T08:15:16+00:00",
+      "first_seen": "2026-04-22T09:08:38.778032",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.LO"
+      ]
+    },
+    "2604.19186": {
+      "arxiv_id": "2604.19186",
+      "title": "Inductive Subgraphs as Shortcuts: Causal Disentanglement for Heterophilic Graph Learning",
+      "authors": [
+        "Xiangmeng Wang",
+        "Qian Li",
+        "Haiyang Xia",
+        "Hao Miao",
+        "Qing Li",
+        "Guandong Xu"
+      ],
+      "published": "2026-04-21T07:55:19+00:00",
+      "first_seen": "2026-04-22T09:08:38.778039",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.19070": {
+      "arxiv_id": "2604.19070",
+      "title": "TRN-R1-Zero: Text-rich Network Reasoning via LLMs with Reinforcement Learning Only",
+      "authors": [
+        "Yilun Liu",
+        "Ruihong Qiu",
+        "Zi Huang"
+      ],
+      "published": "2026-04-21T04:24:46+00:00",
+      "first_seen": "2026-04-22T09:08:38.778045",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2604.19028": {
+      "arxiv_id": "2604.19028",
+      "title": "Learning Posterior Predictive Distributions for Node Classification from Synthetic Graph Priors",
+      "authors": [
+        "Jeongwhan Choi",
+        "Jongwoo Kim",
+        "Woosung Kang",
+        "Noseong Park"
+      ],
+      "published": "2026-04-21T03:23:34+00:00",
+      "first_seen": "2026-04-22T09:08:38.778050",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.18888": {
+      "arxiv_id": "2604.18888",
+      "title": "Spatiotemporal Link Formation Prediction in Social Learning Networks Using Graph Neural Networks",
+      "authors": [
+        "Ali Mohammadiasl",
+        "Bita Akram",
+        "Seyyedali Hosseinalipour",
+        "Rajeev Sahay"
+      ],
+      "published": "2026-04-20T22:11:02+00:00",
+      "first_seen": "2026-04-22T09:08:38.778056",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI",
+        "eess.SP"
+      ]
+    },
+    "2604.18868": {
+      "arxiv_id": "2604.18868",
+      "title": "Subgraph Concept Networks: Concept Levels in Graph Classification",
+      "authors": [
+        "Lucie Charlotte Magister",
+        "Alexander Norcliffe",
+        "Iulia Duta",
+        "Pietro Lio"
+      ],
+      "published": "2026-04-20T21:44:05+00:00",
+      "first_seen": "2026-04-22T09:08:38.778067",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.18765": {
+      "arxiv_id": "2604.18765",
+      "title": "Multi-Level Temporal Graph Networks with Local-Global Fusion for Industrial Fault Diagnosis",
+      "authors": [
+        "Bibek Aryal",
+        "Gift Modekwe",
+        "Qiugang Lu"
+      ],
+      "published": "2026-04-20T19:20:29+00:00",
+      "first_seen": "2026-04-22T09:08:38.778075",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.18644": {
+      "arxiv_id": "2604.18644",
+      "title": "FASE : A Fairness-Aware Spatiotemporal Event Graph Framework for Predictive Policing",
+      "authors": [
+        "Pronob Kumar Barman",
+        "Pronoy Kumar Barman",
+        "Plaban Kumar Barman",
+        "Rohan Mandar Salvi"
+      ],
+      "published": "2026-04-19T21:22:45+00:00",
+      "first_seen": "2026-04-22T09:08:38.778096",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.19562": {
+      "arxiv_id": "2604.19562",
+      "title": "Structure-guided molecular design with contrastive 3D protein-ligand learning",
+      "authors": [
+        "Carles Navarro",
+        "Philipp Tholke",
+        "Gianni de Fabritiis"
+      ],
+      "published": "2026-04-21T15:13:41+00:00",
+      "first_seen": "2026-04-22T09:08:41.517267",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.19118": {
+      "arxiv_id": "2604.19118",
+      "title": "DP-FlogTinyLLM: Differentially private federated log anomaly detection using Tiny LLMs",
+      "authors": [
+        "Isaiah Thompson",
+        "Tanmay Sen",
+        "Ritwik Bhattacharya"
+      ],
+      "published": "2026-04-21T05:56:51+00:00",
+      "first_seen": "2026-04-22T09:08:47.679005",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2604.18697": {
+      "arxiv_id": "2604.18697",
+      "title": "Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs",
+      "authors": [
+        "Ruixuan Liu",
+        "David Evans",
+        "Li Xiong"
+      ],
+      "published": "2026-04-20T18:00:22+00:00",
+      "first_seen": "2026-04-22T09:08:47.679016",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2604.19729": {
+      "arxiv_id": "2604.19729",
+      "title": "FB-NLL: A Feature-Based Approach to Tackle Noisy Labels in Personalized Federated Learning",
+      "authors": [
+        "Abdulmoneam Ali",
+        "Ahmed Arafa"
+      ],
+      "published": "2026-04-21T17:51:58+00:00",
+      "first_seen": "2026-04-22T09:08:53.659428",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.IT",
+        "eess.SP"
+      ]
+    },
+    "2604.19453": {
+      "arxiv_id": "2604.19453",
+      "title": "ZC-Swish: Stabilizing Deep BN-Free Networks for Edge and Micro-Batch Applications",
+      "authors": [
+        "Suvinava Basak"
+      ],
+      "published": "2026-04-21T13:32:57+00:00",
+      "first_seen": "2026-04-22T09:08:53.659439",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.19451": {
+      "arxiv_id": "2604.19451",
+      "title": "Heterogeneity-Aware Personalized Federated Learning for Industrial Predictive Analytics",
+      "authors": [
+        "Yuhan Hu",
+        "Xiaolei Fang"
+      ],
+      "published": "2026-04-21T13:32:44+00:00",
+      "first_seen": "2026-04-22T09:08:53.659445",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2604.19399": {
+      "arxiv_id": "2604.19399",
+      "title": "Optimal Routing for Federated Learning over Dynamic Satellite Networks: Tractable or Not?",
+      "authors": [
+        "Yi Zhao",
+        "Di Yuan",
+        "Tao Deng",
+        "Suzhi Cao",
+        "Ying Dong"
+      ],
+      "published": "2026-04-21T12:26:42+00:00",
+      "first_seen": "2026-04-22T09:08:53.659451",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2604.19336": {
+      "arxiv_id": "2604.19336",
+      "title": "FedSEA: Achieving Benefit of Parallelization in Federated Online Learning",
+      "authors": [
+        "Harekrushna Sahu",
+        "Pratik Jawanpuria",
+        "Pranay Sharma"
+      ],
+      "published": "2026-04-21T11:12:08+00:00",
+      "first_seen": "2026-04-22T09:08:53.659456",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "math.OC"
+      ]
+    },
+    "2604.19219": {
+      "arxiv_id": "2604.19219",
+      "title": "Sherpa.ai Privacy-Preserving Multi-Party Entity Alignment without Intersection Disclosure for Noisy Identifiers",
+      "authors": [
+        "Daniel M. Jimenez-Gutierrez",
+        "Enrique Zuazua",
+        "Georgios Kellaris",
+        "Joaquin Del Rio",
+        "Oleksii Sliusarenko",
+        "Xabi Uribe-Etxebarria"
+      ],
+      "published": "2026-04-21T08:24:07+00:00",
+      "first_seen": "2026-04-22T09:08:53.659462",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2604.19053": {
+      "arxiv_id": "2604.19053",
+      "title": "CHRONOS: A Hardware-Assisted Phase-Decoupled Framework for Secure Federated Learning in IoT",
+      "authors": [
+        "Hung Dang"
+      ],
+      "published": "2026-04-21T04:00:49+00:00",
+      "first_seen": "2026-04-22T09:08:53.659468",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.DC"
+      ]
+    },
+    "2604.19578": {
+      "arxiv_id": "2604.19578",
+      "title": "Impact of large language models on peer review opinions from a fine-grained perspective: Evidence from top conference proceedings in AI",
+      "authors": [
+        "Wenqing Wu",
+        "Chengzhi Zhang",
+        "Yi Zhao",
+        "Tong Bao"
+      ],
+      "published": "2026-04-21T15:33:53+00:00",
+      "first_seen": "2026-04-22T09:08:56.531720",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.DL",
+        "cs.IR"
+      ]
+    },
+    "2604.19414": {
+      "arxiv_id": "2604.19414",
+      "title": "CAST: Modeling Semantic-Level Transitions for Complementary-Aware Sequential Recommendation",
+      "authors": [
+        "Qian Zhang",
+        "Lech Szymanski",
+        "Haibo Zhang",
+        "Jeremiah D. Deng"
+      ],
+      "published": "2026-04-21T12:45:30+00:00",
+      "first_seen": "2026-04-22T09:08:56.531731",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.19269": {
+      "arxiv_id": "2604.19269",
+      "title": "CS3: Efficient Online Capability Synergy for Two-Tower Recommendation",
+      "authors": [
+        "Lixiang Wang",
+        "Shaoyun Shi",
+        "Peng Wang",
+        "Wenjin Wu",
+        "Peng Jiang"
+      ],
+      "published": "2026-04-21T09:35:30+00:00",
+      "first_seen": "2026-04-22T09:08:56.531738",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.19128": {
+      "arxiv_id": "2604.19128",
+      "title": "GraphRAG-IRL: Personalized Recommendation with Graph-Grounded Inverse Reinforcement Learning and LLM Re-ranking",
+      "authors": [
+        "Siqi Liang",
+        "Xiawei Wang",
+        "Yudi Zhang",
+        "Jiaying Zhou"
+      ],
+      "published": "2026-04-21T06:22:29+00:00",
+      "first_seen": "2026-04-22T09:08:56.531744",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.18948": {
+      "arxiv_id": "2604.18948",
+      "title": "Relationships Between Trust, Compliance, and Performance for Novice Programmers Using AI Code Generation",
+      "authors": [
+        "Nicholas Gardella",
+        "Matthew L. Bolton",
+        "Sara L. Riggs"
+      ],
+      "published": "2026-04-21T00:52:29+00:00",
+      "first_seen": "2026-04-22T09:08:56.531750",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
       ]
     }
   }
