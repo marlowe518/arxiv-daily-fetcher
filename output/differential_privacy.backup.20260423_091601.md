@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-22 | [Differentially Private Clustered Federated Learning with Privacy-Preserving Initialization and Normality-Driven Aggregation](https://arxiv.org/abs/2604.20596) | Federated learning (FL) enables training of a global model while keeping raw data on end-devices. |
-| 2026-04-22 | [Estimating Power-Law Exponent with Edge Differential Privacy](https://arxiv.org/abs/2604.20274) | Many real-world graphs have degree distributions that are well approximated by a power-law, and the corresponding scaling parameter $α$ provides a compact summary of that structure which is useful... |
 | 2026-04-21 | [DP-FlogTinyLLM: Differentially private federated log anomaly detection using Tiny LLMs](https://arxiv.org/abs/2604.19118) | Modern distributed systems generate massive volumes of log data that are critical for detecting anomalies and cyber threats. |
 | 2026-04-20 | [Beyond Indistinguishability: Measuring Extraction Risk in LLM APIs](https://arxiv.org/abs/2604.18697) | Indistinguishability properties such as differential privacy bounds or low empirically measured membership inference are widely treated as proxies to show a model is sufficiently protected against... |
 | 2026-04-20 | [Tight Auditing of Differential Privacy in MST and AIM](https://arxiv.org/abs/2604.18352) | State-of-the-art Differentially Private (DP) synthetic data generators such as MST and AIM are widely used, yet tightly auditing their privacy guarantees remains challenging. |

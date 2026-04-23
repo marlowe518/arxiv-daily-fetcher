@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-22T09:09:02.560157",
+  "last_updated": "2026-04-23T09:16:01.949520",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -16690,6 +16690,424 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.HC"
+      ]
+    },
+    "2604.20797": {
+      "arxiv_id": "2604.20797",
+      "title": "Gauge-Equivariant Graph Neural Networks for Lattice Gauge Theories",
+      "authors": [
+        "Ali Rayat",
+        "Yaohang Li",
+        "Gia-Wei Chern"
+      ],
+      "published": "2026-04-22T17:21:20+00:00",
+      "first_seen": "2026-04-23T09:15:38.310365",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.str-el",
+        "cs.LG",
+        "hep-lat"
+      ]
+    },
+    "2604.20736": {
+      "arxiv_id": "2604.20736",
+      "title": "F\\textsuperscript{2}LP-AP: Fast \\& Flexible Label Propagation with Adaptive Propagation Kernel",
+      "authors": [
+        "Yutong Shen",
+        "Ruizhe Xia",
+        "Jingyi Liu",
+        "Yinqi Liu"
+      ],
+      "published": "2026-04-22T16:23:17+00:00",
+      "first_seen": "2026-04-23T09:15:38.310382",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.20688": {
+      "arxiv_id": "2604.20688",
+      "title": "Storm Surge Modeling, Bias Correction, Graph Neural Networks, Graph Convolution Networks",
+      "authors": [
+        "Noujoud Nader",
+        "Stefanos Giaremis",
+        "Clint Dawson",
+        "Carola Kaiser",
+        "Karame Mohammadiporshokooh",
+        "Hartmut Kaiser"
+      ],
+      "published": "2026-04-22T15:36:19+00:00",
+      "first_seen": "2026-04-23T09:15:38.310395",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.20598": {
+      "arxiv_id": "2604.20598",
+      "title": "Self-Aware Vector Embeddings for Retrieval-Augmented Generation: A Neuroscience-Inspired Framework for Temporal, Confidence-Weighted, and Relational Knowledge",
+      "authors": [
+        "Naizhong Xu"
+      ],
+      "published": "2026-04-22T14:13:50+00:00",
+      "first_seen": "2026-04-23T09:15:38.310406",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.IR",
+        "cs.CL",
+        "cs.DB",
+        "cs.LG"
+      ]
+    },
+    "2604.20577": {
+      "arxiv_id": "2604.20577",
+      "title": "Evaluating Assurance Cases as Text-Attributed Graphs for Structure and Provenance Analysis",
+      "authors": [
+        "Fariz Ikhwantri",
+        "Dusica Marijan"
+      ],
+      "published": "2026-04-22T13:58:08+00:00",
+      "first_seen": "2026-04-23T09:15:38.310416",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SE",
+        "cs.LG"
+      ]
+    },
+    "2604.20483": {
+      "arxiv_id": "2604.20483",
+      "title": "Forecasting Individual NetFlows using a Predictive Masked Graph Autoencoder",
+      "authors": [
+        "Georgios Anyfantis",
+        "Pere Barlet-Ros"
+      ],
+      "published": "2026-04-22T12:14:29+00:00",
+      "first_seen": "2026-04-23T09:15:38.310427",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.NI",
+        "cs.LG"
+      ]
+    },
+    "2604.20467": {
+      "arxiv_id": "2604.20467",
+      "title": "Mechanistic Interpretability Tool for AI Weather Models",
+      "authors": [
+        "Kirsten I. Tempest",
+        "Matthias Beylich",
+        "George C. Craig"
+      ],
+      "published": "2026-04-22T11:54:09+00:00",
+      "first_seen": "2026-04-23T09:15:38.310437",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "physics.ao-ph",
+        "cs.LG",
+        "physics.comp-ph"
+      ]
+    },
+    "2604.20403": {
+      "arxiv_id": "2604.20403",
+      "title": "Robustness of Spatio-temporal Graph Neural Networks for Fault Location in Partially Observable Distribution Grids",
+      "authors": [
+        "Burak Karabulut",
+        "Carlo Manna",
+        "Chris Develder"
+      ],
+      "published": "2026-04-22T10:13:28+00:00",
+      "first_seen": "2026-04-23T09:15:38.310454",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.20308": {
+      "arxiv_id": "2604.20308",
+      "title": "Sheaf Neural Networks on SPD Manifolds: Second-Order Geometric Representation Learning",
+      "authors": [
+        "Yuhan Peng",
+        "Junwen Dong",
+        "Yuzhi Zeng",
+        "Hao Li",
+        "Ce Ju",
+        "Huitao Feng",
+        "Diaaeldin Taha",
+        "Anna Wienhard",
+        "Kelin Xia"
+      ],
+      "published": "2026-04-22T08:09:04+00:00",
+      "first_seen": "2026-04-23T09:15:38.310465",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.20082": {
+      "arxiv_id": "2604.20082",
+      "title": "Concept Graph Convolutions: Message Passing in the Concept Space",
+      "authors": [
+        "Lucie Charlotte Magister",
+        "Pietro Lio"
+      ],
+      "published": "2026-04-22T00:57:06+00:00",
+      "first_seen": "2026-04-23T09:15:38.310475",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.20078": {
+      "arxiv_id": "2604.20078",
+      "title": "Improved large-scale graph learning through ridge spectral sparsification",
+      "authors": [
+        "Daniele Calandriello",
+        "Ioannis Koutis",
+        "Alessandro Lazaric",
+        "Michal Valko"
+      ],
+      "published": "2026-04-22T00:49:31+00:00",
+      "first_seen": "2026-04-23T09:15:38.310485",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.19840": {
+      "arxiv_id": "2604.19840",
+      "title": "Graph-Theoretic Models for the Prediction of Molecular Measurements",
+      "authors": [
+        "Anna Niane",
+        "Prudence Djagba"
+      ],
+      "published": "2026-04-21T09:27:55+00:00",
+      "first_seen": "2026-04-23T09:15:38.310494",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.QM"
+      ]
+    },
+    "2604.20596": {
+      "arxiv_id": "2604.20596",
+      "title": "Differentially Private Clustered Federated Learning with Privacy-Preserving Initialization and Normality-Driven Aggregation",
+      "authors": [
+        "Jie Xu",
+        "Haaris Mehmood",
+        "Rogier Van Dalen",
+        "Karthikeyan Saravanan",
+        "Mete Ozay"
+      ],
+      "published": "2026-04-22T14:12:18+00:00",
+      "first_seen": "2026-04-23T09:15:46.987119",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2604.20274": {
+      "arxiv_id": "2604.20274",
+      "title": "Estimating Power-Law Exponent with Edge Differential Privacy",
+      "authors": [
+        "Adam Tan",
+        "Mohamed Hefny",
+        "Keval Vora"
+      ],
+      "published": "2026-04-22T07:20:14+00:00",
+      "first_seen": "2026-04-23T09:15:46.987136",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DB"
+      ]
+    },
+    "2604.20825": {
+      "arxiv_id": "2604.20825",
+      "title": "FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels",
+      "authors": [
+        "Sina Gholami",
+        "Abdulmoneam Ali",
+        "Tania Haghighi",
+        "Ahmed Arafa",
+        "Minhaj Nur Alam"
+      ],
+      "published": "2026-04-22T17:49:20+00:00",
+      "first_seen": "2026-04-23T09:15:52.950442",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV",
+        "cs.DC",
+        "eess.SP"
+      ]
+    },
+    "2604.20062": {
+      "arxiv_id": "2604.20062",
+      "title": "Federated Learning over Blockchain-Enabled Cloud Infrastructure",
+      "authors": [
+        "Saloni Garg",
+        "Amit Sagtani",
+        "Kamal Kant Hiran"
+      ],
+      "published": "2026-04-21T23:51:00+00:00",
+      "first_seen": "2026-04-23T09:15:52.950453",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DC"
+      ]
+    },
+    "2604.20031": {
+      "arxiv_id": "2604.20031",
+      "title": "Decision-Focused Federated Learning Under Heterogeneous Objectives and Constraints",
+      "authors": [
+        "Konstantinos Ziliaskopoulos",
+        "Alexander Vinel"
+      ],
+      "published": "2026-04-21T22:22:39+00:00",
+      "first_seen": "2026-04-23T09:15:52.950460",
+      "topic": "Federated Learning",
+      "categories": [
+        "math.OC",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2604.20020": {
+      "arxiv_id": "2604.20020",
+      "title": "Potentials and Pitfalls of Applying Federated Learning in Hardware Assurance",
+      "authors": [
+        "Gijung Lee",
+        "Wavid Bowman",
+        "Olivia Dizon-Paradis",
+        "Reiner Dizon-Paradis",
+        "Ronald Wilson",
+        "Damon Woodard",
+        "Domenic Forte"
+      ],
+      "published": "2026-04-21T21:56:29+00:00",
+      "first_seen": "2026-04-23T09:15:52.950465",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2604.19915": {
+      "arxiv_id": "2604.19915",
+      "title": "DECIFR: Domain-Aware Exfiltration of Circuit Information from Federated Gradient Reconstruction",
+      "authors": [
+        "Gijung Lee",
+        "Wavid Bowman",
+        "Olivia P. Dizon-Paradis",
+        "Reiner N. Dizon-Paradis",
+        "Ronald Wilson",
+        "Damon L. Woodard",
+        "Domenic Forte"
+      ],
+      "published": "2026-04-21T18:48:58+00:00",
+      "first_seen": "2026-04-23T09:15:52.950471",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2604.19891": {
+      "arxiv_id": "2604.19891",
+      "title": "A Data-Free Membership Inference Attack on Federated Learning in Hardware Assurance",
+      "authors": [
+        "Gijung Lee",
+        "Wavid Bowman",
+        "Olivia P. Dizon-Paradis",
+        "Reiner N. Dizon-Paradis",
+        "Ronald Wilson",
+        "Damon L. Woodard",
+        "Domenic Forte"
+      ],
+      "published": "2026-04-21T18:13:12+00:00",
+      "first_seen": "2026-04-23T09:15:52.950477",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2604.20490": {
+      "arxiv_id": "2604.20490",
+      "title": "Break the Optimization Barrier of LLM-Enhanced Recommenders: A Theoretical Analysis and Practical Framework",
+      "authors": [
+        "Zhangchi Zhu",
+        "Wei Zhang"
+      ],
+      "published": "2026-04-22T12:22:47+00:00",
+      "first_seen": "2026-04-23T09:15:55.929009",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.20065": {
+      "arxiv_id": "2604.20065",
+      "title": "From Hidden Profiles to Governable Personalization: Recommender Systems in the Age of LLM Agents",
+      "authors": [
+        "Jiahao Liu",
+        "Mingzhe Han",
+        "Guanming Liu",
+        "Weihang Wang",
+        "Dongsheng Li",
+        "Hansu Gu",
+        "Peng Zhang",
+        "Tun Lu",
+        "Ning Gu"
+      ],
+      "published": "2026-04-22T00:04:47+00:00",
+      "first_seen": "2026-04-23T09:15:55.929020",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.19877": {
+      "arxiv_id": "2604.19877",
+      "title": "Super Apriel: One Checkpoint, Many Speeds",
+      "authors": [
+        "SLAM Labs",
+        ":",
+        "Oleksiy Ostapenko",
+        "Raymond Li",
+        "Torsten Scholak",
+        "Alireza Mousavi-Hosseini",
+        "Aman Tiwari",
+        "Denis Kocetkov",
+        "Joel Lamy Poirier",
+        "Kelechi Ogueji",
+        "Nanda H Krishna",
+        "Rafael Pardinas",
+        "Sathwik Tejaswi Madhusudhan",
+        "Shruthan Radhakrishna",
+        "Srinivas Sunkara",
+        "Valerie Becaert"
+      ],
+      "published": "2026-04-21T18:00:25+00:00",
+      "first_seen": "2026-04-23T09:15:55.929027",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.19826": {
+      "arxiv_id": "2604.19826",
+      "title": "Co-Located Tests, Better AI Code: How Test Syntax Structure Affects Foundation Model Code Generation",
+      "authors": [
+        "Éric Jacopin"
+      ],
+      "published": "2026-04-20T14:47:46+00:00",
+      "first_seen": "2026-04-23T09:15:55.929033",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.SE",
+        "cs.AI",
+        "cs.LG"
       ]
     }
   }
