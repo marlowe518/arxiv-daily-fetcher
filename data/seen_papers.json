@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-23T09:16:01.949520",
+  "last_updated": "2026-04-24T09:20:28.698205",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -17108,6 +17108,303 @@
         "cs.SE",
         "cs.AI",
         "cs.LG"
+      ]
+    },
+    "2604.21473": {
+      "arxiv_id": "2604.21473",
+      "title": "Drug Synergy Prediction via Residual Graph Isomorphism Networks and Attention Mechanisms",
+      "authors": [
+        "Jiyan Song",
+        "Wenyang Wang",
+        "Chengcheng Yan",
+        "Zhiquan Han",
+        "Feifei Zhao"
+      ],
+      "published": "2026-04-23T09:31:51+00:00",
+      "first_seen": "2026-04-24T09:20:05.109566",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.21175": {
+      "arxiv_id": "2604.21175",
+      "title": "Graph Neural Network-Informed Predictive Flows for Faster Ford-Fulkerson and PAC-Learnability",
+      "authors": [
+        "Eleanor Wiesler",
+        "Trace Baxley"
+      ],
+      "published": "2026-04-23T00:45:32+00:00",
+      "first_seen": "2026-04-24T09:20:05.109578",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.DS"
+      ]
+    },
+    "2604.21094": {
+      "arxiv_id": "2604.21094",
+      "title": "Spectral Embeddings Leak Graph Topology: Theory, Benchmark, and Adaptive Reconstruction",
+      "authors": [
+        "Thinh Nguyen-Cong",
+        "Truong-Son Hy",
+        "Thang N. Dinh"
+      ],
+      "published": "2026-04-22T21:31:32+00:00",
+      "first_seen": "2026-04-24T09:20:05.109586",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.21093": {
+      "arxiv_id": "2604.21093",
+      "title": "TRAVELFRAUDBENCH: A Configurable Evaluation Framework for GNN Fraud Ring Detection in Travel Networks",
+      "authors": [
+        "Bhavana Sajja"
+      ],
+      "published": "2026-04-22T21:23:12+00:00",
+      "first_seen": "2026-04-24T09:20:05.109592",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.21571": {
+      "arxiv_id": "2604.21571",
+      "title": "Separable Expert Architecture: Toward Privacy-Preserving LLM Personalization via Composable Adapters and Deletable User Proxies",
+      "authors": [
+        "Chris Schneider",
+        "Philipp Schoenegger",
+        "Ben Bariach"
+      ],
+      "published": "2026-04-23T11:51:31+00:00",
+      "first_seen": "2026-04-24T09:20:13.655911",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.21491": {
+      "arxiv_id": "2604.21491",
+      "title": "Benchmarking the Utility of Privacy-Preserving Cox Regression Under Data-Driven Clipping Bounds: A Multi-Dataset Simulation Study",
+      "authors": [
+        "Keita Fukuyama",
+        "Yukiko Mori",
+        "Tomohiro Kuroda",
+        "Hiroaki Kikuchi"
+      ],
+      "published": "2026-04-23T09:53:15+00:00",
+      "first_seen": "2026-04-24T09:20:13.655923",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "stat.AP",
+        "stat.ME"
+      ]
+    },
+    "2604.21421": {
+      "arxiv_id": "2604.21421",
+      "title": "Differentially Private De-identification of Dutch Clinical Notes: A Comparative Evaluation",
+      "authors": [
+        "Michele Miranda",
+        "Xinlan Yan",
+        "Nishant Mishra",
+        "Rachel Murphy",
+        "Ameen Abu-Hanna",
+        "Sébastien Bratières",
+        "Iacer Calixto"
+      ],
+      "published": "2026-04-23T08:37:40+00:00",
+      "first_seen": "2026-04-24T09:20:13.655930",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2604.21197": {
+      "arxiv_id": "2604.21197",
+      "title": "Toward Efficient Membership Inference Attacks against Federated Large Language Models: A Projection Residual Approach",
+      "authors": [
+        "Guilin Deng",
+        "Silong Chen",
+        "Yuchuan Luo",
+        "Yi Liu",
+        "Songlei Wang",
+        "Zhiping Cai",
+        "Lin Liu",
+        "Xiaohua Jia",
+        "Shaojing Fu"
+      ],
+      "published": "2026-04-23T01:44:04+00:00",
+      "first_seen": "2026-04-24T09:20:13.655939",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.20985": {
+      "arxiv_id": "2604.20985",
+      "title": "Differentially Private Model Merging",
+      "authors": [
+        "Qichuan Yin",
+        "Manzil Zaheer",
+        "Tian Li"
+      ],
+      "published": "2026-04-22T18:13:37+00:00",
+      "first_seen": "2026-04-24T09:20:13.655946",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR",
+        "stat.ML"
+      ]
+    },
+    "2604.21870": {
+      "arxiv_id": "2604.21870",
+      "title": "Locating acts of mechanistic reasoning in student team conversations with mechanistic machine learning",
+      "authors": [
+        "Kaitlin Gili",
+        "Mainak Nistala",
+        "Kristen Wendell",
+        "Michael C. Hughes"
+      ],
+      "published": "2026-04-23T17:13:25+00:00",
+      "first_seen": "2026-04-24T09:20:23.197945",
+      "topic": "Recommender Systems",
+      "categories": [
+        "physics.ed-ph",
+        "cs.LG"
+      ]
+    },
+    "2604.21750": {
+      "arxiv_id": "2604.21750",
+      "title": "Multistakeholder Impacts of Profile Portability in a Recommender Ecosystem",
+      "authors": [
+        "Anas Buhayh",
+        "Elizabeth McKinnie",
+        "Clement Canel",
+        "Robin Burke"
+      ],
+      "published": "2026-04-23T14:59:54+00:00",
+      "first_seen": "2026-04-24T09:20:23.197956",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.21536": {
+      "arxiv_id": "2604.21536",
+      "title": "Pre-trained LLMs Meet Sequential Recommenders: Efficient User-Centric Knowledge Distillation",
+      "authors": [
+        "Nikita Severin",
+        "Danil Kartushov",
+        "Vladislav Urzhumov",
+        "Vladislav Kulikov",
+        "Oksana Konovalova",
+        "Alexey Grishanov",
+        "Anton Klenitskiy",
+        "Artem Fatkulin",
+        "Alexey Vasilev",
+        "Andrey Savchenko",
+        "Ilya Makarov"
+      ],
+      "published": "2026-04-23T10:59:27+00:00",
+      "first_seen": "2026-04-24T09:20:23.197963",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2604.21432": {
+      "arxiv_id": "2604.21432",
+      "title": "A single algorithm for both restless and rested rotting bandits",
+      "authors": [
+        "Julien Seznec",
+        "Pierre Ménard",
+        "Alessandro Lazaric",
+        "Michal Valko"
+      ],
+      "published": "2026-04-23T08:48:52+00:00",
+      "first_seen": "2026-04-24T09:20:23.197969",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2604.21305": {
+      "arxiv_id": "2604.21305",
+      "title": "WPGRec: Wavelet Packet Guided Graph Enhanced Sequential Recommendation",
+      "authors": [
+        "Peilin Liu",
+        "Zhiquan Ji",
+        "Gang Yan"
+      ],
+      "published": "2026-04-23T05:44:26+00:00",
+      "first_seen": "2026-04-24T09:20:23.197975",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.21204": {
+      "arxiv_id": "2604.21204",
+      "title": "On Reasoning Behind Next Occupation Recommendation",
+      "authors": [
+        "Shan Dong",
+        "Palakorn Achananuparp",
+        "Hieu Hien Mai",
+        "Lei Wang",
+        "Yao Lu",
+        "Ee-Peng Lim"
+      ],
+      "published": "2026-04-23T01:52:14+00:00",
+      "first_seen": "2026-04-24T09:20:23.197981",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2604.21031": {
+      "arxiv_id": "2604.21031",
+      "title": "Synthetic Data in Education: Empirical Insights from Traditional Resampling and Deep Generative Models",
+      "authors": [
+        "Tapiwa Amion Chinodakufa",
+        "Ashfaq Ali Shafin",
+        "Khandaker Mamun Ahmed"
+      ],
+      "published": "2026-04-22T19:23:25+00:00",
+      "first_seen": "2026-04-24T09:20:23.197986",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.21019": {
+      "arxiv_id": "2604.21019",
+      "title": "Following the Eye-Tracking Evidence: Established Web-Search Assumptions Fail in Carousel Interfaces",
+      "authors": [
+        "Jingwei Kang",
+        "Maarten de Rijke",
+        "Harrie Oosterhuis"
+      ],
+      "published": "2026-04-22T19:07:52+00:00",
+      "first_seen": "2026-04-24T09:20:23.197992",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.HC"
       ]
     }
   }
