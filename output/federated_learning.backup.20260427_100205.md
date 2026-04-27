@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-24 | [Data-Free Contribution Estimation in Federated Learning using Gradient von Neumann Entropy](https://arxiv.org/abs/2604.22562) | Client contribution estimation in Federated Learning is necessary for identifying clients' importance and for providing fair rewards. |
-| 2026-04-24 | [FedSPDnet: Geometry-Aware Federated Deep Learning with SPDnet](https://arxiv.org/abs/2604.22494) | We introduce two federated learning frameworks for the classical SPDnet model operating on symmetric positive definite (SPD) matrices with Stiefel-constrained parameters. |
-| 2026-04-23 | [Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning](https://arxiv.org/abs/2604.22072) | Federated learning (FL) aggregation on serverless platforms faces a hard scalability ceiling: existing architectures (lambda-FL, LIFL) partition clients across aggregators, but every aggregator must... |
 | 2026-04-22 | [FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels](https://arxiv.org/abs/2604.20825) | Federated learning (FL) enables collaborative model training without sharing raw data; however, the presence of noisy labels across distributed clients can severely degrade the learning performance. |
 | 2026-04-21 | [Federated Learning over Blockchain-Enabled Cloud Infrastructure](https://arxiv.org/abs/2604.20062) | The rise of IoT devices and the uptake of cloud computing have informed a new era of data-driven intelligence. |
 | 2026-04-21 | [Decision-Focused Federated Learning Under Heterogeneous Objectives and Constraints](https://arxiv.org/abs/2604.20031) | We consider what we refer to as {Decision-Focused Federated Learning (DFFL)} framework, i.e., a predict-then-optimize approach employed by a collection of agents, where each agent's predictive model... |

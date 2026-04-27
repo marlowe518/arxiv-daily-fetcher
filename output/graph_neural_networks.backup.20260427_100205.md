@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-24 | [Operational Feature Fingerprints of Graph Datasets via a White-Box Signal-Subspace Probe](https://arxiv.org/abs/2604.22676) | Graph neural networks achieve strong node-classification accuracy, but their learned message passing entangles ego attributes, neighborhood smoothing, high-pass graph differences, class geometry, and... |
 | 2026-04-23 | [Drug Synergy Prediction via Residual Graph Isomorphism Networks and Attention Mechanisms](https://arxiv.org/abs/2604.21473) | In the treatment of complex diseases, treatment regimens using a single drug often yield limited efficacy and can lead to drug resistance. |
 | 2026-04-23 | [Graph Neural Network-Informed Predictive Flows for Faster Ford-Fulkerson and PAC-Learnability](https://arxiv.org/abs/2604.21175) | We propose a learning-augmented framework for accelerating max-flow computation and image segmentation by integrating Graph Neural Networks (GNNs) with the Ford-Fulkerson algorithm. |
 | 2026-04-22 | [Spectral Embeddings Leak Graph Topology: Theory, Benchmark, and Adaptive Reconstruction](https://arxiv.org/abs/2604.21094) | Graph Neural Networks (GNNs) excel on relational data, but standard benchmarks unrealistically assume the graph is centrally available. |

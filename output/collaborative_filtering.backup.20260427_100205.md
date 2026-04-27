@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-23 | [LTBs-KAN: Linear-Time B-splines Kolmogorov-Arnold Networks](https://arxiv.org/abs/2604.22034) | Kolmogorov-Arnold Networks (KANs) are a recent neural network architecture offering an alternative to Multilayer Perceptrons (MLPs) with improved explainability and expressibility. |
 | 2026-04-16 | [Collaborative Filtering Through Weighted Similarities of User and Item Embeddings](https://arxiv.org/abs/2604.15573) | In recent years, neural networks and other complex models have dominated recommender systems, often setting new benchmarks for state-of-the-art performance. |
 | 2026-03-25 | [LLMAR: A Tuning-Free Recommendation Framework for Sparse and Text-Rich Industrial Domains](https://arxiv.org/abs/2604.16379) | Industrial B2B applications (e.g., construction site risk prediction, material procurement) face extreme data sparsity yet feature rich textual interactions. |
 | 2026-04-09 | [Shift- and stretch-invariant non-negative matrix factorization with an application to brain tissue delineation in emission tomography data](https://arxiv.org/abs/2604.08161) | Dynamic neuroimaging data, such as emission tomography measurements of radiotracer transport in blood or cerebrospinal fluid, often exhibit diffusion-like properties. |

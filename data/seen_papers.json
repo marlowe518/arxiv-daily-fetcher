@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-26T08:46:36.300288",
+  "last_updated": "2026-04-27T10:02:05.071243",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -17405,6 +17405,234 @@
       "categories": [
         "cs.IR",
         "cs.HC"
+      ]
+    },
+    "2604.22676": {
+      "arxiv_id": "2604.22676",
+      "title": "Operational Feature Fingerprints of Graph Datasets via a White-Box Signal-Subspace Probe",
+      "authors": [
+        "Yuchen Xiong",
+        "Swee Keong Yeap",
+        "Zhen Hong Ban"
+      ],
+      "published": "2026-04-24T16:00:53+00:00",
+      "first_seen": "2026-04-27T10:01:32.910356",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.22562": {
+      "arxiv_id": "2604.22562",
+      "title": "Data-Free Contribution Estimation in Federated Learning using Gradient von Neumann Entropy",
+      "authors": [
+        "Asim Ukaye",
+        "Mubarak Abdu-Aguye",
+        "Nurbek Tastan",
+        "Karthik Nandakumar"
+      ],
+      "published": "2026-04-24T13:55:10+00:00",
+      "first_seen": "2026-04-27T10:01:57.834405",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV",
+        "cs.DC"
+      ]
+    },
+    "2604.22494": {
+      "arxiv_id": "2604.22494",
+      "title": "FedSPDnet: Geometry-Aware Federated Deep Learning with SPDnet",
+      "authors": [
+        "Thibault Pautrel",
+        "Florent Bouchard",
+        "Ammar Mian",
+        "Guillaume Ginolhac"
+      ],
+      "published": "2026-04-24T12:20:56+00:00",
+      "first_seen": "2026-04-27T10:01:57.834421",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2604.22072": {
+      "arxiv_id": "2604.22072",
+      "title": "Shard the Gradient, Scale the Model: Serverless Federated Aggregation via Gradient Partitioning",
+      "authors": [
+        "Amine Barrak"
+      ],
+      "published": "2026-04-23T20:54:17+00:00",
+      "first_seen": "2026-04-27T10:01:57.834429",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC",
+        "cs.AI"
+      ]
+    },
+    "2604.22549": {
+      "arxiv_id": "2604.22549",
+      "title": "ASPIRE: Make Spectral Graph Collaborative Filtering Great Again via Adaptive Filter Learning",
+      "authors": [
+        "Yunhang He",
+        "Cong Xu",
+        "Zhangchi Zhu",
+        "Hongzhi Yin",
+        "Wei Zhang"
+      ],
+      "published": "2026-04-24T13:39:51+00:00",
+      "first_seen": "2026-04-27T10:02:00.616529",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.22504": {
+      "arxiv_id": "2604.22504",
+      "title": "Objective Shaping with Hard Negatives: Windowed Partial AUC Optimization for RL-based LLM Recommenders",
+      "authors": [
+        "Wentao Shi",
+        "Qifan Wang",
+        "Chen Chen",
+        "Fei Liu",
+        "Dongfang Liu",
+        "Xu Liu",
+        "Wanli Ma",
+        "Junfeng Pan",
+        "Linhong Zhu",
+        "Fuli Feng"
+      ],
+      "published": "2026-04-24T12:31:57+00:00",
+      "first_seen": "2026-04-27T10:02:00.616542",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.22236": {
+      "arxiv_id": "2604.22236",
+      "title": "Algorithmic Feature Highlighting for Human-AI Decision-Making",
+      "authors": [
+        "Yifan Guo",
+        "Jann Spiess"
+      ],
+      "published": "2026-04-24T05:23:06+00:00",
+      "first_seen": "2026-04-27T10:02:00.616550",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.GT",
+        "cs.HC",
+        "cs.LG",
+        "econ.EM"
+      ]
+    },
+    "2604.22195": {
+      "arxiv_id": "2604.22195",
+      "title": "Rethinking Semantic Collaborative Integration: Why Alignment Is Not Enough",
+      "authors": [
+        "Maolin Wang",
+        "Dongze Wu",
+        "Jianing Zhou",
+        "Hongyu Chen",
+        "Beining Bao",
+        "Yu Jiang",
+        "Chenbin Zhang",
+        "Chang Wang",
+        "Jian Liu",
+        "Lei Sha"
+      ],
+      "published": "2026-04-24T03:47:12+00:00",
+      "first_seen": "2026-04-27T10:02:00.616558",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.22170": {
+      "arxiv_id": "2604.22170",
+      "title": "Sharpness-Aware Poisoning: Enhancing Transferability of Injective Attacks on Recommender Systems",
+      "authors": [
+        "Junsong Xie",
+        "Yonghui Yang",
+        "Pengyang Shao",
+        "Le Wu"
+      ],
+      "published": "2026-04-24T02:47:22+00:00",
+      "first_seen": "2026-04-27T10:02:00.616565",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2604.22169": {
+      "arxiv_id": "2604.22169",
+      "title": "ReCast: Recasting Learning Signals for Reinforcement Learning in Generative Recommendation",
+      "authors": [
+        "Peiyan Zhang",
+        "Hanmo Liu",
+        "Chengxuan Tong",
+        "Yuxia Wu",
+        "Wei Guo",
+        "Yong Liu"
+      ],
+      "published": "2026-04-24T02:44:36+00:00",
+      "first_seen": "2026-04-27T10:02:00.616571",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2604.22099": {
+      "arxiv_id": "2604.22099",
+      "title": "Assessing the impact of dimensionality reduction on clustering performance -- a systematic study",
+      "authors": [
+        "Ousmane Assani Amate",
+        "Mohammadreza Bakhtyari",
+        "Émilie Roy",
+        "Vladimir Makarenkov"
+      ],
+      "published": "2026-04-23T22:13:07+00:00",
+      "first_seen": "2026-04-27T10:02:00.616577",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.21999": {
+      "arxiv_id": "2604.21999",
+      "title": "Universal Transformers Need Memory: Depth-State Trade-offs in Adaptive Recursive Reasoning",
+      "authors": [
+        "Grigory Sapunov"
+      ],
+      "published": "2026-04-23T18:30:01+00:00",
+      "first_seen": "2026-04-27T10:02:00.616582",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2604.22034": {
+      "arxiv_id": "2604.22034",
+      "title": "LTBs-KAN: Linear-Time B-splines Kolmogorov-Arnold Networks",
+      "authors": [
+        "Eduardo Said Merin-Martinez",
+        "Andres Mendez-Vazquez",
+        "Eduardo Rodriguez-Tello"
+      ],
+      "published": "2026-04-23T19:47:13+00:00",
+      "first_seen": "2026-04-27T10:02:01.541460",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG",
+        "cs.CV",
+        "cs.NE"
       ]
     }
   }
