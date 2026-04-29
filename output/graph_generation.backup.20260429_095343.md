@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-28 | [OxyGent: Making Multi-Agent Systems Modular, Observable, and Evolvable via Oxy Abstraction](https://arxiv.org/abs/2604.25602) | Deploying production-ready multi-agent systems (MAS) in complex industrial environments remains challenging due to limitations in scalability, observability, and autonomous evolution. |
 | 2026-04-27 | [Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance](https://arxiv.org/abs/2604.24474) | Molecular similarity plays a central role in ligand-based drug discovery, such as virtual screening, analog searching, and goal-directed molecular generation. |
 | 2026-04-27 | [DPRM: A Plug-in Doob h transform-induced Token-Ordering Module for Diffusion Language Models](https://arxiv.org/abs/2604.24357) | Diffusion language models generate without a fixed left-to-right order, making token ordering a central algorithmic choice: which tokens should be revealed, retained, revised or verified at each step? |
 | 2026-04-21 | [Structure-guided molecular design with contrastive 3D protein-ligand learning](https://arxiv.org/abs/2604.19562) | Structure-based drug discovery faces the dual challenge of accurately capturing 3D protein-ligand interactions while navigating ultra-large chemical spaces to identify synthetically accessible... |

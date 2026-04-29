@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-28 | [Toward a Functional Geometric Algebra for Natural Language Semantics](https://arxiv.org/abs/2604.25902) | Distributional and neural approaches to natural language semantics have been built almost exclusively on conventional linear algebra: vectors, matrices, tensors, and the operations that accompany... |
-| 2026-04-28 | [Subspace Optimization for Efficient Federated Learning under Heterogeneous Data](https://arxiv.org/abs/2604.25467) | Federated learning increasingly operates in a large-model regime where communication, memory, and computation are all scarce. |
 | 2026-04-27 | [Fed-DLoRA: Efficient Wireless Federated Learning with Dynamic Low-Rank Adaptation](https://arxiv.org/abs/2604.24103) | Federated learning (FL) offers a promising distributed learning paradigm for internet of vehicles (IoV) applications. |
 | 2026-04-27 | [FedSLoP: Memory-Efficient Federated Learning with Low-Rank Gradient Projection](https://arxiv.org/abs/2604.24012) | Federated learning enables a population of clients to collaboratively train machine learning models without exchanging their raw data, but standard algorithms such as FedAvg suffer from slow... |
 | 2026-04-27 | [Adaptive-Distribution Randomized Neural Networks for PDEs: A Low-Dimensional Distribution-Learning Framework](https://arxiv.org/abs/2604.23999) | Randomized neural networks (RaNNs) are attractive for partial differential equations (PDEs) because they replace expensive end-to-end training with a linear least-squares solve over randomized hidden... |

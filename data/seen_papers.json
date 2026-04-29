@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-28T10:03:29.709455",
+  "last_updated": "2026-04-29T09:53:43.227351",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -18350,6 +18350,367 @@
       "categories": [
         "cs.LG",
         "cs.AI"
+      ]
+    },
+    "2604.25885": {
+      "arxiv_id": "2604.25885",
+      "title": "Explainable AI for Jet Tagging: A Comparative Study of GNNExplainer, GNNShap, and GradCAM for Jet Tagging in the Lund Jet Plane",
+      "authors": [
+        "Pahal D. Patel",
+        "Sanmay Ganguly"
+      ],
+      "published": "2026-04-28T17:28:41+00:00",
+      "first_seen": "2026-04-29T09:53:19.880992",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "hep-ph",
+        "cs.LG",
+        "hep-ex"
+      ]
+    },
+    "2604.25599": {
+      "arxiv_id": "2604.25599",
+      "title": "PLMGH: What Matters in PLM-GNN Hybrids for Code Classification and Vulnerability Detection",
+      "authors": [
+        "Mohamed Taoufik Kaouthar El Idrissi",
+        "Edward Zulkoski",
+        "Mohammad Hamdaqa"
+      ],
+      "published": "2026-04-28T13:05:36+00:00",
+      "first_seen": "2026-04-29T09:53:19.881005",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SE",
+        "cs.LG"
+      ]
+    },
+    "2604.25568": {
+      "arxiv_id": "2604.25568",
+      "title": "Benchmarking bandgap prediction in semiconductors under experimental and realistic evaluation settings",
+      "authors": [
+        "Haolin Wang",
+        "Xianyuan Liu",
+        "Anna Jungbluth",
+        "Alexandra J. Ramadan",
+        "Robert D. J. Oliver",
+        "Haiping Lu"
+      ],
+      "published": "2026-04-28T12:39:21+00:00",
+      "first_seen": "2026-04-29T09:53:19.881013",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cs.AI"
+      ]
+    },
+    "2604.25551": {
+      "arxiv_id": "2604.25551",
+      "title": "On Halting vs Converging in Recurrent Graph Neural Networks",
+      "authors": [
+        "Jeroen Bollen",
+        "Stijn Vansummeren"
+      ],
+      "published": "2026-04-28T12:17:58+00:00",
+      "first_seen": "2026-04-29T09:53:19.881020",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.LO"
+      ]
+    },
+    "2604.25352": {
+      "arxiv_id": "2604.25352",
+      "title": "GraphPL: Leveraging GNN for Efficient and Robust Modalities Imputation in Patchwork Learning",
+      "authors": [
+        "Xingjian Hu",
+        "Zuoyu Yan",
+        "Jianhua Zhu",
+        "Liangcai Gao",
+        "Fei Wang",
+        "Tengfei Ma"
+      ],
+      "published": "2026-04-28T08:09:51+00:00",
+      "first_seen": "2026-04-29T09:53:19.881027",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.24811": {
+      "arxiv_id": "2604.24811",
+      "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
+      "authors": [
+        "Xiaoyi Wang",
+        "Zhiqiang Wang",
+        "Jianqing Liang",
+        "Xingwang Zhao",
+        "Chuangyin Dang",
+        "Zhen Jin",
+        "Jiye Liang"
+      ],
+      "published": "2026-04-27T09:07:15+00:00",
+      "first_seen": "2026-04-29T09:53:19.881034",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.24803": {
+      "arxiv_id": "2604.24803",
+      "title": "Query-Efficient Quantum Approximate Optimization via Graph-Conditioned Trust Regions",
+      "authors": [
+        "Molena Huynh"
+      ],
+      "published": "2026-04-27T03:48:48+00:00",
+      "first_seen": "2026-04-29T09:53:19.881041",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "quant-ph"
+      ]
+    },
+    "2604.25602": {
+      "arxiv_id": "2604.25602",
+      "title": "OxyGent: Making Multi-Agent Systems Modular, Observable, and Evolvable via Oxy Abstraction",
+      "authors": [
+        "Junxing Hu",
+        "Tianlong Li",
+        "Lei Yu",
+        "Ai Han"
+      ],
+      "published": "2026-04-28T13:08:14+00:00",
+      "first_seen": "2026-04-29T09:53:22.279711",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2604.25902": {
+      "arxiv_id": "2604.25902",
+      "title": "Toward a Functional Geometric Algebra for Natural Language Semantics",
+      "authors": [
+        "James Pustejovsky"
+      ],
+      "published": "2026-04-28T17:47:46+00:00",
+      "first_seen": "2026-04-29T09:53:34.268219",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.25467": {
+      "arxiv_id": "2604.25467",
+      "title": "Subspace Optimization for Efficient Federated Learning under Heterogeneous Data",
+      "authors": [
+        "Shuchen Zhu",
+        "Zhengyang Huang",
+        "Yuqi Xu",
+        "Peijin Li"
+      ],
+      "published": "2026-04-28T10:12:57+00:00",
+      "first_seen": "2026-04-29T09:53:34.268231",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "math.OC"
+      ]
+    },
+    "2604.25834": {
+      "arxiv_id": "2604.25834",
+      "title": "Action-Aware Generative Sequence Modeling for Short Video Recommendation",
+      "authors": [
+        "Wenhao Li",
+        "Zihan Lin",
+        "Zhengxiao Guo",
+        "Jie Zhou",
+        "Shukai Liu",
+        "Yongqi Liu",
+        "Chuan Luo",
+        "Chaoyi Ma",
+        "Ruiming Tang",
+        "Han Li"
+      ],
+      "published": "2026-04-28T16:41:04+00:00",
+      "first_seen": "2026-04-29T09:53:37.983479",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2604.25787": {
+      "arxiv_id": "2604.25787",
+      "title": "Harmonizing Generative Retrieval and Ranking in Chain-of-Recommendation",
+      "authors": [
+        "Yu Liu",
+        "Jiangxia Cao"
+      ],
+      "published": "2026-04-28T15:56:11+00:00",
+      "first_seen": "2026-04-29T09:53:37.983492",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.25732": {
+      "arxiv_id": "2604.25732",
+      "title": "Personalized Multi-Interest Modeling for Cross-Domain Recommendation to Cold-Start Users",
+      "authors": [
+        "Xiaodong Li",
+        "Jiawei Sheng",
+        "Jiangxia Cao",
+        "Xinghua Zhang",
+        "Wenyuan Zhang",
+        "Yong Sun",
+        "Shirui Pan",
+        "Zhihong Tian",
+        "Tingwen Liu"
+      ],
+      "published": "2026-04-28T15:01:27+00:00",
+      "first_seen": "2026-04-29T09:53:37.983499",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.25420": {
+      "arxiv_id": "2604.25420",
+      "title": "Recommending Usability Improvements with Multimodal Large Language Models",
+      "authors": [
+        "Sebastian Lubos",
+        "Alexander Felfernig",
+        "Damian Garber",
+        "Viet-Man Le",
+        "Manuel Henrich"
+      ],
+      "published": "2026-04-28T09:29:13+00:00",
+      "first_seen": "2026-04-29T09:53:37.983505",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.SE",
+        "cs.HC"
+      ]
+    },
+    "2604.25349": {
+      "arxiv_id": "2604.25349",
+      "title": "Stop Using the Wilcoxon Test: Myth, Misconception and Misuse in IR Research",
+      "authors": [
+        "Julián Urbano"
+      ],
+      "published": "2026-04-28T08:08:36+00:00",
+      "first_seen": "2026-04-29T09:53:37.983511",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "stat.AP",
+        "stat.ME"
+      ]
+    },
+    "2604.25291": {
+      "arxiv_id": "2604.25291",
+      "title": "From Local Indices to Global Identifiers: Generative Reranking for Recommender Systems via Global Action Space",
+      "authors": [
+        "Pengyue Jia",
+        "Xiaobei Wang",
+        "Yingyi Zhang",
+        "Shuchang Liu",
+        "Yupeng Hou",
+        "Hailan Yang",
+        "Xu Gao",
+        "Xiaopeng Li",
+        "Yejing Wang",
+        "Julian McAuley",
+        "Xiang Li",
+        "Lantao Hu",
+        "Yongqi Liu",
+        "Kaiqiao Zhan",
+        "Han Li",
+        "Kun Gai",
+        "Xiangyu Zhao"
+      ],
+      "published": "2026-04-28T06:57:00+00:00",
+      "first_seen": "2026-04-29T09:53:37.983518",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.25272": {
+      "arxiv_id": "2604.25272",
+      "title": "Spectral bandits",
+      "authors": [
+        "Tomáš Kocák",
+        "Rémi Munos",
+        "Branislav Kveton",
+        "Shipra Agrawal",
+        "Michal Valko"
+      ],
+      "published": "2026-04-28T06:29:27+00:00",
+      "first_seen": "2026-04-29T09:53:37.983524",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.25032": {
+      "arxiv_id": "2604.25032",
+      "title": "Offline Evaluation Measures of Fairness in Recommender Systems",
+      "authors": [
+        "Theresia Veronika Rampisela"
+      ],
+      "published": "2026-04-27T22:28:24+00:00",
+      "first_seen": "2026-04-29T09:53:37.983530",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.24981": {
+      "arxiv_id": "2604.24981",
+      "title": "What If We Work Together? Fostering Reflections on Designer Inclusion in Open Source Software Through Speculative Design",
+      "authors": [
+        "Rozhan Hozhabri Nezhad",
+        "Jin L. C. Guo",
+        "Jinghui Cheng"
+      ],
+      "published": "2026-04-27T20:37:55+00:00",
+      "first_seen": "2026-04-29T09:53:37.983536",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.SE"
+      ]
+    },
+    "2604.24806": {
+      "arxiv_id": "2604.24806",
+      "title": "Versioned Late Materialization for Ultra-Long Sequence Training in Recommendation Systems at Scale",
+      "authors": [
+        "Liang Guo",
+        "Ge Song",
+        "Litao Deng",
+        "Jianhui Sun",
+        "Chufeng Hu",
+        "Lu Zhang",
+        "Zhen Ma",
+        "Shouwei Chen",
+        "Weiran Liu",
+        "Sarang Masti Sreeshylan",
+        "Xiaoxuan Meng"
+      ],
+      "published": "2026-04-27T06:41:39+00:00",
+      "first_seen": "2026-04-29T09:53:37.983542",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.DB"
       ]
     }
   }
