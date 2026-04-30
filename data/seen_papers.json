@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-04-29T09:53:43.227351",
+  "last_updated": "2026-04-30T09:55:06.580683",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -18711,6 +18711,396 @@
         "cs.IR",
         "cs.AI",
         "cs.DB"
+      ]
+    },
+    "2604.26566": {
+      "arxiv_id": "2604.26566",
+      "title": "Learning to Route Electric Trucks Under Operational Uncertainty",
+      "authors": [
+        "Stavros Orfanoudakis",
+        "Ziyan Li",
+        "Ruixiao Yang",
+        "Nikolay Aristov",
+        "Pedro P. Vergara",
+        "Chuchu Fan",
+        "Elenna Dugundji"
+      ],
+      "published": "2026-04-29T11:52:00+00:00",
+      "first_seen": "2026-04-30T09:54:42.788708",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SY",
+        "cs.LG"
+      ]
+    },
+    "2604.26498": {
+      "arxiv_id": "2604.26498",
+      "title": "Do Larger Models Really Win in Drug Discovery? A Benchmark Assessment of Model Scaling in AI-Driven Molecular Property and Activity Prediction",
+      "authors": [
+        "Jinjiang Guo"
+      ],
+      "published": "2026-04-29T10:01:16+00:00",
+      "first_seen": "2026-04-30T09:54:42.788721",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.QM"
+      ]
+    },
+    "2604.26422": {
+      "arxiv_id": "2604.26422",
+      "title": "STLGT: A Scalable Trace-Based Linear Graph Transformer for Tail Latency Prediction in Microservices",
+      "authors": [
+        "Yongliang Ding",
+        "Qigong Bi",
+        "Peng Pu"
+      ],
+      "published": "2026-04-29T08:32:14+00:00",
+      "first_seen": "2026-04-30T09:54:42.788729",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.26216": {
+      "arxiv_id": "2604.26216",
+      "title": "Unsupervised Graph Modeling for Anomaly Detection in Accounting Subject Relationships",
+      "authors": [
+        "Yuhan Wang",
+        "Ruobing Yan",
+        "Zhe Su",
+        "Hejing Chen",
+        "Ningjing Sang",
+        "Yunfei Nie"
+      ],
+      "published": "2026-04-29T01:44:43+00:00",
+      "first_seen": "2026-04-30T09:54:42.788736",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.26132": {
+      "arxiv_id": "2604.26132",
+      "title": "Sparse Graph Learning from Sparse Data via Fiedler Number Maximization",
+      "authors": [
+        "Bahar Oveisgharan",
+        "Gene Cheung",
+        "Andrew Eckford"
+      ],
+      "published": "2026-04-28T21:40:39+00:00",
+      "first_seen": "2026-04-30T09:54:42.788742",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SP",
+        "cs.LG"
+      ]
+    },
+    "2604.26097": {
+      "arxiv_id": "2604.26097",
+      "title": "Momentum-Conserving Graph Neural Networks for Deformable Objects",
+      "authors": [
+        "Jiahong Wang",
+        "Logan Numerow",
+        "Stelian Coros",
+        "Christian Theobalt",
+        "Vahid Babaei",
+        "Bernhard Thomaszewski"
+      ],
+      "published": "2026-04-28T20:19:33+00:00",
+      "first_seen": "2026-04-30T09:54:42.788748",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.GR"
+      ]
+    },
+    "2604.25978": {
+      "arxiv_id": "2604.25978",
+      "title": "Mini-Batch Class Composition Bias in Link Prediction",
+      "authors": [
+        "Kieran Maguire",
+        "Srinandan Dasmahapatra"
+      ],
+      "published": "2026-04-28T14:03:50+00:00",
+      "first_seen": "2026-04-30T09:54:42.788754",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2604.25972": {
+      "arxiv_id": "2604.25972",
+      "title": "A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication",
+      "authors": [
+        "Valentin Cuzin-Rambaud",
+        "Laetitia Matignon",
+        "Maxime Morge"
+      ],
+      "published": "2026-04-28T07:50:24+00:00",
+      "first_seen": "2026-04-30T09:54:42.788766",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    "2604.26390": {
+      "arxiv_id": "2604.26390",
+      "title": "Meta-Learning and Targeted Differential Privacy to Improve the Accuracy-Privacy Trade-off in Recommendations",
+      "authors": [
+        "Peter Müllner",
+        "Dominik Kowald",
+        "Markus Schedl",
+        "Elisabeth Lex"
+      ],
+      "published": "2026-04-29T08:00:20+00:00",
+      "first_seen": "2026-04-30T09:54:51.566390",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.26809": {
+      "arxiv_id": "2604.26809",
+      "title": "Asynchronous Federated Unlearning with Invariance Calibration for Medical Imaging",
+      "authors": [
+        "Zhaoyuan Cai",
+        "Xinglin Zhang"
+      ],
+      "published": "2026-04-29T15:41:11+00:00",
+      "first_seen": "2026-04-30T09:54:57.915254",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.26604": {
+      "arxiv_id": "2604.26604",
+      "title": "Who Trains Matters: Federated Learning under Enrollment and Participation Selection Biases",
+      "authors": [
+        "Gota Morishita"
+      ],
+      "published": "2026-04-29T12:33:08+00:00",
+      "first_seen": "2026-04-30T09:54:57.915266",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2604.26388": {
+      "arxiv_id": "2604.26388",
+      "title": "SplitFT: An Adaptive Federated Split Learning System For LLMs Fine-Tuning",
+      "authors": [
+        "Yimeng Shan",
+        "Zhaorui Zhang",
+        "Sheng Di",
+        "Yu Liu",
+        "Xiaoyi Lu",
+        "Benben Liu"
+      ],
+      "published": "2026-04-29T07:58:10+00:00",
+      "first_seen": "2026-04-30T09:54:57.915273",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2604.26116": {
+      "arxiv_id": "2604.26116",
+      "title": "Sample Selection Using Multi-Task Autoencoders in Federated Learning with Non-IID Data",
+      "authors": [
+        "Emre Ardıç",
+        "Yakup Genç"
+      ],
+      "published": "2026-04-28T21:08:21+00:00",
+      "first_seen": "2026-04-30T09:54:57.915279",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2604.26073": {
+      "arxiv_id": "2604.26073",
+      "title": "Privacy-Preserving Federated Learning Framework for Distributed Chemical Process Optimization",
+      "authors": [
+        "Teetat Pipattaratonchai",
+        "Aueaphum Aueawatthanaphisut"
+      ],
+      "published": "2026-04-28T19:26:43+00:00",
+      "first_seen": "2026-04-30T09:54:57.915284",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "eess.SY"
+      ]
+    },
+    "2604.26833": {
+      "arxiv_id": "2604.26833",
+      "title": "Rule-based High-Level Coaching for Goal-Conditioned Reinforcement Learning in Search-and-Rescue UAV Missions Under Limited-Simulation Training",
+      "authors": [
+        "Mahya Ramezani",
+        "Holger Voos"
+      ],
+      "published": "2026-04-29T16:01:22+00:00",
+      "first_seen": "2026-04-30T09:55:00.736770",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2604.26760": {
+      "arxiv_id": "2604.26760",
+      "title": "Factorized Latent Reasoning for LLM-based Recommendation",
+      "authors": [
+        "Tianqi Gao",
+        "Chengkai Huang",
+        "Zihan Wang",
+        "Cao Liu",
+        "Ke Zeng",
+        "Lina Yao"
+      ],
+      "published": "2026-04-29T14:55:53+00:00",
+      "first_seen": "2026-04-30T09:55:00.736781",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.26651": {
+      "arxiv_id": "2604.26651",
+      "title": "The Bandit's Blind Spot: The Critical Role of User State Representation in Recommender Systems",
+      "authors": [
+        "Pedro R. Pires",
+        "Gregorio F. Azevedo",
+        "Rafael T. Sereicikas",
+        "Pietro L. Campos",
+        "Tiago A. Almeida"
+      ],
+      "published": "2026-04-29T13:18:48+00:00",
+      "first_seen": "2026-04-30T09:55:00.736788",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2604.26505": {
+      "arxiv_id": "2604.26505",
+      "title": "Quantamination: Dynamic Quantization Leaks Your Data Across the Batch",
+      "authors": [
+        "Hanna Foerster",
+        "Ilia Shumailov",
+        "Cheng Zhang",
+        "Yiren Zhao",
+        "Jamie Hayes",
+        "Robert Mullins"
+      ],
+      "published": "2026-04-29T10:10:51+00:00",
+      "first_seen": "2026-04-30T09:55:00.736795",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2604.26489": {
+      "arxiv_id": "2604.26489",
+      "title": "Understanding DNNs in Feature Interaction Models: A Dimensional Collapse Perspective",
+      "authors": [
+        "Jiancheng Wang",
+        "Mingjia Yin",
+        "Hao Wang",
+        "Enhong Chen"
+      ],
+      "published": "2026-04-29T09:52:19+00:00",
+      "first_seen": "2026-04-30T09:55:00.736801",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2604.26427": {
+      "arxiv_id": "2604.26427",
+      "title": "CARD: Non-Uniform Quantization of Visual Semantic Unit for Generative Recommendation",
+      "authors": [
+        "Yibiao Wei",
+        "Jie Zou",
+        "Pengfei Zhang",
+        "Xiao Ao",
+        "Weikang Guo",
+        "Zeyu Ma",
+        "Yang Yang"
+      ],
+      "published": "2026-04-29T08:38:14+00:00",
+      "first_seen": "2026-04-30T09:55:00.736807",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2604.26247": {
+      "arxiv_id": "2604.26247",
+      "title": "TimeMM: Time-as-Operator Spectral Filtering for Dynamic Multimodal Recommendation",
+      "authors": [
+        "Wei Yang",
+        "Rui Zhong",
+        "Zihan Lin",
+        "Xiaodan Wang",
+        "Cheng Chen",
+        "Huan Ren",
+        "Yao Hu"
+      ],
+      "published": "2026-04-29T03:04:43+00:00",
+      "first_seen": "2026-04-30T09:55:00.736812",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2604.26237": {
+      "arxiv_id": "2604.26237",
+      "title": "Apriori-based Analysis of Learned Helplessness in Mathematics Tutoring: Behavioral Patterns by Level, Intervention, and Outcome",
+      "authors": [
+        "John Paul P. Miranda"
+      ],
+      "published": "2026-04-29T02:35:03+00:00",
+      "first_seen": "2026-04-30T09:55:00.736818",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.CY",
+        "cs.ET",
+        "cs.LG"
+      ]
+    },
+    "2604.26231": {
+      "arxiv_id": "2604.26231",
+      "title": "ProMax: Exploring the Potential of LLM-derived Profiles with Distribution Shaping for Recommender Systems",
+      "authors": [
+        "Yi Zhang",
+        "Yiwen Zhang",
+        "Kai Zheng",
+        "Tong Chen",
+        "Hongzhi Yin"
+      ],
+      "published": "2026-04-29T02:18:55+00:00",
+      "first_seen": "2026-04-30T09:55:00.736823",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
       ]
     }
   }

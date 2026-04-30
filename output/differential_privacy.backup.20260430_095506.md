@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-04-29 | [Meta-Learning and Targeted Differential Privacy to Improve the Accuracy-Privacy Trade-off in Recommendations](https://arxiv.org/abs/2604.26390) | Balancing differential privacy (DP) with recommendation accuracy is a key challenge in privacy-preserving recommender systems, since DP-noise degrades accuracy. |
 | 2026-04-27 | [X-NegoBox: An Explainable Privacy-Budget Negotiation Framework for Secure Peer-to-Peer Energy Data Exchange](https://arxiv.org/abs/2604.24326) | The decentralization of modern energy systems is transforming consumers into prosumers who continuously exchange data with aggregators, peers, and market operators. |
 | 2026-04-26 | [LLM-CEG: Extending the Classification Error Gauge Framework for Privacy Auditing of Large Language Models](https://arxiv.org/abs/2604.23795) | This paper extends the Classification Error Gauge (x-CEG) framework, originally developed for measuring the privacy-utility trade-off in tabular datasets, to privacy auditing of Large Language Models... |
 | 2026-04-25 | [Enhanced Privacy and Communication Efficiency in Non-IID Federated Learning with Adaptive Quantization and Differential Privacy](https://arxiv.org/abs/2604.23426) | Federated learning (FL) is a distributed machine learning method where multiple devices collaboratively train a model under the management of a central server without sharing underlying data. |
