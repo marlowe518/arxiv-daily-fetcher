@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-04 | [Fine-Grained Graph Generation through Latent Mixture Scheduling](https://arxiv.org/abs/2605.02780) | Structure aware graph generation aims to generate graphs that satisfy given topological properties. |
-| 2026-04-30 | [Information-geometric adaptive sampling for graph diffusion](https://arxiv.org/abs/2605.00250) | Standard diffusion models for graph generation typically rely on uniform time-stepping, an approach that overlooks the non-homogeneous dynamics of distributional evolution on complex manifolds. |
-| 2026-04-09 | [Reinforcement Learning with LLM-Guided Action Spaces for Synthesizable Lead Optimization](https://arxiv.org/abs/2604.07669) | Lead optimization in drug discovery requires improving therapeutic properties while ensuring that molecular modifications correspond to feasible synthetic routes. |
 | 2026-04-28 | [Simple Self-Conditioning Adaptation for Masked Diffusion Models](https://arxiv.org/abs/2604.26985) | Masked diffusion models (MDMs) generate discrete sequences by iterative denoising under an absorbing masking process. |
 | 2026-04-28 | [OxyGent: Making Multi-Agent Systems Modular, Observable, and Evolvable via Oxy Abstraction](https://arxiv.org/abs/2604.25602) | Deploying production-ready multi-agent systems (MAS) in complex industrial environments remains challenging due to limitations in scalability, observability, and autonomous evolution. |
 | 2026-04-27 | [Advancing Ligand-based Virtual Screening and Molecular Generation with Pretrained Molecular Embedding Distance](https://arxiv.org/abs/2604.24474) | Molecular similarity plays a central role in ligand-based drug discovery, such as virtual screening, analog searching, and goal-directed molecular generation. |
