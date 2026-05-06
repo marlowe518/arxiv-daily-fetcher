@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-05 | [Surviving the Edge: Federated Learning under Networking and Resource Constraints](https://arxiv.org/abs/2605.03870) | Motivated by the growing proliferation of federated learning (FL) in edge environments, we present the first systematic characterization of transport-layer breaking points in FL systems operating... |
-| 2026-05-05 | [Distributed Learning with Adversarial Gradient Perturbations](https://arxiv.org/abs/2605.03313) | Privacy concerns in distributed learning often lead clients to return intentionally altered gradient information. |
-| 2026-05-04 | [Distributed Deep Variational Approach for Privacy-preserving Data Release](https://arxiv.org/abs/2605.03069) | Federated learning (FL) lets distributed nodes train a shared model without exchanging their raw data, but in privacy-sensitive deployments medical sensors, IoT devices, wearables the protection... |
 | 2026-05-04 | [Federated Reinforcement Learning for Efficient Mobile Crowdsensing under Incomplete Information](https://arxiv.org/abs/2605.02705) | Mobile crowdsensing (MCS) is a distributed sensing architecture that utilizes existing sensors on mobile units (MUs) to perform sensing tasks. |
 | 2026-05-04 | [FedPLT: Scalable, Resource-Efficient, and Heterogeneity-Aware Federated Learning via Partial Layer Training](https://arxiv.org/abs/2605.02337) | Federated Learning (FL) has gained significant attention in distributed machine learning by enabling collaborative model training across decentralized system while preserving data privacy. |
 | 2026-05-04 | [Graph Federated Unlearning for Privacy Preservation](https://arxiv.org/abs/2605.02297) | Graph federated learning (GFL) facilitates decentralized training on distributed graph data while keeping sensitive user information local, aligning with policies such as GDPR and CCPA that grant... |

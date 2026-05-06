@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-05 | [Low Rank Tensor Completion via Adaptive ADMM](https://arxiv.org/abs/2605.03736) | We consider a novel algorithm, for the completion of partially observed low-rank tensors, as a generalization of matrix completion. |
 | 2026-05-01 | [Near-optimal and Efficient First-Order Algorithm for Multi-Task Learning with Shared Linear Representation](https://arxiv.org/abs/2605.00473) | Multi-task learning (MTL) has emerged as a pivotal paradigm in machine learning by leveraging shared structures across multiple related tasks. |
 | 2026-04-28 | [State-Dependent Lyapunov Method for Rank-1 Matrix Factorization](https://arxiv.org/abs/2604.26993) | We study gradient descent for rank-1 matrix factorization through a certificate-based viewpoint. |
 | 2026-04-23 | [LTBs-KAN: Linear-Time B-splines Kolmogorov-Arnold Networks](https://arxiv.org/abs/2604.22034) | Kolmogorov-Arnold Networks (KANs) are a recent neural network architecture offering an alternative to Multilayer Perceptrons (MLPs) with improved explainability and expressibility. |

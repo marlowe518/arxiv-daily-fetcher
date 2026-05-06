@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-05 | [Integrating Feature Correlation in Differential Privacy with Applications in DP-ERM](https://arxiv.org/abs/2605.03945) | Standard differential privacy imposes uniform privacy constraints across all features, overlooking the inherent distinction between sensitive and insensitive features in practice. |
-| 2026-05-05 | [A Hierarchical Sampling Framework for bounding the Generalization Error of Federated Learning](https://arxiv.org/abs/2605.03499) | We study expected generalization bounds for the Hierarchical Federated Learning (HFL) setup using Wasserstein distance. |
-| 2026-05-04 | [Dependency-Aware Privacy for Multi-turn Agents](https://arxiv.org/abs/2605.03188) | LLM agents release private data across multi-service interactions. |
 | 2026-05-04 | [Differentially Private Runtime Monitoring](https://arxiv.org/abs/2605.02391) | Modern stream-based monitors collect detailed statistics of the runtime behavior of the system under observation. |
 | 2026-05-04 | [Privacy Preserving Machine Learning Workflow: from Anonymization to Personalized Differential Privacy Budgets in Federated Learning](https://arxiv.org/abs/2605.02372) | The growing development of artificial intelligence based solutions, together with privacy legislation, has driven the rise of the so-called privacy preserving machine learning architectures, such as... |
 | 2026-05-04 | [Optimal Privacy-Utility Trade-Offs in LDP: Functional and Geometric Perspectives](https://arxiv.org/abs/2605.02319) | Local differential privacy (LDP) has emerged as a gold-standard framework for privacy-preserving data analysis. |
