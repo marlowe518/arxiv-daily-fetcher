@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-07 | [SMolLM: Small Language Models Learn Small Molecular Grammar](https://arxiv.org/abs/2605.06322) | Language models for molecular design have scaled to hundreds of millions of parameters, yet how they learn chemical grammar is poorly understood. |
-| 2026-05-07 | [Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces](https://arxiv.org/abs/2605.06303) | Molecular generative models often assume meaningful latent geometry, but apparent property predictability can reflect sequence-level shortcuts rather than chemical organization. |
 | 2026-05-04 | [Fine-Grained Graph Generation through Latent Mixture Scheduling](https://arxiv.org/abs/2605.02780) | Structure aware graph generation aims to generate graphs that satisfy given topological properties. |
 | 2026-04-30 | [Information-geometric adaptive sampling for graph diffusion](https://arxiv.org/abs/2605.00250) | Standard diffusion models for graph generation typically rely on uniform time-stepping, an approach that overlooks the non-homogeneous dynamics of distributional evolution on complex manifolds. |
 | 2026-04-09 | [Reinforcement Learning with LLM-Guided Action Spaces for Synthesizable Lead Optimization](https://arxiv.org/abs/2604.07669) | Lead optimization in drug discovery requires improving therapeutic properties while ensuring that molecular modifications correspond to feasible synthetic routes. |

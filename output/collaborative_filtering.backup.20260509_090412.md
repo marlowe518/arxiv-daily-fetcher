@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-07 | [DiBA: Diagonal and Binary Matrix Approximation for Neural Network Weight Compression](https://arxiv.org/abs/2605.05994) | In this paper, we propose DiBA (Diagonal and Binary Matrix Approximation), a compact matrix factorization for neural network weight compression. |
-| 2026-05-02 | [Dynamic Graph with Similarity-Aware Attention Graph Neural Network for Recommender Systems](https://arxiv.org/abs/2605.05238) | Recommender systems are essential components of modern online platforms which presents personalized content in various domain. |
 | 2026-05-05 | [Low Rank Tensor Completion via Adaptive ADMM](https://arxiv.org/abs/2605.03736) | We consider a novel algorithm, for the completion of partially observed low-rank tensors, as a generalization of matrix completion. |
 | 2026-05-01 | [Near-optimal and Efficient First-Order Algorithm for Multi-Task Learning with Shared Linear Representation](https://arxiv.org/abs/2605.00473) | Multi-task learning (MTL) has emerged as a pivotal paradigm in machine learning by leveraging shared structures across multiple related tasks. |
 | 2026-04-28 | [State-Dependent Lyapunov Method for Rank-1 Matrix Factorization](https://arxiv.org/abs/2604.26993) | We study gradient descent for rank-1 matrix factorization through a certificate-based viewpoint. |
