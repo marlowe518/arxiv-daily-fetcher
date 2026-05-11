@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-07 | [Better Protein Function Prediction by Modeling Survivorship Bias](https://arxiv.org/abs/2605.06879) | Protein sequence data from nature exhibits survivorship bias: we only observe data from those organisms that survive and reproduce, while non-functional protein mutations are eliminated by natural... |
 | 2026-05-07 | [In-Context Positive-Unlabeled Learning](https://arxiv.org/abs/2605.05591) | Positive-unlabeled (PU) learning addresses binary classification when only a set of labeled positives is available alongside a pool of unlabeled samples drawn from a mixture of positives and... |
 | 2026-04-16 | ["Excuse me, may I say something..." CoLabScience, A Proactive AI Assistant for Biomedical Discovery and LLM-Expert Collaborations](https://arxiv.org/abs/2604.15588) | The integration of Large Language Models (LLMs) into scientific workflows presents exciting opportunities to accelerate biomedical discovery. |
 | 2026-04-13 | [AbLWR:A Context-Aware Listwise Ranking Framework for Antibody-Antigen Binding Affinity Prediction via Positive-Unlabeled Learning](https://arxiv.org/abs/2604.11272) | Accurate prediction of antibody-antigen binding affinity is fundamental to therapeutic design, yet remains constrained by severe label sparsity and the complexity of antigenic variations. |

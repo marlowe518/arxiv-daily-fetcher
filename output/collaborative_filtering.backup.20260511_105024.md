@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-07 | [An Interpretable and Scalable Framework for Evaluating Large Language Models](https://arxiv.org/abs/2605.07046) | Evaluation of large language models (LLMs) is increasingly critical, yet standard benchmarking methods rely on average accuracy, overlooking both the inherent stochasticity of LLM outputs and the... |
 | 2026-05-07 | [DiBA: Diagonal and Binary Matrix Approximation for Neural Network Weight Compression](https://arxiv.org/abs/2605.05994) | In this paper, we propose DiBA (Diagonal and Binary Matrix Approximation), a compact matrix factorization for neural network weight compression. |
 | 2026-05-02 | [Dynamic Graph with Similarity-Aware Attention Graph Neural Network for Recommender Systems](https://arxiv.org/abs/2605.05238) | Recommender systems are essential components of modern online platforms which presents personalized content in various domain. |
 | 2026-05-05 | [Low Rank Tensor Completion via Adaptive ADMM](https://arxiv.org/abs/2605.03736) | We consider a novel algorithm, for the completion of partially observed low-rank tensors, as a generalization of matrix completion. |

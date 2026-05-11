@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-08 | [Response-G1: Explicit Scene Graph Modeling for Proactive Streaming Video Understanding](https://arxiv.org/abs/2605.07575) | Proactive streaming video understanding requires Video-LLMs to decide when to respond as a video unfolds, a task where existing methods often fall short due to their implicit, query-agnostic modeling... |
-| 2026-05-07 | [Unlocking High-Fidelity Molecular Generation from Mass Spectra via Dual-Stream Line Graph Diffusion](https://arxiv.org/abs/2605.07048) | De novo molecular generation from tandem mass spectra is a challenging inverse problem whose core difficulty lies in the circular dependency between atom-level and bond-level reasoning: determining a... |
-| 2026-05-07 | [FlashMol: High-Quality Molecule Generation in as Few as Four Steps](https://arxiv.org/abs/2605.07020) | Generating chemically valid 3D molecular conformations is critical for computational drug discovery. |
 | 2026-05-07 | [SMolLM: Small Language Models Learn Small Molecular Grammar](https://arxiv.org/abs/2605.06322) | Language models for molecular design have scaled to hundreds of millions of parameters, yet how they learn chemical grammar is poorly understood. |
 | 2026-05-07 | [Molecules Meet Language: Confound-Aware Representation Learning and Chemical Property Steering in Transformer-VAE Latent Spaces](https://arxiv.org/abs/2605.06303) | Molecular generative models often assume meaningful latent geometry, but apparent property predictability can reflect sequence-level shortcuts rather than chemical organization. |
 | 2026-05-04 | [Fine-Grained Graph Generation through Latent Mixture Scheduling](https://arxiv.org/abs/2605.02780) | Structure aware graph generation aims to generate graphs that satisfy given topological properties. |
