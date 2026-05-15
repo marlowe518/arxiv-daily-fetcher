@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-12 | [ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery](https://arxiv.org/abs/2605.12784) | Advances in large language models (LLMs) have recently opened new and promising avenues for small-molecule drug discovery. |
 | 2026-05-10 | [SKG-VLA: Scene Knowledge Graph Priors for Structured Scene Semantics and Multimodal Reasoning for Decision Making](https://arxiv.org/abs/2605.09343) | Decision making in large-scale complaint handling systems increasingly relies on heterogeneous evidence, including complaint narratives, screenshots, order metadata, historical interactions, and... |
 | 2026-05-09 | [Dependency-Aware Discrete Diffusion for Scene Graph Generation](https://arxiv.org/abs/2605.09065) | Scene graphs (SGs) represent objects and their relationships as structured graphs, enabling applications in image generation, robotics, and 3D understanding. |
 | 2026-05-05 | [Generalized Category Discovery in Federated Graph Learning](https://arxiv.org/abs/2605.08178) | Federated Graph Learning (FGL) enables collaborative learning over distributed graph data, yet existing approaches largely rely on a closed-world assumption, limiting their applicability in dynamic... |

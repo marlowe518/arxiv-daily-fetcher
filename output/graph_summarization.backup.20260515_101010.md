@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-13 | [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](https://arxiv.org/abs/2605.13021) | Graph coarsening is a graph dimensionality reduction technique that aims to construct a smaller and more tractable graph while preserving the essential structural and semantic properties of the... |
 | 2026-05-04 | [Spectral Model eXplainer: a chemically-grounded explainability framework for spectral-based machine learning models](https://arxiv.org/abs/2605.02684) | Spectral-based machine learning models have been increasingly deployed in chemometrics and spectroscopy, where predictive accuracy is as important as explainability. |
 | 2026-03-31 | [Efficient and Scalable Granular-ball Graph Coarsening Method for Large-scale Graph Node Classification](https://arxiv.org/abs/2603.29148) | Graph Convolutional Network (GCN) is a model that can effectively handle graph data tasks and has been successfully applied. |
 | 2026-03-07 | [StructSAM: Structure- and Spectrum-Preserving Token Merging for Segment Anything Models](https://arxiv.org/abs/2603.07307) | Recent token merging techniques for Vision Transformers (ViTs) provide substantial speedups by reducing the number of tokens processed by self-attention, often without retraining. |
