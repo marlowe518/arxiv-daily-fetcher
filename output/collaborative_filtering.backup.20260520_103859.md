@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-18 | [Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials](https://arxiv.org/abs/2605.18033) | Autonomous labs enable the integration of automated experiment execution, data analysis and decision making. |
-| 2026-05-17 | [Self-Supervised Learning for Sparse Matrix Reordering](https://arxiv.org/abs/2605.17403) | Rearranging the rows or columns of a sparse matrix using an appropriate ordering can significantly reduce fill-ins, i.e., new nonzeros introduced during matrix factorization, decreasing memory usage... |
 | 2026-05-11 | [Debiasing Message Passing to Mitigate Popularity Bias in GNN-based Collaborative Filtering](https://arxiv.org/abs/2605.11145) | Collaborative filtering (CF) models based on graph neural networks (GNNs) achieve strong performance in recommender systems by propagating user-item signals over interaction graphs. |
 | 2026-05-07 | [An Interpretable and Scalable Framework for Evaluating Large Language Models](https://arxiv.org/abs/2605.07046) | Evaluation of large language models (LLMs) is increasingly critical, yet standard benchmarking methods rely on average accuracy, overlooking both the inherent stochasticity of LLM outputs and the... |
 | 2026-05-07 | [DiBA: Diagonal and Binary Matrix Approximation for Neural Network Weight Compression](https://arxiv.org/abs/2605.05994) | In this paper, we propose DiBA (Diagonal and Binary Matrix Approximation), a compact matrix factorization for neural network weight compression. |
