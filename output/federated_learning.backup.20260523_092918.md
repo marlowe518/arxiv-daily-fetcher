@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-21 | [EnCAgg: Enhanced Clustering Aggregation for Robust Federated Learning against Dynamic Model Poisoning](https://arxiv.org/abs/2605.22506) | Federated learning faces increasing threats from model poisoning attacks, which harms its application to improve privacy. |
-| 2026-05-21 | [Detecting Atypical Clients in Federated Learning via Representation-Level Divergence](https://arxiv.org/abs/2605.22266) | Federated learning enables collaborative training across distributed clients with heterogeneous data, but such heterogeneity often leads to unstable updates and degraded global performance. |
-| 2026-05-20 | [Embedding-Based Federated Learning with Runtime Governance for Iron Deficiency Prediction](https://arxiv.org/abs/2605.21563) | Recent reviews find that the vast majority of published healthcare federated learning (FL) studies never reach real-world deployment. |
 | 2026-05-20 | [Optimized Federated Knowledge Distillation with Distributed Neural Architecture Search](https://arxiv.org/abs/2605.21322) | Federated Learning (FL) enables collaborative model training without centralizing data. |
 | 2026-05-20 | [CRAFT: Conflict-Resolved Aggregation for Federated Training](https://arxiv.org/abs/2605.21317) | The aggregation of conflicting client updates remains a fundamental bottleneck in federated learning (FL) under heterogeneous data distributions. |
 | 2026-05-20 | [FedCoE: Bridging Generalization and Personalization via Federated Coordinated Dual-level MoEs](https://arxiv.org/abs/2605.21264) | Federated Learning (FL) has emerged as a promising paradigm for privacy-preserving distributed learning. |

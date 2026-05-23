@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-21 | [SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules](https://arxiv.org/abs/2605.22287) | Large Language Models (LLMs) are central to the one-for-all intelligent paradigm, but they face a fundamental challenge when dealing with heterogeneous scientific data such as molecules: the inherent... |
-| 2026-05-20 | [Manifold-Guided Attention Steering](https://arxiv.org/abs/2605.21770) | Large language models frequently produce errors in reasoning tasks despite possessing the underlying knowledge required for correct reasoning. |
 | 2026-05-16 | [Provably Learning Diffusion Models under the Manifold Hypothesis: Collapse and Refine](https://arxiv.org/abs/2605.20235) | Diffusion models generate high-dimensional data with remarkable quality, yet how their training efficiently learns the score function, bypassing the curse of dimensionality when data is supported on... |
 | 2026-05-19 | [BLINKG: A Benchmark for LLM-Integrated Knowledge Graph Generation](https://arxiv.org/abs/2605.19518) | Generating Knowledge Graphs (KGs) remains one of the most time-consuming and labor-intensive tasks for knowledge engineers, as they need to identify semantic equivalences between input data sources... |
 | 2026-05-18 | [Bridge: Retrieval-Augmented Spatiotemporal Modeling for Urban Delivery Demand](https://arxiv.org/abs/2605.19172) | Forecasting urban delivery demand becomes substantially more challenging when newly added service regions lack historical records. |

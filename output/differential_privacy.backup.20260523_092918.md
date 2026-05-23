@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-21 | [Lumberjack: Better Differentially Private Random Forests through Heavy Hitter Detection in Trees](https://arxiv.org/abs/2605.22756) | Random forests are widely used in fields involving sensitive tabular data, but existing approaches to enforcing differential privacy (DP) typically degrade performance to the point of impracticality. |
-| 2026-05-21 | [Optimal Guarantees for Auditing Rényi Differentially Private Machine Learning](https://arxiv.org/abs/2605.21938) | We study black-box auditing for machine learning algorithms that claim R \ 'enyi differential privacy (RDP) guarantees. |
-| 2026-05-20 | [Provable Robustness against Backdoor Attacks via the Primal-Dual Perspective on Differential Privacy](https://arxiv.org/abs/2605.21780) | Randomized smoothing is a powerful tool for certifying robustness to adversarial perturbations, including poisoning attacks via randomized training and evasion attacks via randomized inference. |
-| 2026-05-20 | [Near-Optimal Generalized Private Testing](https://arxiv.org/abs/2605.21601) | In differential privacy (DP), the generalized private testing problem was introduced by Liu and Talwar (STOC 2019). |
 | 2026-05-20 | [Auditing Apple's DifferentialPrivacy.framework: Implementation Bugs, Misconfigurations, and Practical Risks](https://arxiv.org/abs/2605.21378) | Since 2016, Apple has claimed that device analytics collected to improve user experience are protected by differential privacy (DP). |
 | 2026-05-20 | [Information Leakage Envelopes](https://arxiv.org/abs/2605.21185) | We study privacy guarantees in the framework of pointwise maximal leakage (PML) that satisfy two requirements: they are robust under post-processing and upper bound the failure probability, i.e., the... |
 | 2026-05-20 | [Choose Wisely and Privately: Proactive Client Selection for Fair and Efficient Federated Learning](https://arxiv.org/abs/2605.20975) | Federated Learning enables collaborative model training across decentralized data sources without data transfer. |
