@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-22 | [AI Security Research Should Better Incentivize Defense Research](https://arxiv.org/abs/2605.23448) | This work examines an imbalance in artificial intelligence (AI) security research: the field tends to produce more work on attacking AI systems than on defending them. |
-| 2026-05-21 | [FIRMA: FIbonacci Ring Model Aggregation for Privacy-preserving Federated Learning](https://arxiv.org/abs/2605.22898) | Federated learning protocols face a structural trilemma: canonical server-based aggregation~\cite{mcmahan2017} creates a single point of failure and gradient inversion risk; decentralised ring-gossip... |
 | 2026-05-21 | [EnCAgg: Enhanced Clustering Aggregation for Robust Federated Learning against Dynamic Model Poisoning](https://arxiv.org/abs/2605.22506) | Federated learning faces increasing threats from model poisoning attacks, which harms its application to improve privacy. |
 | 2026-05-21 | [Detecting Atypical Clients in Federated Learning via Representation-Level Divergence](https://arxiv.org/abs/2605.22266) | Federated learning enables collaborative training across distributed clients with heterogeneous data, but such heterogeneity often leads to unstable updates and degraded global performance. |
 | 2026-05-20 | [Embedding-Based Federated Learning with Runtime Governance for Iron Deficiency Prediction](https://arxiv.org/abs/2605.21563) | Recent reviews find that the vast majority of published healthcare federated learning (FL) studies never reach real-world deployment. |

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-05-24T09:45:39.361660",
+  "last_updated": "2026-05-25T11:39:47.005305",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -27606,6 +27606,403 @@
       "categories": [
         "cs.LG",
         "cs.AI"
+      ]
+    },
+    "2605.23708": {
+      "arxiv_id": "2605.23708",
+      "title": "Learning Dynamic Stability Landscapes in Synchronization Networks",
+      "authors": [
+        "Christian Nauck",
+        "Junyou Zhu",
+        "Michael Lindner",
+        "Frank Hellmann"
+      ],
+      "published": "2026-05-22T14:55:09+00:00",
+      "first_seen": "2026-05-25T11:39:23.321532",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SY",
+        "nlin.AO"
+      ]
+    },
+    "2605.23673": {
+      "arxiv_id": "2605.23673",
+      "title": "Relevant Walk Search for Explaining Graph Neural Networks",
+      "authors": [
+        "Ping Xiong",
+        "Thomas Schnake",
+        "Michael Gastegger",
+        "Grégoire Montavon",
+        "Klaus-Robert Müller",
+        "Shinichi Nakajima"
+      ],
+      "published": "2026-05-22T14:21:37+00:00",
+      "first_seen": "2026-05-25T11:39:23.321542",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2605.23467": {
+      "arxiv_id": "2605.23467",
+      "title": "S$^3$GNN: Efficient Global Mixing and Local Message Passing for Long-Range Graph Learning",
+      "authors": [
+        "Dai Shi",
+        "Luke Thompson",
+        "Linhan Luo",
+        "Lequan Lin",
+        "Andi Han",
+        "Junbin Gao",
+        "José Miguel Hernández Lobato"
+      ],
+      "published": "2026-05-22T10:26:41+00:00",
+      "first_seen": "2026-05-25T11:39:23.321548",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2605.23446": {
+      "arxiv_id": "2605.23446",
+      "title": "Weisfeiler-Leman Is Incomplete on Simple Spectrum Graphs, so Canonicalize Them",
+      "authors": [
+        "Snir Hordan",
+        "Nadav Dym",
+        "Tim Seppelt"
+      ],
+      "published": "2026-05-22T10:01:28+00:00",
+      "first_seen": "2026-05-25T11:39:23.321554",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "math.CO"
+      ]
+    },
+    "2605.23239": {
+      "arxiv_id": "2605.23239",
+      "title": "Self-supervised Adversarial Purification for Graph Neural Networks",
+      "authors": [
+        "Woohyun Lee",
+        "Hogun Park"
+      ],
+      "published": "2026-05-22T05:18:18+00:00",
+      "first_seen": "2026-05-25T11:39:23.321559",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2605.23194": {
+      "arxiv_id": "2605.23194",
+      "title": "Scalable Heterogeneous Graph Foundation Models for Data-Driven Optimal Power Flow in Smart Grids",
+      "authors": [
+        "Massimiliano Lupo Pasini",
+        "Yijiang Li",
+        "Kibaek Kim",
+        "Teja Kuruganti"
+      ],
+      "published": "2026-05-22T03:25:25+00:00",
+      "first_seen": "2026-05-25T11:39:23.321563",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2605.22963": {
+      "arxiv_id": "2605.22963",
+      "title": "Graph Alignment Topology as an Inductive Bias for Grounding Detection",
+      "authors": [
+        "Paul Landes",
+        "Pranav Herur",
+        "Adam Cross",
+        "Jimeng Sun"
+      ],
+      "published": "2026-05-21T18:49:32+00:00",
+      "first_seen": "2026-05-25T11:39:23.321568",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    },
+    "2605.23854": {
+      "arxiv_id": "2605.23854",
+      "title": "Entrywise Error Bounds for Spectral Ranking with Semi-Random Adversaries",
+      "authors": [
+        "Dongmin Lee",
+        "Anuran Makur",
+        "Japneet Singh"
+      ],
+      "published": "2026-05-22T17:08:07+00:00",
+      "first_seen": "2026-05-25T11:39:26.326505",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "math.ST",
+        "stat.ML"
+      ]
+    },
+    "2605.23285": {
+      "arxiv_id": "2605.23285",
+      "title": "Reinforcement Learning for Microcanonical Graph Ensemble with Assortativity Constraints",
+      "authors": [
+        "Hoyun Choi",
+        "Junghyo Jo",
+        "Deok-Sun Lee"
+      ],
+      "published": "2026-05-22T06:57:41+00:00",
+      "first_seen": "2026-05-25T11:39:26.326515",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cond-mat.stat-mech",
+        "cs.AI"
+      ]
+    },
+    "2605.23887": {
+      "arxiv_id": "2605.23887",
+      "title": "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces",
+      "authors": [
+        "Joydeep Chandra"
+      ],
+      "published": "2026-05-22T17:47:45+00:00",
+      "first_seen": "2026-05-25T11:39:32.018926",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DB",
+        "cs.AI",
+        "cs.CR",
+        "cs.LG",
+        "cs.MA"
+      ]
+    },
+    "2605.23879": {
+      "arxiv_id": "2605.23879",
+      "title": "On the Stability of Spherical Hellinger-Kantorovich Flows and Their Implications for Differential Privacy",
+      "authors": [
+        "Aratrika Mustafi",
+        "Soumya Mukherjee"
+      ],
+      "published": "2026-05-22T17:38:20+00:00",
+      "first_seen": "2026-05-25T11:39:32.018934",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.CR",
+        "cs.LG",
+        "math.ST"
+      ]
+    },
+    "2605.22952": {
+      "arxiv_id": "2605.22952",
+      "title": "Measuring Database Unfairness via Dependency Quantification Under Differential Privacy",
+      "authors": [
+        "Mariia Vologdin",
+        "Yuchao Tao",
+        "Amir Gilad"
+      ],
+      "published": "2026-05-21T18:31:48+00:00",
+      "first_seen": "2026-05-25T11:39:32.018941",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DB"
+      ]
+    },
+    "2605.23448": {
+      "arxiv_id": "2605.23448",
+      "title": "AI Security Research Should Better Incentivize Defense Research",
+      "authors": [
+        "Youqian Zhang"
+      ],
+      "published": "2026-05-22T10:02:14+00:00",
+      "first_seen": "2026-05-25T11:39:38.356468",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2605.22898": {
+      "arxiv_id": "2605.22898",
+      "title": "FIRMA: FIbonacci Ring Model Aggregation for Privacy-preserving Federated Learning",
+      "authors": [
+        "Rachid Hedjam"
+      ],
+      "published": "2026-05-21T16:06:00+00:00",
+      "first_seen": "2026-05-25T11:39:38.356477",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2605.23823": {
+      "arxiv_id": "2605.23823",
+      "title": "\"I can't read your mind\": A Study of Neurodivergent Computing Students' Experiences with Collaborative Active Learning",
+      "authors": [
+        "Cynthia Zastudil",
+        "Srishty Muthusekaran",
+        "Rayhona Nasimova",
+        "Stephen MacNeil"
+      ],
+      "published": "2026-05-22T16:24:46+00:00",
+      "first_seen": "2026-05-25T11:39:41.351504",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2605.23702": {
+      "arxiv_id": "2605.23702",
+      "title": "TubiFM: Unified Item, Carousel, and Search Ranking for Streaming Discovery",
+      "authors": [
+        "Alexandre Salle",
+        "Chenglei Niu",
+        "Suchismit Mahapatra",
+        "Xiaoxiao Chen",
+        "Suvash Sedhain",
+        "Yaqi Wang",
+        "Shervin Shahryari",
+        "Saurabh Agrawal",
+        "Qiang Chen",
+        "Michael Tamir"
+      ],
+      "published": "2026-05-22T14:53:00+00:00",
+      "first_seen": "2026-05-25T11:39:41.351513",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2605.23663": {
+      "arxiv_id": "2605.23663",
+      "title": "Detecting Drunk Driving Using Off-the-Shelf Smartwatches",
+      "authors": [
+        "Robin Deuber",
+        "Lanlan Yang",
+        "Michal Bechny",
+        "Christoph Heck",
+        "Matthias Pfäffli",
+        "Matthias Bantle",
+        "Florian von Wangenheim",
+        "Elgar Fleisch",
+        "Wolfgang Weinmann",
+        "Manuel Günther",
+        "Felix Wortmann",
+        "Varun Mishra"
+      ],
+      "published": "2026-05-22T14:13:28+00:00",
+      "first_seen": "2026-05-25T11:39:41.351518",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.LG"
+      ]
+    },
+    "2605.23598": {
+      "arxiv_id": "2605.23598",
+      "title": "When Youth Enter the Algorithmic Wild: Discovering and Understanding Potentially Harmful Teen Videos on Douyin and Kwai",
+      "authors": [
+        "Shaoxuan Zhou",
+        "Yafei Sun",
+        "Jing Zhang",
+        "Xianghang Mi"
+      ],
+      "published": "2026-05-22T13:06:46+00:00",
+      "first_seen": "2026-05-25T11:39:41.351522",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CR",
+        "cs.HC"
+      ]
+    },
+    "2605.23312": {
+      "arxiv_id": "2605.23312",
+      "title": "Towards Generalizable and Efficient Large-Scale Generative Recommenders",
+      "authors": [
+        "Qiuling Xu",
+        "Ko-Jen Hsiao",
+        "Moumita Bhattacharya"
+      ],
+      "published": "2026-05-22T07:31:00+00:00",
+      "first_seen": "2026-05-25T11:39:41.351527",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2605.23310": {
+      "arxiv_id": "2605.23310",
+      "title": "From Head to Tail: Asymmetric Knowledge Transfer in Long-tail Recommendation with Generative Semantic IDs",
+      "authors": [
+        "Chenyi Yan",
+        "Ruocong Tang",
+        "Xing Fang",
+        "Yang Huang",
+        "He Guo",
+        "Jing Wang"
+      ],
+      "published": "2026-05-22T07:29:51+00:00",
+      "first_seen": "2026-05-25T11:39:41.351532",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2605.23249": {
+      "arxiv_id": "2605.23249",
+      "title": "Enhancing Deep Neural Network Reliability with Refinement and Calibration",
+      "authors": [
+        "Ramya Hebbalaguppe",
+        "Ajay Shastry",
+        "Soumya Suvra Ghosal",
+        "Chetan Arora"
+      ],
+      "published": "2026-05-22T05:43:41+00:00",
+      "first_seen": "2026-05-25T11:39:41.351536",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2605.23191": {
+      "arxiv_id": "2605.23191",
+      "title": "Expand More, Shrink Less: Shaping Effective-Rank Dynamics for Dense Scaling in Recommendation",
+      "authors": [
+        "Guoming Li",
+        "Shangyu Zhang",
+        "Junwei Pan",
+        "Wentao Ning",
+        "Jin Chen",
+        "Gengsheng Xue",
+        "Chao Zhou",
+        "Shudong Huang",
+        "Haijie Gu",
+        "Menglin Yang"
+      ],
+      "published": "2026-05-22T03:17:29+00:00",
+      "first_seen": "2026-05-25T11:39:41.351540",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR",
+        "math.NA"
+      ]
+    },
+    "2605.22924": {
+      "arxiv_id": "2605.22924",
+      "title": "Building a privacy-preserving Federated Recommender system for mobile devices",
+      "authors": [
+        "Aasheesh Singh"
+      ],
+      "published": "2026-05-21T18:02:26+00:00",
+      "first_seen": "2026-05-25T11:39:41.351545",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
       ]
     }
   }

@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-22 | [Entrywise Error Bounds for Spectral Ranking with Semi-Random Adversaries](https://arxiv.org/abs/2605.23854) | Bradley-Terry-Luce (BTL) model estimation is a well-established strategy to rank a collection of items given a dataset of pairwise comparisons. |
-| 2026-05-22 | [Reinforcement Learning for Microcanonical Graph Ensemble with Assortativity Constraints](https://arxiv.org/abs/2605.23285) | How network structure determines function is a fundamental question, and it can be investigated by graph ensembles with precisely controlled structural properties. |
 | 2026-05-21 | [SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules](https://arxiv.org/abs/2605.22287) | Large Language Models (LLMs) are central to the one-for-all intelligent paradigm, but they face a fundamental challenge when dealing with heterogeneous scientific data such as molecules: the inherent... |
 | 2026-05-20 | [Manifold-Guided Attention Steering](https://arxiv.org/abs/2605.21770) | Large language models frequently produce errors in reasoning tasks despite possessing the underlying knowledge required for correct reasoning. |
 | 2026-05-16 | [Provably Learning Diffusion Models under the Manifold Hypothesis: Collapse and Refine](https://arxiv.org/abs/2605.20235) | Diffusion models generate high-dimensional data with remarkable quality, yet how their training efficiently learns the score function, bypassing the curse of dimensionality when data is supported on... |
