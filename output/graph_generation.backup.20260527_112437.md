@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-24 | [DriftingMol: Decoder-Coupled Drift for One-Pass Property-Conditional Molecular Generation](https://arxiv.org/abs/2605.24841) | Property-conditional molecular generation should produce valid, diverse molecules while responding to continuous target values at low sampling cost. |
-| 2026-05-23 | [Representation-Guided Discrete Molecular Graph Retrosynthesis](https://arxiv.org/abs/2605.24428) | Stochastic process-based molecular graph generators have become the state of the art for template-free single-step retrosynthesis. |
 | 2026-05-22 | [Entrywise Error Bounds for Spectral Ranking with Semi-Random Adversaries](https://arxiv.org/abs/2605.23854) | Bradley-Terry-Luce (BTL) model estimation is a well-established strategy to rank a collection of items given a dataset of pairwise comparisons. |
 | 2026-05-22 | [Reinforcement Learning for Microcanonical Graph Ensemble with Assortativity Constraints](https://arxiv.org/abs/2605.23285) | How network structure determines function is a fundamental question, and it can be investigated by graph ensembles with precisely controlled structural properties. |
 | 2026-05-21 | [SciCore-Mol: Augmenting Large Language Models with Pluggable Molecular Cognition Modules](https://arxiv.org/abs/2605.22287) | Large Language Models (LLMs) are central to the one-for-all intelligent paradigm, but they face a fundamental challenge when dealing with heterogeneous scientific data such as molecules: the inherent... |

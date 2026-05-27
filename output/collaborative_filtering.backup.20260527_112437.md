@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-22 | [An Interpretable CF-RL-TOPSIS Fusion Model for Skills-Aware Talent Recommendation](https://arxiv.org/abs/2605.24155) | Effective skills-aware talent recommendation must balance behavioral transition patterns, trajectory-sensitive adaptation, and inspectable occupation-level criteria. |
-| 2026-05-20 | [Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](https://arxiv.org/abs/2605.24015) | Graph collaborative filtering (GCF) is a dominant paradigm in recommender systems, where contrastive learning (CL) objectives such as the Sampled Softmax (SSM) loss are widely used for optimization. |
 | 2026-05-19 | [Robust Subspace-Constrained Quadratic Models for Low-Dimensional Structure Learning](https://arxiv.org/abs/2605.20300) | In this paper, we propose a robust subspace-constrained quadratic model (SCQM) for learning low-dimensional structure from high-dimensional data. |
 | 2026-05-18 | [Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials](https://arxiv.org/abs/2605.18033) | Autonomous labs enable the integration of automated experiment execution, data analysis and decision making. |
 | 2026-05-17 | [Self-Supervised Learning for Sparse Matrix Reordering](https://arxiv.org/abs/2605.17403) | Rearranging the rows or columns of a sparse matrix using an appropriate ordering can significantly reduce fill-ins, i.e., new nonzeros introduced during matrix factorization, decreasing memory usage... |
