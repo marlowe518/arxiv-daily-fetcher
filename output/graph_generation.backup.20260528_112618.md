@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-27 | [AtomComposer: Discovering Chemical Space from First Principles with Reinforcement Learning](https://arxiv.org/abs/2605.28287) | Discovering novel stable molecules without training data remains a grand scientific challenge. |
-| 2026-05-27 | [TCP-MCP: Landscape-Guided Co-Evolution of Prompts and Communication Topologies for Multi-Agent Systems](https://arxiv.org/abs/2605.27850) | Effective multi-agent systems cannot be designed by selecting prompts or communication graphs in isolation. |
-| 2026-05-26 | [Why LLMs Fail at Causal Discovery and How Interventional Agents Escape](https://arxiv.org/abs/2605.27567) | Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. |
 | 2026-05-24 | [DriftingMol: Decoder-Coupled Drift for One-Pass Property-Conditional Molecular Generation](https://arxiv.org/abs/2605.24841) | Property-conditional molecular generation should produce valid, diverse molecules while responding to continuous target values at low sampling cost. |
 | 2026-05-23 | [Representation-Guided Discrete Molecular Graph Retrosynthesis](https://arxiv.org/abs/2605.24428) | Stochastic process-based molecular graph generators have become the state of the art for template-free single-step retrosynthesis. |
 | 2026-05-22 | [Entrywise Error Bounds for Spectral Ranking with Semi-Random Adversaries](https://arxiv.org/abs/2605.23854) | Bradley-Terry-Luce (BTL) model estimation is a well-established strategy to rank a collection of items given a dataset of pairwise comparisons. |

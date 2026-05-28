@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-27 | [Bias Leaves a Gradient Trail: Label-Free Bias Identification via Gradient Probes on Concept Decompositions](https://arxiv.org/abs/2605.28780) | Vision classifiers can exploit spurious correlations, achieving high in-distribution accuracy yet failing under distribution shift. |
-| 2026-05-27 | [Implicit Regularization in Perturbed Deep Matrix Factorization: Spectral Conditions and Stability](https://arxiv.org/abs/2605.28613) | This paper studies the stability of low-rank implicit regularization in perturbed deep matrix factorization, where the target matrix is corrupted by a noise matrix. |
 | 2026-05-22 | [An Interpretable CF-RL-TOPSIS Fusion Model for Skills-Aware Talent Recommendation](https://arxiv.org/abs/2605.24155) | Effective skills-aware talent recommendation must balance behavioral transition patterns, trajectory-sensitive adaptation, and inspectable occupation-level criteria. |
 | 2026-05-20 | [Rethinking Contrastive Learning for Graph Collaborative Filtering: Limitations and a Simple Remedy](https://arxiv.org/abs/2605.24015) | Graph collaborative filtering (GCF) is a dominant paradigm in recommender systems, where contrastive learning (CL) objectives such as the Sampled Softmax (SSM) loss are widely used for optimization. |
 | 2026-05-19 | [Robust Subspace-Constrained Quadratic Models for Low-Dimensional Structure Learning](https://arxiv.org/abs/2605.20300) | In this paper, we propose a robust subspace-constrained quadratic model (SCQM) for learning low-dimensional structure from high-dimensional data. |

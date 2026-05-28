@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-27 | [Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee](https://arxiv.org/abs/2605.28335) | Federated Learning (FL) enables multiple clients to collaboratively train models without sharing raw data, but it is highly vulnerable to Byzantine attacks. |
-| 2026-05-27 | [A Wolf in Sheep's Clothing: Targeted Routing Hijacking in Federated RAG](https://arxiv.org/abs/2605.28112) | Federated Retrieval-Augmented Generation (FedRAG) is attractive for privacy-sensitive applications because raw data remain local. |
-| 2026-05-26 | [A Methodology to Assess Power Modeling in Energy-Aware Federated Learning on Heterogeneous Mobile Devices](https://arxiv.org/abs/2605.27601) | Estimating CPU power on heterogeneous ARM-based commodity devices is challenging due to limited access to CPU's voltage domains. |
-| 2026-05-26 | [Federated Learning for Multivariate Time Series Anomaly Detection in Industrial Automation](https://arxiv.org/abs/2605.27486) | Federated learning (FL) has broadened the horizon for multivariate time series anomaly detection (MTSAD). |
-| 2026-05-26 | [HEAL: Resilient and Self-* Hub-based Learning](https://arxiv.org/abs/2605.27475) | Decentralized learning enhances privacy, scalability, and fault tolerance by distributing data and computation across nodes. |
 | 2026-05-26 | [Separate Aggregation of Split Network for Personalized Federated Learning](https://arxiv.org/abs/2605.26571) | Federated learning enables collaborative model training without sharing raw data, but its performance can degrade substantially under heterogeneous client data distributions. |
 | 2026-05-26 | [StreamSplit: Continuous Audio Representation Learning via Uncertainty-Guided Adaptive Splitting](https://arxiv.org/abs/2605.26523) | Large-batch Contrastive Learning (CL), the foundation of modern representation learning, is fundamentally incompatible with the volatile resource constraints of edge devices. |
 | 2026-05-25 | [Totoro$^+$: An Adaptive and Scalable Edge Federated Learning System](https://arxiv.org/abs/2605.26323) | Federated Learning (FL) is an emerging distributed machine learning (ML) technique that enables in-situ model training and inference on decentralized edge devices. |
