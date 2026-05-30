@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-28 | [Learning Context-Conditioned Predicate Semantics via Prototype Feedback](https://arxiv.org/abs/2605.29610) | In scene graph generation, a central challenge is modeling polysemous predicates whose meanings shift across contexts. |
 | 2026-05-27 | [AtomComposer: Discovering Chemical Space from First Principles with Reinforcement Learning](https://arxiv.org/abs/2605.28287) | Discovering novel stable molecules without training data remains a grand scientific challenge. |
 | 2026-05-27 | [TCP-MCP: Landscape-Guided Co-Evolution of Prompts and Communication Topologies for Multi-Agent Systems](https://arxiv.org/abs/2605.27850) | Effective multi-agent systems cannot be designed by selecting prompts or communication graphs in isolation. |
 | 2026-05-26 | [Why LLMs Fail at Causal Discovery and How Interventional Agents Escape](https://arxiv.org/abs/2605.27567) | Causal discovery is a cornerstone of scientific reasoning, yet whether large language models can perform it reliably remains an open question. |

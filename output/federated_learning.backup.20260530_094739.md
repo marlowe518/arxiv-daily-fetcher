@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-28 | [Fairness-Aware Federated Learning with Trajectory Shapley Value](https://arxiv.org/abs/2605.30336) | Federated learning is an emerging distributed paradigm that addresses the challenges posed by heterogeneous, privacy-sensitive data. |
-| 2026-05-28 | [Privacy-Enhanced Zero-Order Federated Learning via xMK-CKKS over Wireless Channels](https://arxiv.org/abs/2605.30123) | Homomorphic encryption (HE) enables privacy-preserving aggregation in federated learning (FL) by allowing the server to operate on encrypted data without decryption. |
-| 2026-05-28 | [Q-ANCHOR: Federated Quantum Learning with ZNE-guided Correction](https://arxiv.org/abs/2605.30075) | Quantum Federated Learning (QFL) offers a promising framework to train quantum models across distributed clients while keeping data strictly local. |
 | 2026-05-27 | [Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee](https://arxiv.org/abs/2605.28335) | Federated Learning (FL) enables multiple clients to collaboratively train models without sharing raw data, but it is highly vulnerable to Byzantine attacks. |
 | 2026-05-27 | [A Wolf in Sheep's Clothing: Targeted Routing Hijacking in Federated RAG](https://arxiv.org/abs/2605.28112) | Federated Retrieval-Augmented Generation (FedRAG) is attractive for privacy-sensitive applications because raw data remain local. |
 | 2026-05-26 | [A Methodology to Assess Power Modeling in Energy-Aware Federated Learning on Heterogeneous Mobile Devices](https://arxiv.org/abs/2605.27601) | Estimating CPU power on heterogeneous ARM-based commodity devices is challenging due to limited access to CPU's voltage domains. |

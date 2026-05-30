@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-05-28 | [Open Problem: Separating Geometric and Algorithmic Compression via Cayley-Table Completion](https://arxiv.org/abs/2605.29885) | Modern statistical learning theory and deep learning characterize generalization primarily in terms of continuous capacity control (e.g., norm-based regularization, margin maximization, low-rank... |
 | 2026-05-27 | [Bias Leaves a Gradient Trail: Label-Free Bias Identification via Gradient Probes on Concept Decompositions](https://arxiv.org/abs/2605.28780) | Vision classifiers can exploit spurious correlations, achieving high in-distribution accuracy yet failing under distribution shift. |
 | 2026-05-27 | [Implicit Regularization in Perturbed Deep Matrix Factorization: Spectral Conditions and Stability](https://arxiv.org/abs/2605.28613) | This paper studies the stability of low-rank implicit regularization in perturbed deep matrix factorization, where the target matrix is corrupted by a noise matrix. |
 | 2026-05-22 | [An Interpretable CF-RL-TOPSIS Fusion Model for Skills-Aware Talent Recommendation](https://arxiv.org/abs/2605.24155) | Effective skills-aware talent recommendation must balance behavioral transition patterns, trajectory-sensitive adaptation, and inspectable occupation-level criteria. |
