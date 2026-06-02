@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-01 | [Uncertainty-Calibrated Diffusion for Reliable 3D Molecular Graph Generation](https://arxiv.org/abs/2606.01595) | Bayesian inference provides a principled framework for modeling epistemic uncertainty in neural networks by treating predictions as distributions rather than deterministic values. |
-| 2026-05-31 | [Genotype-Conditioned Molecular Generation via Evidence-Grounded Multi-Objective Latent Perturbation in Diffusion Models](https://arxiv.org/abs/2606.01461) | Developing effective anticancer therapeutics remains challenging due to tumor heterogeneity and the absence of well-defined molecular targets across cancer subtypes. |
-| 2026-05-31 | [Fine-Tuning Diffusion Models for Molecular Generation via Reinforcement Learning and Fast Sampling](https://arxiv.org/abs/2606.01220) | Generating molecules that simultaneously satisfy drug-like properties and conform to the 3D structure of a target protein is a core challenge in structure-based drug design (SBDD). |
-| 2026-05-29 | [GraphARC: A Comprehensive Benchmark for Graph-Based Abstract Reasoning](https://arxiv.org/abs/2605.31031) | Relational reasoning lies at the heart of intelligence, but existing benchmarks are typically confined to formats such as grids or text. |
 | 2026-05-28 | [Learning Context-Conditioned Predicate Semantics via Prototype Feedback](https://arxiv.org/abs/2605.29610) | In scene graph generation, a central challenge is modeling polysemous predicates whose meanings shift across contexts. |
 | 2026-05-27 | [AtomComposer: Discovering Chemical Space from First Principles with Reinforcement Learning](https://arxiv.org/abs/2605.28287) | Discovering novel stable molecules without training data remains a grand scientific challenge. |
 | 2026-05-27 | [TCP-MCP: Landscape-Guided Co-Evolution of Prompts and Communication Topologies for Multi-Agent Systems](https://arxiv.org/abs/2605.27850) | Effective multi-agent systems cannot be designed by selecting prompts or communication graphs in isolation. |
