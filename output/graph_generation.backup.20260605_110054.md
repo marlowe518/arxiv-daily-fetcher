@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-04 | [Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction](https://arxiv.org/abs/2606.06303) | Controllable generation with discrete diffusion models is often hindered by high computational overhead or the need for retraining. |
-| 2026-06-04 | [Agentic Molecular Recovery via Molecule-Aware Exploration](https://arxiv.org/abs/2606.05847) | Text-guided molecular generation with LLMs often yields invalid SMILES. |
-| 2026-06-03 | [FLAGG: Flexible Autoregressive Graph Generation](https://arxiv.org/abs/2606.05067) | The Deep Graph Generation's panorama spans two extremes: one-shot and sequential models. |
-| 2026-06-03 | [QPredSGG: Hybrid Quantum Predicate Learning for Long-Tailed Scene Graph Generation](https://arxiv.org/abs/2606.04689) | Scene Graph Generation (SGG) requires relational reasoning over objects and their interactions, but performance is often limited by severe long-tail predicate imbalance. |
-| 2026-06-02 | [Scaling Novel Graph Generation via Lightweight Structure-Guided Autoregressive Models](https://arxiv.org/abs/2606.04287) | Generating realistic and diverse graphs is a key problem in machine learning, with applications in molecular discovery, circuit design, cybersecurity, and beyond. |
 | 2026-06-01 | [Uncertainty-Calibrated Diffusion for Reliable 3D Molecular Graph Generation](https://arxiv.org/abs/2606.01595) | Bayesian inference provides a principled framework for modeling epistemic uncertainty in neural networks by treating predictions as distributions rather than deterministic values. |
 | 2026-05-31 | [Genotype-Conditioned Molecular Generation via Evidence-Grounded Multi-Objective Latent Perturbation in Diffusion Models](https://arxiv.org/abs/2606.01461) | Developing effective anticancer therapeutics remains challenging due to tumor heterogeneity and the absence of well-defined molecular targets across cancer subtypes. |
 | 2026-05-31 | [Fine-Tuning Diffusion Models for Molecular Generation via Reinforcement Learning and Fast Sampling](https://arxiv.org/abs/2606.01220) | Generating molecules that simultaneously satisfy drug-like properties and conform to the 3D structure of a target protein is a core challenge in structure-based drug design (SBDD). |
