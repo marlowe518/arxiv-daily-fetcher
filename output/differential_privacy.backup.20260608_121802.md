@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-05 | [Sort, Partition, Randomize: Optimal Binary Hypothesis Testing under Local Differential Privacy](https://arxiv.org/abs/2606.07443) | We study optimal design of $\varepsilon$-locally differentially private mechanisms for binary hypothesis testing. |
 | 2026-06-04 | [Protecting K-Nearest Neighbor Queries from Location Inference Attacks](https://arxiv.org/abs/2606.05648) | The k-nearest neighbor query (kNNQ) is a core component of modern location-based services (LBS) and has been widely adopted in popular features such as ``people nearby''. |
 | 2026-06-04 | [Multi-Objective Submodular Maximization with Differential Privacy](https://arxiv.org/abs/2606.05596) | In this paper, we study multi-objective submodular maximization (MOSM) subject to a cardinality constraint under differential privacy (DP). |
 | 2026-06-03 | [DP-MacAdam: Differentially Private Mechanism with Adaptive Clipping and Adaptive Momentum](https://arxiv.org/abs/2606.05435) | Differentially private stochastic gradient descent (DP-SGD) has become the standard framework for privacy-preserving machine learning, yet its reliance on a fixed gradient clipping threshold to limit... |

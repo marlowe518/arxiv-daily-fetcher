@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-05 | [Graph Neural Network leveraging Higher-order Class Label Connectivity for Heterophilous Graphs](https://arxiv.org/abs/2606.07475) | Node classification in graph neural networks (GNNs) has been widely applied in various fields of graph analysis. |
-| 2026-06-04 | [Spatiotemporal Imputation with Graph-Informed Flow Matching](https://arxiv.org/abs/2606.06682) | Missing data is a common challenge in spatiotemporal systems, arising in applications such as air quality monitoring and urban traffic management. |
 | 2026-06-04 | [The Post-GCN Decade Revisited: Curvature-Stratified Evaluation of Relational Learning](https://arxiv.org/abs/2606.06397) | Current evaluation practices in relational learning rely heavily on flat leaderboards that average performance across heterogeneous datasets, implicitly assuming a uniform underlying structure. |
 | 2026-06-04 | [End-to-End Subgraph Detection with GraphDETR](https://arxiv.org/abs/2606.06364) | Subgraph detection seeks to identify whether and where instances of query patterns occur within a larger graph. |
 | 2026-06-04 | [PAC-Bayesian Adversarially Robust Generalization for Message Passing Graph Neural Networks: A Sensitivity Analysis](https://arxiv.org/abs/2606.06293) | Whilst the vulnerability of graph neural networks (GNNs) to adversarial attacks poses a critical threat to graph representation learning, the understanding of the robust generalization behavior... |
