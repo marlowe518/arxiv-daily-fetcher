@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-07 | [Inference-Time Conformal Reasoning with Valid Factuality Control for Large Language Models](https://arxiv.org/abs/2606.08831) | Large language models (LLMs) increasingly perform multi-step reasoning, where intermediate claims form implicit directed acyclic graphs whose node correctness is structurally conditioned on their... |
-| 2026-06-06 | [QueryWeaver: Reliable Multi-Tool Query Execution Planning via LLM-Based Graph Generation](https://arxiv.org/abs/2606.08300) | Many real-world queries over personal data span multiple applications and require structured planning, as individual tools expose only partial information. |
-| 2026-06-06 | [De novo molecular generation with optical property preconditioning at the token level](https://arxiv.org/abs/2606.08221) | Designing OLED molecules with targeted optical properties remains challenging due to the scarcity of high-quality data and the limited reliability of conditional control in generative models across... |
 | 2026-06-04 | [Plug-and-Play Guidance for Discrete Diffusion Models via Gradient-Informed Logit Correction](https://arxiv.org/abs/2606.06303) | Controllable generation with discrete diffusion models is often hindered by high computational overhead or the need for retraining. |
 | 2026-06-04 | [Agentic Molecular Recovery via Molecule-Aware Exploration](https://arxiv.org/abs/2606.05847) | Text-guided molecular generation with LLMs often yields invalid SMILES. |
 | 2026-06-03 | [FLAGG: Flexible Autoregressive Graph Generation](https://arxiv.org/abs/2606.05067) | The Deep Graph Generation's panorama spans two extremes: one-shot and sequential models. |
