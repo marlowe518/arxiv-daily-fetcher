@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-09T10:49:14.802476",
+  "last_updated": "2026-06-10T11:28:05.218114",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -33946,6 +33946,406 @@
       ],
       "published": "2026-06-06T04:17:09+00:00",
       "first_seen": "2026-06-09T10:49:09.023898",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.10909": {
+      "arxiv_id": "2606.10909",
+      "title": "Non-linear mechanical field reconstruction coupling recurrent neural networks with physics-informed graph neural networks",
+      "authors": [
+        "Manuel Ricardo Guevara Garban",
+        "Yves Chemisky",
+        "Étienne Prulière",
+        "Michaël Clément",
+        "Martin Abendroth",
+        "Björn Kiefer"
+      ],
+      "published": "2026-06-09T14:20:39+00:00",
+      "first_seen": "2026-06-10T11:27:41.015903",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CE",
+        "cs.LG",
+        "physics.comp-ph"
+      ]
+    },
+    "2606.10461": {
+      "arxiv_id": "2606.10461",
+      "title": "ERAlign: Energy-based Representation Alignment of GNNs and LLMs on Text-attributed Graphs",
+      "authors": [
+        "Xianlin Zeng",
+        "Fan Xia",
+        "Xiangyu Chen"
+      ],
+      "published": "2026-06-09T06:16:40+00:00",
+      "first_seen": "2026-06-10T11:27:41.015915",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2606.10249": {
+      "arxiv_id": "2606.10249",
+      "title": "When Design Rules Break: Benchmark Composition Determines Whether Label Informativeness Predicts GNN Aggregator Choice",
+      "authors": [
+        "Neha Sharma",
+        "Ritesh Sharma"
+      ],
+      "published": "2026-06-08T23:36:14+00:00",
+      "first_seen": "2026-06-10T11:27:41.015922",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.SI"
+      ]
+    },
+    "2606.10916": {
+      "arxiv_id": "2606.10916",
+      "title": "Range Penalization: Theoretical Insights with Applications in Federated Learning",
+      "authors": [
+        "Yiyuan She",
+        "Zhaojun Hu",
+        "Yifan Sun"
+      ],
+      "published": "2026-06-09T14:26:28+00:00",
+      "first_seen": "2026-06-10T11:27:55.918088",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.ST",
+        "stat.ME"
+      ]
+    },
+    "2606.10780": {
+      "arxiv_id": "2606.10780",
+      "title": "Secure Aggregation with Top-K Sparsification in Decentralized Federated Learning",
+      "authors": [
+        "Hengxuan Tang",
+        "Jinbao Zhu",
+        "Xiaohu Tang"
+      ],
+      "published": "2026-06-09T12:33:53+00:00",
+      "first_seen": "2026-06-10T11:27:55.918101",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.IT",
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2606.10774": {
+      "arxiv_id": "2606.10774",
+      "title": "Inverse Probability Weighting and Age-of-Information Aggregation for Decentralized Federated Learning under Partial Reception",
+      "authors": [
+        "Chanuka A. S. Hewa Kaluannakkage",
+        "Rajkumar Buyya"
+      ],
+      "published": "2026-06-09T12:30:18+00:00",
+      "first_seen": "2026-06-10T11:27:55.918110",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2606.10595": {
+      "arxiv_id": "2606.10595",
+      "title": "From Data Heterogeneity to Convergence: A Data-Centric Review of Federated Learning",
+      "authors": [
+        "Huong Nguyen",
+        "Mickaël Bettinelli",
+        "Amirhossein Ghaffari",
+        "Alexandre Benoit",
+        "Hong-Tri Nguyen",
+        "Susanna Pirttikangas",
+        "Lauri Lovén"
+      ],
+      "published": "2026-06-09T09:00:04+00:00",
+      "first_seen": "2026-06-10T11:27:55.918117",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2606.10499": {
+      "arxiv_id": "2606.10499",
+      "title": "MoE Enhanced Federated Learning for Spatiotemporal Prediction",
+      "authors": [
+        "Zhehao Dai",
+        "Xiao Han",
+        "Zhaolin Deng",
+        "Zijian Zhang",
+        "Xiangyu Zhao",
+        "Guojiang Shen",
+        "Xiangjie Kong"
+      ],
+      "published": "2026-06-09T07:23:27+00:00",
+      "first_seen": "2026-06-10T11:27:55.918125",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.10250": {
+      "arxiv_id": "2606.10250",
+      "title": "Multi-Level Analyzation of Imbalance to Resolve Non-IID-Ness in Federated Learning",
+      "authors": [
+        "Haengbok Chung",
+        "Jae Sung Lee"
+      ],
+      "published": "2026-06-08T23:36:29+00:00",
+      "first_seen": "2026-06-10T11:27:55.918132",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.10153": {
+      "arxiv_id": "2606.10153",
+      "title": "Compositional Generative Modeling from Decentralized Data",
+      "authors": [
+        "Mashrur M. Morshed",
+        "Vishnu Naresh Boddeti"
+      ],
+      "published": "2026-06-08T20:32:35+00:00",
+      "first_seen": "2026-06-10T11:27:55.918138",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.10124": {
+      "arxiv_id": "2606.10124",
+      "title": "FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching",
+      "authors": [
+        "Haoran Zhang",
+        "Cainã Figueiredo Pereira",
+        "Marie Siew",
+        "Xutong Liu",
+        "Carlee Joe-Wong",
+        "Rachid El-Azouzi"
+      ],
+      "published": "2026-06-08T19:55:45+00:00",
+      "first_seen": "2026-06-10T11:27:55.918144",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.11023": {
+      "arxiv_id": "2606.11023",
+      "title": "Generative Archetype-Grounded Item Representations for Sequential Recommendation",
+      "authors": [
+        "Yifan Li",
+        "Jiahong Liu",
+        "Xinni Zhang",
+        "Hao Chen",
+        "Yankai Chen",
+        "Wenhao Yu",
+        "Jianting Chen",
+        "Irwin King"
+      ],
+      "published": "2026-06-09T15:59:14+00:00",
+      "first_seen": "2026-06-10T11:27:58.972400",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2606.10907": {
+      "arxiv_id": "2606.10907",
+      "title": "From Prompt to Purchase: How AI Brand Recommendations Move Consumers on the Open Web",
+      "authors": [
+        "Michael Iannelli",
+        "Alan Ai"
+      ],
+      "published": "2026-06-09T14:16:48+00:00",
+      "first_seen": "2026-06-10T11:27:58.972412",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.IR"
+      ]
+    },
+    "2606.10789": {
+      "arxiv_id": "2606.10789",
+      "title": "Closing the Modality Gap in Zero-Shot HAR: Contrastive Training and Separability-Optimized Prototypes on IMU Data",
+      "authors": [
+        "Anik Ghosh"
+      ],
+      "published": "2026-06-09T12:39:41+00:00",
+      "first_seen": "2026-06-10T11:27:58.972419",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.10753": {
+      "arxiv_id": "2606.10753",
+      "title": "Deploying Speech-Driven 3D Facial Animation in Unreal Engine for Production-Ready Digital Humans",
+      "authors": [
+        "Alessandro Busacchi",
+        "Kazi Injamamul Haque",
+        "Zerrin Yumak"
+      ],
+      "published": "2026-06-09T12:03:42+00:00",
+      "first_seen": "2026-06-10T11:27:58.972425",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.GR",
+        "cs.HC",
+        "cs.MM"
+      ]
+    },
+    "2606.10375": {
+      "arxiv_id": "2606.10375",
+      "title": "SIDInspector: A Mapping-First Diagnostic Resource for Semantic-ID Tokenizers",
+      "authors": [
+        "Jiandong Ding",
+        "Heng Chang",
+        "Huijie Qin",
+        "Tianying Liu"
+      ],
+      "published": "2026-06-09T03:36:31+00:00",
+      "first_seen": "2026-06-10T11:27:58.972430",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.10357": {
+      "arxiv_id": "2606.10357",
+      "title": "Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations",
+      "authors": [
+        "Zhuohang Jiang",
+        "Yuxin Chen",
+        "Shijie Wang",
+        "Haohao Qu",
+        "Zhou Jindong",
+        "Wenqi Fan",
+        "Li Qing",
+        "Dongxu Liang",
+        "Jun Wang"
+      ],
+      "published": "2026-06-09T03:13:52+00:00",
+      "first_seen": "2026-06-10T11:27:58.972436",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2606.10243": {
+      "arxiv_id": "2606.10243",
+      "title": "DUET -- Dual User Embedding Transformers for Offsite Conversion Prediction",
+      "authors": [
+        "Reazul Hasan Russel",
+        "Mingwei Tang",
+        "Rostam Shirani",
+        "Xinlong Liu",
+        "Navid Madani",
+        "Leo Ding",
+        "Yawen He",
+        "Xiangyu Wang",
+        "Mustafa Acar",
+        "Ashish Katiyar",
+        "Yuhai Li",
+        "Alan Yang",
+        "Metarya Ruparel",
+        "Derek Qiang Xu",
+        "Rupert Wu",
+        "Rui Yang",
+        "Liang Tao",
+        "Xinyi Zhao",
+        "Larry Zhang",
+        "Sri Reddy",
+        "Rob Malkin"
+      ],
+      "published": "2026-06-08T23:13:58+00:00",
+      "first_seen": "2026-06-10T11:27:58.972442",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.10159": {
+      "arxiv_id": "2606.10159",
+      "title": "Gaming AI-Assisted Peer Reviews Poses New Risks to the Scientific Community",
+      "authors": [
+        "Lin Li",
+        "Qi Zhang",
+        "Xander Davies",
+        "Jianing Qiu",
+        "Yarin Gal"
+      ],
+      "published": "2026-06-08T20:38:06+00:00",
+      "first_seen": "2026-06-10T11:27:58.972448",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CY",
+        "cs.LG"
+      ]
+    },
+    "2606.10156": {
+      "arxiv_id": "2606.10156",
+      "title": "$τ$-Rec: A Verifiable Benchmark for Agentic Recommender Systems",
+      "authors": [
+        "Bharath Sivaram Narasimhan",
+        "Karthik R Narasimhan"
+      ],
+      "published": "2026-06-08T20:35:45+00:00",
+      "first_seen": "2026-06-10T11:27:58.972454",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2606.10120": {
+      "arxiv_id": "2606.10120",
+      "title": "MetaPlate: Counterfactual-Guided RAG-LLM Tool for Personalized Food Recommendation and Hyperglycemia Prevention",
+      "authors": [
+        "Asiful Arefeen",
+        "Carol Johnston",
+        "Hassan Ghasemzadeh"
+      ],
+      "published": "2026-06-08T19:52:08+00:00",
+      "first_seen": "2026-06-10T11:27:58.972459",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2606.10078": {
+      "arxiv_id": "2606.10078",
+      "title": "Mult-DPO: Multinomial Direct Preference Optimization for Recommender Systems",
+      "authors": [
+        "Yaochen Zhu",
+        "Harald Steck",
+        "James McInerney",
+        "Aditya Sinha",
+        "Yinhan He",
+        "Nathan Kallus",
+        "Jundong Li"
+      ],
+      "published": "2026-06-08T18:53:45+00:00",
+      "first_seen": "2026-06-10T11:27:58.972464",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
