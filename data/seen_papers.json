@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-10T11:28:05.218114",
+  "last_updated": "2026-06-11T12:00:46.085435",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -34349,6 +34349,372 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
+      ]
+    },
+    "2606.11946": {
+      "arxiv_id": "2606.11946",
+      "title": "Neuro-Relational Programs: Unifying Queries and Neural Computation over Structured Data",
+      "authors": [
+        "Arie Soeteman",
+        "Balder ten Cate",
+        "Maurice Funk",
+        "Benny Kimelfeld",
+        "Carsten Lutz",
+        "Moritz Schönherr"
+      ],
+      "published": "2026-06-10T11:16:36+00:00",
+      "first_seen": "2026-06-11T12:00:22.993898",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.DB",
+        "cs.CC",
+        "cs.LG",
+        "cs.LO"
+      ]
+    },
+    "2606.11870": {
+      "arxiv_id": "2606.11870",
+      "title": "Modelling magnetic material properties with uncertainty-aware neural networks",
+      "authors": [
+        "Clemens Wager",
+        "Heisam Moustafa",
+        "Alexander Kovacs",
+        "Qais Ali",
+        "Harald Oezelt",
+        "Hayate Yamano",
+        "Masao Yano",
+        "Noritsugu Sakuma",
+        "Hyuga Hosoi",
+        "Akihito Kinoshita",
+        "Tetsuya Shoji",
+        "Akira Kato",
+        "Thomas Schrefl"
+      ],
+      "published": "2026-06-10T09:47:21+00:00",
+      "first_seen": "2026-06-11T12:00:22.993910",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cs.LG"
+      ]
+    },
+    "2606.11687": {
+      "arxiv_id": "2606.11687",
+      "title": "DroneShield-AI: A Multi-Modal Sensor Fusion Framework for Real-Time Autonomous Drone Threat Detection, Behavioral Intent Classification, and Swarm Intelligence in Contested Airspace",
+      "authors": [
+        "Marius Bayizere"
+      ],
+      "published": "2026-06-10T06:00:24+00:00",
+      "first_seen": "2026-06-11T12:00:22.993918",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.LG",
+        "cs.RO"
+      ]
+    },
+    "2606.11640": {
+      "arxiv_id": "2606.11640",
+      "title": "TAROT: Task-Adaptive Refinement of LLM-prior Graphs for Few-shot Tabular Learning",
+      "authors": [
+        "Ruxue Shi",
+        "Yili Wang",
+        "Mengnan Du",
+        "Hangting Ye",
+        "Yi Chang",
+        "Xin Wang"
+      ],
+      "published": "2026-06-10T04:02:57+00:00",
+      "first_seen": "2026-06-11T12:00:22.993925",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.11583": {
+      "arxiv_id": "2606.11583",
+      "title": "Beyond the Golden Teacher: Enhancing Graph Learning through LLM-GNN Co-teaching",
+      "authors": [
+        "Zhuoyi Peng",
+        "Hanlin Gu",
+        "Lixin Fan",
+        "Yi Yang"
+      ],
+      "published": "2026-06-10T02:15:56+00:00",
+      "first_seen": "2026-06-11T12:00:22.993931",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.11562": {
+      "arxiv_id": "2606.11562",
+      "title": "GraphInfer-Bench: Benchmarking LLM's Inference Capability on Graphs",
+      "authors": [
+        "Zhuoyi Peng",
+        "Jingzhou Jiang",
+        "Hanlin Gu",
+        "Lixin Fan",
+        "Yi Yang"
+      ],
+      "published": "2026-06-10T01:41:53+00:00",
+      "first_seen": "2026-06-11T12:00:22.993937",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ]
+    },
+    "2606.11560": {
+      "arxiv_id": "2606.11560",
+      "title": "LLMs+Graphs: Toward Graph-Native, Synergistic AI Systems",
+      "authors": [
+        "Arijit Khan",
+        "Longxu Sun",
+        "Xin Huang"
+      ],
+      "published": "2026-06-10T01:39:41+00:00",
+      "first_seen": "2026-06-11T12:00:22.993944",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.DB",
+        "cs.AI"
+      ]
+    },
+    "2606.11508": {
+      "arxiv_id": "2606.11508",
+      "title": "Probabilistic Contrastive Pretraining for Multi-task ADME Property Prediction",
+      "authors": [
+        "Yifan Xue",
+        "Srimukh Prasad Veccham",
+        "Saee Paliwal",
+        "Tyler Shimko",
+        "Micha Livne"
+      ],
+      "published": "2026-06-09T23:03:05+00:00",
+      "first_seen": "2026-06-11T12:00:22.993955",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.QM"
+      ]
+    },
+    "2606.11803": {
+      "arxiv_id": "2606.11803",
+      "title": "SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT",
+      "authors": [
+        "Jing Yang",
+        "Vijay Govindarajan",
+        "Saad Arif",
+        "Xu Xu",
+        "Mohamed Kallel",
+        "Zaffar Ahmed Shaikh",
+        "Zhe Liu",
+        "Chunhong Yuan",
+        "Lip Yee Por"
+      ],
+      "published": "2026-06-10T08:35:31+00:00",
+      "first_seen": "2026-06-11T12:00:31.156290",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.NI"
+      ]
+    },
+    "2606.11556": {
+      "arxiv_id": "2606.11556",
+      "title": "Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices",
+      "authors": [
+        "Kaan Arda Akyol",
+        "Jakub Kacper Szeląg",
+        "Aydin Abadi",
+        "Maha Alghamdi",
+        "Ghadah Albalawi",
+        "Ghouse Ibrahim Kaleelullah",
+        "Hilal Tutus",
+        "Sarah Al Subaiei",
+        "Shardul Kapse",
+        "Syed Mohammed Raheeb",
+        "Mujeeb Ahmed",
+        "Rehmat Ullah"
+      ],
+      "published": "2026-06-10T01:33:20+00:00",
+      "first_seen": "2026-06-11T12:00:31.156301",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2606.11283": {
+      "arxiv_id": "2606.11283",
+      "title": "Fixed-Parameter Tractability of Private Synthetic Data Generation",
+      "authors": [
+        "Badih Ghazi",
+        "Cristóbal Guzmán",
+        "Pritish Kamath",
+        "Alexander Knop",
+        "Ravi Kumar",
+        "Pasin Manurangsi"
+      ],
+      "published": "2026-06-09T15:14:11+00:00",
+      "first_seen": "2026-06-11T12:00:31.156309",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DS",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2606.11272": {
+      "arxiv_id": "2606.11272",
+      "title": "Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data",
+      "authors": [
+        "Masoume Gholizade",
+        "Fabrizio Ruffini",
+        "Pietro Ducange",
+        "Francesco Marcelloni"
+      ],
+      "published": "2026-06-09T08:35:21+00:00",
+      "first_seen": "2026-06-11T12:00:31.156315",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.12281": {
+      "arxiv_id": "2606.12281",
+      "title": "CCKS: Consensus-based Communication and Knowledge Sharing",
+      "authors": [
+        "Jinyuan Zu",
+        "Xiaowei Lv",
+        "Yongcai Wang",
+        "Deying Li",
+        "Yunjun Han",
+        "Wenping Chen",
+        "Fengyi Zhang",
+        "Naiqi Wu"
+      ],
+      "published": "2026-06-10T16:20:18+00:00",
+      "first_seen": "2026-06-11T12:00:40.102032",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.MA",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2606.12245": {
+      "arxiv_id": "2606.12245",
+      "title": "DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation",
+      "authors": [
+        "Kangning Zhang",
+        "Yingjie Qin",
+        "Weinan Zhang",
+        "Yong Yu",
+        "Jianghao Lin"
+      ],
+      "published": "2026-06-10T15:47:26+00:00",
+      "first_seen": "2026-06-11T12:00:40.102043",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2606.12198": {
+      "arxiv_id": "2606.12198",
+      "title": "LLM-Based User Personas for Recommendations at Scale",
+      "authors": [
+        "Haoting Wang",
+        "Haokai Lu",
+        "Zheyun Feng",
+        "Jenny Huang",
+        "Yifat Amir",
+        "Gregory Hinkson",
+        "Ben Most",
+        "Zelong Zhao",
+        "Yixin Kelly Cui",
+        "Rein Zhang",
+        "Fabio Soldo",
+        "Yu Xia",
+        "Nihar Bhupalam",
+        "Minmin Chen",
+        "Konstantina Christakopoulou",
+        "Lichan Hong",
+        "Ed H. Chi"
+      ],
+      "published": "2026-06-10T15:18:32+00:00",
+      "first_seen": "2026-06-11T12:00:40.102050",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.12075": {
+      "arxiv_id": "2606.12075",
+      "title": "Categorical Robustness Assessment for Machine Learning based Network Intrusion Detection Systems",
+      "authors": [
+        "Mayank Raj",
+        "Nathaniel D. Bastian",
+        "Lance Fiondella",
+        "Gokhan Kul"
+      ],
+      "published": "2026-06-10T13:41:44+00:00",
+      "first_seen": "2026-06-11T12:00:40.102056",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2606.11616": {
+      "arxiv_id": "2606.11616",
+      "title": "DeMix: Debugging Training Data with Mixed Data Error Types by Investigating Influence Vectors",
+      "authors": [
+        "Jiale Deng",
+        "Yanyan Shen",
+        "Xiaogang Shi",
+        "Chai Junjun"
+      ],
+      "published": "2026-06-10T03:28:17+00:00",
+      "first_seen": "2026-06-11T12:00:40.102063",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2606.11350": {
+      "arxiv_id": "2606.11350",
+      "title": "When More Documents Hurt RAG: Mitigating Vector Search Dilution with Domain-Scoped, Model-Agnostic Retrieval",
+      "authors": [
+        "Nabaraj Subedi",
+        "Ahmed Abdelaty",
+        "Shivanand Venkanna Sheshappanavar"
+      ],
+      "published": "2026-06-09T18:26:24+00:00",
+      "first_seen": "2026-06-11T12:00:40.102069",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.IR"
+      ]
+    },
+    "2606.11255": {
+      "arxiv_id": "2606.11255",
+      "title": "Bernstein-Schur Kernels: Random Features by Sketched Modulation and Radial Randomization",
+      "authors": [
+        "Taha Bouhsine"
+      ],
+      "published": "2026-06-08T21:59:44+00:00",
+      "first_seen": "2026-06-11T12:00:40.102075",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
       ]
     }
   }

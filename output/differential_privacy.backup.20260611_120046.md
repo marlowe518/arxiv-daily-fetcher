@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-10 | [SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT](https://arxiv.org/abs/2606.11803) | The rapid growth of consumer IoT devices has introduced unprecedented challenges in trustworthy anomaly detection against AI-enabled cyber threats, requiring real-time, privacy-preserving, and... |
-| 2026-06-10 | [Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices](https://arxiv.org/abs/2606.11556) | Continuous electrocardiography (ECG) monitoring could surface rhythm abnormalities before they escalate into cardiovascular events. |
-| 2026-06-09 | [Fixed-Parameter Tractability of Private Synthetic Data Generation](https://arxiv.org/abs/2606.11283) | We study the problem of generating synthetic data under differential privacy. |
-| 2026-06-09 | [Federated continual learning: A comprehensive survey on lifelong and privacy-preserving learning over distributed and non-stationary data](https://arxiv.org/abs/2606.11272) | Federated Learning (FL) enables collaborative and privacy-preserving model training across distributed clients, but most existing FL systems implicitly assume data stationarity. |
 | 2026-06-08 | [On Choosing the $μ$ Parameter in Gaussian Differential Privacy](https://arxiv.org/abs/2606.09582) | Recent work argues for using Gaussian differential privacy (GDP) to report the privacy guarantees in privacy-preserving machine learning. |
 | 2026-06-08 | [Fully Oblivious Differential Privacy for Frequency Estimation in the Augmented Shuffle Model with Trusted Processors](https://arxiv.org/abs/2606.09402) | In the shuffle model of DP (Differential Privacy), a shuffler randomly permutes users' data to achieve high accuracy and privacy. |
 | 2026-06-08 | [Benchmarking Empirical Privacy Protection for Adaptations of Large Language Models](https://arxiv.org/abs/2606.09401) | Recent work has applied differential privacy (DP) to adapt large language models (LLMs) for sensitive applications, offering theoretical guarantees. |
