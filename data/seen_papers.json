@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-11T12:00:46.085435",
+  "last_updated": "2026-06-12T11:32:03.369238",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -34715,6 +34715,279 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG"
+      ]
+    },
+    "2606.13671": {
+      "arxiv_id": "2606.13671",
+      "title": "Understanding Truncated Positional Encodings for Graph Neural Networks",
+      "authors": [
+        "James Flora",
+        "Mitchell Black",
+        "Weng-Keen Wong",
+        "Amir Nayyeri"
+      ],
+      "published": "2026-06-11T17:58:56+00:00",
+      "first_seen": "2026-06-12T11:31:39.431772",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.13444": {
+      "arxiv_id": "2606.13444",
+      "title": "Clustering Node Attributed Networks with Graph Neural Networks and Self Learning",
+      "authors": [
+        "Rodrigo de Sapienza Luna",
+        "Daniel Ratton Figueiredo"
+      ],
+      "published": "2026-06-11T15:05:33+00:00",
+      "first_seen": "2026-06-12T11:31:39.431786",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.13119": {
+      "arxiv_id": "2606.13119",
+      "title": "MP3: Multi-Period Pattern Pre-training forSpatio-Temporal Forecasting",
+      "authors": [
+        "Lilan Peng",
+        "Yandi Liu",
+        "Qingren Yao",
+        "Chongshou Li",
+        "Tianrui Li"
+      ],
+      "published": "2026-06-11T09:48:18+00:00",
+      "first_seen": "2026-06-12T11:31:39.431794",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.NE"
+      ]
+    },
+    "2606.12867": {
+      "arxiv_id": "2606.12867",
+      "title": "SMGFM: Spectral Multimodal Graph Pretraining for Multimodal-Attributed Graphs",
+      "authors": [
+        "Zhengyu Wu",
+        "Xu Wang",
+        "Hongchao Qin",
+        "Xunkai Li",
+        "Guang Zeng",
+        "Rong-Hua Li",
+        "Guoren Wang"
+      ],
+      "published": "2026-06-11T03:54:35+00:00",
+      "first_seen": "2026-06-12T11:31:39.431800",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.12651": {
+      "arxiv_id": "2606.12651",
+      "title": "Physics-Aware Auxiliary Losses Improve Out-of-Distribution Generalization of a GNN Synthesizability Filter",
+      "authors": [
+        "Riya Bisht",
+        "Dhruv Agarwal"
+      ],
+      "published": "2026-06-10T20:21:56+00:00",
+      "first_seen": "2026-06-12T11:31:39.431807",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.QM"
+      ]
+    },
+    "2606.11000": {
+      "arxiv_id": "2606.11000",
+      "title": "Analog Quantum Asynchronous Event-Based Graph Neural Network",
+      "authors": [
+        "Kristian Sotirov",
+        "Shaheen Acheche",
+        "Antonio A. Gentile",
+        "Osvaldo Simeone"
+      ],
+      "published": "2026-06-09T15:34:17+00:00",
+      "first_seen": "2026-06-12T11:31:39.431813",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "quant-ph",
+        "cs.LG",
+        "cs.NE"
+      ]
+    },
+    "2606.13451": {
+      "arxiv_id": "2606.13451",
+      "title": "Uncertainty Estimation for Molecular Diffusion Models",
+      "authors": [
+        "Paul Seij",
+        "Christian A. Naesseth",
+        "Stephan Mandt",
+        "Metod Jazbec"
+      ],
+      "published": "2026-06-11T15:11:12+00:00",
+      "first_seen": "2026-06-12T11:31:42.017783",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.13105": {
+      "arxiv_id": "2606.13105",
+      "title": "Disparate Impact in Synthetic Data Generation",
+      "authors": [
+        "Paul Andrey",
+        "Michaël Perrot",
+        "Batiste Le Bars",
+        "Marc Tommasi"
+      ],
+      "published": "2026-06-11T09:33:12+00:00",
+      "first_seen": "2026-06-12T11:31:48.166283",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.12733": {
+      "arxiv_id": "2606.12733",
+      "title": "Let's Ask Gauss: Improved One-Run Privacy Auditing",
+      "authors": [
+        "Adya Agrawal",
+        "Yu Wei",
+        "Jaspal Singh",
+        "Malik Magdon-Ismail",
+        "Vassilis Zikas"
+      ],
+      "published": "2026-06-10T22:44:47+00:00",
+      "first_seen": "2026-06-12T11:31:48.166295",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.12654": {
+      "arxiv_id": "2606.12654",
+      "title": "Computationally tractable robust differentially private mean estimation",
+      "authors": [
+        "Kelly Ramsay"
+      ],
+      "published": "2026-06-10T20:25:57+00:00",
+      "first_seen": "2026-06-12T11:31:48.166302",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ME",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2606.13180": {
+      "arxiv_id": "2606.13180",
+      "title": "JiRAIYA: A Reputation-Based Hierarchical Federated Learning Framework on Web3",
+      "authors": [
+        "Venkata Raghava Kurada",
+        "Pallav Kumar Baruah"
+      ],
+      "published": "2026-06-11T10:49:41+00:00",
+      "first_seen": "2026-06-12T11:31:54.459566",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC"
+      ]
+    },
+    "2606.13045": {
+      "arxiv_id": "2606.13045",
+      "title": "A solvable model for unsupervised federated learning",
+      "authors": [
+        "Giovanni Catania",
+        "Aurélien Decelle",
+        "Gianluca Manzan",
+        "Beatriz Seoane",
+        "Daniele Tantari"
+      ],
+      "published": "2026-06-11T08:30:40+00:00",
+      "first_seen": "2026-06-12T11:31:54.459578",
+      "topic": "Federated Learning",
+      "categories": [
+        "cond-mat.dis-nn",
+        "cs.LG"
+      ]
+    },
+    "2606.12845": {
+      "arxiv_id": "2606.12845",
+      "title": "A Privacy-Preserving Framework Using Remote Data Science for Inter-Institutional Student Retention Prediction",
+      "authors": [
+        "John Fields",
+        "K M Sajjadul Islam",
+        "Ruchitha Thota",
+        "Victor Chen",
+        "Praveen Madiraju"
+      ],
+      "published": "2026-06-11T03:18:50+00:00",
+      "first_seen": "2026-06-12T11:31:54.459584",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2606.12679": {
+      "arxiv_id": "2606.12679",
+      "title": "Fed-FBD: Federated Functional Block Diversification for Isolation, Privacy, and Surgical Unlearning",
+      "authors": [
+        "Weijie Chen",
+        "Alan B. McMillan"
+      ],
+      "published": "2026-06-10T21:06:10+00:00",
+      "first_seen": "2026-06-12T11:31:54.459590",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "eess.IV"
+      ]
+    },
+    "2606.13145": {
+      "arxiv_id": "2606.13145",
+      "title": "The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman",
+      "authors": [
+        "Yuchen Huang",
+        "Baiteng Ma",
+        "Yiping Sun",
+        "Yang Shi",
+        "Xiao Chen",
+        "Xiaocheng Zhong",
+        "Zhiyong Wang",
+        "Yao Hu",
+        "Erci Xu",
+        "Chuliang Weng"
+      ],
+      "published": "2026-06-11T10:10:13+00:00",
+      "first_seen": "2026-06-12T11:31:56.965092",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.13001": {
+      "arxiv_id": "2606.13001",
+      "title": "CFALR: Collaborative Filtering-Augmented Large Language Model for Personalized Fashion Outfit Recommendation",
+      "authors": [
+        "Yujuan Ding",
+        "Junrong Liao",
+        "Yunshan Ma",
+        "Yi Bin",
+        "Wenqi Fan",
+        "Tat-Seng Chua",
+        "Qing Li"
+      ],
+      "published": "2026-06-11T07:38:15+00:00",
+      "first_seen": "2026-06-12T11:31:56.965103",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.MM"
       ]
     }
   }

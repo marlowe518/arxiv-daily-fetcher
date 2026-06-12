@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-11 | [Uncertainty Estimation for Molecular Diffusion Models](https://arxiv.org/abs/2606.13451) | Diffusion models have seen wide adoption for 3D molecular generation, yet they offer no principled signal of when a generated molecule is likely to be of low quality. |
 | 2026-06-07 | [Inference-Time Conformal Reasoning with Valid Factuality Control for Large Language Models](https://arxiv.org/abs/2606.08831) | Large language models (LLMs) increasingly perform multi-step reasoning, where intermediate claims form implicit directed acyclic graphs whose node correctness is structurally conditioned on their... |
 | 2026-06-06 | [QueryWeaver: Reliable Multi-Tool Query Execution Planning via LLM-Based Graph Generation](https://arxiv.org/abs/2606.08300) | Many real-world queries over personal data span multiple applications and require structured planning, as individual tools expose only partial information. |
 | 2026-06-06 | [De novo molecular generation with optical property preconditioning at the token level](https://arxiv.org/abs/2606.08221) | Designing OLED molecules with targeted optical properties remains challenging due to the scarcity of high-quality data and the limited reliability of conditional control in generative models across... |

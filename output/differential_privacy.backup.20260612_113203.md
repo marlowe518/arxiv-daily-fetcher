@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-11 | [Disparate Impact in Synthetic Data Generation](https://arxiv.org/abs/2606.13105) | We revisit the fairness notion of disparate impact for synthetic data generation (SDG), that assesses whether the utility of generated records is the same across sensitive groups. |
-| 2026-06-10 | [Let's Ask Gauss: Improved One-Run Privacy Auditing](https://arxiv.org/abs/2606.12733) | Privacy auditing provides an important safeguard by estimating the actual information leaked by a model, thus ensuring that theoretical privacy guarantees hold in practice. |
-| 2026-06-10 | [Computationally tractable robust differentially private mean estimation](https://arxiv.org/abs/2606.12654) | We develop a new, differentially private mean estimator called the balloon mean. |
 | 2026-06-10 | [SwarmSense-DNN: A Trustworthy and Decentralized Neural Framework for Proactive Anomaly Defense in Consumer IoT](https://arxiv.org/abs/2606.11803) | The rapid growth of consumer IoT devices has introduced unprecedented challenges in trustworthy anomaly detection against AI-enabled cyber threats, requiring real-time, privacy-preserving, and... |
 | 2026-06-10 | [Privacy-Preserving Federated Autoencoder for ECG Anomaly Detection on Edge Devices](https://arxiv.org/abs/2606.11556) | Continuous electrocardiography (ECG) monitoring could surface rhythm abnormalities before they escalate into cardiovascular events. |
 | 2026-06-09 | [Fixed-Parameter Tractability of Private Synthetic Data Generation](https://arxiv.org/abs/2606.11283) | We study the problem of generating synthetic data under differential privacy. |

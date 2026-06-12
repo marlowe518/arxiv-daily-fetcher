@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-11 | [The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman](https://arxiv.org/abs/2606.13145) | Paper titled: The Clustering Strikes Back: Building Cost-Effective and High-Performance ANNS at Scale with Helmsman |
-| 2026-06-11 | [CFALR: Collaborative Filtering-Augmented Large Language Model for Personalized Fashion Outfit Recommendation](https://arxiv.org/abs/2606.13001) | Personalized outfit recommendation poses a significant challenge in e-commerce and social media platforms, requiring systems that balance user preferences with aesthetic compatibility. |
 | 2026-06-10 | [CCKS: Consensus-based Communication and Knowledge Sharing](https://arxiv.org/abs/2606.12281) | In Decentralized Training and Decentralized Execution (DTDE) for cooperative Multi-Agent Reinforcement Learning (MARL), action-advising-based knowledge sharing promotes interpretable and scalable... |
 | 2026-06-10 | [DiffCold: A Diffusion-based Generative Model for Cold-Start Item Recommendation](https://arxiv.org/abs/2606.12245) | Cold-start item recommendation remains a persistent challenge in real-world systems due to the absence of interaction histories. |
 | 2026-06-10 | [LLM-Based User Personas for Recommendations at Scale](https://arxiv.org/abs/2606.12198) | Large Language Models (LLMs) offer unprecedented potential for enhancing recommendation systems through their world knowledge and reasoning capabilities. |
