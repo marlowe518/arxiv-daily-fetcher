@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-14T10:41:05.213574",
+  "last_updated": "2026-06-15T13:42:32.566166",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -34988,6 +34988,350 @@
       "categories": [
         "cs.IR",
         "cs.MM"
+      ]
+    },
+    "2606.14476": {
+      "arxiv_id": "2606.14476",
+      "title": "When the Tool Decides: LLM Agents Defer Blindly to Graph Neural Network Tools, and Stronger Backbones Defer More",
+      "authors": [
+        "Zhongyuan Wang",
+        "Pratyusha Vemuri"
+      ],
+      "published": "2026-06-12T14:13:19+00:00",
+      "first_seen": "2026-06-15T13:42:09.013473",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2606.14353": {
+      "arxiv_id": "2606.14353",
+      "title": "Can Deep Neural Networks Improve Compression of Very Large Scientific Data?",
+      "authors": [
+        "Muhannad Alhumaidi",
+        "Guozhong Li",
+        "Spiros Skiadopoulos",
+        "Panos Kalnis"
+      ],
+      "published": "2026-06-12T11:22:26+00:00",
+      "first_seen": "2026-06-15T13:42:09.013486",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.14217": {
+      "arxiv_id": "2606.14217",
+      "title": "Curvature-Informed Potential Energy Surface for Protein-Ligand Binding Affinity Prediction",
+      "authors": [
+        "Peng-Fei Sun",
+        "Chuan-Xian Ren",
+        "Hong Yan"
+      ],
+      "published": "2026-06-12T07:53:26+00:00",
+      "first_seen": "2026-06-15T13:42:09.013493",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.BM"
+      ]
+    },
+    "2606.14022": {
+      "arxiv_id": "2606.14022",
+      "title": "PostDeg: Placement Beats Parameterization in LayerNorm GNNs",
+      "authors": [
+        "Yash Tomar",
+        "Aryav Das"
+      ],
+      "published": "2026-06-12T01:43:45+00:00",
+      "first_seen": "2026-06-15T13:42:09.013500",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.13848": {
+      "arxiv_id": "2606.13848",
+      "title": "Temporally Consistent Graph Q-Networks for Intelligent Network Control",
+      "authors": [
+        "Zacharias Veiksaar",
+        "Maxime Bouton"
+      ],
+      "published": "2026-06-11T19:25:57+00:00",
+      "first_seen": "2026-06-15T13:42:09.013506",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.NI",
+        "cs.LG"
+      ]
+    },
+    "2606.14636": {
+      "arxiv_id": "2606.14636",
+      "title": "Graph Diffusion Residuals for Control-Function Instrumental Variables",
+      "authors": [
+        "Rui Wu",
+        "Zongyuan Chen",
+        "Hong Xie",
+        "Defu Lian",
+        "Enhong Chen"
+      ],
+      "published": "2026-06-12T17:02:53+00:00",
+      "first_seen": "2026-06-15T13:42:11.529182",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.13955": {
+      "arxiv_id": "2606.13955",
+      "title": "Smoothing Dark Areas in Molecular Latent Diffusion",
+      "authors": [
+        "Xi Wang",
+        "Jiahan Li",
+        "Yuxuan Xia",
+        "Yingcheng Wu",
+        "Shaoyi Zheng",
+        "Shengjie Wang"
+      ],
+      "published": "2026-06-11T22:33:40+00:00",
+      "first_seen": "2026-06-15T13:42:11.529197",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.14515": {
+      "arxiv_id": "2606.14515",
+      "title": "Securing the Future of IoMT in the Post-Quantum Era: An Edge-Native Federated Learning Approach",
+      "authors": [
+        "Taym Alshoghri",
+        "Deemah H. Tashman",
+        "Mohammad Reza Gerami",
+        "Soumaya Cherkaoui"
+      ],
+      "published": "2026-06-12T14:47:03+00:00",
+      "first_seen": "2026-06-15T13:42:23.596383",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2606.14416": {
+      "arxiv_id": "2606.14416",
+      "title": "Federated Learning for Feature Generalization with Convex Constraints",
+      "authors": [
+        "Dongwon Kim",
+        "Donghee Kim",
+        "Sung Kuk Shyn",
+        "Kwangsu Kim"
+      ],
+      "published": "2026-06-12T12:50:33+00:00",
+      "first_seen": "2026-06-15T13:42:23.596396",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2606.14354": {
+      "arxiv_id": "2606.14354",
+      "title": "MUFFLe: Efficient Model Update Compression via Generalized Deduplication for Federated Learning",
+      "authors": [
+        "Xiaobo Zhao",
+        "Daniel E. Lucani"
+      ],
+      "published": "2026-06-12T11:27:37+00:00",
+      "first_seen": "2026-06-15T13:42:23.596403",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.13748": {
+      "arxiv_id": "2606.13748",
+      "title": "FedSPC: Shared Parameter Correction for Personalized Federated Learning",
+      "authors": [
+        "Kannanthodath Induchoodan Ajay Menon",
+        "Christian Prehofer",
+        "Yunfei Xu",
+        "Toru Hirano"
+      ],
+      "published": "2026-06-11T15:07:42+00:00",
+      "first_seen": "2026-06-15T13:42:23.596409",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.14474": {
+      "arxiv_id": "2606.14474",
+      "title": "Verifiable User Simulation for Search and Recommendation Systems",
+      "authors": [
+        "Chenglong Ma",
+        "Xinye Wanyan",
+        "Danula Hettiachchi",
+        "Ziqi Xu",
+        "Yongli Ren",
+        "Jeffrey Chan"
+      ],
+      "published": "2026-06-12T14:09:56+00:00",
+      "first_seen": "2026-06-15T13:42:26.548314",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.HC"
+      ]
+    },
+    "2606.14406": {
+      "arxiv_id": "2606.14406",
+      "title": "Friction in AI-Assisted Clinical Decision-Making: A Case Study on The Role of Questions and 'What-if' Scenarios",
+      "authors": [
+        "Simon WS Fischer",
+        "Hanna Schraffenberger",
+        "Miranda L. van Hooff",
+        "Serge Thill",
+        "Pim Haselager"
+      ],
+      "published": "2026-06-12T12:42:44+00:00",
+      "first_seen": "2026-06-15T13:42:26.548325",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2606.14260": {
+      "arxiv_id": "2606.14260",
+      "title": "ChronoID: Infusing Explicit Temporal Signals into Semantic IDs for Generative Recommendation",
+      "authors": [
+        "Dongdong Nian",
+        "Dongqi Fu",
+        "Chenliang Xu",
+        "Yinglong Xia",
+        "Hong Li",
+        "Hong Yan",
+        "Jian Kang"
+      ],
+      "published": "2026-06-12T08:45:04+00:00",
+      "first_seen": "2026-06-15T13:42:26.548332",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2606.14150": {
+      "arxiv_id": "2606.14150",
+      "title": "Small LLMs: Pruning vs. Training from Scratch",
+      "authors": [
+        "Yufeng Xu",
+        "Taiming Lu",
+        "Kunjun Li",
+        "Jiachen Zhu",
+        "Mingjie Sun",
+        "Zhuang Liu"
+      ],
+      "published": "2026-06-12T06:24:28+00:00",
+      "first_seen": "2026-06-15T13:42:26.548338",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ]
+    },
+    "2606.14149": {
+      "arxiv_id": "2606.14149",
+      "title": "Trust but Verify: Mitigating Medical Hallucinations via Post-Hoc Adversarial Auditing and Multi-Agent Feedback Loops",
+      "authors": [
+        "Muhammad Osama",
+        "Maheera Amjad",
+        "Zartasha Mustansar",
+        "Arslan Shaukat",
+        "Muhammad U. S. Khan"
+      ],
+      "published": "2026-06-12T06:21:19+00:00",
+      "first_seen": "2026-06-15T13:42:26.548344",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.14046": {
+      "arxiv_id": "2606.14046",
+      "title": "When Recommendation Denoising Meets Popularity Bias: Understanding and Mitigating Their Interaction",
+      "authors": [
+        "Guohang Zeng",
+        "Jie Lu",
+        "Guangquan Zhang"
+      ],
+      "published": "2026-06-12T02:46:24+00:00",
+      "first_seen": "2026-06-15T13:42:26.548350",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.13959": {
+      "arxiv_id": "2606.13959",
+      "title": "Can Machine Learning Forecast Rice Yields in Data-Constrained Settings? Satellite Climate Data, National Crop Statistics, and Lessons from Sierra Leone",
+      "authors": [
+        "Ibrahim Denis Fofanah"
+      ],
+      "published": "2026-06-11T22:43:35+00:00",
+      "first_seen": "2026-06-15T13:42:26.548355",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.13858": {
+      "arxiv_id": "2606.13858",
+      "title": "Mood-Aware Music Recommendation: Integrating User Affective Signals into Ranking Systems",
+      "authors": [
+        "Terence Zeng",
+        "Abhishek K. Umrawal"
+      ],
+      "published": "2026-06-11T19:36:31+00:00",
+      "first_seen": "2026-06-15T13:42:26.548361",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2606.13854": {
+      "arxiv_id": "2606.13854",
+      "title": "SpheriCity: Designing Trustworthy Conversational AI for Sustainability Decision Support",
+      "authors": [
+        "Ahmed Qayyum",
+        "Madison Werner",
+        "Kathryn Youngblood",
+        "Jenna R. Jambeck",
+        "Tahiya Chowdhury"
+      ],
+      "published": "2026-06-11T19:32:42+00:00",
+      "first_seen": "2026-06-15T13:42:26.548366",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ]
+    },
+    "2606.14673": {
+      "arxiv_id": "2606.14673",
+      "title": "Compressed Computation is (probably) not Computation in Superposition",
+      "authors": [
+        "Jai Bhagat",
+        "Sara Molas-Medina",
+        "Giorgi Giglemiani",
+        "Stefan Heimersheim"
+      ],
+      "published": "2026-06-12T17:39:31+00:00",
+      "first_seen": "2026-06-15T13:42:29.530118",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG"
       ]
     }
   }

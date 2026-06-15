@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-12 | [Graph Diffusion Residuals for Control-Function Instrumental Variables](https://arxiv.org/abs/2606.14636) | Control-function instrumental variable estimators need a first-stage residual, not merely a first-stage prediction. |
-| 2026-06-11 | [Smoothing Dark Areas in Molecular Latent Diffusion](https://arxiv.org/abs/2606.13955) | Latent diffusion is a promising framework for scalable 3D molecular generation, but it requires a latent space that remains smooth, valid, and navigable beyond posterior samples. |
 | 2026-06-11 | [Uncertainty Estimation for Molecular Diffusion Models](https://arxiv.org/abs/2606.13451) | Diffusion models have seen wide adoption for 3D molecular generation, yet they offer no principled signal of when a generated molecule is likely to be of low quality. |
 | 2026-06-07 | [Inference-Time Conformal Reasoning with Valid Factuality Control for Large Language Models](https://arxiv.org/abs/2606.08831) | Large language models (LLMs) increasingly perform multi-step reasoning, where intermediate claims form implicit directed acyclic graphs whose node correctness is structurally conditioned on their... |
 | 2026-06-06 | [QueryWeaver: Reliable Multi-Tool Query Execution Planning via LLM-Based Graph Generation](https://arxiv.org/abs/2606.08300) | Many real-world queries over personal data span multiple applications and require structured planning, as individual tools expose only partial information. |
