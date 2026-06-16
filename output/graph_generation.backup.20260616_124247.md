@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-14 | [Proximal Policy Optimization for Amortized Discrete Sampling](https://arxiv.org/abs/2606.15793) | This paper explores policy gradient algorithms for training stochastic policies to sample from structured discrete probability distributions under the Generative Flow Network (GFlowNet) framework. |
 | 2026-06-12 | [Graph Diffusion Residuals for Control-Function Instrumental Variables](https://arxiv.org/abs/2606.14636) | Control-function instrumental variable estimators need a first-stage residual, not merely a first-stage prediction. |
 | 2026-06-11 | [Smoothing Dark Areas in Molecular Latent Diffusion](https://arxiv.org/abs/2606.13955) | Latent diffusion is a promising framework for scalable 3D molecular generation, but it requires a latent space that remains smooth, valid, and navigable beyond posterior samples. |
 | 2026-06-11 | [Uncertainty Estimation for Molecular Diffusion Models](https://arxiv.org/abs/2606.13451) | Diffusion models have seen wide adoption for 3D molecular generation, yet they offer no principled signal of when a generated molecule is likely to be of low quality. |
