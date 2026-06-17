@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-16 | [A Bayesian Boolean Matrix Factorization with Application to Copy Number Analysis in Cancer](https://arxiv.org/abs/2606.17491) | Binary data factorization is common, but real-valued methods ignore discreteness and yield hard-to-interpret factors. |
 | 2026-06-12 | [Compressed Computation is (probably) not Computation in Superposition](https://arxiv.org/abs/2606.14673) | We study whether the Compressed Computation (CC) toy model (Braun et al., 2025) is an instance of computation in superposition. |
 | 2026-06-04 | [Non-Negative Matrix Factorization for Event Data](https://arxiv.org/abs/2606.06205) | Continuous-time event data, in which entities emit instantaneous events over time, arises naturally across many domains such as neuroscience, seismology, and social networks. |
 | 2026-06-03 | [Gradient descent at the Edge of Stability: free energy model and kinetic description of the two-layer network](https://arxiv.org/abs/2606.05326) | We study the dynamics of gradient descent in the Edge of Stability regime, where the learning rate is large enough to induce persistent oscillations in the loss and the sharpness. |

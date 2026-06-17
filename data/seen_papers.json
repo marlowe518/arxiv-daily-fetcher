@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-16T12:42:47.745685",
+  "last_updated": "2026-06-17T12:08:08.435150",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -35973,6 +35973,378 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
+      ]
+    },
+    "2606.17882": {
+      "arxiv_id": "2606.17882",
+      "title": "Structural Preservation and the Logical Expressiveness of Graph Neural Networks",
+      "authors": [
+        "Przemysław Andrzej Wałęga",
+        "Bernardo Cuenca Grau"
+      ],
+      "published": "2026-06-16T12:57:50+00:00",
+      "first_seen": "2026-06-17T12:07:44.589802",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2606.17684": {
+      "arxiv_id": "2606.17684",
+      "title": "Geometrical fairness in graph neural networks",
+      "authors": [
+        "Arturo Pérez-Peralta",
+        "Sandra Benítez-Peña",
+        "Blas Kolic",
+        "Rosa E. Lillo"
+      ],
+      "published": "2026-06-16T08:50:30+00:00",
+      "first_seen": "2026-06-17T12:07:44.589815",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.CY",
+        "cs.LG"
+      ]
+    },
+    "2606.17579": {
+      "arxiv_id": "2606.17579",
+      "title": "LLM Features Can Hurt GNNs: Concatenation Interference on Homophilous Graph Benchmarks",
+      "authors": [
+        "Zhongyuan Wang",
+        "Pratyusha Vemuri"
+      ],
+      "published": "2026-06-16T06:30:30+00:00",
+      "first_seen": "2026-06-17T12:07:44.589823",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.SI"
+      ]
+    },
+    "2606.17406": {
+      "arxiv_id": "2606.17406",
+      "title": "Graph Neural Networks for Semi-Supervised Image Classification with Multi-Feature Aggregation",
+      "authors": [
+        "Marina Chagas Bulach Gapski",
+        "Vinicius Atsushi Sato Kawai",
+        "Gustavo Rosseto Leticio",
+        "Lucas Pascotti Valem",
+        "Daniel Carlos Guimarães Pedronette",
+        "Mohand Said Allili"
+      ],
+      "published": "2026-06-16T01:41:07+00:00",
+      "first_seen": "2026-06-17T12:07:44.589830",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    "2606.17185": {
+      "arxiv_id": "2606.17185",
+      "title": "Finsler Geometry, Graph Neural Networks, and You",
+      "authors": [
+        "T. Mitchell Roddenberry",
+        "Richard G. Baraniuk"
+      ],
+      "published": "2026-06-15T18:24:08+00:00",
+      "first_seen": "2026-06-17T12:07:44.589837",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SP",
+        "math.DG",
+        "stat.ML"
+      ]
+    },
+    "2606.17180": {
+      "arxiv_id": "2606.17180",
+      "title": "Towards Fast GNN Surrogates for CO2 Migration in Complex Geological Formations",
+      "authors": [
+        "Rodrigo S. Luna",
+        "Thiago H. N. Coelho",
+        "Luiz S. L. Neto",
+        "Roberto M. Velho",
+        "Adriano M. A. Cortes",
+        "Renato N. Elias",
+        "Alexandre G. Evsukoff",
+        "Fernando A. Rochinha",
+        "Mauricio Araya-Polo",
+        "Herve Gross",
+        "Alvaro L. G. A. Coutinho"
+      ],
+      "published": "2026-06-15T18:19:17+00:00",
+      "first_seen": "2026-06-17T12:07:44.589844",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.17119": {
+      "arxiv_id": "2606.17119",
+      "title": "Graph neural networks at war: integrating cybersecurity and drone intelligence in the Israeli-Iranian conflict",
+      "authors": [
+        "Sozan Sulaiman Maghdid",
+        "Tarik Ahmed Rashid",
+        "Shavan Askar"
+      ],
+      "published": "2026-06-15T11:04:07+00:00",
+      "first_seen": "2026-06-17T12:07:44.589850",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2606.17109": {
+      "arxiv_id": "2606.17109",
+      "title": "Timestamp-Aware Spatio-Temporal Graph Contrastive Learning for Network Intrusion Detection",
+      "authors": [
+        "Jianli Dai",
+        "Guangwei Wu",
+        "Jiacheng Li",
+        "Weiping Wang",
+        "An He",
+        "Xinjun Xiao"
+      ],
+      "published": "2026-06-15T04:45:41+00:00",
+      "first_seen": "2026-06-17T12:07:44.589862",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2606.17077": {
+      "arxiv_id": "2606.17077",
+      "title": "Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework",
+      "authors": [
+        "Wang Rui",
+        "Liu Dinghao"
+      ],
+      "published": "2026-06-10T16:17:21+00:00",
+      "first_seen": "2026-06-17T12:07:47.450886",
+      "topic": "Graph Generation",
+      "categories": [
+        "physics.chem-ph",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2606.17995": {
+      "arxiv_id": "2606.17995",
+      "title": "Differential Privacy of Gaussian Process Posterior Sampling",
+      "authors": [
+        "Tomasz Maciazek"
+      ],
+      "published": "2026-06-16T14:43:16+00:00",
+      "first_seen": "2026-06-17T12:07:53.380921",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2606.17110": {
+      "arxiv_id": "2606.17110",
+      "title": "Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs",
+      "authors": [
+        "Md Abdullah Al Mamun",
+        "Ngoc Phu Doan",
+        "Pedram Zaree",
+        "Ihsen Alouani",
+        "Nael Abu-Ghazaleh"
+      ],
+      "published": "2026-06-15T07:04:01+00:00",
+      "first_seen": "2026-06-17T12:07:53.380932",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2606.18003": {
+      "arxiv_id": "2606.18003",
+      "title": "C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift",
+      "authors": [
+        "Davide Domini",
+        "Gianluca Aguzzi",
+        "Lorenzo Pellegrini",
+        "Mirko Viroli",
+        "Lukas Esterle"
+      ],
+      "published": "2026-06-16T14:50:20+00:00",
+      "first_seen": "2026-06-17T12:07:59.630404",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.18129": {
+      "arxiv_id": "2606.18129",
+      "title": "Towards Understanding and Measuring COGNITIVE ATROPHY in LLM Behaviour",
+      "authors": [
+        "Abeer Badawi",
+        "Moyosoreoluwa Olatosi",
+        "Negin Baghbanzadeh",
+        "Laleh Seyyed-Kalantari",
+        "Frank Rudzicz",
+        "R. Shayna Rosenbaum",
+        "Sara Pishdadian",
+        "Elham Dolatabadi"
+      ],
+      "published": "2026-06-16T16:26:12+00:00",
+      "first_seen": "2026-06-17T12:08:02.434594",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ]
+    },
+    "2606.18062": {
+      "arxiv_id": "2606.18062",
+      "title": "Security and Privacy Prompts in the Wild: What Users Ask LLMs and How LLMs Respond",
+      "authors": [
+        "Hobin Kim",
+        "Xiaoyuan Wu",
+        "Omer Akgul",
+        "Lujo Bauer",
+        "Nicolas Christin"
+      ],
+      "published": "2026-06-16T15:37:25+00:00",
+      "first_seen": "2026-06-17T12:08:02.434606",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CR",
+        "cs.HC"
+      ]
+    },
+    "2606.17831": {
+      "arxiv_id": "2606.17831",
+      "title": "Accountability in Autonomous Drone-Based Firefighting: Insights From a Field Trial",
+      "authors": [
+        "Dzmitry Katsiuba",
+        "Anna Katharina Boos",
+        "Robin Hany",
+        "Mateusz Dolata",
+        "Gerhard Schwabe"
+      ],
+      "published": "2026-06-16T12:01:24+00:00",
+      "first_seen": "2026-06-17T12:08:02.434612",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.RO",
+        "cs.HC"
+      ]
+    },
+    "2606.17707": {
+      "arxiv_id": "2606.17707",
+      "title": "Do Generative Recommenders Deepen the Information Cocoon? A Closed-Loop Simulation with LLM-powered User Simulators",
+      "authors": [
+        "Jiyuan Yang",
+        "Gengxin Sun",
+        "Mengqi Zhang",
+        "Lingjie Wang",
+        "Yuanzi Li",
+        "Hongxi Cui",
+        "Xin Xin",
+        "Pengjie Ren"
+      ],
+      "published": "2026-06-16T09:17:46+00:00",
+      "first_seen": "2026-06-17T12:08:02.434618",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.17397": {
+      "arxiv_id": "2606.17397",
+      "title": "Designing Recommendation Exposure and Favorite Lists: A Field Experiment in a Spot-Work Platform",
+      "authors": [
+        "Kazuki Sekiya",
+        "Suguru Otani",
+        "Yuki Komatsu",
+        "Shunsuke Ozeki",
+        "Shunya Noda"
+      ],
+      "published": "2026-06-16T01:14:40+00:00",
+      "first_seen": "2026-06-17T12:08:02.434624",
+      "topic": "Recommender Systems",
+      "categories": [
+        "econ.GN",
+        "cs.GT",
+        "cs.IR"
+      ]
+    },
+    "2606.17276": {
+      "arxiv_id": "2606.17276",
+      "title": "On the Memorization Behavior of LLMs in Generative Recommendation: Observations, Implications, and Training Strategies",
+      "authors": [
+        "Sunwoo Kim",
+        "Sunkyung Lee",
+        "Clark Mingxuan Ju",
+        "Donald Loveland",
+        "Bhuvesh Kumar",
+        "Kijung Shin",
+        "Neil Shah",
+        "Liam Collins"
+      ],
+      "published": "2026-06-15T20:34:49+00:00",
+      "first_seen": "2026-06-17T12:08:02.434630",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2606.17127": {
+      "arxiv_id": "2606.17127",
+      "title": "Agentic Discovery of Non-Canonical Antimicrobial Peptides with AMPGAN v3",
+      "authors": [
+        "Jay Jung",
+        "Xiaohan Zhang",
+        "Shenghan Song",
+        "Mahmoud Sayedahmed",
+        "Chijian Xiang",
+        "Yunong Xu",
+        "Ahmed AbdelKhalek",
+        "Severin T. Schneebeli",
+        "Matthew J. Wargo",
+        "Jianing Li",
+        "Safwan Wshah"
+      ],
+      "published": "2026-06-15T16:39:59+00:00",
+      "first_seen": "2026-06-17T12:08:02.434636",
+      "topic": "Recommender Systems",
+      "categories": [
+        "q-bio.QM",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2606.17491": {
+      "arxiv_id": "2606.17491",
+      "title": "A Bayesian Boolean Matrix Factorization with Application to Copy Number Analysis in Cancer",
+      "authors": [
+        "Adolphus Wagala",
+        "Mehmet Samur",
+        "Giovanni Parmigiani"
+      ],
+      "published": "2026-06-16T04:03:03+00:00",
+      "first_seen": "2026-06-17T12:08:05.713726",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "stat.ME"
       ]
     }
   }
