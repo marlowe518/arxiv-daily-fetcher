@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-16 | [From Specification to Execution: AI Assisted Scientific Workflow Management](https://arxiv.org/abs/2606.18425) | Scientific workflow management systems (WMS) support scalable and reproducible execution of complex pipelines, but workflow design, implementation, and debugging remain largely manual and require... |
-| 2026-06-16 | [SCOPE-FL: A Strategy-proof Chain-based Optimal pareto efficient Federated Learning System](https://arxiv.org/abs/2606.18384) | Hierarchical Federated Learning (HFL) enables scalable collaborative model training across distributed devices while preserving data privacy. |
 | 2026-06-16 | [C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift](https://arxiv.org/abs/2606.18003) | Collective Adaptive Systems (CAS) increasingly rely on machine learning to let each node learn from locally sensed data, aligning its behavior with the surrounding environment. |
 | 2026-06-15 | [Beyond Weights and Gradients: A Taxonomy of Federated Learning Messages](https://arxiv.org/abs/2606.16891) | Federated Learning is rapidly evolving beyond the exchange of traditional model weights and gradients, yet existing definitions fail to capture the full scope of modern payloads like synthetic data... |
 | 2026-06-15 | [Federated Medical Image Segmentation under Real-World Label Noise: A Benchmark Suite for Noisy Label Learning Method Selection](https://arxiv.org/abs/2606.16868) | While federated learning (FL) enables collaborative medical image segmentation without centralizing sensitive data, real-world deployment is frequently complicated by cross-site label imperfections... |

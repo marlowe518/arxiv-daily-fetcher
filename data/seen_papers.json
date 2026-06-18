@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-17T12:08:08.435150",
+  "last_updated": "2026-06-18T11:40:59.491326",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -36344,6 +36344,453 @@
       "categories": [
         "stat.ML",
         "cs.LG",
+        "stat.ME"
+      ]
+    },
+    "2606.19251": {
+      "arxiv_id": "2606.19251",
+      "title": "Acceleration of an algebraic multigrid pressure solver using graph neural networks",
+      "authors": [
+        "Eric Chillón",
+        "Artur K. Lidtke",
+        "Nguyen Anh Khoa Doan",
+        "Bernat Font"
+      ],
+      "published": "2026-06-17T16:27:28+00:00",
+      "first_seen": "2026-06-18T11:40:35.583076",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "physics.comp-ph",
+        "cs.LG",
+        "physics.flu-dyn"
+      ]
+    },
+    "2606.19185": {
+      "arxiv_id": "2606.19185",
+      "title": "AGDN: Learning to Solve Traveling Salesman Problem with Anisotropic Graph Diffusion Network",
+      "authors": [
+        "Bolin Shen",
+        "Ziwei Huang",
+        "Zhiguang Cao",
+        "Yushun Dong"
+      ],
+      "published": "2026-06-17T15:24:37+00:00",
+      "first_seen": "2026-06-18T11:40:35.583090",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.19133": {
+      "arxiv_id": "2606.19133",
+      "title": "Equivariant Graph Neural Networks Improve Optical Spectra Prediction for Materials Screening",
+      "authors": [
+        "Kasper Helverskov Petersen",
+        "François R J Cornet",
+        "Martin Ovesen",
+        "Mikkel Jordahn",
+        "Kristian S. Thygesen",
+        "Mikkel N. Schmidt"
+      ],
+      "published": "2026-06-17T14:44:02+00:00",
+      "first_seen": "2026-06-18T11:40:35.583098",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "physics.optics",
+        "cond-mat.mtrl-sci",
+        "cs.AI"
+      ]
+    },
+    "2606.18812": {
+      "arxiv_id": "2606.18812",
+      "title": "Reinforcement Learning Foundation Models Should Already Be A Thing",
+      "authors": [
+        "Abdelrahman Zighem",
+        "Jill-Jênn Vie"
+      ],
+      "published": "2026-06-17T08:27:27+00:00",
+      "first_seen": "2026-06-18T11:40:35.583104",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.18444": {
+      "arxiv_id": "2606.18444",
+      "title": "TMR-GGNN: Credit Card Fraud Detection based on Time-Aware Multi-Relational Guided Graph Neural Network",
+      "authors": [
+        "Rohit Tewari",
+        "Shubhankar Shilpi",
+        "Navin Chhibber",
+        "Devendra Singh Parmar",
+        "Sunil Khemka",
+        "Piyush Ranjan"
+      ],
+      "published": "2026-06-16T19:50:53+00:00",
+      "first_seen": "2026-06-18T11:40:35.583110",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.18436": {
+      "arxiv_id": "2606.18436",
+      "title": "Pointwise is Pointless? A Multimodal Ablation Study for Precipitation Nowcasting with Graph Neural Networks",
+      "authors": [
+        "Ophélia Miralles",
+        "Máté Mile",
+        "Christoffer Artturi",
+        "Thomas Nipen",
+        "Ivar Seierstad"
+      ],
+      "published": "2026-06-16T19:35:49+00:00",
+      "first_seen": "2026-06-18T11:40:35.583117",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2606.18379": {
+      "arxiv_id": "2606.18379",
+      "title": "RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation",
+      "authors": [
+        "Renzhi Wu",
+        "Zikun Cui",
+        "Junjie Yang",
+        "Tai Guo",
+        "Hong Li",
+        "Xian Chen",
+        "Li Yu",
+        "Ke Pan",
+        "Sri Reddy",
+        "Mahesh Srinivasan",
+        "Nipun Mathur",
+        "Haomin Yu",
+        "Hong Yan"
+      ],
+      "published": "2026-06-16T18:27:11+00:00",
+      "first_seen": "2026-06-18T11:40:35.583123",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2606.18317": {
+      "arxiv_id": "2606.18317",
+      "title": "Enhanced Graph Neural Networks using K-Hop Gaussian Diffusion",
+      "authors": [
+        "Xuling Zhang",
+        "Peng Wang",
+        "Daiyan Li",
+        "Aoran Huang",
+        "Zeiwei Chen",
+        "Yongkui Yang"
+      ],
+      "published": "2026-06-16T12:33:17+00:00",
+      "first_seen": "2026-06-18T11:40:35.583134",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.18312": {
+      "arxiv_id": "2606.18312",
+      "title": "TIGER: Inverting Transformer Gradients via Embedding-Subspace Distance Optimization",
+      "authors": [
+        "William Kalikman",
+        "Ivo Petrov",
+        "Dimitar I. Dimitrov",
+        "Martin Vechev"
+      ],
+      "published": "2026-06-16T10:24:40+00:00",
+      "first_seen": "2026-06-18T11:40:44.571500",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2606.18425": {
+      "arxiv_id": "2606.18425",
+      "title": "From Specification to Execution: AI Assisted Scientific Workflow Management",
+      "authors": [
+        "Komal Thareja",
+        "Hamza Safri",
+        "Rajiv Mayani",
+        "Anirban Mandal",
+        "Ewa Deelman"
+      ],
+      "published": "2026-06-16T19:21:09+00:00",
+      "first_seen": "2026-06-18T11:40:50.563748",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.SE",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2606.18384": {
+      "arxiv_id": "2606.18384",
+      "title": "SCOPE-FL: A Strategy-proof Chain-based Optimal pareto efficient Federated Learning System",
+      "authors": [
+        "Seyed Salar Ghazi",
+        "Kaiwen Zhang",
+        "Mehdi feizi",
+        "Hans-Arno Jacobsen"
+      ],
+      "published": "2026-06-16T18:28:36+00:00",
+      "first_seen": "2026-06-18T11:40:50.563759",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2606.19270": {
+      "arxiv_id": "2606.19270",
+      "title": "Beyond Algorithms: Conceptual Innovation in Medical Imaging AI",
+      "authors": [
+        "Mark A. Anastasio"
+      ],
+      "published": "2026-06-17T16:48:27+00:00",
+      "first_seen": "2026-06-18T11:40:53.472492",
+      "topic": "Recommender Systems",
+      "categories": [
+        "eess.IV",
+        "cs.LG",
+        "physics.med-ph"
+      ]
+    },
+    "2606.19230": {
+      "arxiv_id": "2606.19230",
+      "title": "A Human-in-the-Loop Bayesian Optimization Framework for Constraint-Aware Bioprocess Development",
+      "authors": [
+        "Samuel Stricker",
+        "Claus Wirnsperger",
+        "Alessandro Butté",
+        "Laura Helleckes",
+        "Gonzalo Guillén Gosálbez",
+        "Antonio del Rio Chanona",
+        "Mehmet Mercangöz"
+      ],
+      "published": "2026-06-17T16:06:41+00:00",
+      "first_seen": "2026-06-18T11:40:53.472504",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.HC",
+        "stat.ML"
+      ]
+    },
+    "2606.19216": {
+      "arxiv_id": "2606.19216",
+      "title": "No Two Developers Think Alike: How Problem-Solving Styles and Experience Shape Needs in Conversational Interaction with Copilot",
+      "authors": [
+        "Jonan Richards",
+        "Bruno Alves de Oliveira",
+        "Iury Oliveira",
+        "Igor Wiese",
+        "Mairieli Wessel"
+      ],
+      "published": "2026-06-17T15:52:39+00:00",
+      "first_seen": "2026-06-18T11:40:53.472511",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.SE",
+        "cs.HC"
+      ]
+    },
+    "2606.19108": {
+      "arxiv_id": "2606.19108",
+      "title": "JourneyFormer: Encoding Airbnb Guest Journey with Sequence Modeling",
+      "authors": [
+        "Daochen Zha",
+        "Chun How Tan",
+        "Xin Liu",
+        "Bin Xu",
+        "Han Zhao",
+        "Xiaowei Liu",
+        "Tracy Yu",
+        "Hui Gao",
+        "Huiji Gao",
+        "Liwei He",
+        "Stephanie Moyerman",
+        "Sanjeev Katariya"
+      ],
+      "published": "2026-06-17T14:22:18+00:00",
+      "first_seen": "2026-06-18T11:40:53.472517",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.19092": {
+      "arxiv_id": "2606.19092",
+      "title": "Context-Aware Optimization of Follow-Up Intervals for Type 2 Diabetes Care Using Markov Decision Processes",
+      "authors": [
+        "Parisa Lotfibagha",
+        "Kristen Miller",
+        "William J. Gallagher",
+        "Elizabeth B. Selden",
+        "Muge Capan"
+      ],
+      "published": "2026-06-17T14:00:42+00:00",
+      "first_seen": "2026-06-18T11:40:53.472523",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.AP",
+        "cs.LG"
+      ]
+    },
+    "2606.18897": {
+      "arxiv_id": "2606.18897",
+      "title": "SAERec: Constructing Fine-grained Interpretable Intents Priors via Sparse Autoencoders for Recommendation",
+      "authors": [
+        "Jiangnan Xia",
+        "Xuansheng Wu",
+        "Yu Yang",
+        "Xin Wang",
+        "Ninghao Liu"
+      ],
+      "published": "2026-06-17T10:17:04+00:00",
+      "first_seen": "2026-06-18T11:40:53.472530",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2606.18814": {
+      "arxiv_id": "2606.18814",
+      "title": "LensKit-Auto",
+      "authors": [
+        "Max Breit",
+        "Anass Amezian El Idrissi",
+        "Rishikesh Giriraj Kulkarni",
+        "Luca Quade"
+      ],
+      "published": "2026-06-17T08:34:53+00:00",
+      "first_seen": "2026-06-18T11:40:53.472536",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.18774": {
+      "arxiv_id": "2606.18774",
+      "title": "RouteJudge: An Open Platform for Reproducible and Preference-Aware LLM Routing",
+      "authors": [
+        "Guannan Lai",
+        "Haoran Hu",
+        "Han-Jia Ye"
+      ],
+      "published": "2026-06-17T07:35:10+00:00",
+      "first_seen": "2026-06-18T11:40:53.472542",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.18773": {
+      "arxiv_id": "2606.18773",
+      "title": "Private Learning with Public Feature Conditioning",
+      "authors": [
+        "Shuli Jiang",
+        "Walid Krichene",
+        "Nicolas Mayoraz"
+      ],
+      "published": "2026-06-17T07:34:53+00:00",
+      "first_seen": "2026-06-18T11:40:53.472547",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.18750": {
+      "arxiv_id": "2606.18750",
+      "title": "Ensuring Trustworthy Online A/B Testing: Addressing Five Key Questions on CUPED",
+      "authors": [
+        "Yu Zhang",
+        "Bokui Wan",
+        "Yongli Qin",
+        "Jinyong Ma",
+        "Yifan Guo"
+      ],
+      "published": "2026-06-17T06:53:03+00:00",
+      "first_seen": "2026-06-18T11:40:53.472552",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.AP",
+        "cs.LG"
+      ]
+    },
+    "2606.18530": {
+      "arxiv_id": "2606.18530",
+      "title": "Evaluating Prompting-Based Defenses Against Domain-Camouflaged Injection Attacks",
+      "authors": [
+        "Aaditya Pai"
+      ],
+      "published": "2026-06-16T22:51:02+00:00",
+      "first_seen": "2026-06-18T11:40:53.472557",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CR",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2606.18479": {
+      "arxiv_id": "2606.18479",
+      "title": "The Illusion of Improvement: Reject Inference Strategies in Credit Scoring",
+      "authors": [
+        "Bruno Scarone",
+        "Ricardo Baeza-Yates"
+      ],
+      "published": "2026-06-16T20:43:43+00:00",
+      "first_seen": "2026-06-18T11:40:53.472563",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CY"
+      ]
+    },
+    "2606.18451": {
+      "arxiv_id": "2606.18451",
+      "title": "A Cross-Model VLM-Judge Protocol for Single-Image 3D Mesh Quality (and Why Cheap Proxies Fall Short)",
+      "authors": [
+        "Ali Asaria",
+        "Tony Salomone",
+        "Deep Gandhi"
+      ],
+      "published": "2026-06-16T20:00:12+00:00",
+      "first_seen": "2026-06-18T11:40:53.472568",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.19057": {
+      "arxiv_id": "2606.19057",
+      "title": "Quantifying and Auditing LLM Evaluation via Positive--Unlabeled Learning",
+      "authors": [
+        "Zilong Zhang",
+        "Yi-Ting Hung",
+        "Lei Ding",
+        "Chi-Kuang Yeh"
+      ],
+      "published": "2026-06-17T13:26:04+00:00",
+      "first_seen": "2026-06-18T11:40:59.486939",
+      "topic": "Implicit Feedback",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "stat.CO",
         "stat.ME"
       ]
     }

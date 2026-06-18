@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-17 | [Quantifying and Auditing LLM Evaluation via Positive--Unlabeled Learning](https://arxiv.org/abs/2606.19057) | Large Language Models (LLMs) are increasingly used as judges for scalable evaluation, yet such LLM--as--a--Judge systems exhibit systematic biases that are decoupled from semantic quality, most... |
 | 2026-05-29 | [From Local Geometry to Global Pseudo Labeling for Robust Positive Unlabeled Learning under Covariate Shift](https://arxiv.org/abs/2605.31187) | Detecting covariate shift is critical for building reliable vision systems. |
 | 2026-05-19 | [SAGE: Scalable Automatic Gating Ensemble for Confident Negative Harvesting in Fraud Detection](https://arxiv.org/abs/2605.20157) | Music streaming fraud, where bad actors artificially inflate stream counts to manipulate chart rankings and royalty payments, poses a significant threat to streaming services and legitimate content... |
 | 2026-05-19 | [Take It or Leave It: Intent-Controlled Partial Optimal Transport](https://arxiv.org/abs/2605.20030) | While optimal transport (OT) enforces a rigid constraint by requiring two measures to be matched exactly, partial optimal transport relaxes this requirement by allowing mass to remain unmatched... |
