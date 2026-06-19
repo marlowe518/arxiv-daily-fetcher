@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-18 | [From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning](https://arxiv.org/abs/2606.20553) | Federated learning (FL) enables multiple parties to collaboratively fine-tune language models for domain-specific tasks without sharing raw data. |
-| 2026-06-18 | [Quantum ring all-reduce: communication and privacy advantages for distributed learning](https://arxiv.org/abs/2606.20344) | Machine learning models have scaled to unprecedented sizes, making training across distributed devices the de facto standard in the field. |
-| 2026-06-17 | [Variational Consensus Monte Carlo for Bayesian Mixture](https://arxiv.org/abs/2606.19643) | Motivated by the privacy, sensitivity and sharing limitations of health data, we present a comprehensive pipeline for inference of Bayesian mixture models within a federated learning setting, i.e. |
 | 2026-06-16 | [From Specification to Execution: AI Assisted Scientific Workflow Management](https://arxiv.org/abs/2606.18425) | Scientific workflow management systems (WMS) support scalable and reproducible execution of complex pipelines, but workflow design, implementation, and debugging remain largely manual and require... |
 | 2026-06-16 | [SCOPE-FL: A Strategy-proof Chain-based Optimal pareto efficient Federated Learning System](https://arxiv.org/abs/2606.18384) | Hierarchical Federated Learning (HFL) enables scalable collaborative model training across distributed devices while preserving data privacy. |
 | 2026-06-16 | [C2FL: Clustered Continual Federated Learning under Spatial and Temporal Drift](https://arxiv.org/abs/2606.18003) | Collective Adaptive Systems (CAS) increasingly rely on machine learning to let each node learn from locally sensed data, aligning its behavior with the surrounding environment. |

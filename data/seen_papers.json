@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-18T11:40:59.491326",
+  "last_updated": "2026-06-19T11:56:21.835451",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -36792,6 +36792,428 @@
         "cs.LG",
         "stat.CO",
         "stat.ME"
+      ]
+    },
+    "2606.20554": {
+      "arxiv_id": "2606.20554",
+      "title": "Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation",
+      "authors": [
+        "Ruizhong Qiu",
+        "Yinglong Xia",
+        "Dongqi Fu",
+        "Hanqing Zeng",
+        "Ren Chen",
+        "Xiangjun Fan",
+        "Hong Li",
+        "Hong Yan",
+        "Hanghang Tong"
+      ],
+      "published": "2026-06-18T17:58:32+00:00",
+      "first_seen": "2026-06-19T11:55:57.883643",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2606.20437": {
+      "arxiv_id": "2606.20437",
+      "title": "HEPTv2: End-to-End Efficient Point Transformer for Charged Particle Reconstruction",
+      "authors": [
+        "Siqi Miao",
+        "Shitij Govil",
+        "Jack P. Rodgers",
+        "Mia Liu",
+        "Javier Duarte",
+        "Shih-Chieh Hsu",
+        "Yuan-Tang Chou",
+        "Pan Li"
+      ],
+      "published": "2026-06-18T16:18:10+00:00",
+      "first_seen": "2026-06-19T11:55:57.883656",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "hep-ex",
+        "cs.LG"
+      ]
+    },
+    "2606.20382": {
+      "arxiv_id": "2606.20382",
+      "title": "Towards Modality-imbalanced Federated Graph Learning: A Data Synthesis-based Approach",
+      "authors": [
+        "Zhengyu Wu",
+        "Hongchao Qin",
+        "Xunkai Li",
+        "Zekai Chen",
+        "Rong-Hua Li",
+        "Guoren Wang"
+      ],
+      "published": "2026-06-18T15:40:55+00:00",
+      "first_seen": "2026-06-19T11:55:57.883664",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.20283": {
+      "arxiv_id": "2606.20283",
+      "title": "Boundary Embedding Shaping with Adaptive Contrastive Learning for Graph Structural Disentanglement",
+      "authors": [
+        "Jiaqing Chen",
+        "Zidu Yin",
+        "Yichao Cai",
+        "Yuhang Liu",
+        "Zhen Zhang",
+        "Dong Gong",
+        "Javen Qinfeng Shi"
+      ],
+      "published": "2026-06-18T14:28:10+00:00",
+      "first_seen": "2026-06-19T11:55:57.883670",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.19956": {
+      "arxiv_id": "2606.19956",
+      "title": "Towards Graph-Based Deep Learning for Map Generalization: Insights from Building Footprints Simplification and Aggregation",
+      "authors": [
+        "Yanning Wang",
+        "Zhiyong Zhou",
+        "Zhouyu Liu",
+        "Mengni Yu",
+        "Yu Feng"
+      ],
+      "published": "2026-06-18T08:55:17+00:00",
+      "first_seen": "2026-06-19T11:55:57.883677",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.19825": {
+      "arxiv_id": "2606.19825",
+      "title": "Enhancing Graph Neural Networks Using Proximity Graphs for Dust Source Emission Forecasting",
+      "authors": [
+        "Maryam Sanisales",
+        "Zahed Rahmati",
+        "Ali Darvishi Boloorani",
+        "Ali Vefghi"
+      ],
+      "published": "2026-06-18T06:05:08+00:00",
+      "first_seen": "2026-06-19T11:55:57.883683",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.19623": {
+      "arxiv_id": "2606.19623",
+      "title": "SEAGAN: domain-Specific and Edge-Aware Graph Attention Network for Dynamic Plant Processes",
+      "authors": [
+        "Antriksh Srivastava",
+        "Soumyashree Kar"
+      ],
+      "published": "2026-06-17T22:04:24+00:00",
+      "first_seen": "2026-06-19T11:55:57.883689",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.19566": {
+      "arxiv_id": "2606.19566",
+      "title": "GDGU: A Gradient Difference-based Graph Unlearning Method for Cyberattack Localization in Electric Vehicle Charging Networks",
+      "authors": [
+        "Nanhong Liu",
+        "Mucun Sun",
+        "Jie Zhang"
+      ],
+      "published": "2026-06-17T20:09:16+00:00",
+      "first_seen": "2026-06-19T11:55:57.883700",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SY",
+        "cs.AI"
+      ]
+    },
+    "2606.20546": {
+      "arxiv_id": "2606.20546",
+      "title": "Predictability as a Fine-Grained Measure for Privacy",
+      "authors": [
+        "Linda Lu",
+        "Karthik Sridharan"
+      ],
+      "published": "2026-06-18T17:55:31+00:00",
+      "first_seen": "2026-06-19T11:56:06.655635",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.19859": {
+      "arxiv_id": "2606.19859",
+      "title": "Doeblin Curves",
+      "authors": [
+        "Dongmin Lee",
+        "William Lu",
+        "Anuran Makur",
+        "Japneet Singh"
+      ],
+      "published": "2026-06-18T07:11:43+00:00",
+      "first_seen": "2026-06-19T11:56:06.655647",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.IT",
+        "cs.LG",
+        "math.PR",
+        "math.ST"
+      ]
+    },
+    "2606.20553": {
+      "arxiv_id": "2606.20553",
+      "title": "From Efficiency to Leakage -- Privacy Backdoor in Federated Language Model Fine-Tuning",
+      "authors": [
+        "Shanghao Shi",
+        "Chaoyu Zhang",
+        "Heng Jin",
+        "Yang Xiao",
+        "Yevgeniy Vorobeychik",
+        "William Yeoh",
+        "Ning Zhang",
+        "Y. Thomas Hou",
+        "Wenjing Lou"
+      ],
+      "published": "2026-06-18T17:58:25+00:00",
+      "first_seen": "2026-06-19T11:56:12.673426",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2606.20344": {
+      "arxiv_id": "2606.20344",
+      "title": "Quantum ring all-reduce: communication and privacy advantages for distributed learning",
+      "authors": [
+        "María Gragera Garcés",
+        "Lirandë Pira"
+      ],
+      "published": "2026-06-18T15:13:55+00:00",
+      "first_seen": "2026-06-19T11:56:12.673437",
+      "topic": "Federated Learning",
+      "categories": [
+        "quant-ph",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2606.19643": {
+      "arxiv_id": "2606.19643",
+      "title": "Variational Consensus Monte Carlo for Bayesian Mixture",
+      "authors": [
+        "Julie Fendler",
+        "Francesca L. Crowe",
+        "Tom Marshall",
+        "Sylvia Richardson",
+        "Paul D. W. Kirk"
+      ],
+      "published": "2026-06-17T22:48:43+00:00",
+      "first_seen": "2026-06-19T11:56:12.673445",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2606.20065": {
+      "arxiv_id": "2606.20065",
+      "title": "Generative Engine Optimization at Scale: Measuring Brand Visibility Across AI Search Engines",
+      "authors": [
+        "Pratyush Kumar"
+      ],
+      "published": "2026-06-18T10:36:13+00:00",
+      "first_seen": "2026-06-19T11:56:15.592071",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CL",
+        "cs.CY"
+      ]
+    },
+    "2606.20062": {
+      "arxiv_id": "2606.20062",
+      "title": "Optimal Coarse Correlated Equilibria in Mean Field Games: Linear Programming and No-Regret Learning",
+      "authors": [
+        "Luciano Campi",
+        "Federico Cannerozzi",
+        "Ioannis Tzouanas"
+      ],
+      "published": "2026-06-18T10:35:01+00:00",
+      "first_seen": "2026-06-19T11:56:15.592082",
+      "topic": "Recommender Systems",
+      "categories": [
+        "math.OC",
+        "cs.LG",
+        "math.PR"
+      ]
+    },
+    "2606.19690": {
+      "arxiv_id": "2606.19690",
+      "title": "Multi-Granular Attention-Driven Reinforcement Learning Framework for Web Intelligent Enhancement Systems",
+      "authors": [
+        "Navin Chhibber",
+        "Deepak Singh",
+        "Anokh Kishore",
+        "Nikita Chawla",
+        "K. Anguraj"
+      ],
+      "published": "2026-06-18T01:38:10+00:00",
+      "first_seen": "2026-06-19T11:56:15.592088",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.19658": {
+      "arxiv_id": "2606.19658",
+      "title": "Denoising Implicit Feedback for Cold-start Recommendation",
+      "authors": [
+        "Gaode Chen",
+        "Shicheng Wang",
+        "Shikun Li",
+        "Rui Huang",
+        "Xinghua Zhang",
+        "Yunze Luo",
+        "Shipeng Li",
+        "Shiming Ge",
+        "Ruina Sun",
+        "Yinjie Jiang",
+        "Jun Zhang"
+      ],
+      "published": "2026-06-17T23:50:45+00:00",
+      "first_seen": "2026-06-19T11:56:15.592095",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR",
+        "cs.MM"
+      ]
+    },
+    "2606.19635": {
+      "arxiv_id": "2606.19635",
+      "title": "Token Factory: Efficiently Integrating Diverse Signals into Large Recommendation Models",
+      "authors": [
+        "Xilun Chen",
+        "Shao-Chuan Wang",
+        "Baykal Cakici",
+        "Lukasz Heldt",
+        "Lichan Hong",
+        "Raghu Keshavan",
+        "Aniruddh Nath",
+        "Li Wei",
+        "Xinyang Xi"
+      ],
+      "published": "2026-06-17T22:27:36+00:00",
+      "first_seen": "2026-06-19T11:56:15.592100",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2606.19627": {
+      "arxiv_id": "2606.19627",
+      "title": "VCG: A Multimodal Retrieval Framework for E-Commerce Video Feeds under Extreme Cold-Start Conditions",
+      "authors": [
+        "Katya Mirylenka",
+        "Egor Malykh",
+        "Mahdyar Ravanbakhsh",
+        "Michael Gygli",
+        "Marco-Andrea Buchmann",
+        "Andrew Dzhoha",
+        "Svitlana Borzenko",
+        "Francesca Catino",
+        "Mohamed Gaafar",
+        "Maarten Versteegh",
+        "Thomas Kober",
+        "Dario d'Andrea",
+        "Ellie Langhans"
+      ],
+      "published": "2026-06-17T22:08:31+00:00",
+      "first_seen": "2026-06-19T11:56:15.592106",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2606.19624": {
+      "arxiv_id": "2606.19624",
+      "title": "MassSpecGym in the Wild: Uncovering and Correcting Evaluation Pitfalls in AI-Driven Molecule Discovery",
+      "authors": [
+        "Hongxuan Liu",
+        "Roman Bushuiev",
+        "Ivy Lightheart",
+        "Mrunali Manjrekar",
+        "Anton Bushuiev",
+        "Magdalena Lederbauer",
+        "Filip Jozefov",
+        "Yinkai Wang",
+        "Soha Hassoun",
+        "Josef Sivic",
+        "James Taylor",
+        "Runzhong Wang",
+        "David Healey",
+        "Tomáš Pluskal",
+        "Connor W. Coley"
+      ],
+      "published": "2026-06-17T22:05:38+00:00",
+      "first_seen": "2026-06-19T11:56:15.592112",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.19501": {
+      "arxiv_id": "2606.19501",
+      "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+      "authors": [
+        "Aijie Shu",
+        "Bowei Chen",
+        "Wenbin Wu",
+        "Cathy Yi-Hsuan Chen",
+        "Fengxiang He"
+      ],
+      "published": "2026-06-17T18:40:08+00:00",
+      "first_seen": "2026-06-19T11:56:15.592117",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "q-fin.RM"
+      ]
+    },
+    "2606.20482": {
+      "arxiv_id": "2606.20482",
+      "title": "Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users",
+      "authors": [
+        "Haw-Shiuan Chang",
+        "Jeffrey Gomez",
+        "Mehul Patwari",
+        "Aryan Sajith",
+        "Hamed Zamani"
+      ],
+      "published": "2026-06-18T17:00:48+00:00",
+      "first_seen": "2026-06-19T11:56:21.830821",
+      "topic": "Implicit Feedback",
+      "categories": [
+        "cs.CL",
+        "cs.HC",
+        "cs.LG"
       ]
     }
   }

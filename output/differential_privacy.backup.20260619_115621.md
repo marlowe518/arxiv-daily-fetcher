@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-18 | [Predictability as a Fine-Grained Measure for Privacy](https://arxiv.org/abs/2606.20546) | Differential privacy (DP) ensures rigorous individual-level privacy guarantees against even the most knowledgeable attackers, but its worst-case nature can impose a costly privacy-accuracy tradeoff. |
-| 2026-06-18 | [Doeblin Curves](https://arxiv.org/abs/2606.19859) | Recent research on Doeblin coefficients has shed light on their usefulness as a multi-way generalization of the Dobrushin contraction coefficient for TV distance, in a separate vein from their... |
 | 2026-06-16 | [TIGER: Inverting Transformer Gradients via Embedding-Subspace Distance Optimization](https://arxiv.org/abs/2606.18312) | Federated learning allows multiple clients to jointly train a shared model by sending gradient updates to a central server while keeping raw inputs local. |
 | 2026-06-16 | [Differential Privacy of Gaussian Process Posterior Sampling](https://arxiv.org/abs/2606.17995) | We study the privacy of releasing posterior sample paths from a Gaussian process (GP) when the entire training set including covariates and responses is private. |
 | 2026-06-15 | [Loss Landscape Poisoning: Targeted Extraction of Unseen Training Data from LLMs](https://arxiv.org/abs/2606.17110) | Large Language Models are increasingly trained on proprietary or sensitive data, from private healthcare and financial records to user conversations containing secrets. |
