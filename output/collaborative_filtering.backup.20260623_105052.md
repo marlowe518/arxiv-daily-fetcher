@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-18 | [Detecting Satellites in Radio-Frequency Data via Semi-Supervised Learning](https://arxiv.org/abs/2606.20976) | Radio-frequency (RF) monitoring is essential for space domain awareness, but it often generates large, variable, and sparsely populated datasets with few labels. |
 | 2026-06-16 | [A Bayesian Boolean Matrix Factorization with Application to Copy Number Analysis in Cancer](https://arxiv.org/abs/2606.17491) | Binary data factorization is common, but real-valued methods ignore discreteness and yield hard-to-interpret factors. |
 | 2026-06-12 | [Compressed Computation is (probably) not Computation in Superposition](https://arxiv.org/abs/2606.14673) | We study whether the Compressed Computation (CC) toy model (Braun et al., 2025) is an instance of computation in superposition. |
 | 2026-06-04 | [Non-Negative Matrix Factorization for Event Data](https://arxiv.org/abs/2606.06205) | Continuous-time event data, in which entities emit instantaneous events over time, arises naturally across many domains such as neuroscience, seismology, and social networks. |
