@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-23 | [Natural Identifiers for Privacy and Data Audits in Large Language Models](https://arxiv.org/abs/2606.24408) | Assessing the privacy of large language models (LLMs) presents significant challenges. |
 | 2026-06-22 | [SelPE: Progressive Selection for Private Structured Text Synthesis](https://arxiv.org/abs/2606.22817) | Many data-driven applications rely on structured textual records, such as clinical triage notes and financial transaction logs, for downstream learning and decision-making. |
 | 2026-06-20 | [$π$-RAG: Oblivious Retrieval via Semantic Quantization and Transcendental Addressing for Large Language Models](https://arxiv.org/abs/2606.22153) | This paper introduces $π$-RAG, a novel architecture for oblivious retrieval that decouples Large Language Models (LLMs) from sensitive data storage without sacrificing semantic understanding. |
 | 2026-06-19 | [AdaPrivate-TS: Private Thompson Sampling for Contextual Bandits with Privacy Amplification](https://arxiv.org/abs/2606.21757) | We present AdaPrivate-TS, a differentially private contextual bandit algorithm that combines Thompson Sampling with batched zCDP composition. |

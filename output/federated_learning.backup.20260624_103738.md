@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-23 | [Semi-asynchronous Federated Learning in Flower: Framework Extension and Performance Assessment](https://arxiv.org/abs/2606.24230) | This paper presents an extension of the Flower federated learning framework to support Semi-Asynchronous Federated Learning. |
-| 2026-06-22 | [Federated Survival Analysis in Healthcare: A Multi-Model Evaluation on Cross-Institutional Heterogeneous Breast Cancer Data](https://arxiv.org/abs/2606.23871) | Survival analysis is central to clinical decision-making, yet reliable time-to-event models require large, diverse cohorts that are rarely available at a single institution, while privacy regulations... |
-| 2026-06-21 | [A Survey on Federated Causal Discovery and Inference](https://arxiv.org/abs/2606.23741) | Causal reasoning, which encompasses the discovery of causal structures and the inference of causal effects, is fundamental to data-driven decision making. |
 | 2026-06-22 | [Development and Design of FLKit: A Structured Onboarding Toolkit for Federated Learning in Health and Life Sciences](https://arxiv.org/abs/2606.23500) | Federated learning lets institutions train shared models without moving their data, which makes it a natural fit for health and life sciences research under strict privacy regulation. |
 | 2026-06-22 | [Unlocking In-Context Learning in Audio-Language Models from Decentralized Medical Audio](https://arxiv.org/abs/2606.23243) | Clinical audio diagnosis in low-resource settings requires models that identify conditions from minimal examples without large annotated corpora. |
 | 2026-06-22 | [FLFL: Federated Latent Factor Learning for Private Recovery of Spatio-Temporal Signals](https://arxiv.org/abs/2606.23091) | Wireless sensor network (WSNs) stands out as a burgeoning and promising domain in intelligent sensing. |

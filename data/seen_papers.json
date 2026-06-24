@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-23T10:50:52.943831",
+  "last_updated": "2026-06-24T10:37:38.154814",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -38186,6 +38186,195 @@
       "published": "2026-06-18T22:54:44+00:00",
       "first_seen": "2026-06-23T10:50:49.895478",
       "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.24509": {
+      "arxiv_id": "2606.24509",
+      "title": "A Fair Evaluation of Graph Foundation Models for Node Property Prediction",
+      "authors": [
+        "Oleg Platonov",
+        "Gleb Bazhenov",
+        "Dmitry Eremeev",
+        "Liudmila Prokhorenkova"
+      ],
+      "published": "2026-06-23T12:41:43+00:00",
+      "first_seen": "2026-06-24T10:37:14.365880",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.SI"
+      ]
+    },
+    "2606.24237": {
+      "arxiv_id": "2606.24237",
+      "title": "Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach",
+      "authors": [
+        "Lianshuai Guo",
+        "Zhongzheng Yuan",
+        "Xunkai Li",
+        "Meixia Qu",
+        "Wenyu Wang"
+      ],
+      "published": "2026-06-23T07:25:40+00:00",
+      "first_seen": "2026-06-24T10:37:14.365893",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2606.23833": {
+      "arxiv_id": "2606.23833",
+      "title": "Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America",
+      "authors": [
+        "Lukas Arzoumanidis",
+        "Lara Johannsen",
+        "Klara Middendorf",
+        "Annette Eicker",
+        "Youness Dehbi"
+      ],
+      "published": "2026-06-22T18:15:58+00:00",
+      "first_seen": "2026-06-24T10:37:14.365900",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.23856": {
+      "arxiv_id": "2606.23856",
+      "title": "Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning",
+      "authors": [
+        "Konstantin Yatsenko",
+        "Arvind Thiagarajan"
+      ],
+      "published": "2026-06-22T18:48:10+00:00",
+      "first_seen": "2026-06-24T10:37:17.237213",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.24408": {
+      "arxiv_id": "2606.24408",
+      "title": "Natural Identifiers for Privacy and Data Audits in Large Language Models",
+      "authors": [
+        "Lorenzo Rossi",
+        "Bartłomiej Marek",
+        "Franziska Boenisch",
+        "Adam Dziedzic"
+      ],
+      "published": "2026-06-23T10:45:11+00:00",
+      "first_seen": "2026-06-24T10:37:23.219728",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.24230": {
+      "arxiv_id": "2606.24230",
+      "title": "Semi-asynchronous Federated Learning in Flower: Framework Extension and Performance Assessment",
+      "authors": [
+        "Víctor Hidalgo-Izquierdo",
+        "Carmen Carrión",
+        "Blanca Caminero"
+      ],
+      "published": "2026-06-23T07:19:43+00:00",
+      "first_seen": "2026-06-24T10:37:29.245368",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC"
+      ]
+    },
+    "2606.23871": {
+      "arxiv_id": "2606.23871",
+      "title": "Federated Survival Analysis in Healthcare: A Multi-Model Evaluation on Cross-Institutional Heterogeneous Breast Cancer Data",
+      "authors": [
+        "Natalia Moreno-Blasco",
+        "Anusha Ihalapathirana",
+        "Pekka Siirtola",
+        "Miguel Fernandez-de-Retana"
+      ],
+      "published": "2026-06-22T19:14:51+00:00",
+      "first_seen": "2026-06-24T10:37:29.245380",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "q-bio.QM",
+        "stat.ME",
+        "stat.ML"
+      ]
+    },
+    "2606.23741": {
+      "arxiv_id": "2606.23741",
+      "title": "A Survey on Federated Causal Discovery and Inference",
+      "authors": [
+        "Xianjie Guo",
+        "Yuwei Wang",
+        "Guodu Xiang",
+        "Xiaoli Tang",
+        "Kui Yu",
+        "Han Yu",
+        "Qiang Yang"
+      ],
+      "published": "2026-06-21T15:44:39+00:00",
+      "first_seen": "2026-06-24T10:37:29.245390",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2606.24194": {
+      "arxiv_id": "2606.24194",
+      "title": "Dialogue to Discovery: Attribute-Aware Preference Elicitation for Conversational Product Search Assistants",
+      "authors": [
+        "Sarthak Harne",
+        "Natwar Modani",
+        "Debabrata Mahapatra",
+        "Shubham Agarwal"
+      ],
+      "published": "2026-06-23T06:30:31+00:00",
+      "first_seen": "2026-06-24T10:37:32.252532",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CL",
+        "cs.HC"
+      ]
+    },
+    "2606.24104": {
+      "arxiv_id": "2606.24104",
+      "title": "The impact of generative artificial intelligence on academic development of Chinese students in humanities and social sciences",
+      "authors": [
+        "Lei Fan",
+        "Fangxue Liu"
+      ],
+      "published": "2026-06-23T03:35:30+00:00",
+      "first_seen": "2026-06-24T10:37:32.252544",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ]
+    },
+    "2606.23978": {
+      "arxiv_id": "2606.23978",
+      "title": "Offline Reinforcement Learning for Warehouse SLAM Throughput Control",
+      "authors": [
+        "Tina Dongxu Li",
+        "Mouhacine Benosman",
+        "Rajat Kumar",
+        "Kevin Tan",
+        "Ken Meszaros",
+        "Trevor Dardik"
+      ],
+      "published": "2026-06-22T22:10:06+00:00",
+      "first_seen": "2026-06-24T10:37:32.252552",
+      "topic": "Recommender Systems",
       "categories": [
         "cs.LG",
         "cs.AI"

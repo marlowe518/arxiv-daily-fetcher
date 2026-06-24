@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-23 | [A Fair Evaluation of Graph Foundation Models for Node Property Prediction](https://arxiv.org/abs/2606.24509) | Due to the wide use of graph-structured data in different fields of industry and science, the development of Graph Foundation Models (GFMs) has recently attracted a lot of attention. |
-| 2026-06-23 | [Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach](https://arxiv.org/abs/2606.24237) | Federated Graph Learning facilitates collaborative graph modeling across distributed clients while preserving data privacy. |
-| 2026-06-22 | [Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America](https://arxiv.org/abs/2606.23833) | Terrestrial water storage (TWS) integrates snow, soil moisture, surface water, and groundwater and is a key indicator of how climate variability and human activity reshape the global water cycle. |
 | 2026-06-22 | [MORL-A2C: Multi-Objective Reinforcement Learning Reranker for Optimizing Healthiness in MOPI-HFRS](https://arxiv.org/abs/2606.23603) | Unhealthy dietary behavior continues to be a persistent public health issue in the United States, exacerbated by recommendation systems that prioritize user preference without considering nutritional... |
 | 2026-06-22 | [A Spectral Theory of Normalized Corrected GNN Propagation](https://arxiv.org/abs/2606.23572) | We develop a spectral theory for \emph{normalized corrected GNN propagation}. |
 | 2026-06-22 | [SuperCond-GNN: Scalable Graph Neural Network Surrogate for Superconducting Circuit Simulations](https://arxiv.org/abs/2606.23548) | This paper presents SuperCond-GNN, a graph neural network-based surrogate model for predicting the voltage distribution in high-temperature superconducting (HTS) magnets. |
