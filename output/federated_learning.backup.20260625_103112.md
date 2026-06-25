@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-24 | [FedReLa: Imbalanced Federated Learning via Re-Labeling](https://arxiv.org/abs/2606.26037) | Federated learning has emerged as the foremost approach for decentralized model training with privacy preservation. |
-| 2026-06-24 | [Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks](https://arxiv.org/abs/2606.25858) | Federated learning is vulnerable to backdoor attacks in which malicious clients inject poisoned updates while preserving benign-task performance. |
-| 2026-06-24 | [NEURON-Fabric: Architecture-Runtime Co-Design for Controlled Low-Bit Gradient Communication](https://arxiv.org/abs/2606.25759) | Large-scale neural-network training repeatedly aggregates gradients across devices, making communication a central cost in distributed learning. |
-| 2026-06-24 | [TL++: Accuracy and Privacy Preserving Traversal Learning for Distributed Intelligent Systems](https://arxiv.org/abs/2606.25627) | Distributed intelligent systems increasingly need to train across data silos without centralizing raw data. |
 | 2026-06-23 | [Semi-asynchronous Federated Learning in Flower: Framework Extension and Performance Assessment](https://arxiv.org/abs/2606.24230) | This paper presents an extension of the Flower federated learning framework to support Semi-Asynchronous Federated Learning. |
 | 2026-06-22 | [Federated Survival Analysis in Healthcare: A Multi-Model Evaluation on Cross-Institutional Heterogeneous Breast Cancer Data](https://arxiv.org/abs/2606.23871) | Survival analysis is central to clinical decision-making, yet reliable time-to-event models require large, diverse cohorts that are rarely available at a single institution, while privacy regulations... |
 | 2026-06-21 | [A Survey on Federated Causal Discovery and Inference](https://arxiv.org/abs/2606.23741) | Causal reasoning, which encompasses the discovery of causal structures and the inference of causal effects, is fundamental to data-driven decision making. |

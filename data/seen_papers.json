@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-24T10:37:38.154814",
+  "last_updated": "2026-06-25T10:31:12.468493",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -38378,6 +38378,348 @@
       "categories": [
         "cs.LG",
         "cs.AI"
+      ]
+    },
+    "2606.25956": {
+      "arxiv_id": "2606.25956",
+      "title": "Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need",
+      "authors": [
+        "Nathan Painchaud",
+        "Tristan Habémont",
+        "Morgane des Ligneris",
+        "Allan Serva",
+        "Pierre Croisille",
+        "Laurent Bertoletti",
+        "Thomas Lampert",
+        "Johannes F. Lutzeyer",
+        "Odyssée Merveille"
+      ],
+      "published": "2026-06-24T15:28:27+00:00",
+      "first_seen": "2026-06-25T10:30:49.259048",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG",
+        "eess.IV"
+      ]
+    },
+    "2606.25811": {
+      "arxiv_id": "2606.25811",
+      "title": "Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets",
+      "authors": [
+        "Yoonsik Hong",
+        "Diego Klabjan"
+      ],
+      "published": "2026-06-24T13:25:15+00:00",
+      "first_seen": "2026-06-25T10:30:49.259059",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "q-fin.TR",
+        "cs.CE",
+        "cs.LG",
+        "q-fin.PM",
+        "q-fin.PR"
+      ]
+    },
+    "2606.25589": {
+      "arxiv_id": "2606.25589",
+      "title": "Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks",
+      "authors": [
+        "Rupesh Raj Karn",
+        "Johann Knechtel",
+        "Ozgur Sinanoglu"
+      ],
+      "published": "2026-06-24T08:59:28+00:00",
+      "first_seen": "2026-06-25T10:30:49.259067",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2606.24978": {
+      "arxiv_id": "2606.24978",
+      "title": "Auto-Configured Explainable Graph Neural Networks for Multi-Site Pollution Prediction",
+      "authors": [
+        "Abdelkader Dairi",
+        "Fouzi Harrou",
+        "Ying Sun"
+      ],
+      "published": "2026-06-23T12:24:35+00:00",
+      "first_seen": "2026-06-25T10:30:49.259074",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.24956": {
+      "arxiv_id": "2606.24956",
+      "title": "Convex--Concave Quadratic Spectral Filtering for Graph Neural Networks",
+      "authors": [
+        "Ranhui Yan",
+        "Jia Cai",
+        "Mengzhu Chen",
+        "Haodong Yang"
+      ],
+      "published": "2026-06-23T08:49:51+00:00",
+      "first_seen": "2026-06-25T10:30:49.259080",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.25865": {
+      "arxiv_id": "2606.25865",
+      "title": "Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design",
+      "authors": [
+        "Haoyu Lin",
+        "Yiyan Liao",
+        "Jinmei Pan",
+        "Xinliao Ling",
+        "Luhua Lai",
+        "Jianfeng Pei"
+      ],
+      "published": "2026-06-24T14:11:50+00:00",
+      "first_seen": "2026-06-25T10:30:51.624077",
+      "topic": "Graph Generation",
+      "categories": [
+        "q-bio.BM"
+      ]
+    },
+    "2606.26037": {
+      "arxiv_id": "2606.26037",
+      "title": "FedReLa: Imbalanced Federated Learning via Re-Labeling",
+      "authors": [
+        "Guangzheng Hu",
+        "Patricia Menéndez",
+        "Feng Liu",
+        "Mingming Gong",
+        "Guanghui Wang",
+        "Liuhua Peng"
+      ],
+      "published": "2026-06-24T17:13:41+00:00",
+      "first_seen": "2026-06-25T10:31:04.843481",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ML",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2606.25858": {
+      "arxiv_id": "2606.25858",
+      "title": "Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks",
+      "authors": [
+        "Kavindu Herath",
+        "Joshua C. Zhao",
+        "Saurabh Bagchi"
+      ],
+      "published": "2026-06-24T14:07:10+00:00",
+      "first_seen": "2026-06-25T10:31:04.843495",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2606.25759": {
+      "arxiv_id": "2606.25759",
+      "title": "NEURON-Fabric: Architecture-Runtime Co-Design for Controlled Low-Bit Gradient Communication",
+      "authors": [
+        "Ziqiang Wang",
+        "Changcheng Huang",
+        "Chung-Horng Lung"
+      ],
+      "published": "2026-06-24T12:32:55+00:00",
+      "first_seen": "2026-06-25T10:31:04.843503",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC"
+      ]
+    },
+    "2606.25627": {
+      "arxiv_id": "2606.25627",
+      "title": "TL++: Accuracy and Privacy Preserving Traversal Learning for Distributed Intelligent Systems",
+      "authors": [
+        "Erdenebileg Batbaatar",
+        "Young Yoon"
+      ],
+      "published": "2026-06-24T09:34:27+00:00",
+      "first_seen": "2026-06-25T10:31:04.843510",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR",
+        "cs.DC"
+      ]
+    },
+    "2606.25809": {
+      "arxiv_id": "2606.25809",
+      "title": "Designing Trustworthy LLM-based Wellbeing Recommendation through Controllable Interaction",
+      "authors": [
+        "Alan Said",
+        "Alexandra Weilenmann"
+      ],
+      "published": "2026-06-24T13:23:33+00:00",
+      "first_seen": "2026-06-25T10:31:06.525834",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2606.25496": {
+      "arxiv_id": "2606.25496",
+      "title": "Recommendation as Generation: Unifying Personalized Video Generation and Recommendation at Industrial Scale",
+      "authors": [
+        "Yanhua Cheng",
+        "Bo Wang",
+        "Haotian Zhang",
+        "Xinyuan Gao",
+        "Zhihui Yin",
+        "Ben Xue",
+        "Yongzhi Li",
+        "Jieting Xue",
+        "Ye Ma",
+        "Minquan Wang",
+        "Jiahui Li",
+        "Tianyu Xu",
+        "Zhiqiang Liu",
+        "Xiao Lin",
+        "Shiyang Wen",
+        "Changcheng Li",
+        "Liu Liu",
+        "Quan Chen",
+        "Peng Jiang",
+        "Kun Gai"
+      ],
+      "published": "2026-06-24T07:23:20+00:00",
+      "first_seen": "2026-06-25T10:31:06.525846",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.25487": {
+      "arxiv_id": "2606.25487",
+      "title": "How Reliable Is Your Jailbreak Judge? Calibration and Adversarial Robustness of Automated ASR Scoring",
+      "authors": [
+        "Yang Gao"
+      ],
+      "published": "2026-06-24T07:14:17+00:00",
+      "first_seen": "2026-06-25T10:31:06.525852",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2606.25415": {
+      "arxiv_id": "2606.25415",
+      "title": "S2-CAR: Segmentation-Supervised Complexity-Adaptive Recommendation",
+      "authors": [
+        "Linjiang Guo",
+        "Nitin Bisht",
+        "Shiqing Wu",
+        "Xianzhi Wang",
+        "Guandong Xu"
+      ],
+      "published": "2026-06-24T05:24:18+00:00",
+      "first_seen": "2026-06-25T10:31:06.525858",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.25149": {
+      "arxiv_id": "2606.25149",
+      "title": "Proactive Systems in HCI and AI: Concepts, Challenges, and Opportunities",
+      "authors": [
+        "Nima Zargham",
+        "Sharon Ferguson",
+        "Jaisie Sin",
+        "Cosmin Munteanu",
+        "Anastasia Kuzminykh"
+      ],
+      "published": "2026-06-23T20:30:58+00:00",
+      "first_seen": "2026-06-25T10:31:06.525863",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ]
+    },
+    "2606.25147": {
+      "arxiv_id": "2606.25147",
+      "title": "TokenMinds: Pretrained User Tokens and Embeddings for User Understanding in Large Recommender Systems",
+      "authors": [
+        "Qingyun Liu",
+        "Bo Yan",
+        "Yang Liu",
+        "Yuji Roh",
+        "Ekansh Sharma",
+        "Likang Yin",
+        "Emma Olowo",
+        "Min-hsuan Tsai",
+        "Yuxuan Li",
+        "Diego Uribe",
+        "Saksham Aggarwal",
+        "Siqi Wu",
+        "Yuan Hao",
+        "Vikas Kedigehalli",
+        "Lukasz Heldt",
+        "Lichan Hong",
+        "Li Wei",
+        "Xinyang Yi"
+      ],
+      "published": "2026-06-23T20:20:37+00:00",
+      "first_seen": "2026-06-25T10:31:06.525869",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2606.25108": {
+      "arxiv_id": "2606.25108",
+      "title": "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing",
+      "authors": [
+        "Eileanor LaRocco",
+        "Sarah Tan",
+        "Adarsh Subbaswamy",
+        "Anne Andrews",
+        "Andrew Taylor",
+        "Cree Gaskin",
+        "Chirag Agarwal"
+      ],
+      "published": "2026-06-23T19:28:52+00:00",
+      "first_seen": "2026-06-25T10:31:06.525875",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2606.24970": {
+      "arxiv_id": "2606.24970",
+      "title": "Don't Go Breaking My LLM: The Impact of Pruning Attention Layers on Explanation Faithfulness and Confidence Calibration",
+      "authors": [
+        "Pietro Tropeano",
+        "Maria Maistro",
+        "Tuukka Ruotsalo",
+        "Christina Lioma"
+      ],
+      "published": "2026-06-23T11:07:59+00:00",
+      "first_seen": "2026-06-25T10:31:06.525880",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
       ]
     }
   }

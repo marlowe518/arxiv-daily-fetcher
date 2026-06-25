@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-24 | [Pulmonary Embolism Risk Stratification from CTPA and Medical Records: Vascular Graphs Are Not All You Need](https://arxiv.org/abs/2606.25956) | Risk stratification for pulmonary embolism (PE) is critical for clinical decision-making. |
-| 2026-06-24 | [Hierarchical Graph Learning for Calendar Spread Strategies in Commodity Futures Markets](https://arxiv.org/abs/2606.25811) | Commodity futures can be represented hierarchically, with underlying assets at the upper level and individual futures contracts at the lower level. |
-| 2026-06-24 | [Leaking Circuit Secrets: Gradient Leakage Attacks on Graph Neural Networks](https://arxiv.org/abs/2606.25589) | As graph neural networks (GNNs) become standard tools for critical tasks in circuit design and analysis, their security and privacy risks require careful attention. |
-| 2026-06-23 | [Auto-Configured Explainable Graph Neural Networks for Multi-Site Pollution Prediction](https://arxiv.org/abs/2606.24978) | Accurate particulate matter (PM) prediction is crucial for mitigating air pollution. |
-| 2026-06-23 | [Convex--Concave Quadratic Spectral Filtering for Graph Neural Networks](https://arxiv.org/abs/2606.24956) | Spectral graph neural networks (GNNs) interpret message passing as frequency-selective filtering. |
 | 2026-06-23 | [A Fair Evaluation of Graph Foundation Models for Node Property Prediction](https://arxiv.org/abs/2606.24509) | Due to the wide use of graph-structured data in different fields of industry and science, the development of Graph Foundation Models (GFMs) has recently attracted a lot of attention. |
 | 2026-06-23 | [Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach](https://arxiv.org/abs/2606.24237) | Federated Graph Learning facilitates collaborative graph modeling across distributed clients while preserving data privacy. |
 | 2026-06-22 | [Reconstructing GRACE Terrestrial Water Storage with Spatio-Temporal Graph Neural Networks: An Application to South America](https://arxiv.org/abs/2606.23833) | Terrestrial water storage (TWS) integrates snow, soil moisture, surface water, and groundwater and is a key indicator of how climate variability and human activity reshape the global water cycle. |

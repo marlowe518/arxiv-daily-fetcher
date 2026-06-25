@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-24 | [Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design](https://arxiv.org/abs/2606.25865) | Molecular generation is a central challenge in drug discovery, requiring models that explore vast chemical space while satisfying diverse design constraints. |
 | 2026-06-22 | [Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning](https://arxiv.org/abs/2606.23856) | Generative molecular models for drug design are a promising direction with much active research. |
 | 2026-06-10 | [Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework](https://arxiv.org/abs/2606.17077) | Proton dissociation constants (pKa) are critical for functional molecule discovery and molecular modeling. |
 | 2026-06-14 | [Proximal Policy Optimization for Amortized Discrete Sampling](https://arxiv.org/abs/2606.15793) | This paper explores policy gradient algorithms for training stochastic policies to sample from structured discrete probability distributions under the Generative Flow Network (GFlowNet) framework. |
