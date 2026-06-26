@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-25T10:31:12.468493",
+  "last_updated": "2026-06-26T10:40:14.109469",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -38717,6 +38717,438 @@
       ],
       "published": "2026-06-23T11:07:59+00:00",
       "first_seen": "2026-06-25T10:31:06.525880",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.27202": {
+      "arxiv_id": "2606.27202",
+      "title": "Graph Neural Networks Applications Across Domains: All Insights You Need",
+      "authors": [
+        "Abderaouf Bahi"
+      ],
+      "published": "2026-06-25T16:00:11+00:00",
+      "first_seen": "2026-06-26T10:39:50.574376",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.27201": {
+      "arxiv_id": "2606.27201",
+      "title": "Explaining Temporal Graph Neural Networks via Feature-induced Information Flow",
+      "authors": [
+        "Ping Xiong",
+        "Thomas Schnake",
+        "Klaus-Robert Müller",
+        "Shinichi Nakajima"
+      ],
+      "published": "2026-06-25T16:00:11+00:00",
+      "first_seen": "2026-06-26T10:39:50.574389",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.27126": {
+      "arxiv_id": "2606.27126",
+      "title": "Kolmogorov Arnold networks (KAN) for aerodynamic prediction: a comparison with MLPs and GNNs",
+      "authors": [
+        "Miguel Jaraiz",
+        "Fermin Gutierrez",
+        "Pablo Yeste",
+        "Miguel Sánchez-Domínguez",
+        "Eusebio Valero",
+        "Gonzalo Rubio",
+        "Lucas Lacasa"
+      ],
+      "published": "2026-06-25T15:02:04+00:00",
+      "first_seen": "2026-06-26T10:39:50.574397",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "physics.data-an",
+        "physics.flu-dyn"
+      ]
+    },
+    "2606.27014": {
+      "arxiv_id": "2606.27014",
+      "title": "A Generalization Theory for JEPA-Based World Models",
+      "authors": [
+        "Jingyi Cui",
+        "Qi Zhang",
+        "Hongwei Wen",
+        "Yisen Wang"
+      ],
+      "published": "2026-06-25T13:29:20+00:00",
+      "first_seen": "2026-06-26T10:39:50.574404",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.26873": {
+      "arxiv_id": "2606.26873",
+      "title": "Scalable Message-Passing Quantum Graph Neural Networks in the Weisfeiler-Leman Hierarchy",
+      "authors": [
+        "Snehal Raj",
+        "Brian Coyle",
+        "Léo Monbroussou",
+        "André J. Ferreira-Martins",
+        "Renato M. S. Farias",
+        "Elham Kashefi"
+      ],
+      "published": "2026-06-25T10:58:29+00:00",
+      "first_seen": "2026-06-26T10:39:50.574410",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "quant-ph",
+        "cs.LG"
+      ]
+    },
+    "2606.26664": {
+      "arxiv_id": "2606.26664",
+      "title": "TGHE: Template-based Graph Homomorphic Encryption for Privacy-Preserving GNN Inference in Edge-Cloud Systems",
+      "authors": [
+        "Ngoc Bao Anh Le",
+        "Thai T. Vu",
+        "John Le",
+        "Heath Cooper",
+        "Jun Shen"
+      ],
+      "published": "2026-06-25T06:55:06+00:00",
+      "first_seen": "2026-06-26T10:39:50.574417",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2606.26662": {
+      "arxiv_id": "2606.26662",
+      "title": "Zero-Shot Size Transfer for Neural ODEs on Sparse Random Graphs: Graphon Limits and Adjoint Convergence",
+      "authors": [
+        "Mingsong Yan",
+        "Zhida Wang",
+        "Sui Tang"
+      ],
+      "published": "2026-06-25T06:53:20+00:00",
+      "first_seen": "2026-06-26T10:39:50.574423",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "math.DS",
+        "math.NA",
+        "math.OC"
+      ]
+    },
+    "2606.26212": {
+      "arxiv_id": "2606.26212",
+      "title": "A General Framework for Learning Algebraic Properties from Cayley Graphs using Graph Neural Networks",
+      "authors": [
+        "Tal Weissblat"
+      ],
+      "published": "2026-06-24T17:37:16+00:00",
+      "first_seen": "2026-06-26T10:39:50.574435",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "math.GR"
+      ]
+    },
+    "2606.26189": {
+      "arxiv_id": "2606.26189",
+      "title": "Clue-Guided Money Laundering Group Discovery",
+      "authors": [
+        "Boyang Wang",
+        "Jianing Cao"
+      ],
+      "published": "2026-06-24T13:57:22+00:00",
+      "first_seen": "2026-06-26T10:39:50.574442",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.26822": {
+      "arxiv_id": "2606.26822",
+      "title": "Quantization in Federated Learning: Methods, Challenges and Future Directions",
+      "authors": [
+        "Farwa Ikram",
+        "Dipanwita Thakur",
+        "Antonella Guzzo",
+        "Giancarlo Fortino"
+      ],
+      "published": "2026-06-25T10:03:55+00:00",
+      "first_seen": "2026-06-26T10:39:59.142159",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.26772": {
+      "arxiv_id": "2606.26772",
+      "title": "Escaping Iterative Parameter-Space Noise: Differentially Private Learning with a Hypernetwork",
+      "authors": [
+        "Naoki Nishikawa",
+        "Shokichi Takakura",
+        "Satoshi Hasegawa"
+      ],
+      "published": "2026-06-25T08:57:16+00:00",
+      "first_seen": "2026-06-26T10:39:59.142170",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2606.26192": {
+      "arxiv_id": "2606.26192",
+      "title": "Federated Hash Projected Latent Factor Learning",
+      "authors": [
+        "Jialan He"
+      ],
+      "published": "2026-06-24T14:40:09+00:00",
+      "first_seen": "2026-06-26T10:40:05.138639",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2606.27243": {
+      "arxiv_id": "2606.27243",
+      "title": "NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems",
+      "authors": [
+        "Shaohua Liu",
+        "Liang Fang",
+        "Yilong Sun",
+        "Shudong Huang",
+        "Qingsong Luo",
+        "Xiaoyang Chen",
+        "Dongqiang Liu",
+        "Chuangang Ma",
+        "Zhenzhen Chai",
+        "Henghuan Wang",
+        "Shijie Quan",
+        "Changyuan Cui",
+        "Zhangbin Zhu",
+        "Peng Chen",
+        "Wei Xu",
+        "Lei Xiao",
+        "Haijie Gu",
+        "Jie Jiang"
+      ],
+      "published": "2026-06-25T16:30:39+00:00",
+      "first_seen": "2026-06-26T10:40:08.236357",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.SE"
+      ]
+    },
+    "2606.27214": {
+      "arxiv_id": "2606.27214",
+      "title": "TRUST: Item-Calibrated Interval Evidence for Temporal Session-Based Recommendation",
+      "authors": [
+        "Linjiang Guo",
+        "Nitin Bisht",
+        "Shiqing Wu",
+        "Yifan Yin",
+        "Guandong Xu"
+      ],
+      "published": "2026-06-25T16:05:36+00:00",
+      "first_seen": "2026-06-26T10:40:08.236368",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.27058": {
+      "arxiv_id": "2606.27058",
+      "title": "UniFormer: Efficient and Unified Model-Centric Scaling for Industrial Recommendation",
+      "authors": [
+        "Bo Chen",
+        "Jinlong Jiao",
+        "Tijian Hu",
+        "Ruihao Zhang",
+        "Yanzhi Liu",
+        "Chenghou Jin",
+        "Qinglin Jia",
+        "Baixuan He",
+        "Hechang Pan",
+        "Yiwu Liu",
+        "Jian Liang",
+        "Chaoyi Ma",
+        "Ruiming Tang",
+        "Han Li",
+        "Kun Gai"
+      ],
+      "published": "2026-06-25T14:03:28+00:00",
+      "first_seen": "2026-06-26T10:40:08.236375",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.26859": {
+      "arxiv_id": "2606.26859",
+      "title": "AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems",
+      "authors": [
+        "Changxin Lao",
+        "Fei Pan",
+        "Guozhuang Ma",
+        "Han Li",
+        "Huihuang Lin",
+        "Jijun Shi",
+        "Kangzhi Zhao",
+        "Kun Gai",
+        "Mo Zhou",
+        "Qinqin Zhou",
+        "Quan Chen",
+        "Ruochen Yang",
+        "Shifu Bie",
+        "Shuang Yang",
+        "Shuo Yang",
+        "Wenhao Li",
+        "Wentao Xie",
+        "Xiao Lv",
+        "Xuming Wang",
+        "Yijun Wang",
+        "Yiming Chen",
+        "Yusheng Huang",
+        "Zhongyuan Wang",
+        "Zibo Zhao",
+        "Zijie Zhuang",
+        "Baoning Xia",
+        "Chao Liu",
+        "Chaoyi Ma",
+        "Chubo He",
+        "Dawei Cong",
+        "Feng Jiang",
+        "Gang Wang",
+        "Guilin Xia",
+        "Hanwen Xu",
+        "Jiahong Xie",
+        "Jiahui Qiao",
+        "Jian Liang",
+        "Jiangfan Yue",
+        "Jing Wang",
+        "Jinghan Yang",
+        "Jinghui Jia",
+        "Kan Qin",
+        "Lei Wang",
+        "Ming Li",
+        "Peilin Song",
+        "Pengbo Xu",
+        "Qiang Luo",
+        "Ruiming Tang",
+        "Shiyang Liu",
+        "Shuxian Jin",
+        "Tao Wang",
+        "Tao Zhang",
+        "Xiang Gao",
+        "Xianghan Li",
+        "Yingsong Luo",
+        "Yiwen Ning",
+        "Yongcheng Liu",
+        "Yuan Guo",
+        "Zhaojie Liu",
+        "Zhenkai Cui"
+      ],
+      "published": "2026-06-25T10:42:28+00:00",
+      "first_seen": "2026-06-26T10:40:08.236381",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.IR"
+      ]
+    },
+    "2606.26505": {
+      "arxiv_id": "2606.26505",
+      "title": "Same Scrutiny, More Time: Eye Tracking Insights into Reviewing LLM-Labelled Code",
+      "authors": [
+        "Ranim Khojah",
+        "Francisco Gomes de Oliveira Neto",
+        "Mazen Mohamad",
+        "Julian Frattini",
+        "Philipp Leitner"
+      ],
+      "published": "2026-06-25T01:23:05+00:00",
+      "first_seen": "2026-06-26T10:40:08.236387",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.SE",
+        "cs.HC"
+      ]
+    },
+    "2606.26369": {
+      "arxiv_id": "2606.26369",
+      "title": "Scoring Is Not Enough: Addressing Gaps in Utility-fairness Trade-offs for Ranking",
+      "authors": [
+        "Shubham Singh",
+        "Ian A. Kash",
+        "Mesrob I. Ohannessian"
+      ],
+      "published": "2026-06-24T20:36:42+00:00",
+      "first_seen": "2026-06-26T10:40:08.236393",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CY",
+        "cs.LG"
+      ]
+    },
+    "2606.26356": {
+      "arxiv_id": "2606.26356",
+      "title": "Instruction Bleed: Cross-Module Interference in Prompt-Composed Agentic Systems",
+      "authors": [
+        "Ching-Yu Lin",
+        "Yifan Liu"
+      ],
+      "published": "2026-06-24T20:09:28+00:00",
+      "first_seen": "2026-06-26T10:40:08.236399",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR",
+        "cs.MA"
+      ]
+    },
+    "2606.26277": {
+      "arxiv_id": "2606.26277",
+      "title": "From Clicks to Intent: Cross-Platform Session Embeddings with LLM-Distilled Taxonomy for Financial Services Recommendations",
+      "authors": [
+        "Dianjing Fan",
+        "Yao Li",
+        "Kyaw Hpone Myint",
+        "Dwipam Katariya",
+        "Alexandre G. R. Day",
+        "Pranab Mohanty",
+        "Giri Iyengar"
+      ],
+      "published": "2026-06-24T18:18:56+00:00",
+      "first_seen": "2026-06-26T10:40:08.236405",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CE",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2606.26185": {
+      "arxiv_id": "2606.26185",
+      "title": "Necessary but Not Sufficient: Temperature Control and Reproducibility in LLM-as-Judge Safety Evaluations",
+      "authors": [
+        "Hiroki Tamba"
+      ],
+      "published": "2026-06-24T13:24:40+00:00",
+      "first_seen": "2026-06-26T10:40:08.236411",
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG"

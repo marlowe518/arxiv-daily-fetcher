@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-25 | [Quantization in Federated Learning: Methods, Challenges and Future Directions](https://arxiv.org/abs/2606.26822) | Federated Learning (FL) has become a foundational paradigm for privacy-preserving distributed intelligence, yet its scalability remains fundamentally constrained by communication bottlenecks, device... |
-| 2026-06-25 | [Escaping Iterative Parameter-Space Noise: Differentially Private Learning with a Hypernetwork](https://arxiv.org/abs/2606.26772) | Differentially private (DP) training of neural networks is often hindered by the large amount of noise required by gradient-based methods such as DP-SGD, which repeatedly inject high-dimensional... |
 | 2026-06-23 | [Natural Identifiers for Privacy and Data Audits in Large Language Models](https://arxiv.org/abs/2606.24408) | Assessing the privacy of large language models (LLMs) presents significant challenges. |
 | 2026-06-22 | [SelPE: Progressive Selection for Private Structured Text Synthesis](https://arxiv.org/abs/2606.22817) | Many data-driven applications rely on structured textual records, such as clinical triage notes and financial transaction logs, for downstream learning and decision-making. |
 | 2026-06-20 | [$π$-RAG: Oblivious Retrieval via Semantic Quantization and Transcendental Addressing for Large Language Models](https://arxiv.org/abs/2606.22153) | This paper introduces $π$-RAG, a novel architecture for oblivious retrieval that decouples Large Language Models (LLMs) from sensitive data storage without sacrificing semantic understanding. |

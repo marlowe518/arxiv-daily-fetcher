@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-24 | [Federated Hash Projected Latent Factor Learning](https://arxiv.org/abs/2606.26192) | Hash Learning (HL) is an efficient representation learning approach that maps real-valued data into compact binary representations. |
 | 2026-06-24 | [FedReLa: Imbalanced Federated Learning via Re-Labeling](https://arxiv.org/abs/2606.26037) | Federated learning has emerged as the foremost approach for decentralized model training with privacy preservation. |
 | 2026-06-24 | [Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks](https://arxiv.org/abs/2606.25858) | Federated learning is vulnerable to backdoor attacks in which malicious clients inject poisoned updates while preserving benign-task performance. |
 | 2026-06-24 | [NEURON-Fabric: Architecture-Runtime Co-Design for Controlled Low-Bit Gradient Communication](https://arxiv.org/abs/2606.25759) | Large-scale neural-network training repeatedly aggregates gradients across devices, making communication a central cost in distributed learning. |
