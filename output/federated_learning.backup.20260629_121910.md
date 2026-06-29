@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-26 | [Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives](https://arxiv.org/abs/2606.28217) | We propose a framework for reward allocation in fully delegated AI cooperatives where humans are represented by agents that contribute data and participate in model updates under heterogeneous value... |
-| 2026-06-26 | [FoggyTrust: Robust Federated Learning with Hierarchical Trust Networks](https://arxiv.org/abs/2606.27622) | Byzantine-robust federated learning seeks to protect distributed model training from malicious or corrupted clients without requiring access to their private data. |
-| 2026-06-25 | [When the Aggregator Cheats: Data-Free Backdoors in Federated LLM-based QA Systems](https://arxiv.org/abs/2606.27511) | Large Language Model (LLM)-based question-answering (QA) systems are increasingly deployed in sensitive domains such as healthcare, mental health counseling, and legal consultation. |
 | 2026-06-24 | [Federated Hash Projected Latent Factor Learning](https://arxiv.org/abs/2606.26192) | Hash Learning (HL) is an efficient representation learning approach that maps real-valued data into compact binary representations. |
 | 2026-06-24 | [FedReLa: Imbalanced Federated Learning via Re-Labeling](https://arxiv.org/abs/2606.26037) | Federated learning has emerged as the foremost approach for decentralized model training with privacy preservation. |
 | 2026-06-24 | [Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks](https://arxiv.org/abs/2606.25858) | Federated learning is vulnerable to backdoor attacks in which malicious clients inject poisoned updates while preserving benign-task performance. |

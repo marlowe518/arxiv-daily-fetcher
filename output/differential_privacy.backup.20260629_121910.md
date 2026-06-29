@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-25 | [Productionized Fairness Measurement Under Privacy Constraints](https://arxiv.org/abs/2606.27558) | Fairness measurements in the form of disaggregated evaluations often rely on demographic signals that are legally constrained or culturally sensitive. |
 | 2026-06-25 | [Quantization in Federated Learning: Methods, Challenges and Future Directions](https://arxiv.org/abs/2606.26822) | Federated Learning (FL) has become a foundational paradigm for privacy-preserving distributed intelligence, yet its scalability remains fundamentally constrained by communication bottlenecks, device... |
 | 2026-06-25 | [Escaping Iterative Parameter-Space Noise: Differentially Private Learning with a Hypernetwork](https://arxiv.org/abs/2606.26772) | Differentially private (DP) training of neural networks is often hindered by the large amount of noise required by gradient-based methods such as DP-SGD, which repeatedly inject high-dimensional... |
 | 2026-06-23 | [Natural Identifiers for Privacy and Data Audits in Large Language Models](https://arxiv.org/abs/2606.24408) | Assessing the privacy of large language models (LLMs) presents significant challenges. |

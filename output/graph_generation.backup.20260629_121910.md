@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-25 | [Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation](https://arxiv.org/abs/2606.27412) | 3D Scene Graph Generation (3DSGG) represents 3D scenes as structured object-relation-object graphs, providing a compact relational abstraction for spatial understanding. |
 | 2026-06-24 | [Molexar: A Unified Multimodal Molecular Foundation Model for Drug Design](https://arxiv.org/abs/2606.25865) | Molecular generation is a central challenge in drug discovery, requiring models that explore vast chemical space while satisfying diverse design constraints. |
 | 2026-06-22 | [Sesame: Structure-Aware Molecular Generation via Spatial Density-Map Conditioning](https://arxiv.org/abs/2606.23856) | Generative molecular models for drug design are a promising direction with much active research. |
 | 2026-06-10 | [Comprehensive pKa Data Augmentation from Limited Real Data through an Engineered Models-Quantum Framework](https://arxiv.org/abs/2606.17077) | Proton dissociation constants (pKa) are critical for functional molecule discovery and molecular modeling. |

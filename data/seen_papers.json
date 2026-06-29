@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-28T10:17:25.669925",
+  "last_updated": "2026-06-29T12:19:10.139070",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -39151,6 +39151,239 @@
       "first_seen": "2026-06-26T10:40:08.236411",
       "topic": "Recommender Systems",
       "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.28134": {
+      "arxiv_id": "2606.28134",
+      "title": "Beyond Sparse Supervision: Diffusion-Guided Learning for Few-Shot Graph Fraud Detection",
+      "authors": [
+        "Liming Liu",
+        "Chao Hu",
+        "Mingfei Lu",
+        "Yiwei Ge",
+        "Xingle Li",
+        "Heyuan Shi"
+      ],
+      "published": "2026-06-26T14:34:28+00:00",
+      "first_seen": "2026-06-29T12:18:46.408047",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.27413": {
+      "arxiv_id": "2606.27413",
+      "title": "GRAFT: Biological Graph and Hypergraph Benchmarks for Linked Gene Expression and Phenotypic Trait Prediction in Arabidopsis thaliana",
+      "authors": [
+        "Manuel Serna-Aguilera",
+        "Vanshika Jindal",
+        "Fiona L. Goggin",
+        "Jiamei Li",
+        "Aranyak Goswami",
+        "Alexander Bucksch",
+        "Suxing Liu",
+        "Khoa Luu"
+      ],
+      "published": "2026-06-25T16:02:38+00:00",
+      "first_seen": "2026-06-29T12:18:46.408059",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "q-bio.GN",
+        "cs.AI"
+      ]
+    },
+    "2606.27412": {
+      "arxiv_id": "2606.27412",
+      "title": "Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation",
+      "authors": [
+        "Jingjun Sun",
+        "Chaowei Wang",
+        "Zhirui Liu",
+        "Jiaxu Tian",
+        "Ming Yang",
+        "Yaoxing Wang",
+        "Shan Gao"
+      ],
+      "published": "2026-06-25T14:44:40+00:00",
+      "first_seen": "2026-06-29T12:18:49.398772",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.GR",
+        "eess.IV"
+      ]
+    },
+    "2606.27558": {
+      "arxiv_id": "2606.27558",
+      "title": "Productionized Fairness Measurement Under Privacy Constraints",
+      "authors": [
+        "Osonde A. Osoba",
+        "Yuzi He",
+        "Saikrishna Badrinarayanan",
+        "Varun Mithal",
+        "Sakshi Jain",
+        "Natesh S. Pillai"
+      ],
+      "published": "2026-06-25T21:20:03+00:00",
+      "first_seen": "2026-06-29T12:18:55.150442",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2606.28217": {
+      "arxiv_id": "2606.28217",
+      "title": "Towards Value-Constrained Credit Assignment in Fully Delegated AI Cooperatives",
+      "authors": [
+        "Young Yoon",
+        "Jimin Kim",
+        "Soyeon Park"
+      ],
+      "published": "2026-06-26T16:08:36+00:00",
+      "first_seen": "2026-06-29T12:19:01.216585",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC",
+        "cs.MA"
+      ]
+    },
+    "2606.27622": {
+      "arxiv_id": "2606.27622",
+      "title": "FoggyTrust: Robust Federated Learning with Hierarchical Trust Networks",
+      "authors": [
+        "Emmanuel Rassou",
+        "Tomas Gonzalez"
+      ],
+      "published": "2026-06-26T00:37:29+00:00",
+      "first_seen": "2026-06-29T12:19:01.216598",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2606.27511": {
+      "arxiv_id": "2606.27511",
+      "title": "When the Aggregator Cheats: Data-Free Backdoors in Federated LLM-based QA Systems",
+      "authors": [
+        "Chenqing Zhu",
+        "Yanbo Dai",
+        "Yulong Tian",
+        "Qingming Li",
+        "Songze Li"
+      ],
+      "published": "2026-06-25T19:53:37+00:00",
+      "first_seen": "2026-06-29T12:19:01.216606",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2606.28059": {
+      "arxiv_id": "2606.28059",
+      "title": "Fast and Feasible: Permutation-based Constrained Reranking for Revenue Maximization",
+      "authors": [
+        "Svetlana Shirokovskikh",
+        "Anastasiia Soboleva",
+        "Ekaterina Solodneva",
+        "Aleksandr Katrutsa",
+        "Roman Loginov",
+        "Egor Samosvat"
+      ],
+      "published": "2026-06-26T13:04:00+00:00",
+      "first_seen": "2026-06-29T12:19:04.527486",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "math.OC"
+      ]
+    },
+    "2606.27997": {
+      "arxiv_id": "2606.27997",
+      "title": "Benchmarking on Tasks That Matter: Dataset Selection for Preserving Model Rankings",
+      "authors": [
+        "Rostislav Gusev",
+        "Alexey Zaytsev"
+      ],
+      "published": "2026-06-26T11:50:22+00:00",
+      "first_seen": "2026-06-29T12:19:04.527500",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2606.27930": {
+      "arxiv_id": "2606.27930",
+      "title": "An LLM-Powered Semantic Alignment Framework for Journal Recommendation",
+      "authors": [
+        "Yanglin Yan",
+        "Zicheng Xie",
+        "Tianchen Gao",
+        "Rui Pan",
+        "Hansheng Wang"
+      ],
+      "published": "2026-06-26T10:22:24+00:00",
+      "first_seen": "2026-06-29T12:19:04.527508",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "stat.AP"
+      ]
+    },
+    "2606.27917": {
+      "arxiv_id": "2606.27917",
+      "title": "Graph Dimensionality Reduction for Contextual Bandits: Structure-Specific Regret Bounds under Approximate Smoothness and Noisy Eigenspaces",
+      "authors": [
+        "Joyanta Jyoti Mondal",
+        "Ibne Farabi Shihab",
+        "Anuj Sharma"
+      ],
+      "published": "2026-06-26T10:07:10+00:00",
+      "first_seen": "2026-06-29T12:19:04.527515",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.27684": {
+      "arxiv_id": "2606.27684",
+      "title": "Intuition-Guided Latent Reasoning for LLM-Based Recommendation",
+      "authors": [
+        "Chang Liu",
+        "Yimeng Bai",
+        "Xiaoyan Zhao",
+        "Yang Zhang",
+        "Qifan Wang",
+        "Fuli Feng",
+        "Wenge Rong"
+      ],
+      "published": "2026-06-26T03:29:48+00:00",
+      "first_seen": "2026-06-29T12:19:04.527521",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.28307": {
+      "arxiv_id": "2606.28307",
+      "title": "Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization",
+      "authors": [
+        "Shuang Li",
+        "Zhihui Zhu",
+        "Qiuwei Li"
+      ],
+      "published": "2026-06-26T17:52:39+00:00",
+      "first_seen": "2026-06-29T12:19:07.098243",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "math.OC",
         "cs.LG"
       ]
     }

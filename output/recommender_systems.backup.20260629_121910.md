@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-26 | [Fast and Feasible: Permutation-based Constrained Reranking for Revenue Maximization](https://arxiv.org/abs/2606.28059) | Search and recommender systems have produced highly relevant search results. |
-| 2026-06-26 | [Benchmarking on Tasks That Matter: Dataset Selection for Preserving Model Rankings](https://arxiv.org/abs/2606.27997) | Benchmarks of machine learning models often include many datasets, making evaluation expensive. |
-| 2026-06-26 | [An LLM-Powered Semantic Alignment Framework for Journal Recommendation](https://arxiv.org/abs/2606.27930) | Journal recommendation is an important task in scholarly information systems. |
-| 2026-06-26 | [Graph Dimensionality Reduction for Contextual Bandits: Structure-Specific Regret Bounds under Approximate Smoothness and Noisy Eigenspaces](https://arxiv.org/abs/2606.27917) | Contextual bandits with graph-structured arms arise in recommendation, citation retrieval, and social advertising, where arms connected on a graph tend to share reward signal. |
-| 2026-06-26 | [Intuition-Guided Latent Reasoning for LLM-Based Recommendation](https://arxiv.org/abs/2606.27684) | Large Language Models (LLMs) have demonstrated impressive reasoning capabilities in complex problem-solving tasks, motivating their use for preference reasoning in recommender systems. |
 | 2026-06-25 | [NOVA: A Verification-Aware Agent Harness for Architecture Evolution in Industrial Recommender Systems](https://arxiv.org/abs/2606.27243) | Industrial advertising recommender models are continuously improved through architecture evolution. |
 | 2026-06-25 | [TRUST: Item-Calibrated Interval Evidence for Temporal Session-Based Recommendation](https://arxiv.org/abs/2606.27214) | Temporal signals have been widely used in session-based recommendation to infer user interest. |
 | 2026-06-25 | [UniFormer: Efficient and Unified Model-Centric Scaling for Industrial Recommendation](https://arxiv.org/abs/2606.27058) | Recently, substantial progress has been made in industrial recommendation through component-centric model scaling, where individual components such as behavior modeling, feature interaction, or task... |
