@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-29 | [Muon learns balanced solutions in matrix factorization without slow saddle-to-saddle dynamics](https://arxiv.org/abs/2606.30509) | Matrix factorization (i.e., problems of the form $\min_{\mathbf{P},\mathbf{Q}} \\|\mathbf{M}^\star - \mathbf{P}^\top\mathbf{Q}\\|_\mathrm{F}^2$) is a minimal learning problem that exhibits both... |
 | 2026-06-26 | [Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization](https://arxiv.org/abs/2606.28307) | We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison... |
 | 2026-06-18 | [Detecting Satellites in Radio-Frequency Data via Semi-Supervised Learning](https://arxiv.org/abs/2606.20976) | Radio-frequency (RF) monitoring is essential for space domain awareness, but it often generates large, variable, and sparsely populated datasets with few labels. |
 | 2026-06-16 | [A Bayesian Boolean Matrix Factorization with Application to Copy Number Analysis in Cancer](https://arxiv.org/abs/2606.17491) | Binary data factorization is common, but real-valued methods ignore discreteness and yield hard-to-interpret factors. |
