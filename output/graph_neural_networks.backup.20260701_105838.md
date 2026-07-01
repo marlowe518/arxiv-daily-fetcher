@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-30 | [Relational and Sequential Conformal Inference for Energy Time Series over Graphs via Foundation Models](https://arxiv.org/abs/2606.31804) | Accurate energy demand forecasting is essential for the reliable operation and planning of modern sustainable energy systems. |
-| 2026-06-30 | [Optimization Algorithms for Joint OFDM Waveform Design and RIS Configuration in 6G Networks: From Convex Relaxation to Foundation Models](https://arxiv.org/abs/2606.31334) | Joint OFDM-RIS optimization for 6G is a mixed-integer nonlinear programming (MINLP) problem covering sum-rate maximization, energy efficiency, max-min fairness, and peak-to-average power ratio... |
-| 2026-06-30 | [TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning](https://arxiv.org/abs/2606.31166) | Text-attributed graphs (TAGs), where each node carries a natural language description, require models to jointly reason over text and graph topology. |
 | 2026-06-29 | [PromptGNN-sim: Deep Fusion and Alignment of GNN and LLMs for Text-Attributed Graph Learning](https://arxiv.org/abs/2606.30291) | Text-Attributed Graphs (TAGs) combine textual semantics with graph structure and are central to many graph learning tasks. |
 | 2026-06-29 | [T3R: Deeper Test-Time Adaptation for Graph Neural Networks via Gradient Rotation](https://arxiv.org/abs/2606.30011) | Graph Neural Networks (GNNs) deployed in real-world systems typically have fixed weights, often leading to degraded performance under distribution shifts. |
 | 2026-06-29 | [GLIP: Graph and LLM Joint Pretraining for Graph-Level Tasks](https://arxiv.org/abs/2606.29773) | Graphs are widely used to model relational systems, with applications in domains such as social networks, finance, and biomedicine. |

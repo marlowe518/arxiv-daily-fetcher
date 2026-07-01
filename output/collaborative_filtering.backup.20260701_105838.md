@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-06-30 | [Direction-Magnitude Decomposition for Low-Rank Matrix Optimization: Faster Convergence and Saddle-to-saddle Dynamics](https://arxiv.org/abs/2606.31390) | Low-rank matrix optimization is often carried out via the Burer-Monteiro (BM) formulation, but choosing the factorization rank $r$ is delicate and can substantially slow optimization. |
 | 2026-06-29 | [Muon learns balanced solutions in matrix factorization without slow saddle-to-saddle dynamics](https://arxiv.org/abs/2606.30509) | Matrix factorization (i.e., problems of the form $\min_{\mathbf{P},\mathbf{Q}} \\|\mathbf{M}^\star - \mathbf{P}^\top\mathbf{Q}\\|_\mathrm{F}^2$) is a minimal learning problem that exhibits both... |
 | 2026-06-26 | [Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization](https://arxiv.org/abs/2606.28307) | We analyze Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, a condition that replaces the standard Lipschitz gradient assumption with a Hessian comparison... |
 | 2026-06-18 | [Detecting Satellites in Radio-Frequency Data via Semi-Supervised Learning](https://arxiv.org/abs/2606.20976) | Radio-frequency (RF) monitoring is essential for space domain awareness, but it often generates large, variable, and sparsely populated datasets with few labels. |

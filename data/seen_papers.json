@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-06-30T10:45:41.582041",
+  "last_updated": "2026-07-01T10:58:38.321792",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -39958,6 +39958,329 @@
       "first_seen": "2026-06-30T10:45:37.311370",
       "topic": "Collaborative Filtering",
       "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.31804": {
+      "arxiv_id": "2606.31804",
+      "title": "Relational and Sequential Conformal Inference for Energy Time Series over Graphs via Foundation Models",
+      "authors": [
+        "Keivan Faghih Niresi",
+        "Alice Cicirello",
+        "Olga Fink"
+      ],
+      "published": "2026-06-30T15:22:11+00:00",
+      "first_seen": "2026-07-01T10:58:14.436261",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2606.31334": {
+      "arxiv_id": "2606.31334",
+      "title": "Optimization Algorithms for Joint OFDM Waveform Design and RIS Configuration in 6G Networks: From Convex Relaxation to Foundation Models",
+      "authors": [
+        "Ahmet Kaplan"
+      ],
+      "published": "2026-06-30T08:34:46+00:00",
+      "first_seen": "2026-07-01T10:58:14.436273",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2606.31166": {
+      "arxiv_id": "2606.31166",
+      "title": "TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning",
+      "authors": [
+        "Lingjie Chen",
+        "Yuanchen Bei",
+        "Haobo Xu",
+        "Yanjun Zhao",
+        "Yuzhong Chen",
+        "Hanghang Tong"
+      ],
+      "published": "2026-06-30T05:56:18+00:00",
+      "first_seen": "2026-07-01T10:58:14.436281",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2606.31742": {
+      "arxiv_id": "2606.31742",
+      "title": "FedXDS: Leveraging Model Attribution Methods to counteract Data Heterogeneity in Federated Learning",
+      "authors": [
+        "Maximilian Andreas Hoefler",
+        "Karsten Mueller",
+        "Wojciech Samek"
+      ],
+      "published": "2026-06-30T14:35:45+00:00",
+      "first_seen": "2026-07-01T10:58:29.029679",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2606.31331": {
+      "arxiv_id": "2606.31331",
+      "title": "Expected Gain-based Escalation in Vertical Federated Learning",
+      "authors": [
+        "Mohamad Mestoukirdi",
+        "Vincent Corlay"
+      ],
+      "published": "2026-06-30T08:32:53+00:00",
+      "first_seen": "2026-07-01T10:58:29.029691",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.31066": {
+      "arxiv_id": "2606.31066",
+      "title": "Secure-CHG: A Comprehensive Framework for Robust and Fair Federated Learning via Hybrid Defense and Contribution-Aware Trust",
+      "authors": [
+        "Guanming Che",
+        "Qiang Wang",
+        "Jian Xu",
+        "Fucai Zhou"
+      ],
+      "published": "2026-06-30T02:53:16+00:00",
+      "first_seen": "2026-07-01T10:58:29.029699",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2606.30701": {
+      "arxiv_id": "2606.30701",
+      "title": "An AI-Based Solution for Secure Service Provisioning in IoT",
+      "authors": [
+        "Marco Arazzi",
+        "Mert Cihangiroglu",
+        "Serena Nicolazzo",
+        "Antonino Nocera",
+        "Vinod P"
+      ],
+      "published": "2026-06-29T12:23:48+00:00",
+      "first_seen": "2026-07-01T10:58:29.029707",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2606.31984": {
+      "arxiv_id": "2606.31984",
+      "title": "GR2 Technical Report",
+      "authors": [
+        "Yufei Li",
+        "Zaiwei Zhang",
+        "Mingfu Liang",
+        "Kavosh Asadi",
+        "Jay Xu",
+        "Jimmy Kim",
+        "Chongyang Bai",
+        "Jieyi Zhang",
+        "Hongye Xie",
+        "Prachi Agrawal",
+        "Dian Yu",
+        "Tianyi Chen",
+        "Jean-Pascal Billaud",
+        "Garret Buell",
+        "YK",
+        "Zhu",
+        "Sachin Patil",
+        "Brooke Bian",
+        "Zhou Fang",
+        "Kevin Huang",
+        "Shiva Sudanagunta",
+        "Yuzhen Huang",
+        "Emma Lu",
+        "Chris O'Brien",
+        "Yang Song",
+        "Lihong Li",
+        "Jacob Tao",
+        "Zhicheng Zhu",
+        "Chao Li",
+        "Gaoxiang Liu",
+        "Neil Wu",
+        "Zhongyin Hu",
+        "Li Han",
+        "Loki Chen",
+        "Ming Lei",
+        "Greg Rehm",
+        "Siyuan Song",
+        "Tianwei Zhang",
+        "Li Li",
+        "Ketan Singh",
+        "Yavuz Yetim",
+        "Ilyas Atishev",
+        "Satendra Gera",
+        "Ashkan Sadeghi",
+        "Rachel Yan",
+        "Nikko Mizutani",
+        "Shuaiwen Wang",
+        "Song Yang",
+        "Zhijing Li",
+        "Jiang Liu",
+        "Mengying Sun",
+        "Fei Tian",
+        "Xiaohan Wei",
+        "Chonglin Sun",
+        "Parish Aggarwal",
+        "Kaushik Rangadurai",
+        "Zhi Hua",
+        "Frank Shyu",
+        "Ruchit Sharma",
+        "Liyuan Li",
+        "Shike Mei",
+        "Wenlin Chen",
+        "Santanu Kolay",
+        "Ben Schulte",
+        "Deepak Chandra",
+        "Adam",
+        "Song",
+        "Sandeep Pandey",
+        "Xi Liu",
+        "Hamed Firooz",
+        "Luke Simon"
+      ],
+      "published": "2026-06-30T17:22:22+00:00",
+      "first_seen": "2026-07-01T10:58:32.085448",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2606.31693": {
+      "arxiv_id": "2606.31693",
+      "title": "ShopX: A Foundation Model for Intent-to-Item Fulfillment in Agentic Shopping",
+      "authors": [
+        "Jiacheng Chen",
+        "Tao Zhang",
+        "Manxi Lin",
+        "Dunxian Huang",
+        "Teng Shi",
+        "Honghao Fu",
+        "Mengyan Li",
+        "Xinming Zhang",
+        "Chenchi Zhang",
+        "Xuan Lu",
+        "Xiaoxiong Du",
+        "Haibin Chen",
+        "Shaolin Ye",
+        "Hao Chang",
+        "Xiaoqi Li",
+        "Shuwen Xiao",
+        "Yujin Yuan",
+        "Jingxuan Feng",
+        "Shaopan Xiong",
+        "Huimin Yi",
+        "Ju Huang",
+        "Qiu Shen",
+        "Ying Chen",
+        "Junjun Zheng",
+        "Xiangheng Kong",
+        "Yuning Jiang"
+      ],
+      "published": "2026-06-30T14:05:28+00:00",
+      "first_seen": "2026-07-01T10:58:32.085461",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2606.31371": {
+      "arxiv_id": "2606.31371",
+      "title": "Calibrating the Evaluator: Does Probability Calibration Mitigate Preference Coupling in LLM Agent Feedback Loops?",
+      "authors": [
+        "Zewen Liu"
+      ],
+      "published": "2026-06-30T09:03:24+00:00",
+      "first_seen": "2026-07-01T10:58:32.085468",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2606.31168": {
+      "arxiv_id": "2606.31168",
+      "title": "Probe Choice Changes Canary-Memorization Verdicts: Three Post-Hoc Disagreement Case Studies in a Text-Dominant LoRA-Tuned Autoregressive Testbed",
+      "authors": [
+        "Zhichao Fan",
+        "Zexin Zhuang",
+        "Yanhang Li"
+      ],
+      "published": "2026-06-30T05:58:05+00:00",
+      "first_seen": "2026-07-01T10:58:32.085474",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2606.31036": {
+      "arxiv_id": "2606.31036",
+      "title": "Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care",
+      "authors": [
+        "Shreyas Rajesh",
+        "Kartik Sharma",
+        "Tonmoy Monsoor",
+        "Mehmet Yigit Turali",
+        "Richard Idro",
+        "Juliana Kayaga",
+        "Robert Sebunya",
+        "Tracy Tushabe Namata",
+        "Jessica Nichole Pasqua",
+        "Vwani Roychowdhury",
+        "Rajarshi Mazumder"
+      ],
+      "published": "2026-06-30T02:09:37+00:00",
+      "first_seen": "2026-07-01T10:58:32.085480",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2606.31031": {
+      "arxiv_id": "2606.31031",
+      "title": "GenPage: Towards End-to-End Generative Homepage Construction at Netflix",
+      "authors": [
+        "Lequn Wang",
+        "Jiangwei Pan",
+        "Fengdi Che",
+        "Linas Baltrunas"
+      ],
+      "published": "2026-06-30T02:00:05+00:00",
+      "first_seen": "2026-07-01T10:58:32.085486",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2606.31390": {
+      "arxiv_id": "2606.31390",
+      "title": "Direction-Magnitude Decomposition for Low-Rank Matrix Optimization: Faster Convergence and Saddle-to-saddle Dynamics",
+      "authors": [
+        "Yudong Wei",
+        "Liang Zhang",
+        "Bingcong Li",
+        "Niao He"
+      ],
+      "published": "2026-06-30T09:19:16+00:00",
+      "first_seen": "2026-07-01T10:58:34.979539",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "math.OC",
         "cs.LG"
       ]
     }
