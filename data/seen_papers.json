@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-01T10:58:38.321792",
+  "last_updated": "2026-07-02T10:24:55.550103",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -40281,6 +40281,298 @@
       "topic": "Collaborative Filtering",
       "categories": [
         "math.OC",
+        "cs.LG"
+      ]
+    },
+    "2607.00671": {
+      "arxiv_id": "2607.00671",
+      "title": "Multi-Label Node Classification with Label Influence Propagation",
+      "authors": [
+        "Yifei Sun",
+        "Zemin Liu",
+        "Bryan Hooi",
+        "Yang Yang",
+        "Rizal Fathony",
+        "Jia Chen",
+        "Bingsheng He"
+      ],
+      "published": "2026-07-01T09:17:28+00:00",
+      "first_seen": "2026-07-02T10:24:31.772933",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.00377": {
+      "arxiv_id": "2607.00377",
+      "title": "SAOT: Self-Supervised Continual Graph Learning with Structure-Aware Optimal Transport",
+      "authors": [
+        "Yuting Zhang",
+        "Yanbei Liu",
+        "Zhitao Xiao",
+        "Lei Geng",
+        "Yanwei Pang",
+        "Xiao Wang"
+      ],
+      "published": "2026-07-01T03:21:23+00:00",
+      "first_seen": "2026-07-02T10:24:31.772946",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.SI"
+      ]
+    },
+    "2607.00889": {
+      "arxiv_id": "2607.00889",
+      "title": "DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors",
+      "authors": [
+        "Seok-Young Kim",
+        "Abdelrahman Elskhawy",
+        "Taewook Ha",
+        "Dooyoung Kim",
+        "Eunjae Shin",
+        "Benjamin Busam",
+        "Woontack Woo"
+      ],
+      "published": "2026-07-01T12:55:09+00:00",
+      "first_seen": "2026-07-02T10:24:34.595815",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    "2607.00464": {
+      "arxiv_id": "2607.00464",
+      "title": "MolSafeEval: A Benchmark for Uncovering Safety Risks in AI-Generated Molecules",
+      "authors": [
+        "Tong Xu",
+        "Xinzhe Cao",
+        "Zhihui Zhu",
+        "Keyan Ding",
+        "Huajun Chen"
+      ],
+      "published": "2026-07-01T05:33:51+00:00",
+      "first_seen": "2026-07-02T10:24:34.595827",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ]
+    },
+    "2607.00876": {
+      "arxiv_id": "2607.00876",
+      "title": "The Binary Tree Mechanism is Optimal for Approximate Differentially Private Continual Counting",
+      "authors": [
+        "Konstantina Bairaktari",
+        "Kasper Green Larsen"
+      ],
+      "published": "2026-07-01T12:38:33+00:00",
+      "first_seen": "2026-07-02T10:24:40.701407",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DS",
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2607.00301": {
+      "arxiv_id": "2607.00301",
+      "title": "Generative Modeling of Quantum Distribution with Functional Flow Matching",
+      "authors": [
+        "Jaehoon Hahm",
+        "Tak Hur",
+        "Joonseok Lee",
+        "Daniel K. Park"
+      ],
+      "published": "2026-07-01T00:57:09+00:00",
+      "first_seen": "2026-07-02T10:24:46.617575",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "quant-ph"
+      ]
+    },
+    "2607.00275": {
+      "arxiv_id": "2607.00275",
+      "title": "Entropy-Regularized Probabilistic Gates for Sparse Model Discovery in Scarce-Data Federated Learning",
+      "authors": [
+        "Krishna Harsha Kovelakuntla Huthasana",
+        "Alireza Olama",
+        "Andreas Lundell"
+      ],
+      "published": "2026-06-30T23:51:44+00:00",
+      "first_seen": "2026-07-02T10:24:46.617606",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC",
+        "stat.ML"
+      ]
+    },
+    "2607.00173": {
+      "arxiv_id": "2607.00173",
+      "title": "TallyTrain: Communication-Efficient Federated Distillation",
+      "authors": [
+        "Radhakrishna Achanta",
+        "Will Reed"
+      ],
+      "published": "2026-06-30T20:47:33+00:00",
+      "first_seen": "2026-07-02T10:24:46.617618",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.01170": {
+      "arxiv_id": "2607.01170",
+      "title": "Diffusion-GR2: Diffusion Generative Reasoning Re-ranker",
+      "authors": [
+        "Zhuoxuan Zhang",
+        "Kangqi Ni",
+        "Yuhang Chen",
+        "Mingfu Liang",
+        "Xiaohan Wei",
+        "Yunchen Pu",
+        "Fei Tian",
+        "Chonglin Sun",
+        "Frank Shyu",
+        "Adam",
+        "Song",
+        "Sandeep Pandey",
+        "Luke Simon",
+        "Tianlong Chen",
+        "Xi Liu"
+      ],
+      "published": "2026-07-01T17:02:20+00:00",
+      "first_seen": "2026-07-02T10:24:49.600122",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2607.01001": {
+      "arxiv_id": "2607.01001",
+      "title": "Foundation Models vs. Radiomics for Lung Computed Tomography: A Benchmark of Feature Extractors, Classification Heads, and Segmentation Choices",
+      "authors": [
+        "Nils Neukirch",
+        "Martin Maurer",
+        "Nils Strodthoff"
+      ],
+      "published": "2026-07-01T14:37:30+00:00",
+      "first_seen": "2026-07-02T10:24:49.600133",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2607.00542": {
+      "arxiv_id": "2607.00542",
+      "title": "AI-Centered Grand Challenges in Visual Analytics for Healthcare: Synthesizing the VAHC 2025 Community Experience",
+      "authors": [
+        "Jürgen Bernard",
+        "David Gotz",
+        "Robert S Laramee",
+        "Silvia Miksch",
+        "Gabriela Morgenshtern",
+        "Renata G. Raidou",
+        "Alessio Arleo"
+      ],
+      "published": "2026-07-01T07:33:30+00:00",
+      "first_seen": "2026-07-02T10:24:49.600140",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2607.00486": {
+      "arxiv_id": "2607.00486",
+      "title": "PAPA: Online Personalized Active Preference Alignment",
+      "authors": [
+        "Anindya Sarkar",
+        "Nasik Muhammad Nafi",
+        "Isaac Lyngaas",
+        "Muralikrishnan Gopalakrishnan Meena",
+        "Yevgeniy Vorobeychik"
+      ],
+      "published": "2026-07-01T06:14:22+00:00",
+      "first_seen": "2026-07-02T10:24:49.600147",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    "2607.00448": {
+      "arxiv_id": "2607.00448",
+      "title": "Real-Time Hard Negative Sampling via LLM-based Clustering for Large-Scale Two-Tower Retrieval",
+      "authors": [
+        "Ivan Ji",
+        "Liuyi Hu",
+        "Harrison",
+        "Zhao",
+        "Lei Huang",
+        "Qunshu Zhang",
+        "Max",
+        "Fan",
+        "Aameek Singh"
+      ],
+      "published": "2026-07-01T05:07:32+00:00",
+      "first_seen": "2026-07-02T10:24:49.600152",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2607.00403": {
+      "arxiv_id": "2607.00403",
+      "title": "A Penny for Your Prompts: Experiments Detecting and Mitigating LLM Usage by Survey Respondents",
+      "authors": [
+        "Zane Xu",
+        "Nathan Malkin"
+      ],
+      "published": "2026-07-01T04:01:26+00:00",
+      "first_seen": "2026-07-02T10:24:49.600158",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.CR",
+        "cs.CY"
+      ]
+    },
+    "2607.00113": {
+      "arxiv_id": "2607.00113",
+      "title": "SemiScope: Disentangling Classifier Tuning and Joint Optimization in Semi-Supervised Security Classification",
+      "authors": [
+        "Rui Shu",
+        "Tianpei Xia",
+        "Jingzhu He"
+      ],
+      "published": "2026-06-30T19:50:18+00:00",
+      "first_seen": "2026-07-02T10:24:49.600163",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.00270": {
+      "arxiv_id": "2607.00270",
+      "title": "Computer vision-based neural networks for radioisotope identification in urban environments",
+      "authors": [
+        "Masen Bachleda",
+        "Peter Lalor"
+      ],
+      "published": "2026-06-30T23:35:51+00:00",
+      "first_seen": "2026-07-02T10:24:52.612562",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "physics.ins-det",
         "cs.LG"
       ]
     }

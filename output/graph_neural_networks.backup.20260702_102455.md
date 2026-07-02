@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-01 | [Multi-Label Node Classification with Label Influence Propagation](https://arxiv.org/abs/2607.00671) | Graphs are a complex and versatile data structure used across various domains, with possibly multi-label nodes playing a particularly crucial role. |
-| 2026-07-01 | [SAOT: Self-Supervised Continual Graph Learning with Structure-Aware Optimal Transport](https://arxiv.org/abs/2607.00377) | Self-supervised Continual Graph Learning (CGL) aims to successively learn from a graph sequence with different tasks without label supervision - a paradigm that has attracted widespread attention. |
 | 2026-06-30 | [Relational and Sequential Conformal Inference for Energy Time Series over Graphs via Foundation Models](https://arxiv.org/abs/2606.31804) | Accurate energy demand forecasting is essential for the reliable operation and planning of modern sustainable energy systems. |
 | 2026-06-30 | [Optimization Algorithms for Joint OFDM Waveform Design and RIS Configuration in 6G Networks: From Convex Relaxation to Foundation Models](https://arxiv.org/abs/2606.31334) | Joint OFDM-RIS optimization for 6G is a mixed-integer nonlinear programming (MINLP) problem covering sum-rate maximization, energy efficiency, max-min fairness, and peak-to-average power ratio... |
 | 2026-06-30 | [TAG-DLM: Diffusion Language Models for Text-Attributed Graph Learning](https://arxiv.org/abs/2606.31166) | Text-attributed graphs (TAGs), where each node carries a natural language description, require models to jointly reason over text and graph topology. |

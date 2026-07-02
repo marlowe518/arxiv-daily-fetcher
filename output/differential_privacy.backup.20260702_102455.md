@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-01 | [The Binary Tree Mechanism is Optimal for Approximate Differentially Private Continual Counting](https://arxiv.org/abs/2607.00876) | Private continual counting is a fundamental problem in differential privacy: given a binary stream of length $n$, where each $1$ corresponds to the contribution of one individual, the goal is to... |
 | 2026-06-29 | [A Sieve-Accelerated Quadrature Method for Exact Privacy Accounting in the 2020 U.S. Decennial Census](https://arxiv.org/abs/2606.29835) | Paper titled: A Sieve-Accelerated Quadrature Method for Exact Privacy Accounting in the 2020 U.S. Decennial Census |
 | 2026-06-28 | [Bit-ViP: Leveraging Bit-planes to Preserve Visual Privacy in Images through Obfuscation](https://arxiv.org/abs/2606.29417) | The unprecedented growth of computer vision applications, such as surveillance systems and social media, raises security and visual privacy concerns, especially when data is stored on cloud servers. |
 | 2026-06-26 | [Decomposing Memorization Reduction in Privacy-Preserving Fine-Tuning of SLMs for CSIRTs](https://arxiv.org/abs/2606.28479) | CSIRTs increasingly fine tune language models on vulnerability scan records, but these records expose internal network topology and create privacy risks under regulations such as GDPR and LGPD. |
