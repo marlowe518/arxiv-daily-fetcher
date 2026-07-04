@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-02T10:24:55.550103",
+  "last_updated": "2026-07-04T09:56:10.981531",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -40573,6 +40573,354 @@
       "topic": "Collaborative Filtering",
       "categories": [
         "physics.ins-det",
+        "cs.LG"
+      ]
+    },
+    "2607.02212": {
+      "arxiv_id": "2607.02212",
+      "title": "An Additive MLP-GNN Framework for Characterizing Chemical and Structural Contributions to Aqueous Solubility",
+      "authors": [
+        "Sampreeti Bhattacharya",
+        "Arkaprava Roy"
+      ],
+      "published": "2026-07-02T14:21:44+00:00",
+      "first_seen": "2026-07-04T09:55:47.290366",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2607.02063": {
+      "arxiv_id": "2607.02063",
+      "title": "SA-HGNN: Sample-Adaptive Hyperbolic Graph Neural Network for EEG-Based Depression Recognition",
+      "authors": [
+        "Yang Li",
+        "Pan Hu",
+        "Yan Zhang",
+        "Wenfan Yang",
+        "Tao Wu",
+        "Lianbo Guo"
+      ],
+      "published": "2026-07-02T11:42:58+00:00",
+      "first_seen": "2026-07-04T09:55:47.290379",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.01901": {
+      "arxiv_id": "2607.01901",
+      "title": "SABER: A Semantic-Aligned Brain Network Analysis Framework via Multi-scale Hypergraphs",
+      "authors": [
+        "Yidan Xu",
+        "Xiangmin Han",
+        "Rundong Xue",
+        "Huihui Ye"
+      ],
+      "published": "2026-07-02T08:58:47+00:00",
+      "first_seen": "2026-07-04T09:55:47.290387",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.MM"
+      ]
+    },
+    "2607.01777": {
+      "arxiv_id": "2607.01777",
+      "title": "Scene-Conditioned PINN-GNN for Multipath RF Maps: Cross-Scene Generation and In-Scene Completion",
+      "authors": [
+        "Lizhou Liu",
+        "Xiaohui Chen",
+        "Zihan Tang",
+        "Mengyao Ma",
+        "Wenyi Zhang"
+      ],
+      "published": "2026-07-02T06:48:42+00:00",
+      "first_seen": "2026-07-04T09:55:47.290394",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SP",
+        "cs.AI"
+      ]
+    },
+    "2607.01627": {
+      "arxiv_id": "2607.01627",
+      "title": "MKGR: Multimodal Knowledge-Graph Representation Learning for Cold-Start Protein-Protein Interaction Prediction",
+      "authors": [
+        "Wenbo Zhang"
+      ],
+      "published": "2026-07-02T02:50:42+00:00",
+      "first_seen": "2026-07-04T09:55:47.290401",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.01621": {
+      "arxiv_id": "2607.01621",
+      "title": "Spatial Support Matters: Geometry-Aware Graph Fusion for Rainfall Field Reconstruction",
+      "authors": [
+        "Low Jun Yu",
+        "Niramay Kachhadiya",
+        "Herath Mudiyanselage Viraj Vidura Herath",
+        "Sanka Rasnayaka",
+        "Lucy Amanda Marshall"
+      ],
+      "published": "2026-07-02T02:38:59+00:00",
+      "first_seen": "2026-07-04T09:55:47.290407",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.01584": {
+      "arxiv_id": "2607.01584",
+      "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+      "authors": [
+        "Mahyar Ghazanfari",
+        "Amin Tabrizian",
+        "Armin Mehrabian",
+        "Peng Wei"
+      ],
+      "published": "2026-07-02T01:31:18+00:00",
+      "first_seen": "2026-07-04T09:55:47.290414",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.01553": {
+      "arxiv_id": "2607.01553",
+      "title": "X-LogSMask: Expand Transformer for Graph-Structured Data",
+      "authors": [
+        "Leyan Li",
+        "Rennong Yang",
+        "Zhenxing Zhang",
+        "Liping Hu"
+      ],
+      "published": "2026-07-02T00:20:58+00:00",
+      "first_seen": "2026-07-04T09:55:47.290426",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.01522": {
+      "arxiv_id": "2607.01522",
+      "title": "Robust and Explainable 3D Mode Shape Recognition Using Region-Aware Graph Neural Networks",
+      "authors": [
+        "Tong Duy Son",
+        "Marc Brughmans",
+        "Andrey Hense",
+        "Kohta Sugiura",
+        "Sebastian Ciceo",
+        "Paolo di Carlo",
+        "Theo Geluk"
+      ],
+      "published": "2026-07-01T22:38:12+00:00",
+      "first_seen": "2026-07-04T09:55:47.290433",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SY",
+        "cs.AI",
+        "cs.CE"
+      ]
+    },
+    "2607.01492": {
+      "arxiv_id": "2607.01492",
+      "title": "Unveiling the Non-Monotonic Effect of Privacy on Generalization under Byzantine Robustness",
+      "authors": [
+        "Thomas Boudou",
+        "Batiste Le Bars",
+        "Nirupam Gupta",
+        "Aurélien Bellet"
+      ],
+      "published": "2026-07-01T21:42:47+00:00",
+      "first_seen": "2026-07-04T09:55:56.010184",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "stat.ML"
+      ]
+    },
+    "2607.02447": {
+      "arxiv_id": "2607.02447",
+      "title": "Understanding the Robustness of Distributed Self-Supervised Learning Frameworks Against Non-IID Data",
+      "authors": [
+        "Xuanyu Chen",
+        "Nan Yang",
+        "Shuai Wang",
+        "Dong Yuan"
+      ],
+      "published": "2026-07-02T17:17:05+00:00",
+      "first_seen": "2026-07-04T09:56:02.094182",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.02426": {
+      "arxiv_id": "2607.02426",
+      "title": "QFedAgent: Quantum-Enhanced Personalized Federated Learning for Multi-Agent Activity Recognition",
+      "authors": [
+        "Quoc Bao Phan",
+        "Tuy Tan Nguyen"
+      ],
+      "published": "2026-07-02T16:54:35+00:00",
+      "first_seen": "2026-07-04T09:56:02.094193",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.02187": {
+      "arxiv_id": "2607.02187",
+      "title": "Privacy-Preserving and Verifiable Approximate Distributed Coded Computing",
+      "authors": [
+        "Xavier Martínez-Luaña",
+        "Alba Gude-Santos",
+        "Manuel Fernández-Veiga",
+        "Rebeca P. Díaz-Redondo"
+      ],
+      "published": "2026-07-02T13:57:32+00:00",
+      "first_seen": "2026-07-04T09:56:02.094200",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2607.01907": {
+      "arxiv_id": "2607.01907",
+      "title": "Population-Based Multi-Objective Training of Discriminators for Semi-Supervised GANs",
+      "authors": [
+        "Francisco Sedeño",
+        "Francisco Chicano",
+        "Jamal Toutouh"
+      ],
+      "published": "2026-07-02T09:06:06+00:00",
+      "first_seen": "2026-07-04T09:56:02.094206",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    "2607.01474": {
+      "arxiv_id": "2607.01474",
+      "title": "Class-Grouped Normalized Momentum and Faster Hyperparameter Exploration to Tackle Class Imbalance in Federated Learning",
+      "authors": [
+        "Haemin Park",
+        "Diego Klabjan",
+        "Martin W. Braun",
+        "Xiuqi Li",
+        "Balakrishnan Ananthanarayanan"
+      ],
+      "published": "2026-07-01T21:09:50+00:00",
+      "first_seen": "2026-07-04T09:56:02.094212",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.01305": {
+      "arxiv_id": "2607.01305",
+      "title": "Generative AI and Federated Learning for Intrusion Detection Systems: A Survey",
+      "authors": [
+        "Jiefei Liu",
+        "Abu Saleh Md Tayeen",
+        "Pratyay Kumar",
+        "Qixu Gong",
+        "Wenbin Jiang",
+        "Huiping Cao",
+        "Satyajayant Misra",
+        "Jayashree Harikumar"
+      ],
+      "published": "2026-07-01T16:37:49+00:00",
+      "first_seen": "2026-07-04T09:56:02.094217",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.01272": {
+      "arxiv_id": "2607.01272",
+      "title": "Benchmarking Federated Learning and Knowledge Distillation for Point Cloud Classification",
+      "authors": [
+        "Aizierjiang Aiersilan"
+      ],
+      "published": "2026-06-30T20:12:27+00:00",
+      "first_seen": "2026-07-04T09:56:02.094223",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.GR",
+        "cs.AI",
+        "cs.CV",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2607.02115": {
+      "arxiv_id": "2607.02115",
+      "title": "Planning over Matrix-Factorization MDPs for Candidate Generation",
+      "authors": [
+        "Mikhail Trapeznikov",
+        "Maksim Utushkin"
+      ],
+      "published": "2026-07-02T12:50:45+00:00",
+      "first_seen": "2026-07-04T09:56:04.970967",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.01387": {
+      "arxiv_id": "2607.01387",
+      "title": "Bi-NAS: Towards Effective and Personalized Explanation for Recommender Systems via Bi-Level Neural Architecture Search",
+      "authors": [
+        "Longfeng Wu",
+        "Yao Zhou",
+        "Tong Zeng",
+        "Zhimin Peng",
+        "Bhanu Pratap Singh Rawat",
+        "Lecheng Zheng",
+        "Giovanni Seni",
+        "Dawei Zhou"
+      ],
+      "published": "2026-07-01T18:47:42+00:00",
+      "first_seen": "2026-07-04T09:56:04.970979",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2607.01824": {
+      "arxiv_id": "2607.01824",
+      "title": "Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking",
+      "authors": [
+        "Nikil Roashan Selvam",
+        "Jay Baxter",
+        "Sophie Hilgard",
+        "Brad Miller",
+        "Keith Coleman",
+        "Ellen Vitercik",
+        "Sanmi Koyejo"
+      ],
+      "published": "2026-07-02T07:46:44+00:00",
+      "first_seen": "2026-07-04T09:56:08.834326",
+      "topic": "Collaborative Filtering",
+      "categories": [
         "cs.LG"
       ]
     }

@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-02 | [Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking](https://arxiv.org/abs/2607.01824) | Crowdsourced fact-checking systems have been adopted by major social media companies such as X, Meta, TikTok and Google with the aim of combating misleading information at scale without relying on... |
 | 2026-06-30 | [Computer vision-based neural networks for radioisotope identification in urban environments](https://arxiv.org/abs/2607.00270) | Algorithm development for radioisotope identification in mobile urban search scenarios face significant challenges from non-uniform backgrounds, momentary source encounters, and severe class... |
 | 2026-06-30 | [Direction-Magnitude Decomposition for Low-Rank Matrix Optimization: Faster Convergence and Saddle-to-saddle Dynamics](https://arxiv.org/abs/2606.31390) | Low-rank matrix optimization is often carried out via the Burer-Monteiro (BM) formulation, but choosing the factorization rank $r$ is delicate and can substantially slow optimization. |
 | 2026-06-29 | [Muon learns balanced solutions in matrix factorization without slow saddle-to-saddle dynamics](https://arxiv.org/abs/2606.30509) | Matrix factorization (i.e., problems of the form $\min_{\mathbf{P},\mathbf{Q}} \\|\mathbf{M}^\star - \mathbf{P}^\top\mathbf{Q}\\|_\mathrm{F}^2$) is a minimal learning problem that exhibits both... |

@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-01 | [Unveiling the Non-Monotonic Effect of Privacy on Generalization under Byzantine Robustness](https://arxiv.org/abs/2607.01492) | Recent work has established a fundamental trilemma between Byzantine robustness, local differential privacy (LDP), and optimization error in distributed learning. |
 | 2026-07-01 | [The Binary Tree Mechanism is Optimal for Approximate Differentially Private Continual Counting](https://arxiv.org/abs/2607.00876) | Private continual counting is a fundamental problem in differential privacy: given a binary stream of length $n$, where each $1$ corresponds to the contribution of one individual, the goal is to... |
 | 2026-06-29 | [A Sieve-Accelerated Quadrature Method for Exact Privacy Accounting in the 2020 U.S. Decennial Census](https://arxiv.org/abs/2606.29835) | Paper titled: A Sieve-Accelerated Quadrature Method for Exact Privacy Accounting in the 2020 U.S. Decennial Census |
 | 2026-06-28 | [Bit-ViP: Leveraging Bit-planes to Preserve Visual Privacy in Images through Obfuscation](https://arxiv.org/abs/2606.29417) | The unprecedented growth of computer vision applications, such as surveillance systems and social media, raises security and visual privacy concerns, especially when data is stored on cloud servers. |
