@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-06 | [On the Complexity of Entrywise Power Matrix Factorization](https://arxiv.org/abs/2607.04875) | Given a nonnegative matrix $X$, a factorization rank $r$ and a real parameter $p$, entrywise power matrix factorization (EPMF) looks for a low-rank matrix $X_r$ such that $X = \|X_r\|^{\circ p}$ (exact... |
 | 2026-07-02 | [Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking](https://arxiv.org/abs/2607.01824) | Crowdsourced fact-checking systems have been adopted by major social media companies such as X, Meta, TikTok and Google with the aim of combating misleading information at scale without relying on... |
 | 2026-06-30 | [Computer vision-based neural networks for radioisotope identification in urban environments](https://arxiv.org/abs/2607.00270) | Algorithm development for radioisotope identification in mobile urban search scenarios face significant challenges from non-uniform backgrounds, momentary source encounters, and severe class... |
 | 2026-06-30 | [Direction-Magnitude Decomposition for Low-Rank Matrix Optimization: Faster Convergence and Saddle-to-saddle Dynamics](https://arxiv.org/abs/2606.31390) | Low-rank matrix optimization is often carried out via the Burer-Monteiro (BM) formulation, but choosing the factorization rank $r$ is delicate and can substantially slow optimization. |

@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-04 | [Order-based Causal Discovery for Multistage Processes](https://arxiv.org/abs/2607.03971) | Causality has become an increasingly important tool for gaining a deeper understanding of complex systems. |
-| 2026-07-03 | [A Precedent-Guided Co-Scientist for Side-Effect-Aware Drug Redesign](https://arxiv.org/abs/2607.02944) | We propose PRECEDE, a precedent-guided co-scientist for side-effect-aware drug redesign that revises a parent compound to mitigate a specified side effect while preserving therapeutic function. |
 | 2026-07-01 | [DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors](https://arxiv.org/abs/2607.00889) | We present DeWorldSG, a novel framework that generates spatio-temporally robust 3D Semantic Scene Graphs from RGB-D sequences. |
 | 2026-07-01 | [MolSafeEval: A Benchmark for Uncovering Safety Risks in AI-Generated Molecules](https://arxiv.org/abs/2607.00464) | Current molecular generation benchmarks emphasize task complexity, molecule novelty, and property alignment; they largely overlook a critical concern: the potential safety risks of AI-generated... |
 | 2026-06-25 | [Not All Relations Rotate Alike: Transformation-Aware Decoupling for Viewpoint-Robust 3D Scene Graph Generation](https://arxiv.org/abs/2606.27412) | 3D Scene Graph Generation (3DSGG) represents 3D scenes as structured object-relation-object graphs, providing a compact relational abstraction for spatial understanding. |
