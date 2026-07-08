@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-07T10:41:36.983066",
+  "last_updated": "2026-07-08T10:02:05.121055",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -41747,6 +41747,232 @@
         "cs.IR",
         "math.CO",
         "stat.ML"
+      ]
+    },
+    "2607.06546": {
+      "arxiv_id": "2607.06546",
+      "title": "Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion",
+      "authors": [
+        "Shervin Khalafi",
+        "Igor Krawczuk",
+        "Sergio Rozada",
+        "Charilaos Kanatsoulis",
+        "Antonio G Marques",
+        "Alejandro Ribeiro"
+      ],
+      "published": "2026-07-07T17:52:17+00:00",
+      "first_seen": "2026-07-08T10:01:41.681086",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.06224": {
+      "arxiv_id": "2607.06224",
+      "title": "Canopy: A Heterograph Foundation Model for Metabolic Engineering",
+      "authors": [
+        "Jake Bowden",
+        "Laurence Legon",
+        "Satnam Surae"
+      ],
+      "published": "2026-07-07T12:48:38+00:00",
+      "first_seen": "2026-07-08T10:01:41.681098",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.05736": {
+      "arxiv_id": "2607.05736",
+      "title": "Multimodal Molecular Representation Learning with Graph Neural Networks, Deep & Cross Networks, and SMILES Embeddings",
+      "authors": [
+        "Qiwei Han",
+        "Chi Zhou",
+        "Ruobing Wang",
+        "Zheng Ma"
+      ],
+      "published": "2026-07-07T01:47:44+00:00",
+      "first_seen": "2026-07-08T10:01:41.681129",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.05613": {
+      "arxiv_id": "2607.05613",
+      "title": "SafeImpute: Reliable Clinical Data Imputation via Conformal Selection",
+      "authors": [
+        "Xinrui He",
+        "Mengting Ai",
+        "Junting Wang",
+        "Curtiss B. Cook",
+        "Jingrui He"
+      ],
+      "published": "2026-07-06T20:16:21+00:00",
+      "first_seen": "2026-07-08T10:01:41.681138",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.06521": {
+      "arxiv_id": "2607.06521",
+      "title": "Differentially private quantum sensor networks",
+      "authors": [
+        "Daniel J. Spencer",
+        "Kaiyan Shi",
+        "Emil T. Khabiboulline",
+        "Gorjan Alagic",
+        "Alexey V. Gorshkov"
+      ],
+      "published": "2026-07-07T17:27:30+00:00",
+      "first_seen": "2026-07-08T10:01:50.077658",
+      "topic": "Differential Privacy",
+      "categories": [
+        "quant-ph",
+        "cs.CR",
+        "cs.IT"
+      ]
+    },
+    "2607.06320": {
+      "arxiv_id": "2607.06320",
+      "title": "Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy",
+      "authors": [
+        "Nikita P. Kalinin",
+        "Rasmus Pagh"
+      ],
+      "published": "2026-07-07T14:20:00+00:00",
+      "first_seen": "2026-07-08T10:01:50.077670",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2607.05866": {
+      "arxiv_id": "2607.05866",
+      "title": "Differentially Private Natural Gradient Descent",
+      "authors": [
+        "Pan Li",
+        "Kai Chen",
+        "Shuai Chang",
+        "Shengzhi Zhang",
+        "Peizhuo Lv",
+        "Jinwen He"
+      ],
+      "published": "2026-07-07T05:49:08+00:00",
+      "first_seen": "2026-07-08T10:01:50.077677",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.06371": {
+      "arxiv_id": "2607.06371",
+      "title": "The Impact of Security and Privacy Controls on Users' Emotional Engagement with Generative AI Chatbots",
+      "authors": [
+        "Jabari Kwesi",
+        "Jiaxun Cao",
+        "Hailee Cunningham",
+        "Pardis Emami-Naeini"
+      ],
+      "published": "2026-07-07T15:10:18+00:00",
+      "first_seen": "2026-07-08T10:01:59.172662",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2607.06344": {
+      "arxiv_id": "2607.06344",
+      "title": "Responsible Personalisation: The Double-Edged Sword of Personalisation in Human-Robot Interaction",
+      "authors": [
+        "Antonio Andriella",
+        "Jauwairia Nasir",
+        "Andrea Rezzani",
+        "Alyssa Kubota",
+        "Dimitri Lacroix",
+        "Tamlin Love",
+        "Aniol Civit",
+        "Vicky Charisi",
+        "Elisabeth Andre",
+        "Wing-Yue Geoffrey Louie"
+      ],
+      "published": "2026-07-07T14:40:20+00:00",
+      "first_seen": "2026-07-08T10:01:59.172674",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2607.06076": {
+      "arxiv_id": "2607.06076",
+      "title": "Designing Computerized Gait Analysis for Pediatric Care: Clinician Perspectives on Sensing, Workflow, and Care Environments",
+      "authors": [
+        "Elizabeth Hong",
+        "Andrea Green",
+        "Ge Wang",
+        "Yiwen Dong"
+      ],
+      "published": "2026-07-07T09:47:01+00:00",
+      "first_seen": "2026-07-08T10:01:59.172681",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2607.05734": {
+      "arxiv_id": "2607.05734",
+      "title": "SCOReD: Student-Aware CoT Optimization for Recommendation Distillation",
+      "authors": [
+        "Haz Sameen Shahgir",
+        "Yufei Li",
+        "Frank Shyu",
+        "Luke Simon",
+        "Sandeep Pandey",
+        "Xi Liu",
+        "Yue Dong"
+      ],
+      "published": "2026-07-07T01:40:56+00:00",
+      "first_seen": "2026-07-08T10:01:59.172688",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2607.05680": {
+      "arxiv_id": "2607.05680",
+      "title": "Beyond Accuracy: How Humans Evaluate Legally Correct but Socially Controversial Legal Advice from Machines",
+      "authors": [
+        "Benjamin Minhao Chen",
+        "Zhiyu Li"
+      ],
+      "published": "2026-07-06T22:50:14+00:00",
+      "first_seen": "2026-07-08T10:01:59.172693",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2607.05452": {
+      "arxiv_id": "2607.05452",
+      "title": "Exogenous Dropout: A Simple, Strong Baseline for Corruption-Robust Time Series Forecasting with Covariates",
+      "authors": [
+        "Hao Hu",
+        "Xue-shan Ai"
+      ],
+      "published": "2026-07-05T15:59:15+00:00",
+      "first_seen": "2026-07-08T10:01:59.172699",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
       ]
     }
   }

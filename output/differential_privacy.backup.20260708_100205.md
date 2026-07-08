@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-07 | [Differentially private quantum sensor networks](https://arxiv.org/abs/2607.06521) | Quantum sensing is a promising technology capable of demonstrating clear advantage over comparable classical techniques for precise measurement. |
-| 2026-07-07 | [Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy](https://arxiv.org/abs/2607.06320) | We present the dithered Gaussian mechanism, a novel alternative to the discrete Gaussian mechanism for differential privacy that discretizes the private output rather than the noise distribution... |
-| 2026-07-07 | [Differentially Private Natural Gradient Descent](https://arxiv.org/abs/2607.05866) | Under a fixed privacy budget, the utility of differentially private (DP) training is ultimately determined by its optimization efficiency. |
 | 2026-07-06 | [From Multiplicity to Vulnerability: Privacy Amplification Risk from One-Dataset-Multiple-Model Exposure](https://arxiv.org/abs/2607.05111) | To efficiently exploit a valuable data source (e.g., facial or medical images), it is frequently harnessed to fulfill multiple learning objectives (e.g., facial recognition, age estimation, and race... |
 | 2026-07-05 | [Ball Differential Privacy: How to Mitigate Data Reconstruction with Less Noise](https://arxiv.org/abs/2607.04209) | Vector embeddings of raw records, while not human-readable, do not preserve record privacy: an adversary can reconstruct training records from a released model even when that model is a simple convex... |
 | 2026-07-03 | [Scalable Differentially Private Data Compression via Diffusion and Stochastic Codes](https://arxiv.org/abs/2607.03392) | The ever-increasing collection of personal data has created mounting pressure to develop technologies that protect sensitive aspects of individual identity. |
