@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-08 | [Collaborative Synthetic Data Generation for Knowledge Transfer in Federated Learning](https://arxiv.org/abs/2607.07565) | One-shot federated learning (OSFL) addresses the communication overhead of federated learning by limiting training to a single round, but doing so without sacrificing model quality is non-trivial,... |
-| 2026-07-08 | [Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Private Synthetic Tabular Data](https://arxiv.org/abs/2607.07471) | Machine learning models are increasingly deployed in high-stakes domains, raising concerns about both privacy and fairness. |
-| 2026-07-07 | [Behavioral Privacy Leakage in Agentic Negotiation: Formalizing and Mitigating Inference Attacks via Randomized Policies](https://arxiv.org/abs/2607.06815) | Autonomous negotiation agents are increasingly deployed in high-stakes settings such as insurance and procurement. |
 | 2026-07-07 | [Differentially private quantum sensor networks](https://arxiv.org/abs/2607.06521) | Quantum sensing is a promising technology capable of demonstrating clear advantage over comparable classical techniques for precise measurement. |
 | 2026-07-07 | [Dithered Gaussian Mechanism for Randomness-Efficient Differential Privacy](https://arxiv.org/abs/2607.06320) | We present the dithered Gaussian mechanism, a novel alternative to the discrete Gaussian mechanism for differential privacy that discretizes the private output rather than the noise distribution... |
 | 2026-07-07 | [Differentially Private Natural Gradient Descent](https://arxiv.org/abs/2607.05866) | Under a fixed privacy budget, the utility of differentially private (DP) training is ultimately determined by its optimization efficiency. |

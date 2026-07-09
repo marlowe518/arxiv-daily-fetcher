@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-08 | [DiPhon: Diffusion on Graphons for Scalable Graph Generation](https://arxiv.org/abs/2607.07232) | Diffusion models represent a leading paradigm for graph generation, with notable impact in domains such as molecular design. |
 | 2026-07-04 | [Order-based Causal Discovery for Multistage Processes](https://arxiv.org/abs/2607.03971) | Causality has become an increasingly important tool for gaining a deeper understanding of complex systems. |
 | 2026-07-03 | [A Precedent-Guided Co-Scientist for Side-Effect-Aware Drug Redesign](https://arxiv.org/abs/2607.02944) | We propose PRECEDE, a precedent-guided co-scientist for side-effect-aware drug redesign that revises a parent compound to mitigate a specified side effect while preserving therapeutic function. |
 | 2026-07-01 | [DeWorldSG: Depth-Aware 3D Semantic Scene Graph Generation via World-Model Priors](https://arxiv.org/abs/2607.00889) | We present DeWorldSG, a novel framework that generates spatio-temporally robust 3D Semantic Scene Graphs from RGB-D sequences. |

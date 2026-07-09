@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-08T10:02:05.121055",
+  "last_updated": "2026-07-09T10:42:17.720595",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -41972,6 +41972,392 @@
       "first_seen": "2026-07-08T10:01:59.172699",
       "topic": "Recommender Systems",
       "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.07680": {
+      "arxiv_id": "2607.07680",
+      "title": "Any-Dimensional Learning by Sampling",
+      "authors": [
+        "Eitan Levin",
+        "Venkat Chandrasekaran"
+      ],
+      "published": "2026-07-08T17:38:29+00:00",
+      "first_seen": "2026-07-09T10:41:47.060313",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "math.ST",
+        "cs.LG",
+        "math.PR"
+      ]
+    },
+    "2607.07611": {
+      "arxiv_id": "2607.07611",
+      "title": "Asymmetric Focal Loss Improves Graph Neural Network Prediction of Drug-Drug Interactions",
+      "authors": [
+        "Faranak Hatami",
+        "Mousa Moradi"
+      ],
+      "published": "2026-07-08T16:28:57+00:00",
+      "first_seen": "2026-07-09T10:41:47.060323",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "physics.comp-ph"
+      ]
+    },
+    "2607.07510": {
+      "arxiv_id": "2607.07510",
+      "title": "Stability of Flow Models for Graph Signals",
+      "authors": [
+        "Martin Schmidt",
+        "Gonzalo Mateos"
+      ],
+      "published": "2026-07-08T15:04:39+00:00",
+      "first_seen": "2026-07-09T10:41:47.060328",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SP",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.07089": {
+      "arxiv_id": "2607.07089",
+      "title": "Structural Adversarial Attacks on Relational Deep Learning under Integrity Constraints",
+      "authors": [
+        "Alan Gany",
+        "Bogdan Cautis",
+        "Silviu Maniu"
+      ],
+      "published": "2026-07-08T07:23:09+00:00",
+      "first_seen": "2026-07-09T10:41:47.060333",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.DB"
+      ]
+    },
+    "2607.06833": {
+      "arxiv_id": "2607.06833",
+      "title": "Generative Diffusion Models of Stochastic Graph Signals",
+      "authors": [
+        "Yiğit Berkay Uslu",
+        "Samar Hadou",
+        "Sergio Rozada",
+        "Shirin Saeedi Bidokhti",
+        "Alejandro Ribeiro"
+      ],
+      "published": "2026-07-07T22:02:13+00:00",
+      "first_seen": "2026-07-09T10:41:47.060339",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SP"
+      ]
+    },
+    "2607.07232": {
+      "arxiv_id": "2607.07232",
+      "title": "DiPhon: Diffusion on Graphons for Scalable Graph Generation",
+      "authors": [
+        "Sergio Rozada",
+        "Yiming Qin",
+        "Manuel Madeira",
+        "Pascal Frossard",
+        "Alejandro Ribeiro"
+      ],
+      "published": "2026-07-08T10:15:17+00:00",
+      "first_seen": "2026-07-09T10:41:49.525451",
+      "topic": "Graph Generation",
+      "categories": [
+        "stat.ML",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.07565": {
+      "arxiv_id": "2607.07565",
+      "title": "Collaborative Synthetic Data Generation for Knowledge Transfer in Federated Learning",
+      "authors": [
+        "Maximilian Andreas Hoefler",
+        "Karsten Mueller",
+        "Wojciech Samek"
+      ],
+      "published": "2026-07-08T15:56:58+00:00",
+      "first_seen": "2026-07-09T10:41:54.012477",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.07471": {
+      "arxiv_id": "2607.07471",
+      "title": "Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Private Synthetic Tabular Data",
+      "authors": [
+        "Vinícius Gabriel Angelozzi",
+        "Héber H. Arcolezi"
+      ],
+      "published": "2026-07-08T14:33:00+00:00",
+      "first_seen": "2026-07-09T10:41:54.012490",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    "2607.06815": {
+      "arxiv_id": "2607.06815",
+      "title": "Behavioral Privacy Leakage in Agentic Negotiation: Formalizing and Mitigating Inference Attacks via Randomized Policies",
+      "authors": [
+        "Barkha Rani"
+      ],
+      "published": "2026-07-07T21:22:28+00:00",
+      "first_seen": "2026-07-09T10:41:54.012496",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2607.07314": {
+      "arxiv_id": "2607.07314",
+      "title": "FedCVESA: Taking Away Training Data in Federated Learning via Correlation Value Encoding and Segmented Aggregation",
+      "authors": [
+        "Chongkai Li",
+        "Bang Zhang",
+        "Wenjian Luo"
+      ],
+      "published": "2026-07-08T11:55:00+00:00",
+      "first_seen": "2026-07-09T10:42:10.378510",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    "2607.06979": {
+      "arxiv_id": "2607.06979",
+      "title": "Robust Federated Learning Under Real-World Client Churn",
+      "authors": [
+        "Dhruv Garg",
+        "Neha Lakhani",
+        "Debopam Sanyal",
+        "Myungjin Lee",
+        "Alexey Tumanov",
+        "Ada Gavrilovska"
+      ],
+      "published": "2026-07-08T04:02:43+00:00",
+      "first_seen": "2026-07-09T10:42:10.378519",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.06963": {
+      "arxiv_id": "2607.06963",
+      "title": "Large Language Models (LLMs) and Generative AI in Cybersecurity and Privacy: A Survey of Dual-Use Risks, AI-Generated Malware, Explainability, and Defensive Strategies",
+      "authors": [
+        "Kiarash Ahi",
+        "Saeed Valizadeh"
+      ],
+      "published": "2026-07-08T03:40:26+00:00",
+      "first_seen": "2026-07-09T10:42:10.378525",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2607.06768": {
+      "arxiv_id": "2607.06768",
+      "title": "AirPASS: Over-the-Air Federated Learning via Pinching Antenna Systems",
+      "authors": [
+        "Seyed Mohammad Azimi-Abarghouyi",
+        "Christopher G. Brinton"
+      ],
+      "published": "2026-07-07T19:55:46+00:00",
+      "first_seen": "2026-07-09T10:42:10.378529",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.IT",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.06653": {
+      "arxiv_id": "2607.06653",
+      "title": "Dual Attention Heads for Personalized Federated Learning in ECG Classification",
+      "authors": [
+        "Kien Le",
+        "Joseph Lindley",
+        "Quoc Bao Phan",
+        "Tuy Tan Nguyen"
+      ],
+      "published": "2026-07-07T17:42:56+00:00",
+      "first_seen": "2026-07-09T10:42:10.378533",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.06651": {
+      "arxiv_id": "2607.06651",
+      "title": "Entropy-Guided Tensor Compression for Multimodal Federated Learning on Edge Devices",
+      "authors": [
+        "Quoc Bao Phan",
+        "Tuy Tan Nguyen"
+      ],
+      "published": "2026-07-07T17:22:52+00:00",
+      "first_seen": "2026-07-09T10:42:10.378537",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.06616": {
+      "arxiv_id": "2607.06616",
+      "title": "WHERE to Generate Matters: Budget-Aware Synthetic Augmentation for Label Skewed Federated Learning",
+      "authors": [
+        "Sangwoo Lee",
+        "Sunghwan Park",
+        "Jaewoo Lee"
+      ],
+      "published": "2026-07-07T08:25:04+00:00",
+      "first_seen": "2026-07-09T10:42:10.378542",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    "2607.06612": {
+      "arxiv_id": "2607.06612",
+      "title": "PRoVeFL: Private Robust and Verifiable Aggregation in Federated Learning",
+      "authors": [
+        "Harsh Kasyap",
+        "Anil Kumar Pradhan",
+        "Ugur Ilker Atmaca",
+        "Graham Cormode",
+        "Carsten Maple"
+      ],
+      "published": "2026-07-07T07:10:43+00:00",
+      "first_seen": "2026-07-09T10:42:10.378547",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2607.07304": {
+      "arxiv_id": "2607.07304",
+      "title": "Nonlinear Bandit",
+      "authors": [
+        "Tianshuo Zheng",
+        "Ting Wu",
+        "Zhi-Hua Zhou",
+        "Keqin Liu"
+      ],
+      "published": "2026-07-08T11:47:08+00:00",
+      "first_seen": "2026-07-09T10:42:13.596822",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.07108": {
+      "arxiv_id": "2607.07108",
+      "title": "Seeing and Reflecting: Multimodal Memory-Enhanced Agent Collaboration for Recommendation",
+      "authors": [
+        "Hao Cong",
+        "Huizu Lin",
+        "Zihan Wang",
+        "Chengkai Huang",
+        "Quan Z. Sheng",
+        "Lina Yao"
+      ],
+      "published": "2026-07-08T07:50:03+00:00",
+      "first_seen": "2026-07-09T10:42:13.596831",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.07103": {
+      "arxiv_id": "2607.07103",
+      "title": "A knowledge-augmented dataset of high-risk driving scenarios with LLM annotations for autonomous driving",
+      "authors": [
+        "Heye Huang",
+        "Jingguang Li",
+        "Zhiyuan Zhou",
+        "Paul Liang",
+        "Mingyu Wu",
+        "Kitae Jang",
+        "Jianqiang Wang"
+      ],
+      "published": "2026-07-08T07:39:21+00:00",
+      "first_seen": "2026-07-09T10:42:13.596835",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.DB"
+      ]
+    },
+    "2607.06875": {
+      "arxiv_id": "2607.06875",
+      "title": "Video2Reaction: Mapping Video to Audience Reaction Distribution in the Wild",
+      "authors": [
+        "Trang Nguyen",
+        "Sidong Zhang",
+        "Shiv Shankar",
+        "Gauri Jagatap",
+        "Deepak Chandran",
+        "Andrea Fanelli",
+        "Madalina Fiterau"
+      ],
+      "published": "2026-07-08T00:17:20+00:00",
+      "first_seen": "2026-07-09T10:42:13.596840",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2607.06765": {
+      "arxiv_id": "2607.06765",
+      "title": "When and How to Ask: Dynamic Preference Elicitation Strategies for Conversational Recommendation",
+      "authors": [
+        "Feng Xia",
+        "Shuo Zhang",
+        "Xi Wang"
+      ],
+      "published": "2026-07-07T19:54:00+00:00",
+      "first_seen": "2026-07-09T10:42:13.596845",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.06590": {
+      "arxiv_id": "2607.06590",
+      "title": "AI for Cultural Heritage Textiles: Fine-Tuned Latent Diffusion for Novel Ulos Motif Synthesis",
+      "authors": [
+        "Humasak Tommy Argo Simanjuntak",
+        "Jesika Purba",
+        "Sitogab Girsang",
+        "Widya Manurung",
+        "Samuel Situmeang",
+        "Arlinta Barus",
+        "Daniel Oranova Siahaan"
+      ],
+      "published": "2026-07-06T08:04:46+00:00",
+      "first_seen": "2026-07-09T10:42:13.596849",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
         "cs.LG"
       ]
     }
