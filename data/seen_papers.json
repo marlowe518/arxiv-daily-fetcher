@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-09T10:42:17.720595",
+  "last_updated": "2026-07-10T10:41:09.104323",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -42358,6 +42358,320 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2607.08659": {
+      "arxiv_id": "2607.08659",
+      "title": "EdgeRefine: Privacy-Utility Balance for Graphs via Jaccard Sampling under Edge Differential Privacy",
+      "authors": [
+        "Wenxiu Ding",
+        "Muzhi Liu",
+        "Zheng Yan",
+        "Mingjun Wang",
+        "Yifan Zhao",
+        "Qiao Liu"
+      ],
+      "published": "2026-07-09T16:28:05+00:00",
+      "first_seen": "2026-07-10T10:40:45.097050",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.08454": {
+      "arxiv_id": "2607.08454",
+      "title": "Spatio-Temporal Scheduling Prediction Under Backhaul Delay for Resilient Coordinated Beamforming",
+      "authors": [
+        "Prashant Kumar Singh",
+        "Shubham Vaishnav",
+        "Ahmet Hasim Gökceoglu",
+        "Li Wang"
+      ],
+      "published": "2026-07-09T13:17:22+00:00",
+      "first_seen": "2026-07-10T10:40:45.097062",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.NI",
+        "cs.AI"
+      ]
+    },
+    "2607.07935": {
+      "arxiv_id": "2607.07935",
+      "title": "path_boost: A Python Package for Interpretable Graph-Level Prediction using Path-Based Gradient Boosting",
+      "authors": [
+        "Claudio Meggio",
+        "Johan Pensar",
+        "Riccardo De Bin"
+      ],
+      "published": "2026-07-08T21:31:48+00:00",
+      "first_seen": "2026-07-10T10:40:45.097067",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.07850": {
+      "arxiv_id": "2607.07850",
+      "title": "A Graph Neural Network Model for Real-Time Gesture Recognition Based on sEMG Signals",
+      "authors": [
+        "Pragatheeswaran Vipulanandan",
+        "Kamal Premaratne",
+        "Manohar Murthi"
+      ],
+      "published": "2026-07-08T18:29:52+00:00",
+      "first_seen": "2026-07-10T10:40:45.097073",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.07773": {
+      "arxiv_id": "2607.07773",
+      "title": "Graph-Regularized Deep Learning for EEG-Based Emotion Recognition with Psychologically-Grounded Label Structure",
+      "authors": [
+        "Dongyang Kuang",
+        "Zizheng Ma",
+        "Yushan Zhang",
+        "Xiaocong Zeng"
+      ],
+      "published": "2026-07-08T16:41:51+00:00",
+      "first_seen": "2026-07-10T10:40:45.097078",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.08404": {
+      "arxiv_id": "2607.08404",
+      "title": "DrugGen 2: A disease-aware language model for enhancing drug discovery",
+      "authors": [
+        "Ali Motahharynia",
+        "Mohammadreza Ghaffarzadeh-Esfahani",
+        "Mahsa Sheikholeslami",
+        "Navid Mazrouei",
+        "Matin Irajpour",
+        "Yousof Gheisari",
+        "Hajar Sirous"
+      ],
+      "published": "2026-07-09T12:29:33+00:00",
+      "first_seen": "2026-07-10T10:40:48.391826",
+      "topic": "Graph Generation",
+      "categories": [
+        "q-bio.QM",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.08651": {
+      "arxiv_id": "2607.08651",
+      "title": "Secure Decentralized Federated Learning via Gossip and Virtual Voting",
+      "authors": [
+        "Amirhossein Taherpour",
+        "Xiaodong Wang"
+      ],
+      "published": "2026-07-09T16:21:13+00:00",
+      "first_seen": "2026-07-10T10:41:00.140145",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2607.08595": {
+      "arxiv_id": "2607.08595",
+      "title": "Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction",
+      "authors": [
+        "Hyunho Mo",
+        "Djura Smits",
+        "Mahlet A. Birhanu",
+        "Maarten J. G. Leening",
+        "Daniel Bos",
+        "Pim van der Harst",
+        "Esther E. Bron"
+      ],
+      "published": "2026-07-09T15:29:04+00:00",
+      "first_seen": "2026-07-10T10:41:00.140158",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.HC"
+      ]
+    },
+    "2607.08219": {
+      "arxiv_id": "2607.08219",
+      "title": "Benchmark Evaluation of Feredated Learning on Multi-organ Images",
+      "authors": [
+        "Junbin Mao",
+        "Xu Tian",
+        "Jianchun Zhu",
+        "Ludi Li",
+        "Jin Liu"
+      ],
+      "published": "2026-07-09T08:14:15+00:00",
+      "first_seen": "2026-07-10T10:41:00.140164",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2607.08014": {
+      "arxiv_id": "2607.08014",
+      "title": "FedTR: Federated Learning Framework with Transfer Learning for Industrial Visual Inspection",
+      "authors": [
+        "Vikash Sathiamoorthy",
+        "Shuo Huai",
+        "Hao Kong",
+        "Di Liu",
+        "Wendy Yong Yi Loy",
+        "Christian Makaya",
+        "Daren Ho",
+        "Ravi Subramaniam",
+        "Qian Lin",
+        "Weichen Liu"
+      ],
+      "published": "2026-07-09T00:40:33+00:00",
+      "first_seen": "2026-07-10T10:41:00.140170",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2607.08013": {
+      "arxiv_id": "2607.08013",
+      "title": "Collate: Collaborative Neural Network Learning for Latency-Critical Edge Systems",
+      "authors": [
+        "Shuo Huai",
+        "Di Liu",
+        "Hao Kong",
+        "Xiangzhong Luo",
+        "Weichen Liu",
+        "Ravi Subramaniam",
+        "Christian Makaya",
+        "Qian Lin"
+      ],
+      "published": "2026-07-09T00:39:20+00:00",
+      "first_seen": "2026-07-10T10:41:00.140174",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2607.08703": {
+      "arxiv_id": "2607.08703",
+      "title": "MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning",
+      "authors": [
+        "Harrison Rush",
+        "Vincent Davis",
+        "Simone Antonelli",
+        "Vikash Singh",
+        "Jesse Shrader",
+        "Emanuele Rossi"
+      ],
+      "published": "2026-07-09T17:09:20+00:00",
+      "first_seen": "2026-07-10T10:41:02.970491",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.08365": {
+      "arxiv_id": "2607.08365",
+      "title": "DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify",
+      "authors": [
+        "Meng Zhao",
+        "Chunmei Liu",
+        "Qinyong Wang"
+      ],
+      "published": "2026-07-09T11:22:50+00:00",
+      "first_seen": "2026-07-10T10:41:02.970501",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.08299": {
+      "arxiv_id": "2607.08299",
+      "title": "Classifier Chain-based Pathological Test Recommendation",
+      "authors": [
+        "Abu Rafe Md Jamil",
+        "Nayan Malakar"
+      ],
+      "published": "2026-07-09T09:41:34+00:00",
+      "first_seen": "2026-07-10T10:41:02.970506",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.08256": {
+      "arxiv_id": "2607.08256",
+      "title": "Best-of-$N$ TTS Evaluation is Confounded by ASR Family Alignment",
+      "authors": [
+        "Taehyung Yu",
+        "Seongjae Kang"
+      ],
+      "published": "2026-07-09T09:01:03+00:00",
+      "first_seen": "2026-07-10T10:41:02.970511",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG",
+        "cs.SD"
+      ]
+    },
+    "2607.08202": {
+      "arxiv_id": "2607.08202",
+      "title": "PIT-SUN: A Deployable Empirical Marginal Transform Framework with Expectation-Consistent Recovery for Regression in Recommender Systems",
+      "authors": [
+        "Mingyu Zhao",
+        "Zhaohan Li",
+        "Zhenxiong Miao",
+        "Xu Zhang",
+        "Dewei Leng",
+        "Yanan Niu",
+        "Kun Gai"
+      ],
+      "published": "2026-07-09T08:00:06+00:00",
+      "first_seen": "2026-07-10T10:41:02.970516",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.08193": {
+      "arxiv_id": "2607.08193",
+      "title": "Open-ended Multi-agent Autocurricula via Visual Inspection of Policies with Multi-modal LLMs",
+      "authors": [
+        "Lorenzo Pantè",
+        "Andrea Fanti",
+        "Roberto Capobianco"
+      ],
+      "published": "2026-07-09T07:48:36+00:00",
+      "first_seen": "2026-07-10T10:41:02.970521",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.07763": {
+      "arxiv_id": "2607.07763",
+      "title": "Unlocking Temporal Generalization in Hamiltonian Video Dynamics Models",
+      "authors": [
+        "Eli Laird",
+        "Corey Clark"
+      ],
+      "published": "2026-07-08T15:31:53+00:00",
+      "first_seen": "2026-07-10T10:41:02.970526",
+      "topic": "Recommender Systems",
+      "categories": [
         "cs.LG"
       ]
     }
