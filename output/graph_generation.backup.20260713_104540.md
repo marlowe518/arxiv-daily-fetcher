@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-10 | [Autoregressive latent diffusion for 3D molecule generation](https://arxiv.org/abs/2607.09277) | Three-dimensional (3D) molecule generation has been dominated by diffusion models, which achieve strong generation quality but typically require the molecular size to be specified a priori. |
 | 2026-07-09 | [DrugGen 2: A disease-aware language model for enhancing drug discovery](https://arxiv.org/abs/2607.08404) | Current computational approaches for drug design typically focus on generating molecules conditioned on specific targets or general molecular properties, often neglecting the influence of disease... |
 | 2026-07-08 | [DiPhon: Diffusion on Graphons for Scalable Graph Generation](https://arxiv.org/abs/2607.07232) | Diffusion models represent a leading paradigm for graph generation, with notable impact in domains such as molecular design. |
 | 2026-07-04 | [Order-based Causal Discovery for Multistage Processes](https://arxiv.org/abs/2607.03971) | Causality has become an increasingly important tool for gaining a deeper understanding of complex systems. |

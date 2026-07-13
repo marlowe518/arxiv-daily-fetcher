@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-10 | [Federated Learning Architecture: Data Privacy and System Security Approaches](https://arxiv.org/abs/2607.09391) | This study explores the integration of homomorphic encryption and differential privacy techniques to enhance data privacy and security in Federated Learning (FL) systems. |
 | 2026-07-08 | [Collaborative Synthetic Data Generation for Knowledge Transfer in Federated Learning](https://arxiv.org/abs/2607.07565) | One-shot federated learning (OSFL) addresses the communication overhead of federated learning by limiting training to a single round, but doing so without sacrificing model quality is non-trivial,... |
 | 2026-07-08 | [Where to Intervene? Benchmarking Fairness-Aware Learning on Differentially Private Synthetic Tabular Data](https://arxiv.org/abs/2607.07471) | Machine learning models are increasingly deployed in high-stakes domains, raising concerns about both privacy and fairness. |
 | 2026-07-07 | [Behavioral Privacy Leakage in Agentic Negotiation: Formalizing and Mitigating Inference Attacks via Randomized Policies](https://arxiv.org/abs/2607.06815) | Autonomous negotiation agents are increasingly deployed in high-stakes settings such as insurance and procurement. |

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-12T09:38:48.960129",
+  "last_updated": "2026-07-13T10:45:40.451339",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -42673,6 +42673,197 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG"
+      ]
+    },
+    "2607.09528": {
+      "arxiv_id": "2607.09528",
+      "title": "TSAI-MetaFraud: A Benchmark Dataset for Financial Fraud Transaction and Behavioral Risk Detection in Metaverse Ecosystems",
+      "authors": [
+        "Refat Ishrak Hemel",
+        "Ehsan Hallaji",
+        "Roozbeh Razavi-Far"
+      ],
+      "published": "2026-07-10T15:36:13+00:00",
+      "first_seen": "2026-07-13T10:45:16.514589",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DB",
+        "cs.SI"
+      ]
+    },
+    "2607.09372": {
+      "arxiv_id": "2607.09372",
+      "title": "Graph Neural Networks for Scalable and Transferable Node Centrality Approximation",
+      "authors": [
+        "Samra Sana",
+        "Giorgio Mantica",
+        "Saul Imbrici"
+      ],
+      "published": "2026-07-10T12:53:18+00:00",
+      "first_seen": "2026-07-13T10:45:16.514601",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.09122": {
+      "arxiv_id": "2607.09122",
+      "title": "Power Flow Feasibility Assessment Using Variational Graph Autoencoders",
+      "authors": [
+        "Ferran Bohigas-Daranas",
+        "Hamid Latif-Martinez",
+        "Eduardo Prieto-Araujo",
+        "Pere Barlet-Ros",
+        "Oriol Gomis-Bellmunt"
+      ],
+      "published": "2026-07-10T06:22:23+00:00",
+      "first_seen": "2026-07-13T10:45:16.514609",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2607.09094": {
+      "arxiv_id": "2607.09094",
+      "title": "PRecG: Legal Precedent Retrieval with Graph Neural Networks and Rhetorical Role Segmentation",
+      "authors": [
+        "Devanshu Verma",
+        "Vasudha Bhatnagar",
+        "Vikas Kumar",
+        "Balaji Ganesan"
+      ],
+      "published": "2026-07-10T04:35:04+00:00",
+      "first_seen": "2026-07-13T10:45:16.514615",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    },
+    "2607.08996": {
+      "arxiv_id": "2607.08996",
+      "title": "Model Agnostic Graph Prompt Learning for Crystal Property Prediction",
+      "authors": [
+        "Shrimon Mukherjee",
+        "Kishalay Das",
+        "Partha Basuchowdhuri",
+        "Pawan Goyal",
+        "Niloy Ganguly"
+      ],
+      "published": "2026-07-09T23:54:54+00:00",
+      "first_seen": "2026-07-13T10:45:16.514622",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.08915": {
+      "arxiv_id": "2607.08915",
+      "title": "Pattern-Aware Graph Neural Networks for Handling Missing Data",
+      "authors": [
+        "Minett Tran",
+        "Taehee Jeong"
+      ],
+      "published": "2026-07-09T20:14:39+00:00",
+      "first_seen": "2026-07-13T10:45:16.514628",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.09277": {
+      "arxiv_id": "2607.09277",
+      "title": "Autoregressive latent diffusion for 3D molecule generation",
+      "authors": [
+        "Federico Ottomano",
+        "Gaopeng Ren",
+        "Yingzhen Li",
+        "Kim E. Jelfs",
+        "Alex M. Ganose"
+      ],
+      "published": "2026-07-10T10:47:11+00:00",
+      "first_seen": "2026-07-13T10:45:19.302781",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.09391": {
+      "arxiv_id": "2607.09391",
+      "title": "Federated Learning Architecture: Data Privacy and System Security Approaches",
+      "authors": [
+        "Cagdas Karatas",
+        "Hibanur Karadogan",
+        "Ahmet Yasin Ertug",
+        "Busra Buyuktanir",
+        "Kazim Yildiz",
+        "Gozde Karatas Baydogmus"
+      ],
+      "published": "2026-07-10T13:15:06+00:00",
+      "first_seen": "2026-07-13T10:45:25.297284",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2607.08797": {
+      "arxiv_id": "2607.08797",
+      "title": "Wireless Decentralized Federated Learning via Device Clustering and Inter-Cluster Link Enhancement",
+      "authors": [
+        "William Weijia Zheng",
+        "Hang Liu",
+        "Ying-Jun Angela Zhang"
+      ],
+      "published": "2026-07-08T14:13:04+00:00",
+      "first_seen": "2026-07-13T10:45:31.484365",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.IT",
+        "cs.DC"
+      ]
+    },
+    "2607.09540": {
+      "arxiv_id": "2607.09540",
+      "title": "From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale",
+      "authors": [
+        "Changhong Jin",
+        "Shiqiu Yang",
+        "Roger Zhe Li",
+        "Yingjie Niu",
+        "Aghiles Salah",
+        "Mete Sertkan",
+        "Zheng Ju",
+        "Xingsheng Guo",
+        "Huifeng Guo",
+        "Ruihai Dong",
+        "Barry Smyth"
+      ],
+      "published": "2026-07-10T15:46:12+00:00",
+      "first_seen": "2026-07-13T10:45:34.454944",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.08971": {
+      "arxiv_id": "2607.08971",
+      "title": "Stochastic Linear Bandits with Partially Observed Actions",
+      "authors": [
+        "Gautam Dasarathy",
+        "Vineet Gattani",
+        "Lalit Jain"
+      ],
+      "published": "2026-07-09T22:23:17+00:00",
+      "first_seen": "2026-07-13T10:45:34.454976",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "math.ST",
+        "stat.ML"
       ]
     }
   }

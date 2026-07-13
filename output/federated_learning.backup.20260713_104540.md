@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-08 | [Wireless Decentralized Federated Learning via Device Clustering and Inter-Cluster Link Enhancement](https://arxiv.org/abs/2607.08797) | Decentralized federated learning (DFL) dispenses with the central server of classical FL by utilizing peer-to-peer model exchanges among edge devices. |
 | 2026-07-09 | [Secure Decentralized Federated Learning via Gossip and Virtual Voting](https://arxiv.org/abs/2607.08651) | Decentralized federated learning (DFL) removes the central server by letting nodes exchange model updates through peer-to-peer gossip, but existing gossip-based methods often lack provenance finality... |
 | 2026-07-09 | [Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction](https://arxiv.org/abs/2607.08595) | Cardiovascular disease risk prediction models often rely on data from a single institution or centrally pooled datasets. |
 | 2026-07-09 | [Benchmark Evaluation of Feredated Learning on Multi-organ Images](https://arxiv.org/abs/2607.08219) | The privacy requirements of medical data and its substantial variations across organs and modalities hinder the clinical implementation of medical AI. |

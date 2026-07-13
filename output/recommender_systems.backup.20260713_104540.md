@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-10 | [From Raw IDs to Semantic Planning: How Recommender Systems Utilize Information at Scale](https://arxiv.org/abs/2607.09540) | The evolution of recommender systems can be explored by asking how they utilize information at scale. |
-| 2026-07-09 | [Stochastic Linear Bandits with Partially Observed Actions](https://arxiv.org/abs/2607.08971) | The stochastic linear bandit, where actions are represented as vectors and rewards are linear, is a central paradigm for sequential decision making. |
 | 2026-07-09 | [MPFlow: Learning Budgeted Max-Flow Optimization on the Lightning Network with Deep Graph Reinforcement Learning](https://arxiv.org/abs/2607.08703) | We address liquidity placement in the Bitcoin Lightning Network (LN): given a fixed budget, which channels should a node open to maximize its routing capacity? |
 | 2026-07-09 | [DaV-Gen: End-to-End Generative Retrieval via Draft-and-Verify](https://arxiv.org/abs/2607.08365) | Mainstream industrial information retrieval systems (e.g., search and recommendation) are usually built upon Multi-Stage Cascade Architectures (MCAs), which balance effectiveness and efficiency... |
 | 2026-07-09 | [Classifier Chain-based Pathological Test Recommendation](https://arxiv.org/abs/2607.08299) | Accurate and timely diagnoses are essential for quality patient care. |
