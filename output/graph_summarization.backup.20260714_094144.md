@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-13 | [CGS: Configurable Graph Summarization with Bounded Neighborhood Loss and Query Support](https://arxiv.org/abs/2607.10969) | Given a large graph, how to generate a compact summary graph that is configurable by the user and supports multiple graph queries with either no loss or with high accuracy? |
 | 2026-05-13 | [Community-Aware Vertex Ordering for Reference-Based Graph Compression: A Cross-Encoder Empirical Study](https://arxiv.org/abs/2605.21510) | Reference-based graph compression encodes each vertex's neighbor list relative to a recent vertex, exploiting locality to compress large directed graphs. |
 | 2026-05-13 | [Rethinking Efficient Graph Coarsening via a Non-Selfishness Principle](https://arxiv.org/abs/2605.13021) | Graph coarsening is a graph dimensionality reduction technique that aims to construct a smaller and more tractable graph while preserving the essential structural and semantic properties of the... |
 | 2026-05-04 | [Spectral Model eXplainer: a chemically-grounded explainability framework for spectral-based machine learning models](https://arxiv.org/abs/2605.02684) | Spectral-based machine learning models have been increasingly deployed in chemometrics and spectroscopy, where predictive accuracy is as important as explainability. |

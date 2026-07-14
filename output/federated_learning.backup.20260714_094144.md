@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-13 | [Enhanced Byzantine-Robust Federated Learning Via Truncated-Quadratic Loss for Heterogeneous Data](https://arxiv.org/abs/2607.10970) | Federated learning distributes data among $n$ clients, making it vulnerable to malicious attacks and data heterogeneity, which together pose challenges for robust learning. |
-| 2026-07-12 | [SoK: Federated Learning for Intrusion Detection in Vehicular Networks](https://arxiv.org/abs/2607.10914) | Modern vehicular networks face an expanding attack surface across internal Electronic Control Units (ECUs) and external Vehicle-to-Everything (V2X) communication. |
-| 2026-07-11 | [Toward Production-Ready Federated Learning in Healthcare: Privacy, Orchestration, and Governance in MLOps](https://arxiv.org/abs/2607.10467) | Healthcare organizations often cannot freely centralize patient data because medical records are sensitive, regulated, and institutionally controlled. |
 | 2026-07-08 | [Wireless Decentralized Federated Learning via Device Clustering and Inter-Cluster Link Enhancement](https://arxiv.org/abs/2607.08797) | Decentralized federated learning (DFL) dispenses with the central server of classical FL by utilizing peer-to-peer model exchanges among edge devices. |
 | 2026-07-09 | [Secure Decentralized Federated Learning via Gossip and Virtual Voting](https://arxiv.org/abs/2607.08651) | Decentralized federated learning (DFL) removes the central server by letting nodes exchange model updates through peer-to-peer gossip, but existing gossip-based methods often lack provenance finality... |
 | 2026-07-09 | [Federated Deep Learning for Privacy-Preserving Cardiovascular Disease Risk Prediction](https://arxiv.org/abs/2607.08595) | Cardiovascular disease risk prediction models often rely on data from a single institution or centrally pooled datasets. |
