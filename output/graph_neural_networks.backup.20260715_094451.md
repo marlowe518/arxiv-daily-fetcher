@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-14 | [Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity](https://arxiv.org/abs/2607.12269) | We introduce Quantum Port-Hamiltonian Neural Networks (Q-pHNNs), a family of parameterised quantum circuits that learn classical dynamics in a structure-preserving manner. |
-| 2026-07-13 | [Learning the Graphical Nature of Symmetries](https://arxiv.org/abs/2607.12026) | Finite groups are rigid algebraic objects, whose Cayley graphs expose a rich network geometry through which group-theoretic structure can be measured, compared, and learned. |
 | 2026-07-13 | [A multi-scale feature enhanced graph neural network for fluid dynamics prediction in complex geometries](https://arxiv.org/abs/2607.11672) | Industrial design in fields such as vehicle and aerospace engineering often relies on large-scale numerical simulations to evaluate fluid dynamics performance, which can incur substantial... |
 | 2026-07-13 | [Structure-Feature Aligned Graph Learning via Alternating Constrained Optimization](https://arxiv.org/abs/2607.11577) | We introduce a constrained two-view framework for node prediction that aligns structure-conditioned GNN embeddings with a structure-free feature prior learned by an anchor model. |
 | 2026-07-13 | [Surprisingly Simple and Effective Multi-Domain Graph Foundation Model through Graph-to-Table Alignment](https://arxiv.org/abs/2607.11374) | Graph Foundation Models (GFMs) have emerged as a promising paradigm for learning transferable representations across diverse graph domains. |

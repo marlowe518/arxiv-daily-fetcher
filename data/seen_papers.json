@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-14T09:41:44.614239",
+  "last_updated": "2026-07-15T09:44:51.372602",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -43519,6 +43519,355 @@
       "categories": [
         "cs.LG",
         "cs.IR"
+      ]
+    },
+    "2607.12269": {
+      "arxiv_id": "2607.12269",
+      "title": "Quantum Port-Hamiltonian Neural Networks: Learning Conservative and Dissipative Dynamics via Measurement-Induced Nonlinearity",
+      "authors": [
+        "Dibakar Sigdel"
+      ],
+      "published": "2026-07-14T02:16:20+00:00",
+      "first_seen": "2026-07-15T09:44:27.467735",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.12026": {
+      "arxiv_id": "2607.12026",
+      "title": "Learning the Graphical Nature of Symmetries",
+      "authors": [
+        "Rashid Barket",
+        "Enrico Grimaldi",
+        "Yacoub Hendi",
+        "Edward Hirst",
+        "Adam Onus",
+        "Harmeet Singh"
+      ],
+      "published": "2026-07-13T18:00:02+00:00",
+      "first_seen": "2026-07-15T09:44:27.467747",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.CO",
+        "math.GR"
+      ]
+    },
+    "2607.11978": {
+      "arxiv_id": "2607.11978",
+      "title": "Gene Expression-Informed Jointly Controlled Generative Modeling for Precision Molecular Design",
+      "authors": [
+        "Hang Yuan",
+        "Chen Li",
+        "Wenjun Ma",
+        "Tadahiko Murata",
+        "Yuncheng Jiang"
+      ],
+      "published": "2026-07-13T07:12:09+00:00",
+      "first_seen": "2026-07-15T09:44:30.297463",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.12112": {
+      "arxiv_id": "2607.12112",
+      "title": "Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning",
+      "authors": [
+        "Jing Liu",
+        "Chenxuanyin Zou",
+        "Jiayang Ren",
+        "Gaoyun Fang",
+        "Chengfang Li",
+        "Yan Wang",
+        "Zhenchao Ma",
+        "Bo Hu"
+      ],
+      "published": "2026-07-13T19:40:30+00:00",
+      "first_seen": "2026-07-15T09:44:42.305507",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV",
+        "cs.DC"
+      ]
+    },
+    "2607.12958": {
+      "arxiv_id": "2607.12958",
+      "title": "CD-MED: Cross-Domain Multimodal Emotion Descriptor for Visual Comparison of Digital Objects",
+      "authors": [
+        "Elnara Kadyrgali",
+        "Muragul Muratbekova",
+        "Pakizar Shamoi"
+      ],
+      "published": "2026-07-14T16:54:51+00:00",
+      "first_seen": "2026-07-15T09:44:45.164852",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2607.12946": {
+      "arxiv_id": "2607.12946",
+      "title": "ViHoRec: A Quality-Controlled Vietnamese Hotel Recommendation Dataset and Cold-Start Benchmark",
+      "authors": [
+        "Minh Hoang Nguyen"
+      ],
+      "published": "2026-07-14T16:28:40+00:00",
+      "first_seen": "2026-07-15T09:44:45.164864",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2607.12945": {
+      "arxiv_id": "2607.12945",
+      "title": "RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation",
+      "authors": [
+        "Wenhao Deng",
+        "Junchen Fu",
+        "Hanwen Du",
+        "Alexandros Karatzoglou",
+        "Ioannis Arapakis",
+        "Hangjun Guo",
+        "Kaiwen Zheng",
+        "Yongxin Ni",
+        "Joemon M. Jose"
+      ],
+      "published": "2026-07-14T16:28:28+00:00",
+      "first_seen": "2026-07-15T09:44:45.164871",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.12714": {
+      "arxiv_id": "2607.12714",
+      "title": "Learning to Forget: Satiation-Aware Long-Sequence Transducers for Mitigating Post-Purchase Redundancy",
+      "authors": [
+        "Yipin Dai",
+        "Ruocong Tang",
+        "Xing Fang",
+        "Yang Huang",
+        "Jing Wang",
+        "Zhentao Song",
+        "He Guo"
+      ],
+      "published": "2026-07-14T12:40:32+00:00",
+      "first_seen": "2026-07-15T09:44:45.164880",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.12578": {
+      "arxiv_id": "2607.12578",
+      "title": "Cheaper is Better: A Discount-Aware Network for Conversion Rate Prediction in E-commerce Recommendation System",
+      "authors": [
+        "Ruocong Tang",
+        "Yang Huang",
+        "Xing Fang",
+        "Chenyi Yan",
+        "Chuike Sun",
+        "Jing Wang"
+      ],
+      "published": "2026-07-14T09:49:17+00:00",
+      "first_seen": "2026-07-15T09:44:45.164887",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.12425": {
+      "arxiv_id": "2607.12425",
+      "title": "Where Reasoning Matters: Rethinking Latent Reasoning in Semantic ID-based Generative Recommendation",
+      "authors": [
+        "Shangxin Yang",
+        "Min Gao",
+        "Zongwei Wang",
+        "Junliang Yu"
+      ],
+      "published": "2026-07-14T06:55:12+00:00",
+      "first_seen": "2026-07-15T09:44:45.164893",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.12392": {
+      "arxiv_id": "2607.12392",
+      "title": "MESH: Scaling Up Retrieval with Heterogeneous Content Unification",
+      "authors": [
+        "Jiaxing Qu",
+        "Yilin Chen",
+        "Junpeng Hou",
+        "Jinfeng Rao",
+        "Olafur Gudmundsson",
+        "Sai Xiao",
+        "Huizhong Duan"
+      ],
+      "published": "2026-07-14T06:12:26+00:00",
+      "first_seen": "2026-07-15T09:44:45.164899",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2607.12281": {
+      "arxiv_id": "2607.12281",
+      "title": "SlimPer: Make Personalization Model Slim and Smart",
+      "authors": [
+        "Siqi Wang",
+        "Xianjie Chen",
+        "Shaofeng Deng",
+        "Albert Chen",
+        "Romil Shah",
+        "Jiawei Huang",
+        "Zhaoqin Wang",
+        "Zhang Zhang",
+        "Yiqun Liu",
+        "Meilei Jiang",
+        "Anish Dubey",
+        "Moyan Mei",
+        "Tongxin Wang",
+        "Nathan Berrebbi",
+        "Misael Manjarres",
+        "Armand Sauzay",
+        "Shardul Kothapalli",
+        "Aryaman Vinchhi",
+        "Kevin Johnstone",
+        "Juheon Lee",
+        "Gufan Yin",
+        "Ziheng Huang",
+        "Justin Lin",
+        "Mert Terzihan",
+        "Yilin Qi",
+        "Cynthia Yang",
+        "Colin Peppler",
+        "Qi Ding",
+        "Ruohan Sun",
+        "Ge Song",
+        "Litao Deng",
+        "Parichay Kapoor",
+        "Matt Ma",
+        "Huihui Cheng",
+        "Jiyuan Zhang",
+        "Yanli Zhao",
+        "Yiping Han",
+        "Fangqiu Han",
+        "Ning Yao",
+        "Arun Singh",
+        "Jordan Edwards",
+        "Zhengyu Su",
+        "Abhishek Kumar",
+        "Guangdeng Liao",
+        "Ankit Asthana"
+      ],
+      "published": "2026-07-14T02:31:32+00:00",
+      "first_seen": "2026-07-15T09:44:45.164904",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2607.12278": {
+      "arxiv_id": "2607.12278",
+      "title": "Auditing Data Leakage in Whole-Slide Image Multimodal Benchmarks",
+      "authors": [
+        "Wenhao Zhang",
+        "Zhongliang Zhou",
+        "John Kang",
+        "Sheng Li"
+      ],
+      "published": "2026-07-14T02:28:29+00:00",
+      "first_seen": "2026-07-15T09:44:45.164910",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2607.12277": {
+      "arxiv_id": "2607.12277",
+      "title": "Not Only NTP: Extending Training Signal Coverage for Generative Recommendation",
+      "authors": [
+        "Changhao Li",
+        "Shuli Wang",
+        "Junwei Yin",
+        "Senjie Kou",
+        "Yinqiu Huang",
+        "Chi Wang",
+        "Yinhua Zhu",
+        "Haitao Wang",
+        "Xingxing Wang"
+      ],
+      "published": "2026-07-14T02:28:23+00:00",
+      "first_seen": "2026-07-15T09:44:45.164916",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.12246": {
+      "arxiv_id": "2607.12246",
+      "title": "Proximity Features: Privacy-Compliant Cold-Start Personalization at Airbnb",
+      "authors": [
+        "Wei Jiang",
+        "Bin Xu",
+        "Hui Gao",
+        "Bharathi Thangamani",
+        "Weiwei Guo",
+        "Sundar Srinivasavaradhan",
+        "Tracy Yu",
+        "Huiji Gao",
+        "Michael Kinoti"
+      ],
+      "published": "2026-07-14T01:17:09+00:00",
+      "first_seen": "2026-07-15T09:44:45.164922",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.12193": {
+      "arxiv_id": "2607.12193",
+      "title": "Compos3D: Interactive Part-Based Composition for Creative Control in Generative 3D Models",
+      "authors": [
+        "Faraz Faruqi",
+        "Sean J. Liu",
+        "George Fitzmaurice",
+        "Justin Matejka"
+      ],
+      "published": "2026-07-13T22:24:26+00:00",
+      "first_seen": "2026-07-15T09:44:45.164927",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.CV"
+      ]
+    },
+    "2607.11976": {
+      "arxiv_id": "2607.11976",
+      "title": "LiteTopK: Exploiting the Curse of Dimensionality for a Fused Indexer-TopK Kernel in Long-Context Sparse Attention",
+      "authors": [
+        "Ziqi Yin",
+        "Jianyang Gao",
+        "Peiqi Yin",
+        "Jiangneng Li",
+        "Gao Cong"
+      ],
+      "published": "2026-07-13T03:53:56+00:00",
+      "first_seen": "2026-07-15T09:44:45.164933",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
       ]
     }
   }
