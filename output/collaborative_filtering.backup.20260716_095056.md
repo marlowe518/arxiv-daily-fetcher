@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-15 | [An Efficient Newton Algorithm for Nonnegative Matrix Factorization with the Kullback-Leibler Divergence](https://arxiv.org/abs/2607.13919) | Nonnegative Matrix Factorization (NMF) is a fundamental tool in unsupervised learning, which approximates a nonnegative matrix by the product of two low-rank nonnegative factors. |
-| 2026-07-14 | [Reassessing Muon for Matrix Factorization](https://arxiv.org/abs/2607.13246) | Muon has recently emerged as a strong optimizer for large-scale deep learning, where it reshapes gradient updates through approximate orthogonalization and has been reported to outperform Adam and... |
 | 2026-07-06 | [On the Complexity of Entrywise Power Matrix Factorization](https://arxiv.org/abs/2607.04875) | Given a nonnegative matrix $X$, a factorization rank $r$ and a real parameter $p$, entrywise power matrix factorization (EPMF) looks for a low-rank matrix $X_r$ such that $X = \|X_r\|^{\circ p}$ (exact... |
 | 2026-07-02 | [Gaming Consensus: Coordinated Manipulation in Crowdsourced Fact-Checking](https://arxiv.org/abs/2607.01824) | Crowdsourced fact-checking systems have been adopted by major social media companies such as X, Meta, TikTok and Google with the aim of combating misleading information at scale without relying on... |
 | 2026-06-30 | [Computer vision-based neural networks for radioisotope identification in urban environments](https://arxiv.org/abs/2607.00270) | Algorithm development for radioisotope identification in mobile urban search scenarios face significant challenges from non-uniform backgrounds, momentary source encounters, and severe class... |

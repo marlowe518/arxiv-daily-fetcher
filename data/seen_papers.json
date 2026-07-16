@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-15T09:44:51.372602",
+  "last_updated": "2026-07-16T09:50:56.326371",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -43866,6 +43866,370 @@
       "published": "2026-07-13T03:53:56+00:00",
       "first_seen": "2026-07-15T09:44:45.164933",
       "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.13837": {
+      "arxiv_id": "2607.13837",
+      "title": "NodeImport: Imbalanced Node Classification with Node Importance Assessment",
+      "authors": [
+        "Nan Chen",
+        "Zemin Liu",
+        "Bryan Hooi",
+        "Bingsheng He",
+        "Jun Hu",
+        "Jia Chen"
+      ],
+      "published": "2026-07-15T13:45:26+00:00",
+      "first_seen": "2026-07-16T09:50:32.407527",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.13763": {
+      "arxiv_id": "2607.13763",
+      "title": "MxGPS: Multiplex Graph Transformers for a Power Grid Foundation Model",
+      "authors": [
+        "Charilaos Papaioannou",
+        "Ioannis Tsantilas",
+        "Dimitris Giannakakos",
+        "Vasilis Michalakopoulos",
+        "Sotiris Pelekis",
+        "Vangelis Marinakis",
+        "Arsam Aryandoust",
+        "Antonello Monti",
+        "Ricardo J. Bessa",
+        "Perdo P. Vergara",
+        "Jochen Cremer",
+        "Elissaios Sarmas"
+      ],
+      "published": "2026-07-15T12:22:36+00:00",
+      "first_seen": "2026-07-16T09:50:32.407539",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.13609": {
+      "arxiv_id": "2607.13609",
+      "title": "Gauge-Invariant, Parameter-Insensitive Regularization for Potential Recovery from Flow on Directed Graphs",
+      "authors": [
+        "Mohammad Forouhesh"
+      ],
+      "published": "2026-07-15T08:56:57+00:00",
+      "first_seen": "2026-07-16T09:50:32.407547",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.IR",
+        "eess.SP",
+        "stat.ML"
+      ]
+    },
+    "2607.13115": {
+      "arxiv_id": "2607.13115",
+      "title": "Improving Molecular Property Prediction in Small Language Models Using Graph-based Tools",
+      "authors": [
+        "Konstantinos Bougiatiotis",
+        "Dimitrios Kelesis",
+        "Georgios Paliouras"
+      ],
+      "published": "2026-07-14T13:10:30+00:00",
+      "first_seen": "2026-07-16T09:50:32.407554",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.13155": {
+      "arxiv_id": "2607.13155",
+      "title": "HEDGEHOG: Hierarchical Evaluation of Drug Generators Through Rigorous Filtration",
+      "authors": [
+        "Daria A. Ryabchenko",
+        "Pavel Gurevich",
+        "Shamil Kadyrov",
+        "Daria Frolova",
+        "Kseniia Fedisheva",
+        "Sergei A. Nikolenko",
+        "Alexander Shapeev",
+        "Marina A. Pak"
+      ],
+      "published": "2026-07-14T18:05:28+00:00",
+      "first_seen": "2026-07-16T09:50:35.372844",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.SE"
+      ]
+    },
+    "2607.13928": {
+      "arxiv_id": "2607.13928",
+      "title": "Plausible Deniability Guarantees for Whistleblowers",
+      "authors": [
+        "Leo Richter",
+        "Matt J. Kusner"
+      ],
+      "published": "2026-07-15T15:09:55+00:00",
+      "first_seen": "2026-07-16T09:50:41.317987",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2607.13754": {
+      "arxiv_id": "2607.13754",
+      "title": "PriEval-Protect: A Unified Framework for Privacy Evaluation and Protection in Healthcare Systems",
+      "authors": [
+        "Ilef Chebil",
+        "Asma El Hadj",
+        "Souheib Yousfi",
+        "Aroua Hedhili",
+        "Layth Sliman"
+      ],
+      "published": "2026-07-15T12:12:48+00:00",
+      "first_seen": "2026-07-16T09:50:41.318000",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2607.13441": {
+      "arxiv_id": "2607.13441",
+      "title": "ReBound: Reuse-Aware Privacy For Interactive Decision Support",
+      "authors": [
+        "Nada Lahjouji",
+        "Shufan Zhang",
+        "Xi He",
+        "Sharad Mehrotra"
+      ],
+      "published": "2026-07-15T04:57:05+00:00",
+      "first_seen": "2026-07-16T09:50:41.318010",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.DB"
+      ]
+    },
+    "2607.13328": {
+      "arxiv_id": "2607.13328",
+      "title": "Privacy Preserving Recommender Systems Balancing Personalization with Privacy",
+      "authors": [
+        "Ranjeet K Jha",
+        "Venkata Suresh Gummadilli"
+      ],
+      "published": "2026-07-14T23:21:21+00:00",
+      "first_seen": "2026-07-16T09:50:41.318018",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.13119": {
+      "arxiv_id": "2607.13119",
+      "title": "Mixed-Timescale Differential Coding for Downlink Model Broadcast in Wireless Federated Learning",
+      "authors": [
+        "Chung-Hsuan Hu",
+        "Zheng Chen",
+        "Erik G. Larsson"
+      ],
+      "published": "2026-07-14T16:03:23+00:00",
+      "first_seen": "2026-07-16T09:50:47.335776",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.IT",
+        "cs.DC",
+        "cs.LG",
+        "eess.SP"
+      ]
+    },
+    "2607.13686": {
+      "arxiv_id": "2607.13686",
+      "title": "Optimal and Efficient Contextual Combinatorial Semi-bandits with General Function Approximation",
+      "authors": [
+        "Hao Qin",
+        "Chicheng Zhang"
+      ],
+      "published": "2026-07-15T10:28:05+00:00",
+      "first_seen": "2026-07-16T09:50:50.322380",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.13544": {
+      "arxiv_id": "2607.13544",
+      "title": "Clustering algorithms for multivariate wind farm SCADA data filtering",
+      "authors": [
+        "Nicolò Italiano",
+        "Vasilis Pettas",
+        "Tuhfe Göçmen",
+        "Nicolaos A. Cutululis"
+      ],
+      "published": "2026-07-15T07:45:27+00:00",
+      "first_seen": "2026-07-16T09:50:50.322391",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.13493": {
+      "arxiv_id": "2607.13493",
+      "title": "Personalizing Incremental Video Search with Hybrid Text and ID Embeddings",
+      "authors": [
+        "Vivek Kanojiya",
+        "Vishalaksh Aggarwal",
+        "Daeho Baek",
+        "Lyndon Kennedy",
+        "Xuetao Yin"
+      ],
+      "published": "2026-07-15T06:42:50+00:00",
+      "first_seen": "2026-07-16T09:50:50.322399",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.13420": {
+      "arxiv_id": "2607.13420",
+      "title": "OrDA: Orthogonal Disentanglement of Access Habits Framework for Homepage Marketing Block Recommendations",
+      "authors": [
+        "Lingxiao Zhang",
+        "Xiaobo Li",
+        "Tao Xu"
+      ],
+      "published": "2026-07-15T03:42:46+00:00",
+      "first_seen": "2026-07-16T09:50:50.322405",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.13418": {
+      "arxiv_id": "2607.13418",
+      "title": "Can We Steer the Black-Box? Towards Controllability-Centric Evaluation of Recommender Systems with Collaborative Agents",
+      "authors": [
+        "Jiwen Zhou",
+        "Xiang Liu",
+        "Mingming Li",
+        "Pengbo Mo",
+        "Jiao Dai",
+        "Honglei Lv",
+        "Jizhong Han",
+        "Songlin Hu"
+      ],
+      "published": "2026-07-15T03:37:06+00:00",
+      "first_seen": "2026-07-16T09:50:50.322411",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2607.13398": {
+      "arxiv_id": "2607.13398",
+      "title": "TMallGS: Scaling Unified Feature and Sequence Modeling for Generative E-commerce Search",
+      "authors": [
+        "Zhentao Song",
+        "Yufeng Gao",
+        "Xing Fang",
+        "Jing Wang",
+        "Guangxin Song",
+        "Bokang Wang",
+        "Yipin Dai",
+        "He Guo"
+      ],
+      "published": "2026-07-15T02:52:22+00:00",
+      "first_seen": "2026-07-16T09:50:50.322416",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.13304": {
+      "arxiv_id": "2607.13304",
+      "title": "Where Does the Noise Come From? A Variance-Components Decomposition of Non-Determinism in LLM Brand Answers",
+      "authors": [
+        "Dmitrij Żatuchin"
+      ],
+      "published": "2026-07-14T22:12:52+00:00",
+      "first_seen": "2026-07-16T09:50:50.322423",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CL"
+      ]
+    },
+    "2607.13107": {
+      "arxiv_id": "2607.13107",
+      "title": "DeepCormack: Fermi surface tomography using model-based data-driven algorithms",
+      "authors": [
+        "Georg F. B. Lovric",
+        "Bryn Drury",
+        "Carola-Bibiane Schönlieb",
+        "Stephen B. Dugdale",
+        "Ander Biguri"
+      ],
+      "published": "2026-07-14T10:10:13+00:00",
+      "first_seen": "2026-07-16T09:50:50.322429",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cond-mat.str-el",
+        "cs.LG"
+      ]
+    },
+    "2607.13919": {
+      "arxiv_id": "2607.13919",
+      "title": "An Efficient Newton Algorithm for Nonnegative Matrix Factorization with the Kullback-Leibler Divergence",
+      "authors": [
+        "Damien Lesens",
+        "Jérémy E. Cohen",
+        "Bora Uçar"
+      ],
+      "published": "2026-07-15T14:59:07+00:00",
+      "first_seen": "2026-07-16T09:50:53.454363",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.13246": {
+      "arxiv_id": "2607.13246",
+      "title": "Reassessing Muon for Matrix Factorization",
+      "authors": [
+        "Ali Parviz",
+        "Gal Mishne",
+        "Alex Cloninger"
+      ],
+      "published": "2026-07-14T20:21:38+00:00",
+      "first_seen": "2026-07-16T09:50:53.454374",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.13428": {
+      "arxiv_id": "2607.13428",
+      "title": "PUe: Biased Positive-Unlabeled Learning Enhancement by Causal Inference",
+      "authors": [
+        "Xutao Wang",
+        "Hanting Chen",
+        "Tianyu Guo",
+        "Yunhe Wang"
+      ],
+      "published": "2026-07-15T04:12:30+00:00",
+      "first_seen": "2026-07-16T09:50:56.321053",
+      "topic": "Implicit Feedback",
       "categories": [
         "cs.LG"
       ]

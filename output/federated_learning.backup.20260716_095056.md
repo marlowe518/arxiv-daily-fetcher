@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-14 | [Mixed-Timescale Differential Coding for Downlink Model Broadcast in Wireless Federated Learning](https://arxiv.org/abs/2607.13119) | In standard federated learning systems, the parameter server broadcasts the global model to the participating devices in every iteration. |
 | 2026-07-13 | [Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112) | Federated fine-tuning of Multimodal Large Language Models (MLLMs) across distributed networks enables privacy-sensitive adaptation to evolving data streams, yet a fundamental obstacle prevents robust... |
 | 2026-07-13 | [Enhanced Byzantine-Robust Federated Learning Via Truncated-Quadratic Loss for Heterogeneous Data](https://arxiv.org/abs/2607.10970) | Federated learning distributes data among $n$ clients, making it vulnerable to malicious attacks and data heterogeneity, which together pose challenges for robust learning. |
 | 2026-07-12 | [SoK: Federated Learning for Intrusion Detection in Vehicular Networks](https://arxiv.org/abs/2607.10914) | Modern vehicular networks face an expanding attack surface across internal Electronic Control Units (ECUs) and external Vehicle-to-Everything (V2X) communication. |
