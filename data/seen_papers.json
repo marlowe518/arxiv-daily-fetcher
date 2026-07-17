@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-16T09:50:56.326371",
+  "last_updated": "2026-07-17T09:41:43.057970",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -44231,6 +44231,438 @@
       "first_seen": "2026-07-16T09:50:56.321053",
       "topic": "Implicit Feedback",
       "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.14905": {
+      "arxiv_id": "2607.14905",
+      "title": "Show Me How You Reason and I'll Tell You Who You Are: Reasoning Graphs for Robust LLM Authorship Attribution",
+      "authors": [
+        "Zlata Kikteva",
+        "Artur Romazanov",
+        "Annette Hautli-Janisz",
+        "Ramon Ruiz-Dolz"
+      ],
+      "published": "2026-07-16T12:25:16+00:00",
+      "first_seen": "2026-07-17T09:41:19.266305",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    },
+    "2607.14705": {
+      "arxiv_id": "2607.14705",
+      "title": "Grad2Fair: A Gradient-driven Approach for Graph Fairness without Demographics",
+      "authors": [
+        "Yuchang Zhu",
+        "Zezhong Xie",
+        "Huizhe Zhang",
+        "Huazhen Zhong",
+        "Jintang Li",
+        "Liang Chen",
+        "Zibin Zheng"
+      ],
+      "published": "2026-07-16T08:06:39+00:00",
+      "first_seen": "2026-07-17T09:41:19.266318",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.14416": {
+      "arxiv_id": "2607.14416",
+      "title": "CausalGraphX: A Counterfactual Graph Neural Network Framework for Explainable Systemic Risk Assessment",
+      "authors": [
+        "Rabimba Karanjai",
+        "Hemanth Madhavarao",
+        "Lei Xu",
+        "Weidong Shi"
+      ],
+      "published": "2026-07-15T23:10:06+00:00",
+      "first_seen": "2026-07-17T09:41:19.266326",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.14314": {
+      "arxiv_id": "2607.14314",
+      "title": "NeuroGRIP: Retrieval-Augmented Graph Refinement for Knowledge-Grounded EEG Seizure Diagnosis",
+      "authors": [
+        "Lincan Li",
+        "Zheng Chen",
+        "Yushun Dong"
+      ],
+      "published": "2026-07-15T19:20:29+00:00",
+      "first_seen": "2026-07-17T09:41:19.266333",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.14304": {
+      "arxiv_id": "2607.14304",
+      "title": "Spectral Concentration and Recovery in Sparse High-Dimensional Random Geometric Graphs",
+      "authors": [
+        "Manuel Fernandez",
+        "Yizhe Zhu"
+      ],
+      "published": "2026-07-15T19:09:14+00:00",
+      "first_seen": "2026-07-17T09:41:22.052473",
+      "topic": "Graph Generation",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.PR",
+        "math.ST"
+      ]
+    },
+    "2607.14811": {
+      "arxiv_id": "2607.14811",
+      "title": "Is External Database Protection Static in Retrieval-Augmented Generation? Rethinking Privacy Preservation under Dynamic Queries",
+      "authors": [
+        "Gang Zhang",
+        "Mingyu Tian",
+        "Xukun Luan",
+        "Yuanchi Ma",
+        "Jinyan Liu"
+      ],
+      "published": "2026-07-16T10:28:23+00:00",
+      "first_seen": "2026-07-17T09:41:28.097397",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2607.14607": {
+      "arxiv_id": "2607.14607",
+      "title": "Auditing Fairness-Privacy Trade-offs: Subpopulation-Level Effects of Fairness-Enhancing Algorithms",
+      "authors": [
+        "Umid Suleymanov",
+        "Ilhama Novruzova",
+        "Khalid Mammadov",
+        "Natavan Hasanova",
+        "Murat Kantarcioglu"
+      ],
+      "published": "2026-07-16T06:10:42+00:00",
+      "first_seen": "2026-07-17T09:41:28.097409",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.14406": {
+      "arxiv_id": "2607.14406",
+      "title": "Better Privacy Guarantees for Larger Groups",
+      "authors": [
+        "JacK Fitzsimons"
+      ],
+      "published": "2026-07-15T22:44:55+00:00",
+      "first_seen": "2026-07-17T09:41:28.097418",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.IT"
+      ]
+    },
+    "2607.14205": {
+      "arxiv_id": "2607.14205",
+      "title": "Privacy Leakage in Federated Learning in Radiology Reports: A Comparative Evaluation of Tokenizer-Driven Privacy Risks",
+      "authors": [
+        "Santhosh Parampottupadam",
+        "Andres Martinez",
+        "Dimitrios Bounias",
+        "Sinem Sav",
+        "Klaus Maier-Hein",
+        "Ralf Floca"
+      ],
+      "published": "2026-07-15T17:57:53+00:00",
+      "first_seen": "2026-07-17T09:41:28.097425",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CL",
+        "cs.CR"
+      ]
+    },
+    "2607.15052": {
+      "arxiv_id": "2607.15052",
+      "title": "NFSA: Non-Forward Secure Aggregation with One Server via Two Layer Secret Sharing",
+      "authors": [
+        "Yufei Zhou"
+      ],
+      "published": "2026-07-16T14:30:53+00:00",
+      "first_seen": "2026-07-17T09:41:34.139989",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2607.14489": {
+      "arxiv_id": "2607.14489",
+      "title": "EdgeFaaS: A Function-based Framework for Edge Computing",
+      "authors": [
+        "Neha Vadnere",
+        "Yu-Ting Wang",
+        "Yitao Chen",
+        "Sreehari Sadesh",
+        "Ming Zhao"
+      ],
+      "published": "2026-07-16T02:05:46+00:00",
+      "first_seen": "2026-07-17T09:41:34.140000",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC",
+        "cs.AI"
+      ]
+    },
+    "2607.14367": {
+      "arxiv_id": "2607.14367",
+      "title": "Dysco: Dynamic Subspace Boosting to Mitigate LoRA Interference in Federated Learning",
+      "authors": [
+        "Haobo Zhang",
+        "Jiankun Wang",
+        "Suraj Rajendran",
+        "Weishen Pan",
+        "Lam Tsoi",
+        "Yong Chen",
+        "Fei Wang",
+        "Jiayu Zhou"
+      ],
+      "published": "2026-07-15T21:15:35+00:00",
+      "first_seen": "2026-07-17T09:41:34.140007",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.15242": {
+      "arxiv_id": "2607.15242",
+      "title": "Mutable Low-Rank Sketches for Retrain-Free Recommendation",
+      "authors": [
+        "Hector J. Garcia",
+        "Nick Clayton"
+      ],
+      "published": "2026-07-16T17:39:38+00:00",
+      "first_seen": "2026-07-17T09:41:37.086329",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.15114": {
+      "arxiv_id": "2607.15114",
+      "title": "CoSimRec: Measuring Coordinated-Content Penetration in Recommender Feedback Loops",
+      "authors": [
+        "Nan Li",
+        "Jiahong Shao",
+        "Jiuyang Lyu"
+      ],
+      "published": "2026-07-16T15:24:09+00:00",
+      "first_seen": "2026-07-17T09:41:37.086340",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.SI"
+      ]
+    },
+    "2607.15080": {
+      "arxiv_id": "2607.15080",
+      "title": "Evaluating covariate balance for long time horizon Markov decision processes",
+      "authors": [
+        "Joshua Spear",
+        "Rebecca Pope",
+        "Neil J Sebire"
+      ],
+      "published": "2026-07-16T14:49:38+00:00",
+      "first_seen": "2026-07-17T09:41:37.086347",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.14835": {
+      "arxiv_id": "2607.14835",
+      "title": "LLM-Based Re-Ranking for Real Estate Search",
+      "authors": [
+        "Nkateko Ntimane",
+        "Rafel Guedes",
+        "Tiago Cunha",
+        "Pedro Nogueira"
+      ],
+      "published": "2026-07-16T10:58:32+00:00",
+      "first_seen": "2026-07-17T09:41:37.086353",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.14729": {
+      "arxiv_id": "2607.14729",
+      "title": "The Misclassification of Autistic Writing as AI-Generated",
+      "authors": [
+        "Summer Chambers",
+        "Matthew C. Kelley"
+      ],
+      "published": "2026-07-16T08:54:09+00:00",
+      "first_seen": "2026-07-17T09:41:37.086359",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2607.14604": {
+      "arxiv_id": "2607.14604",
+      "title": "Accelerating A/B-Tests with Counterfactual Estimation: Reducing Variance through Policy Overlap",
+      "authors": [
+        "Olivier Jeunen"
+      ],
+      "published": "2026-07-16T06:08:52+00:00",
+      "first_seen": "2026-07-17T09:41:37.086364",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR",
+        "stat.ME"
+      ]
+    },
+    "2607.14588": {
+      "arxiv_id": "2607.14588",
+      "title": "Conversational Tactile Data Interfaces: Co-Designing Accessible Data Experiences with Blind Users Using Refreshable Tactile Displays and Conversational AI",
+      "authors": [
+        "Samuel Reinders",
+        "Munazza Zaib",
+        "Bongshin Lee",
+        "Ingrid Zukerman",
+        "Matthew Butler",
+        "Thien Autran",
+        "Sascha Cowley",
+        "Francois Jacobs",
+        "Lizhen Qu",
+        "Kim Marriott"
+      ],
+      "published": "2026-07-16T05:34:04+00:00",
+      "first_seen": "2026-07-17T09:41:37.086370",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2607.14556": {
+      "arxiv_id": "2607.14556",
+      "title": "Impact of Expert-Following Strategies in Financial Asset Recommendation",
+      "authors": [
+        "Ryuki Unno",
+        "Koshi Watanabe",
+        "Keigo Sakurai",
+        "Keisuke Maeda",
+        "Takahiro Ogawa",
+        "Miki Haseyama"
+      ],
+      "published": "2026-07-16T04:34:57+00:00",
+      "first_seen": "2026-07-17T09:41:37.086376",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CE"
+      ]
+    },
+    "2607.14429": {
+      "arxiv_id": "2607.14429",
+      "title": "From Product-Centred Retrieval to Experience-Led Commerce:Twelve Candidate Design Principles for Fashion E-Commerce User Experience",
+      "authors": [
+        "Nafiul I. Khan",
+        "Mansura Habiba",
+        "Rafflesia Khan"
+      ],
+      "published": "2026-07-15T23:46:26+00:00",
+      "first_seen": "2026-07-17T09:41:37.086381",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2607.14418": {
+      "arxiv_id": "2607.14418",
+      "title": "Adaptive Ad Load Design for Sponsored Search Markets: Evidence, Theory, and Deployment",
+      "authors": [
+        "Mohammad Rashid",
+        "Hema Yoganarasimhan"
+      ],
+      "published": "2026-07-15T23:12:26+00:00",
+      "first_seen": "2026-07-17T09:41:37.086387",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "econ.GN"
+      ]
+    },
+    "2607.14249": {
+      "arxiv_id": "2607.14249",
+      "title": "MIDiff: Tackling Sparsity and Imbalance in Mobile Usage Generation via Multivariate-Imaging Diffusion",
+      "authors": [
+        "Yilai Liu",
+        "Shiyuan Zhang",
+        "Hongyang Du"
+      ],
+      "published": "2026-07-15T18:07:54+00:00",
+      "first_seen": "2026-07-17T09:41:37.086392",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.14192": {
+      "arxiv_id": "2607.14192",
+      "title": "Long-term User Engagement Optimization through Model-agnostic Downstream Rewards Learning",
+      "authors": [
+        "Dingsu Wang",
+        "Filip Ryzner",
+        "Kelly He",
+        "Armando Ordorica",
+        "David Woo",
+        "Aditya Mantha",
+        "Liyao Lu",
+        "Usha Amrutha Nookala",
+        "Haoran Guo",
+        "Jiacong He",
+        "Olafur Gudmundsson",
+        "Matt Chun",
+        "Krystal Benitez",
+        "Dhruvil Deven Badani",
+        "Yijie Dylan Wang"
+      ],
+      "published": "2026-07-15T16:17:58+00:00",
+      "first_seen": "2026-07-17T09:41:37.086397",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2607.14161": {
+      "arxiv_id": "2607.14161",
+      "title": "Deep-learning Causal Retrieval Optimization for Efficient e-commerce Distribution in Pinterest",
+      "authors": [
+        "Junpeng Hou",
+        "XianXing Zhang",
+        "Sai Xiao",
+        "Derek Cheng",
+        "Darren Reger",
+        "Olafur Gudmundsson",
+        "Mehdi Ben Ayed",
+        "Zhiqing Rao",
+        "Huizhong Duan"
+      ],
+      "published": "2026-07-14T23:02:27+00:00",
+      "first_seen": "2026-07-17T09:41:37.086403",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
         "cs.LG"
       ]
     }

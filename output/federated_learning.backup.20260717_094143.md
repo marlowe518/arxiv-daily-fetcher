@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-16 | [NFSA: Non-Forward Secure Aggregation with One Server via Two Layer Secret Sharing](https://arxiv.org/abs/2607.15052) | Federated Learning (FL) enables collaborative model training while preserving privacy by keeping data local. |
-| 2026-07-16 | [EdgeFaaS: A Function-based Framework for Edge Computing](https://arxiv.org/abs/2607.14489) | Edge computing brings unique challenges as the resources on the edge are highly diverse in capabilities and capacities, and highly distributed across many users and the physical world. |
-| 2026-07-15 | [Dysco: Dynamic Subspace Boosting to Mitigate LoRA Interference in Federated Learning](https://arxiv.org/abs/2607.14367) | Federated fine-tuning of large pre-trained models increasingly relies on Low-Rank Adaptation (LoRA) to reduce communication and computation, but heterogeneous clients can make adapter aggregation... |
 | 2026-07-14 | [Mixed-Timescale Differential Coding for Downlink Model Broadcast in Wireless Federated Learning](https://arxiv.org/abs/2607.13119) | In standard federated learning systems, the parameter server broadcasts the global model to the participating devices in every iteration. |
 | 2026-07-13 | [Continual Learning with Elastic Regularization and Synthetic Replay for Federated MLLM Fine-Tuning](https://arxiv.org/abs/2607.12112) | Federated fine-tuning of Multimodal Large Language Models (MLLMs) across distributed networks enables privacy-sensitive adaptation to evolving data streams, yet a fundamental obstacle prevents robust... |
 | 2026-07-13 | [Enhanced Byzantine-Robust Federated Learning Via Truncated-Quadratic Loss for Heterogeneous Data](https://arxiv.org/abs/2607.10970) | Federated learning distributes data among $n$ clients, making it vulnerable to malicious attacks and data heterogeneity, which together pose challenges for robust learning. |
