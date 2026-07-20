@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-16 | [FLINT: Fingerprinting Federated Learning Architectures from 5G PHY-Layer Side Channels](https://arxiv.org/abs/2607.15469) | Federated Learning (FL) over 5G cellular networks protects raw data but remains vulnerable to side-channel leakage. |
 | 2026-07-16 | [NFSA: Non-Forward Secure Aggregation with One Server via Two Layer Secret Sharing](https://arxiv.org/abs/2607.15052) | Federated Learning (FL) enables collaborative model training while preserving privacy by keeping data local. |
 | 2026-07-16 | [EdgeFaaS: A Function-based Framework for Edge Computing](https://arxiv.org/abs/2607.14489) | Edge computing brings unique challenges as the resources on the edge are highly diverse in capabilities and capacities, and highly distributed across many users and the physical world. |
 | 2026-07-15 | [Dysco: Dynamic Subspace Boosting to Mitigate LoRA Interference in Federated Learning](https://arxiv.org/abs/2607.14367) | Federated fine-tuning of large pre-trained models increasingly relies on Low-Rank Adaptation (LoRA) to reduce communication and computation, but heterogeneous clients can make adapter aggregation... |

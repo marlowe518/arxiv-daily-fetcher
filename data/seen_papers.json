@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-19T09:39:59.752995",
+  "last_updated": "2026-07-20T10:36:02.732733",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -44663,6 +44663,239 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2607.15799": {
+      "arxiv_id": "2607.15799",
+      "title": "Knowledge-Assisted Multi-Graph Dependency Learning for Multivariate Time Series Anomaly Detection in Multi-Stage Industrial Processes",
+      "authors": [
+        "Jaeyeong Lee",
+        "Taeseong Yoon",
+        "Wonmo Koo",
+        "Heeyoung Kim"
+      ],
+      "published": "2026-07-17T10:10:46+00:00",
+      "first_seen": "2026-07-20T10:35:38.979478",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.15687": {
+      "arxiv_id": "2607.15687",
+      "title": "Toward Federated Multimodal Graph Foundation Models: A Topology-Aware Multimodal Alignment Framework",
+      "authors": [
+        "Xunkai Li",
+        "Guohao Fu",
+        "Yuming Ai",
+        "Zhengyu Wu",
+        "Hongchao Qin",
+        "Rong-Hua Li",
+        "Guoren Wang"
+      ],
+      "published": "2026-07-17T06:57:41+00:00",
+      "first_seen": "2026-07-20T10:35:38.979490",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.15686": {
+      "arxiv_id": "2607.15686",
+      "title": "S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation",
+      "authors": [
+        "Jiahao Zhao",
+        "Junyi Liu",
+        "Lifeng Xu",
+        "Nan Xu",
+        "Qingli Wang",
+        "Qingxiao Li",
+        "Tianle Chen",
+        "Xiaoyu Wu",
+        "Yawen Zheng",
+        "Zikai Wang",
+        "Guanming Liu",
+        "Hequn Zhou",
+        "Jingyi Wang",
+        "Jingyuan Shu",
+        "Keqi Wang",
+        "Li He",
+        "Songyang Diao",
+        "Wenhui Xu",
+        "Xinyu Ren",
+        "Yaqin Fan",
+        "Yujin Zhou",
+        "Zhanao Yao"
+      ],
+      "published": "2026-07-17T06:56:08+00:00",
+      "first_seen": "2026-07-20T10:35:41.734149",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.15469": {
+      "arxiv_id": "2607.15469",
+      "title": "FLINT: Fingerprinting Federated Learning Architectures from 5G PHY-Layer Side Channels",
+      "authors": [
+        "Md Nahid Hasan Shuvo",
+        "Mahmudul Hassan Ashik",
+        "Moinul Hossain"
+      ],
+      "published": "2026-07-16T21:38:32+00:00",
+      "first_seen": "2026-07-20T10:35:53.778853",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.15730": {
+      "arxiv_id": "2607.15730",
+      "title": "RECAP: Feedback-Driven Streaming Semantic User Profiles for Short-Video Recommendation",
+      "authors": [
+        "Ziyi Zhao",
+        "Xiaoyou Zhou",
+        "Xiao Lv",
+        "Yangyang Li",
+        "Chubo He",
+        "Zhao Liu",
+        "Jiayao Shen",
+        "Yuqi Liu",
+        "He Li",
+        "Chengyi Zhang",
+        "Jian Liang",
+        "Ming Li",
+        "Chongming Gao",
+        "Fuli Feng",
+        "Ruiming Tang",
+        "Han Li"
+      ],
+      "published": "2026-07-17T08:10:37+00:00",
+      "first_seen": "2026-07-20T10:35:56.531406",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.15707": {
+      "arxiv_id": "2607.15707",
+      "title": "From Skill Extraction to Multistakeholder Recommendation: A Two-Stage Framework for Bias Governance in Skills-Based Job Matching",
+      "authors": [
+        "Andrea Forster",
+        "Gregor Autischer",
+        "Dominik Kowald",
+        "Simone Kopeinik"
+      ],
+      "published": "2026-07-17T07:37:17+00:00",
+      "first_seen": "2026-07-20T10:35:56.531418",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.15608": {
+      "arxiv_id": "2607.15608",
+      "title": "Visualization Autocomplete: Visualization Authoring via Stepwise Design Recommendations",
+      "authors": [
+        "Hyeon Jeon",
+        "Sungbok Shin",
+        "Niklas Elmqvist"
+      ],
+      "published": "2026-07-17T04:09:00+00:00",
+      "first_seen": "2026-07-20T10:35:56.531425",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2607.15591": {
+      "arxiv_id": "2607.15591",
+      "title": "RecGPT-V3 Technical Report",
+      "authors": [
+        "Bowen Zheng",
+        "Chao Yi",
+        "Dian Chen",
+        "Gaoyang Guo",
+        "Han Zhu",
+        "Jiakai Tang",
+        "Jian Wu",
+        "Mao Zhang",
+        "Wen Chen",
+        "Yifan Lu",
+        "Yujie Luo",
+        "Yuning Jiang",
+        "Zhujin Gao",
+        "Bo Zheng",
+        "Dixuan Wang",
+        "Hao Fang",
+        "Jiancai Liu",
+        "Jing Yu",
+        "Ke Chen",
+        "Kewei Zhu",
+        "Mingke Xu",
+        "Wenjun Yang",
+        "Xunke Xi",
+        "Zile Zhou"
+      ],
+      "published": "2026-07-17T03:25:43+00:00",
+      "first_seen": "2026-07-20T10:35:56.531434",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.15565": {
+      "arxiv_id": "2607.15565",
+      "title": "Ask Twice, Look Twice: Prompt Echoing Resolves the Question-First Paradox in Vision-Language Models",
+      "authors": [
+        "Rakshanda Hassan Abhinandan",
+        "John Galeotti",
+        "Deva Ramanan",
+        "Gautam Rajendrakumar Gare"
+      ],
+      "published": "2026-07-17T02:16:46+00:00",
+      "first_seen": "2026-07-20T10:35:56.531441",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG",
+        "eess.IV"
+      ]
+    },
+    "2607.15562": {
+      "arxiv_id": "2607.15562",
+      "title": "Hard Rules, Soft Preferences: Bridging Reasoning, Learning, and Optimization for Personalized Packing Checklist Generation",
+      "authors": [
+        "Himel Dev",
+        "Madhusudan Basak",
+        "Tanmoy Sen",
+        "Paromita Shome",
+        "Bashima Islam"
+      ],
+      "published": "2026-07-17T02:11:00+00:00",
+      "first_seen": "2026-07-20T10:35:56.531447",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.15440": {
+      "arxiv_id": "2607.15440",
+      "title": "Stochastic Reset Pathfinding: Path-Level Regret for Cascading Bandits over Graph Paths",
+      "authors": [
+        "Guni Sharon",
+        "Wei Zhang"
+      ],
+      "published": "2026-07-16T20:20:18+00:00",
+      "first_seen": "2026-07-20T10:35:56.531453",
+      "topic": "Recommender Systems",
+      "categories": [
         "cs.LG"
       ]
     }
