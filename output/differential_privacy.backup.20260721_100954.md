@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-20 | [RRAM-DP: Device-Calibrated Differential Privacy for In-Memory Edge Learning](https://arxiv.org/abs/2607.18169) | Edge Artificial Intelligence of Things (AIoT) systems often collect sensitive data in situ, raising serious privacy concerns. |
-| 2026-07-20 | [Optimal Domain-Aware Privacy Mechanisms for Synthetic Data Generation](https://arxiv.org/abs/2607.18021) | Differential privacy (DP) imposes fundamental trade-offs between privacy and statistical fidelity in synthetic data generation. |
-| 2026-07-19 | [Fast and Private Max-Sum Diversification](https://arxiv.org/abs/2607.17196) | Result diversification is crucial for generating informative, non-redundant data summaries and query outputs. |
-| 2026-07-18 | [Privacy Cost as Equity Input: A Group Fairness Criterion for Differentially Private Machine Learning](https://arxiv.org/abs/2607.16620) | Differential privacy (DP) is increasingly deployed to limit membership inference risk in machine-learning systems. |
 | 2026-07-16 | [Is External Database Protection Static in Retrieval-Augmented Generation? Rethinking Privacy Preservation under Dynamic Queries](https://arxiv.org/abs/2607.14811) | Retrieval-augmented generation (RAG) enhances large language models via external document retrieval, but retrieved contexts may leak sensitive information. |
 | 2026-07-16 | [Auditing Fairness-Privacy Trade-offs: Subpopulation-Level Effects of Fairness-Enhancing Algorithms](https://arxiv.org/abs/2607.14607) | Machine learning (ML) models deployed in sensitive domains such as healthcare, law enforcement, and finance must satisfy not only utility requirements but also fairness and privacy guarantees. |
 | 2026-07-15 | [Better Privacy Guarantees for Larger Groups](https://arxiv.org/abs/2607.14406) | Pujol and Desfontaines asked whether a private histogram can allow more error on larger counts and use that slack to protect members of larger groups more strongly. |

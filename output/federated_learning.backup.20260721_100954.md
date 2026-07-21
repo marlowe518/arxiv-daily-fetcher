@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-20 | [AutoEncoder-Compressed Parallel Split Learning for Pre-trained Model Fine-Tuning](https://arxiv.org/abs/2607.17913) | Distributed Fine-Tuning (DFT) of large-scale Foundation Models (FMs) on resource-constrained edge devices is limited by local compute constraints and communication overhead. |
-| 2026-07-19 | [Federated Learning and LLM-Driven Threat Intelligence for Zero Trust IoT Architecture](https://arxiv.org/abs/2607.17035) | While the Internet of Things (IoT) has become essential, they introduced serious security and privacy challenges, especially for mission-critical environments. |
-| 2026-07-19 | [Federated Lightweight Intrusion Detection in Drone Swarms with Knowledge Distillation](https://arxiv.org/abs/2607.17025) | Drone swarms are increasingly deployed in critical applications such as surveillance, disaster response, and infrastructure monitoring. |
-| 2026-07-18 | [Auditable Session Admission for Cross-Silo Federated Learning](https://arxiv.org/abs/2607.16559) | Cross-silo federated learning keeps raw data local, but deployments frequently stall on a practical bottleneck when deciding who may invoke which session-scoped operations across organizational... |
 | 2026-07-16 | [FLINT: Fingerprinting Federated Learning Architectures from 5G PHY-Layer Side Channels](https://arxiv.org/abs/2607.15469) | Federated Learning (FL) over 5G cellular networks protects raw data but remains vulnerable to side-channel leakage. |
 | 2026-07-16 | [NFSA: Non-Forward Secure Aggregation with One Server via Two Layer Secret Sharing](https://arxiv.org/abs/2607.15052) | Federated Learning (FL) enables collaborative model training while preserving privacy by keeping data local. |
 | 2026-07-16 | [EdgeFaaS: A Function-based Framework for Edge Computing](https://arxiv.org/abs/2607.14489) | Edge computing brings unique challenges as the resources on the edge are highly diverse in capabilities and capacities, and highly distributed across many users and the physical world. |
