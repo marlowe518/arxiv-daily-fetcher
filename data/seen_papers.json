@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-21T10:09:54.773213",
+  "last_updated": "2026-07-22T10:09:26.257936",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -45410,6 +45410,424 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
+      ]
+    },
+    "2607.19305": {
+      "arxiv_id": "2607.19305",
+      "title": "Riemannian Deep Learning:Modules, Networks, and Geometries",
+      "authors": [
+        "Chen Ziheng"
+      ],
+      "published": "2026-07-21T17:17:35+00:00",
+      "first_seen": "2026-07-22T10:09:02.778320",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "math.DG"
+      ]
+    },
+    "2607.19270": {
+      "arxiv_id": "2607.19270",
+      "title": "GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models",
+      "authors": [
+        "Alessandro Scalese",
+        "Santhanakrishnan Narayanan",
+        "Constantinos Antoniou"
+      ],
+      "published": "2026-07-21T16:41:59+00:00",
+      "first_seen": "2026-07-22T10:09:02.778333",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.19253": {
+      "arxiv_id": "2607.19253",
+      "title": "Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks",
+      "authors": [
+        "Rawaa Alatrash",
+        "Mohamed Amine Chatti",
+        "Hong Yang",
+        "Yumeng Wang"
+      ],
+      "published": "2026-07-21T16:23:16+00:00",
+      "first_seen": "2026-07-22T10:09:02.778341",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.CY",
+        "cs.IR"
+      ]
+    },
+    "2607.19198": {
+      "arxiv_id": "2607.19198",
+      "title": "ATLAS: A Foundation Neural Sampler for Amorphous Materials",
+      "authors": [
+        "Mouyang Cheng",
+        "Denis Blessing",
+        "Botao Yu",
+        "Gerhard Neumann",
+        "Mingda Li",
+        "Carles Domingo-Enrich",
+        "Yuanqi Du"
+      ],
+      "published": "2026-07-21T15:31:49+00:00",
+      "first_seen": "2026-07-22T10:09:02.778347",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cs.LG",
+        "physics.comp-ph"
+      ]
+    },
+    "2607.19128": {
+      "arxiv_id": "2607.19128",
+      "title": "One Model, Many Graphs: Learning over Attributed Graphs across Heterogeneous Modalities with Vision-Language Models",
+      "authors": [
+        "Jiayi Yang",
+        "Yifang Chen",
+        "Yuanfu Sun",
+        "Jiajin Liu",
+        "Qiaoyu Tan"
+      ],
+      "published": "2026-07-21T14:18:25+00:00",
+      "first_seen": "2026-07-22T10:09:02.778354",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.19126": {
+      "arxiv_id": "2607.19126",
+      "title": "Parallel Noising in Neural Markov Logic Networks",
+      "authors": [
+        "Peter Jung",
+        "Giuseppe Marra",
+        "Ondrej Kuzelka"
+      ],
+      "published": "2026-07-21T14:13:09+00:00",
+      "first_seen": "2026-07-22T10:09:02.778360",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.19108": {
+      "arxiv_id": "2607.19108",
+      "title": "OpenRTAG: A Comprehensive Benchmark for Robust Text-Attributed Graph Learning under Data Quality Degradation",
+      "authors": [
+        "Yuze Dai",
+        "Zhihan Zhang",
+        "Yan Zhao",
+        "Ruoyu Wu",
+        "Xunkai Li",
+        "Zekai Chen",
+        "Qiangqiang Dai",
+        "Hongchao Qin",
+        "Ronghua Li"
+      ],
+      "published": "2026-07-21T13:50:24+00:00",
+      "first_seen": "2026-07-22T10:09:02.778366",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.19083": {
+      "arxiv_id": "2607.19083",
+      "title": "GEqTrain: A Configuration-Driven Framework for Retargeting Equivariant Graph Neural Networks Across 3D Scientific Tasks",
+      "authors": [
+        "Daniele Angioletti",
+        "Marco Nobile",
+        "Vittorio Limongelli"
+      ],
+      "published": "2026-07-21T13:18:59+00:00",
+      "first_seen": "2026-07-22T10:09:02.778378",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.BM"
+      ]
+    },
+    "2607.18632": {
+      "arxiv_id": "2607.18632",
+      "title": "Graph Neural Network-based Algorithm Selection for the Traveling Salesman Problem: A Systematic Study of Cost and Rank Losses under Distinct Budget Regimes",
+      "authors": [
+        "Zhaoxuan Li",
+        "Jiale Yang",
+        "Yifei Lu",
+        "Mustafa Misir"
+      ],
+      "published": "2026-07-21T02:01:01+00:00",
+      "first_seen": "2026-07-22T10:09:02.778386",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.18591": {
+      "arxiv_id": "2607.18591",
+      "title": "GQD-AdsNet: Graph Neural Networks Unlock Rapid Exploration of Transition Metal Adsorption on Graphene Quantum Dots",
+      "authors": [
+        "Lara Goncebat",
+        "Rodrigo Echeveste",
+        "Matías Gerard",
+        "Frederik Tielens",
+        "Gustavo Belletti",
+        "Paola Quaino"
+      ],
+      "published": "2026-07-20T23:56:51+00:00",
+      "first_seen": "2026-07-22T10:09:02.778393",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cs.LG"
+      ]
+    },
+    "2607.18567": {
+      "arxiv_id": "2607.18567",
+      "title": "Attacking Graph Foundation Models Through Their Shared Representation",
+      "authors": [
+        "Pankaj Kumar",
+        "Subhankar Mishra"
+      ],
+      "published": "2026-07-20T23:03:26+00:00",
+      "first_seen": "2026-07-22T10:09:02.778399",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2607.18465": {
+      "arxiv_id": "2607.18465",
+      "title": "AHEAD: Advancing Multi-Class Label Aggregation with Interpretable Cross-Annotator Modeling",
+      "authors": [
+        "Ju Chen",
+        "Sijia Xu",
+        "Jun Feng",
+        "Zhiqiang Gao",
+        "Zhengyi Yang"
+      ],
+      "published": "2026-07-20T19:32:01+00:00",
+      "first_seen": "2026-07-22T10:09:02.778405",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.18412": {
+      "arxiv_id": "2607.18412",
+      "title": "Scalable and Efficient Joint Spiking Embedding Predictive Architecture for Large-Scale Dynamic Graphs",
+      "authors": [
+        "Huizhe Zhang",
+        "Yuchang Zhu",
+        "Huazhen Zhong",
+        "Liang Chen",
+        "Zibin Zheng"
+      ],
+      "published": "2026-07-20T18:02:04+00:00",
+      "first_seen": "2026-07-22T10:09:02.778410",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.NE"
+      ]
+    },
+    "2607.18368": {
+      "arxiv_id": "2607.18368",
+      "title": "Neuro-Symbolic Meta-Policies for Temporal Knowledge-Graph Memory under Partial Observability",
+      "authors": [
+        "Taewoon Kim",
+        "Vincent François-Lavet",
+        "Michael Cochez"
+      ],
+      "published": "2026-07-20T17:55:00+00:00",
+      "first_seen": "2026-07-22T10:09:02.778416",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.19044": {
+      "arxiv_id": "2607.19044",
+      "title": "Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation",
+      "authors": [
+        "Mingxuan Ouyang",
+        "Hao Lan",
+        "Wanyu Lin"
+      ],
+      "published": "2026-07-21T12:34:59+00:00",
+      "first_seen": "2026-07-22T10:09:05.618966",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.18846": {
+      "arxiv_id": "2607.18846",
+      "title": "Private Approximation of Graph Spectra and Cuts via Spectral Amplifiers",
+      "authors": [
+        "Chenglin Fan",
+        "Jingcheng Liu",
+        "Pan Peng",
+        "Hangyu Xu",
+        "Zongrui Zou"
+      ],
+      "published": "2026-07-21T08:35:05+00:00",
+      "first_seen": "2026-07-22T10:09:11.255450",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DS",
+        "cs.CR"
+      ]
+    },
+    "2607.19292": {
+      "arxiv_id": "2607.19292",
+      "title": "The safety failures we are not instrumenting: a perspective on hidden safety-critical challenges in modern AI systems",
+      "authors": [
+        "Gjergji Kasneci",
+        "Enkelejda Kasneci"
+      ],
+      "published": "2026-07-21T17:02:37+00:00",
+      "first_seen": "2026-07-22T10:09:21.113351",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2607.19189": {
+      "arxiv_id": "2607.19189",
+      "title": "Spectral Biclustering-Driven Scalability for Post-Hoc Explainability in Recommender Systems",
+      "authors": [
+        "Jose L. Salmeron",
+        "Irina Arévalo"
+      ],
+      "published": "2026-07-21T15:22:12+00:00",
+      "first_seen": "2026-07-22T10:09:21.113363",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.19031": {
+      "arxiv_id": "2607.19031",
+      "title": "Unsupervised Multi-kernel Learning for Automated Algorithm Selection",
+      "authors": [
+        "Yihang Lu",
+        "Tome Eftimov",
+        "Carola Doerr"
+      ],
+      "published": "2026-07-21T12:18:49+00:00",
+      "first_seen": "2026-07-22T10:09:21.113370",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.18910": {
+      "arxiv_id": "2607.18910",
+      "title": "Breaking Feedback-Blindness: Utility-Augmented Transformer for Sequential Decision Making",
+      "authors": [
+        "Yuyang Shen",
+        "Shan Dai",
+        "Daimin Chen"
+      ],
+      "published": "2026-07-21T09:52:23+00:00",
+      "first_seen": "2026-07-22T10:09:21.113376",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.18786": {
+      "arxiv_id": "2607.18786",
+      "title": "Beyond Noisy Signals: Dual-Level Denoising for Multi-modal Sequential Recommendation",
+      "authors": [
+        "Jie Luo",
+        "Qi Jin",
+        "Xinming Zhang"
+      ],
+      "published": "2026-07-21T07:06:06+00:00",
+      "first_seen": "2026-07-22T10:09:21.113382",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.18712": {
+      "arxiv_id": "2607.18712",
+      "title": "An Epistemic Position-Based Click Model: From Interactions to Epistemic Distributions of Relevance and Bias",
+      "authors": [
+        "Oscar Rolando Ramirez Milian",
+        "Harrie Oosterhuis"
+      ],
+      "published": "2026-07-21T05:07:50+00:00",
+      "first_seen": "2026-07-22T10:09:21.113388",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.18609": {
+      "arxiv_id": "2607.18609",
+      "title": "Mitigating Matthew Effect: Multi-Hypergraph Boosted Multi-Interest Self-Supervised Learning for Conversational Recommendation",
+      "authors": [
+        "Yongsen Zheng",
+        "Ruilin Xu",
+        "Guohua Wang",
+        "Liang Lin",
+        "Kwok-Yan Lam"
+      ],
+      "published": "2026-07-21T01:07:40+00:00",
+      "first_seen": "2026-07-22T10:09:21.113394",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2607.18600": {
+      "arxiv_id": "2607.18600",
+      "title": "Topology-Aware Tokenization for Generative Recommendation",
+      "authors": [
+        "Yaokun Liu",
+        "Yifan Liu",
+        "Zhenrui Yue",
+        "Gyuseok Lee",
+        "Zelin Li",
+        "Ruichen Yao",
+        "Dong Wang"
+      ],
+      "published": "2026-07-21T00:27:30+00:00",
+      "first_seen": "2026-07-22T10:09:21.113399",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.18700": {
+      "arxiv_id": "2607.18700",
+      "title": "Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection",
+      "authors": [
+        "Robert James Brock",
+        "Sebastian Maximilian Krupa",
+        "Jason Kahei Tam"
+      ],
+      "published": "2026-07-21T04:35:47+00:00",
+      "first_seen": "2026-07-22T10:09:26.253540",
+      "topic": "Implicit Feedback",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
       ]
     }
   }

@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-21 | [Private Approximation of Graph Spectra and Cuts via Spectral Amplifiers](https://arxiv.org/abs/2607.18846) | We study the problem of releasing a synthetic graph that approximates the sizes of all cuts of an input graph under edge-level differential privacy. |
 | 2026-07-20 | [RRAM-DP: Device-Calibrated Differential Privacy for In-Memory Edge Learning](https://arxiv.org/abs/2607.18169) | Edge Artificial Intelligence of Things (AIoT) systems often collect sensitive data in situ, raising serious privacy concerns. |
 | 2026-07-20 | [Optimal Domain-Aware Privacy Mechanisms for Synthetic Data Generation](https://arxiv.org/abs/2607.18021) | Differential privacy (DP) imposes fundamental trade-offs between privacy and statistical fidelity in synthetic data generation. |
 | 2026-07-19 | [Fast and Private Max-Sum Diversification](https://arxiv.org/abs/2607.17196) | Result diversification is crucial for generating informative, non-redundant data summaries and query outputs. |

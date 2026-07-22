@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-21 | [Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation](https://arxiv.org/abs/2607.19044) | Leveraging large language models (LLMs) for molecular generation has shown remarkable potential in chemical and drug design. |
 | 2026-07-20 | [Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints](https://arxiv.org/abs/2607.18144) | Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. |
 | 2026-07-07 | [From Intent to Infrastructure: LLM-Driven Agent Compilers for ISAC Networks](https://arxiv.org/abs/2607.16269) | Integrated sensing and communications (ISAC) is moving from proof-of-concept demonstrations to system-level deployment in sixth-generation (6G) networks. |
 | 2026-07-17 | [S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation](https://arxiv.org/abs/2607.15686) | We present S1-Omni, a unified multimodal reasoning model for scientific understanding, prediction, and generation. |
