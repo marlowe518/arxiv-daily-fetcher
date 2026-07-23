@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-22 | [OLEDLM: A Unified Language Model for OLED Molecular Design](https://arxiv.org/abs/2607.20194) | The development of organic light-emitting diode (OLED) materials faces the compounded challenges of an astronomically large chemical space, stringent quantum-chemical constraints, and a scarcity of... |
-| 2026-07-22 | [Hypothesis-and-Refinement Learning of Organic Structures from Multimodal Spectroscopic Data](https://arxiv.org/abs/2607.19816) | Determining molecular structures from spectroscopic data remains fundamentally challenging because the inverse problem is intrinsically underdetermined: individual spectra are sparse,... |
 | 2026-07-21 | [Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation](https://arxiv.org/abs/2607.19044) | Leveraging large language models (LLMs) for molecular generation has shown remarkable potential in chemical and drug design. |
 | 2026-07-20 | [Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints](https://arxiv.org/abs/2607.18144) | Structure-based drug design (SBDD) leverages the 3D structure of protein targets, often complemented by other spatial constraints, to generate candidate binding molecules. |
 | 2026-07-07 | [From Intent to Infrastructure: LLM-Driven Agent Compilers for ISAC Networks](https://arxiv.org/abs/2607.16269) | Integrated sensing and communications (ISAC) is moving from proof-of-concept demonstrations to system-level deployment in sixth-generation (6G) networks. |

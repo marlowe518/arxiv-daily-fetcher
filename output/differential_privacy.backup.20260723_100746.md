@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-22 | [Pure-DP Statistical Query Release at the Conjectured Square-Root Rate](https://arxiv.org/abs/2607.20418) | Nikolov and Ullman asked whether k statistical queries on a universe of size T can be released under pure differential privacy with expected worst-coordinate error at the square-root rate suggested... |
-| 2026-07-21 | [End-to-End Differential Privacy in Training Deep Neural Network Classifiers](https://arxiv.org/abs/2607.19580) | Differentially private machine learning enables model training on sensitive data while ensuring that individual data is unlikely to be recoverable from the parameters of the resulting model. |
 | 2026-07-21 | [Private Approximation of Graph Spectra and Cuts via Spectral Amplifiers](https://arxiv.org/abs/2607.18846) | We study the problem of releasing a synthetic graph that approximates the sizes of all cuts of an input graph under edge-level differential privacy. |
 | 2026-07-20 | [RRAM-DP: Device-Calibrated Differential Privacy for In-Memory Edge Learning](https://arxiv.org/abs/2607.18169) | Edge Artificial Intelligence of Things (AIoT) systems often collect sensitive data in situ, raising serious privacy concerns. |
 | 2026-07-20 | [Optimal Domain-Aware Privacy Mechanisms for Synthetic Data Generation](https://arxiv.org/abs/2607.18021) | Differential privacy (DP) imposes fundamental trade-offs between privacy and statistical fidelity in synthetic data generation. |

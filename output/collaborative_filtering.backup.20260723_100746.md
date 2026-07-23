@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-21 | [SCPP: A Unified Python Library for Soft Clustering](https://arxiv.org/abs/2607.19620) | In this paper, we present SCPP (Soft Clustering Python Package), an open-source Python framework for soft clustering. |
 | 2026-07-15 | [An Efficient Newton Algorithm for Nonnegative Matrix Factorization with the Kullback-Leibler Divergence](https://arxiv.org/abs/2607.13919) | Nonnegative Matrix Factorization (NMF) is a fundamental tool in unsupervised learning, which approximates a nonnegative matrix by the product of two low-rank nonnegative factors. |
 | 2026-07-14 | [Reassessing Muon for Matrix Factorization](https://arxiv.org/abs/2607.13246) | Muon has recently emerged as a strong optimizer for large-scale deep learning, where it reshapes gradient updates through approximate orthogonalization and has been reported to outperform Adam and... |
 | 2026-07-06 | [On the Complexity of Entrywise Power Matrix Factorization](https://arxiv.org/abs/2607.04875) | Given a nonnegative matrix $X$, a factorization rank $r$ and a real parameter $p$, entrywise power matrix factorization (EPMF) looks for a low-rank matrix $X_r$ such that $X = \|X_r\|^{\circ p}$ (exact... |

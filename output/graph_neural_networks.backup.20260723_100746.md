@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-22 | [Label-Free Finite-Volume-Residual Training of Attention Graph Neural Networks for Coupled Thermo-Fluid Fields](https://arxiv.org/abs/2607.20321) | Neural surrogates are widely used in scientific machine learning for fast prediction of three-dimensional (3D) thermo-fluid fields. |
-| 2026-07-22 | [Coordinating from Memory: Graph-Structured Experience Reuse for Multi-Agent Adaptation in Dynamic Manufacturing](https://arxiv.org/abs/2607.19985) | Dynamic manufacturing environments require multi-agent systems to coordinate effectively under frequent operational disturbances such as machine failures, urgent job arrivals, and processing time... |
-| 2026-07-22 | [FedLSG: LLM-Enhanced Semantic Calibration for Federated Graph Backdoor Defense](https://arxiv.org/abs/2607.19674) | Federated Graph Neural Networks (FedGNNs) are highly vulnerable to backdoor poisoning, yet existing defenses typically rely on rule-based approaches that lack semantic understanding, making them... |
 | 2026-07-21 | [Riemannian Deep Learning:Modules, Networks, and Geometries](https://arxiv.org/abs/2607.19305) | Deep neural networks on manifold-valued representations have attracted growing interest, but many basic components remain tied to specific manifolds, rely on Euclidean approximations, or require... |
 | 2026-07-21 | [GUIDED Network-Agnostic Feature Initialization for Spatial Transferability in GNN-based Models](https://arxiv.org/abs/2607.19270) | The Traffic Assignment Problem is a fundamental but computationally expensive component of transportation planning. |
 | 2026-07-21 | [Sequential Learner Modeling Using Multi-Relational Graph Convolutional Networks](https://arxiv.org/abs/2607.19253) | User modeling is a critical task in a variety of personalized systems. |
