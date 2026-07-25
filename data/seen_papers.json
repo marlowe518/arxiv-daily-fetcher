@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-23T10:07:46.862167",
+  "last_updated": "2026-07-25T09:22:44.428989",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -46217,6 +46217,374 @@
       "categories": [
         "cs.LG",
         "cs.AI"
+      ]
+    },
+    "2607.21561": {
+      "arxiv_id": "2607.21561",
+      "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
+      "authors": [
+        "Aaron Feller",
+        "Kris Deibler",
+        "Maxim Secor"
+      ],
+      "published": "2026-07-23T17:42:51+00:00",
+      "first_seen": "2026-07-25T09:22:20.659457",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.BM"
+      ]
+    },
+    "2607.21435": {
+      "arxiv_id": "2607.21435",
+      "title": "Revisiting Degree-Corrected Spectral Clustering: a Condition-Free Spectral Analysis and Extension",
+      "authors": [
+        "Wei Li",
+        "Xiaojian Li",
+        "Meng Qin",
+        "Chaorui Zhang",
+        "Weixi Zhang",
+        "Yiwen Zhong",
+        "Jianfeng Hou"
+      ],
+      "published": "2026-07-23T15:39:01+00:00",
+      "first_seen": "2026-07-25T09:22:20.659470",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI"
+      ]
+    },
+    "2607.21381": {
+      "arxiv_id": "2607.21381",
+      "title": "Towards Faithful Graph Explanations with Synergistic Edge Effects via Granular Balls",
+      "authors": [
+        "Jiancu Chen",
+        "Shuyin Xia",
+        "Guan Wang",
+        "Degang Chen",
+        "Fan Chen"
+      ],
+      "published": "2026-07-23T14:44:51+00:00",
+      "first_seen": "2026-07-25T09:22:20.659477",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.21188": {
+      "arxiv_id": "2607.21188",
+      "title": "Identifying Good Rules for Efficient SAT Encodings of Single-Constant Multiplication Using Machine Learning",
+      "authors": [
+        "Chufeng Jiang",
+        "Neng-Fa Zhou"
+      ],
+      "published": "2026-07-23T11:15:55+00:00",
+      "first_seen": "2026-07-25T09:22:20.659484",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.21131": {
+      "arxiv_id": "2607.21131",
+      "title": "Demographically-Informed Heat-Mortality Risk Curves via Risk Graph Neural Networks",
+      "authors": [
+        "Alex O. Davies",
+        "Eunice Lo",
+        "Rui Zhu"
+      ],
+      "published": "2026-07-23T10:08:32+00:00",
+      "first_seen": "2026-07-25T09:22:20.659491",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.21094": {
+      "arxiv_id": "2607.21094",
+      "title": "A Polynomial Architecture-Attribution Co-Design Framework for Exact Aumann-Shapley Attribution in GNNs",
+      "authors": [
+        "Bizu Feng",
+        "Zhimu Yang",
+        "Shuming Wang",
+        "Shaode Yu",
+        "Yuan Cheng",
+        "Xiaojun Qian",
+        "Zixin Hu"
+      ],
+      "published": "2026-07-23T09:26:15+00:00",
+      "first_seen": "2026-07-25T09:22:20.659497",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.21039": {
+      "arxiv_id": "2607.21039",
+      "title": "Regularized Optimization on Grassmann Manifold: Theory, Algorithm and Applications",
+      "authors": [
+        "Zhuan Liang",
+        "Zheng Zhai"
+      ],
+      "published": "2026-07-23T08:19:21+00:00",
+      "first_seen": "2026-07-25T09:22:20.659503",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.20857": {
+      "arxiv_id": "2607.20857",
+      "title": "Multilevel Graph Wavelet Compressed Sensing with Scale-Aware Neural Recovery",
+      "authors": [
+        "Amirhossein Nouranizadeh",
+        "Sarang Rajendra Patil",
+        "Alan John Varghese",
+        "Varsha Narayanan",
+        "Amit Chakraborty",
+        "Mengjia Xu"
+      ],
+      "published": "2026-07-23T02:26:51+00:00",
+      "first_seen": "2026-07-25T09:22:20.659515",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.20737": {
+      "arxiv_id": "2607.20737",
+      "title": "Cardinality-Decomposed Loss: Matching Training Objectives to Relation Structure in Heterogeneous Recommendation Graphs",
+      "authors": [
+        "Parul Maheshwari",
+        "Amulya Paruchuri",
+        "Yiqing Zou",
+        "Alireza Sahami Shirazi",
+        "Farhad Farahani",
+        "Prakhar Mehrotra"
+      ],
+      "published": "2026-07-22T21:33:02+00:00",
+      "first_seen": "2026-07-25T09:22:20.659522",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2607.21585": {
+      "arxiv_id": "2607.21585",
+      "title": "Expanding Flow Maps",
+      "authors": [
+        "Sophia Tang",
+        "Pranam Chatterjee"
+      ],
+      "published": "2026-07-23T17:57:38+00:00",
+      "first_seen": "2026-07-25T09:22:23.470343",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.21343": {
+      "arxiv_id": "2607.21343",
+      "title": "M$^3$-Gen: Interpretable Multimodal Generation of Gene Expression Profiles Using Clinical and Imaging Data",
+      "authors": [
+        "Francesca Pia Panaccione",
+        "Carlo Sgaravatti",
+        "Marco Venere"
+      ],
+      "published": "2026-07-23T14:12:58+00:00",
+      "first_seen": "2026-07-25T09:22:23.470355",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    "2607.21156": {
+      "arxiv_id": "2607.21156",
+      "title": "SafeStep: AI-powered Travel Assistance for Elderly People with Frailty or Dementia",
+      "authors": [
+        "Elderly People with Frailty or Dementia Azul Debenedetti",
+        "David Gamez",
+        "Franco Such",
+        "Nik Kairinos"
+      ],
+      "published": "2026-07-23T10:37:28+00:00",
+      "first_seen": "2026-07-25T09:22:23.470362",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    "2607.20727": {
+      "arxiv_id": "2607.20727",
+      "title": "Edit-Neighboring Data Streams and Privacy under Continual Observation",
+      "authors": [
+        "Joel Daniel Andersson",
+        "Anamay Chaturvedi",
+        "Monika Henzinger",
+        "Roodabeh Safavi"
+      ],
+      "published": "2026-07-22T20:54:44+00:00",
+      "first_seen": "2026-07-25T09:22:29.848769",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DS",
+        "cs.CR"
+      ]
+    },
+    "2607.20890": {
+      "arxiv_id": "2607.20890",
+      "title": "Information-Theoretically Secure Aggregation for Lightweight Federated Learning: Resilient to Dropouts and Adversaries",
+      "authors": [
+        "Hyeong-Gun Joo",
+        "Songnam Hong",
+        "Dong-Joon Shin"
+      ],
+      "published": "2026-07-23T03:26:41+00:00",
+      "first_seen": "2026-07-25T09:22:35.501149",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.20641": {
+      "arxiv_id": "2607.20641",
+      "title": "One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification",
+      "authors": [
+        "Afsaneh Mahanipour",
+        "Hana Khamfroush"
+      ],
+      "published": "2026-07-22T18:11:37+00:00",
+      "first_seen": "2026-07-25T09:22:35.501160",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.21519": {
+      "arxiv_id": "2607.21519",
+      "title": "Diffusion Language Model for Recommendation",
+      "authors": [
+        "Chengyi Liu",
+        "Yongqi Zhou",
+        "Junwei Pan",
+        "Zhixiang Feng",
+        "Chengguo Yin",
+        "Haijie Gu",
+        "Jie Jiang",
+        "Yinghao Liu",
+        "Yujuan Ding",
+        "Qing Li",
+        "Wenqi Fan"
+      ],
+      "published": "2026-07-23T17:02:12+00:00",
+      "first_seen": "2026-07-25T09:22:38.482323",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.21513": {
+      "arxiv_id": "2607.21513",
+      "title": "Transparent by Design, Usable in Practice? A Formative Usability Study of a Conversational Product Advisor",
+      "authors": [
+        "Kevin Schott",
+        "Dagmar Kern",
+        "Daniel Hienert"
+      ],
+      "published": "2026-07-23T16:58:34+00:00",
+      "first_seen": "2026-07-25T09:22:38.482334",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.IR"
+      ]
+    },
+    "2607.21028": {
+      "arxiv_id": "2607.21028",
+      "title": "Bridging the Structural Gap: Adapting Autoregressive Generation for Recommendation",
+      "authors": [
+        "Junchao Zeng",
+        "Junzhang Zhu",
+        "Junyang Chen",
+        "Yudong Li",
+        "Wei Liu",
+        "Chengxiang Zhuo",
+        "Zang Li"
+      ],
+      "published": "2026-07-23T08:11:57+00:00",
+      "first_seen": "2026-07-25T09:22:38.482341",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.20938": {
+      "arxiv_id": "2607.20938",
+      "title": "Controllable and Content-Based Recommendations",
+      "authors": [
+        "Fırat Öncel",
+        "Jihoon Jeong",
+        "Emiliano Penaloza",
+        "Mirco Ravanelli",
+        "Laurent Charlin",
+        "Cem Subakan"
+      ],
+      "published": "2026-07-23T05:31:40+00:00",
+      "first_seen": "2026-07-25T09:22:38.482347",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.20873": {
+      "arxiv_id": "2607.20873",
+      "title": "LO-FAR: A Cost-Aware Local Filter for Sparse Feature Ranking in Industrial Ad Recommendation",
+      "authors": [
+        "Egemen Erbayat",
+        "Luis Duque",
+        "Sohini Roychowdhury",
+        "Mohammad Amin",
+        "Srihari Reddy"
+      ],
+      "published": "2026-07-23T02:52:41+00:00",
+      "first_seen": "2026-07-25T09:22:38.482353",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.20863": {
+      "arxiv_id": "2607.20863",
+      "title": "Probabilistic Residual Learning for Online Recommendations",
+      "authors": [
+        "Wenyuan Wang",
+        "Yusong Zhao",
+        "Zihao Xu",
+        "Hengyi Wang",
+        "Qi Xu",
+        "Zhigang Hua",
+        "Yan Xie",
+        "Yi Wang",
+        "Zihao Zhao",
+        "Bo Long",
+        "Chengzhi Mao",
+        "Shuang Yang",
+        "Hengguan Huang",
+        "Hao Wang"
+      ],
+      "published": "2026-07-23T02:39:12+00:00",
+      "first_seen": "2026-07-25T09:22:38.482359",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.LG"
       ]
     }
   }

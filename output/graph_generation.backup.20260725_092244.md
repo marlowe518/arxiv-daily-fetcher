@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-23 | [Expanding Flow Maps](https://arxiv.org/abs/2607.21585) | Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed... |
-| 2026-07-23 | [M$^3$-Gen: Interpretable Multimodal Generation of Gene Expression Profiles Using Clinical and Imaging Data](https://arxiv.org/abs/2607.21343) | Integrating heterogeneous biomedical data, including clinical metadata, histopathology images, and molecular profiles, is crucial for comprehensive disease understanding. |
-| 2026-07-23 | [SafeStep: AI-powered Travel Assistance for Elderly People with Frailty or Dementia](https://arxiv.org/abs/2607.21156) | More than a million people in the UK suffer from frailty or dementia, which severely compromise their ability to travel in urban environments. |
 | 2026-07-22 | [OLEDLM: A Unified Language Model for OLED Molecular Design](https://arxiv.org/abs/2607.20194) | The development of organic light-emitting diode (OLED) materials faces the compounded challenges of an astronomically large chemical space, stringent quantum-chemical constraints, and a scarcity of... |
 | 2026-07-22 | [Hypothesis-and-Refinement Learning of Organic Structures from Multimodal Spectroscopic Data](https://arxiv.org/abs/2607.19816) | Determining molecular structures from spectroscopic data remains fundamentally challenging because the inverse problem is intrinsically underdetermined: individual spectra are sparse,... |
 | 2026-07-21 | [Adopting Reinforcement Learning with Verifiable Rewards for Molecular Generation](https://arxiv.org/abs/2607.19044) | Leveraging large language models (LLMs) for molecular generation has shown remarkable potential in chemical and drug design. |
