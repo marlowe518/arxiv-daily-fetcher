@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-20 | [MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion](https://arxiv.org/abs/2607.21634) | Masked discrete diffusion for molecular graph generation typically applies a uniform corruption schedule to all tokens in a lossless graph-to-sequence representation, implicitly treating structurally... |
 | 2026-07-23 | [Expanding Flow Maps](https://arxiv.org/abs/2607.21585) | Flow-based generative models have enabled remarkable progress in fast and controllable generation across continuous and discrete state spaces, yet existing parameterizations are constrained to fixed... |
 | 2026-07-23 | [M$^3$-Gen: Interpretable Multimodal Generation of Gene Expression Profiles Using Clinical and Imaging Data](https://arxiv.org/abs/2607.21343) | Integrating heterogeneous biomedical data, including clinical metadata, histopathology images, and molecular profiles, is crucial for comprehensive disease understanding. |
 | 2026-07-23 | [SafeStep: AI-powered Travel Assistance for Elderly People with Frailty or Dementia](https://arxiv.org/abs/2607.21156) | More than a million people in the UK suffer from frailty or dementia, which severely compromise their ability to travel in urban environments. |

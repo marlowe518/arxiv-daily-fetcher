@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-26T09:48:20.771284",
+  "last_updated": "2026-07-27T10:58:18.895556",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -46584,6 +46584,322 @@
       "categories": [
         "cs.IR",
         "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.22381": {
+      "arxiv_id": "2607.22381",
+      "title": "Local-Global Geometric Insights for Graph Neural Networks via Entropic Curvature",
+      "authors": [
+        "Rachid Caich",
+        "Yassine Abbahaddou"
+      ],
+      "published": "2026-07-24T15:07:37+00:00",
+      "first_seen": "2026-07-27T10:57:55.211509",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.SI",
+        "stat.ML"
+      ]
+    },
+    "2607.22287": {
+      "arxiv_id": "2607.22287",
+      "title": "Efficient Recommendations via Graph Coarsening and Label Propagation",
+      "authors": [
+        "Alessandro Sbandi",
+        "Federico Siciliano",
+        "Fabrizio Silvestri"
+      ],
+      "published": "2026-07-24T13:25:26+00:00",
+      "first_seen": "2026-07-27T10:57:55.211522",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.21941": {
+      "arxiv_id": "2607.21941",
+      "title": "LatentFlow: Visual Analytics for Latent Space Analysis in Molecular Graph Neural Networks",
+      "authors": [
+        "Shiyi Liu",
+        "Jiaqing Chen",
+        "Nicholas Hadler",
+        "Rostyslav Hnatyshyn",
+        "Michael W. Mahoney",
+        "Talita Perciano",
+        "John F. Hartwig",
+        "Gunther H. Weber",
+        "Ross Maciejewski"
+      ],
+      "published": "2026-07-24T03:33:38+00:00",
+      "first_seen": "2026-07-27T10:57:55.211530",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.HC"
+      ]
+    },
+    "2607.21885": {
+      "arxiv_id": "2607.21885",
+      "title": "Remedying Coarsening-Based GNN Training under Heterophily via Adaptive Complementary Enhancement",
+      "authors": [
+        "Guoming Li",
+        "Jian Yang",
+        "Xukun Wang",
+        "Zixiao Wang",
+        "Shangsong Liang",
+        "Yifan Chen"
+      ],
+      "published": "2026-07-24T01:29:28+00:00",
+      "first_seen": "2026-07-27T10:57:55.211537",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SP",
+        "math.NA"
+      ]
+    },
+    "2607.21831": {
+      "arxiv_id": "2607.21831",
+      "title": "A Graph-Based Control Interface for Traffic Signals on Heterogeneous Road Networks",
+      "authors": [
+        "Bertil Braun"
+      ],
+      "published": "2026-07-23T21:44:55+00:00",
+      "first_seen": "2026-07-27T10:57:55.211543",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2607.21634": {
+      "arxiv_id": "2607.21634",
+      "title": "MotifRole-Diff: Risk-Optimal Role-Aware Corruption for Masked Molecular Graph Diffusion",
+      "authors": [
+        "Tasfia Nuzhat Ornee",
+        "Elias Hossain",
+        "Ivan Garibay",
+        "Niloofar Yousef"
+      ],
+      "published": "2026-07-20T21:04:14+00:00",
+      "first_seen": "2026-07-27T10:57:58.228192",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.22450": {
+      "arxiv_id": "2607.22450",
+      "title": "A Maximum Entropy Implementation of Differential Privacy Under Linear Invariants",
+      "authors": [
+        "Ryan Lafferty",
+        "Anindya Roy"
+      ],
+      "published": "2026-07-24T16:13:07+00:00",
+      "first_seen": "2026-07-27T10:58:03.931945",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "stat.ME"
+      ]
+    },
+    "2607.22230": {
+      "arxiv_id": "2607.22230",
+      "title": "trasgoDP: An Open Source Framework for Releasing Noised Tabular Microdata under Local Differential Privacy",
+      "authors": [
+        "Judith Sáinz-Pardo Díaz",
+        "Álvaro López García"
+      ],
+      "published": "2026-07-24T11:56:09+00:00",
+      "first_seen": "2026-07-27T10:58:03.931958",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.DB"
+      ]
+    },
+    "2607.22035": {
+      "arxiv_id": "2607.22035",
+      "title": "DCS: A Unified Conditional Sensitivity Framework for Cross-Modal Copyright Infringement Detection",
+      "authors": [
+        "Xiafeng Man"
+      ],
+      "published": "2026-07-24T07:00:44+00:00",
+      "first_seen": "2026-07-27T10:58:03.931966",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.21647": {
+      "arxiv_id": "2607.21647",
+      "title": "A Drift Stable Quantum Federated Learning for Intelligent Services",
+      "authors": [
+        "Shanika Iroshi Nanayakkara",
+        "Shiva Raj Pokhrel"
+      ],
+      "published": "2026-07-22T01:44:00+00:00",
+      "first_seen": "2026-07-27T10:58:10.003293",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.22518": {
+      "arxiv_id": "2607.22518",
+      "title": "PinEqualizer: Full Funnel Content Exploration and Debiasing System at Pinterest",
+      "authors": [
+        "Olafur Gudmundsson",
+        "Bo Zhao",
+        "Huayi Liao",
+        "Anna Kiyantseva",
+        "Sai Xiao",
+        "Heath Vinicombe",
+        "Mostafa Keikha",
+        "Luke DeLuccia",
+        "Zihao Chen",
+        "Junpeng Hou",
+        "Weijie Jiang",
+        "Bhawna Juneja",
+        "Andreanne Lemay",
+        "Wei-Ting Lin",
+        "Keyvan Moghadam",
+        "Jiaxing Qu",
+        "Zhiqing Rao",
+        "Zhihua Zhang"
+      ],
+      "published": "2026-07-24T17:41:28+00:00",
+      "first_seen": "2026-07-27T10:58:12.908554",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2607.22341": {
+      "arxiv_id": "2607.22341",
+      "title": "Bringing GRACE to Recommendation: Fine-Tuning for Sustainable and Accurate Personalization",
+      "authors": [
+        "Yibowen Zhao",
+        "Yinan Zhang",
+        "Ning Liu",
+        "Lizhen Cui",
+        "Chunyan Miao"
+      ],
+      "published": "2026-07-24T14:17:37+00:00",
+      "first_seen": "2026-07-27T10:58:12.908565",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.22012": {
+      "arxiv_id": "2607.22012",
+      "title": "Cross-Domain Off-Policy Evaluation and Learning for Contextual Bandits",
+      "authors": [
+        "Yuta Natsubori",
+        "Masataka Ushiku",
+        "Yuta Saito"
+      ],
+      "published": "2026-07-24T06:17:31+00:00",
+      "first_seen": "2026-07-27T10:58:12.908572",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.22005": {
+      "arxiv_id": "2607.22005",
+      "title": "What Clinicians Need: Designing, Developing and Evaluating an AI-Based Decision Support System for Autism Assessment",
+      "authors": [
+        "Ulrike Schäfer",
+        "William Saakyan",
+        "Matthias Norden",
+        "Fabrizio Kuruc",
+        "Peter Sörries",
+        "Isabel Dziobek",
+        "Claudia Müller-Birn",
+        "Hanna Drimalla"
+      ],
+      "published": "2026-07-24T06:10:06+00:00",
+      "first_seen": "2026-07-27T10:58:12.908578",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2607.21951": {
+      "arxiv_id": "2607.21951",
+      "title": "SIREN (Luring LLMs onto the Rocks): PAIR-Driven Preference Manipulation in Web-RAG Recommenders",
+      "authors": [
+        "Evan Caville",
+        "Siamak Layeghy",
+        "Billy Sung",
+        "Sara Dolnicar",
+        "Marius Portmann"
+      ],
+      "published": "2026-07-24T03:55:51+00:00",
+      "first_seen": "2026-07-27T10:58:12.908584",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CR"
+      ]
+    },
+    "2607.21802": {
+      "arxiv_id": "2607.21802",
+      "title": "StARS: Socially Appropriate Robot Actions via a Recommender System-Driven Approach",
+      "authors": [
+        "Erencem Ozbey",
+        "Fethiye Irmak Dogan",
+        "Jin Huang",
+        "Hatice Gunes"
+      ],
+      "published": "2026-07-23T20:38:07+00:00",
+      "first_seen": "2026-07-27T10:58:12.908589",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.RO",
+        "cs.IR"
+      ]
+    },
+    "2607.21760": {
+      "arxiv_id": "2607.21760",
+      "title": "Bespoke Visual Assistance: What and How do Blind and Low-Vision People Create with Agentic Programming?",
+      "authors": [
+        "Ellie Seehorn",
+        "Gene S-H Kim",
+        "Aziz Zeidieh",
+        "Ather Jammoa",
+        "Kun Lee",
+        "Aditi Shah",
+        "Jaylin Herskovitz",
+        "Anhong Guo",
+        "Venkatesh Potluri"
+      ],
+      "published": "2026-07-23T19:21:40+00:00",
+      "first_seen": "2026-07-27T10:58:12.908596",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2607.21721": {
+      "arxiv_id": "2607.21721",
+      "title": "Prior laundering: learned priors with inherited, undetectable overconfidence",
+      "authors": [
+        "Ali Siahkoohi",
+        "Sina Alemohammad"
+      ],
+      "published": "2026-07-23T18:04:12+00:00",
+      "first_seen": "2026-07-27T10:58:12.908603",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
         "cs.LG"
       ]
     }

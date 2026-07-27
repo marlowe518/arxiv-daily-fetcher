@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-22 | [A Drift Stable Quantum Federated Learning for Intelligent Services](https://arxiv.org/abs/2607.21647) | Quantum federated learning enables distributed clients to train quantum neural networks without sharing local data, making it promising for privacy-aware intelligent services. |
 | 2026-07-23 | [Information-Theoretically Secure Aggregation for Lightweight Federated Learning: Resilient to Dropouts and Adversaries](https://arxiv.org/abs/2607.20890) | On-device federated learning (FL) enables privacy-preserving and personalized model training on resource-constrained devices such as smartphones and IoT nodes. |
 | 2026-07-22 | [One Round Is All You Need: Analytic Federated Learning for Task-Heterogeneous Multi-Label Medical Image Classification](https://arxiv.org/abs/2607.20641) | Federated learning (FL) enables multiple clinical institutions to collaboratively train a shared disease classifier without centralizing patient data. |
 | 2026-07-22 | [Chained Attacks on Drone-Based Federated Learning: From Network Disruption to Device Impersonation](https://arxiv.org/abs/2607.20280) | Edge Intelligence (EI) has emerged as a transformative model for mission-critical unmanned platforms, such as drone swarms, by enabling collaborative model training at the network periphery. |
