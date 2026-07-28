@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-26 | [DP-IVON-Gradsq: Differentially Private Squared-Gradient Improved Variational Online Newton](https://arxiv.org/abs/2607.23649) | Differential privacy provides formal privacy guarantees for training neural networks on sensitive data, while Bayesian deep learning offers a principled framework for uncertainty-aware prediction. |
 | 2026-07-24 | [A Maximum Entropy Implementation of Differential Privacy Under Linear Invariants](https://arxiv.org/abs/2607.22450) | Differential privacy is the standard for ensuring data privacy and is widely used in major data publications, including reporting results from the U. |
 | 2026-07-24 | [trasgoDP: An Open Source Framework for Releasing Noised Tabular Microdata under Local Differential Privacy](https://arxiv.org/abs/2607.22230) | trasgoDP is a modular, open-source, and easy-to-use Python framework for releasing tabular microdata under ε-local differential privacy guarantees, as well as location data under... |
 | 2026-07-24 | [DCS: A Unified Conditional Sensitivity Framework for Cross-Modal Copyright Infringement Detection](https://arxiv.org/abs/2607.22035) | Currently, most foundation models can reproduce or strongly depend on copyrighted training content, but output similarity alone is insufficient for infringement detection, because similar outputs may... |
