@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-28 | [E-MagDiP: Electro-Magnetic based Differential Privacy for EEG based Community Sensing](https://arxiv.org/abs/2607.25968) | EEG-based community sensing programs are emerging globally as a tool to leverage aggregated brain data to gain insights into attentiveness of students and employees. |
-| 2026-07-27 | [ScoreShield: Differentially Private Release of Similarity Scores](https://arxiv.org/abs/2607.25041) | A growing number of applications, such as biometrics and retrieval-augmented generation (RAG), rely on cosine similarity scores computed between vector embeddings of text, images, or audio. |
 | 2026-07-26 | [DP-IVON-Gradsq: Differentially Private Squared-Gradient Improved Variational Online Newton](https://arxiv.org/abs/2607.23649) | Differential privacy provides formal privacy guarantees for training neural networks on sensitive data, while Bayesian deep learning offers a principled framework for uncertainty-aware prediction. |
 | 2026-07-24 | [A Maximum Entropy Implementation of Differential Privacy Under Linear Invariants](https://arxiv.org/abs/2607.22450) | Differential privacy is the standard for ensuring data privacy and is widely used in major data publications, including reporting results from the U. |
 | 2026-07-24 | [trasgoDP: An Open Source Framework for Releasing Noised Tabular Microdata under Local Differential Privacy](https://arxiv.org/abs/2607.22230) | trasgoDP is a modular, open-source, and easy-to-use Python framework for releasing tabular microdata under ε-local differential privacy guarantees, as well as location data under... |

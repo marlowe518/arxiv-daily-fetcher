@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-28 | [Quasi-SVD: Learning a Lie-constrained matrix factorisation for real-time imaging](https://arxiv.org/abs/2607.25967) | Singular Value Decomposition (SVD) underlies matrix factorisation tasks across computational imaging, with medical applications increasingly demanding real-time processing. |
 | 2026-07-27 | [Low-Rank Dependence Decomposition via Accelerated Symmetric Non-negative Matrix Factorization](https://arxiv.org/abs/2607.24518) | Symmetric non-negative matrix factorization (SymNMF) recovers latent group structure from a dependence matrix, but its dense, quadratic-memory objective has confined prior work to moderate sizes. |
 | 2026-07-21 | [SCPP: A Unified Python Library for Soft Clustering](https://arxiv.org/abs/2607.19620) | In this paper, we present SCPP (Soft Clustering Python Package), an open-source Python framework for soft clustering. |
 | 2026-07-15 | [An Efficient Newton Algorithm for Nonnegative Matrix Factorization with the Kullback-Leibler Divergence](https://arxiv.org/abs/2607.13919) | Nonnegative Matrix Factorization (NMF) is a fundamental tool in unsupervised learning, which approximates a nonnegative matrix by the product of two low-rank nonnegative factors. |
