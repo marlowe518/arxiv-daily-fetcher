@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-07-29T10:22:49.866909",
+  "last_updated": "2026-07-31T10:23:48.707683",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -48133,6 +48133,1020 @@
         "cs.CV",
         "cs.LG",
         "math.NA"
+      ]
+    },
+    "2607.28628": {
+      "arxiv_id": "2607.28628",
+      "title": "Learning to Trace Seiberg Dualities",
+      "authors": [
+        "Jonathan J. Heckman",
+        "Shani Meynet",
+        "Alessandro Mininno",
+        "Gary Shiu"
+      ],
+      "published": "2026-07-30T17:59:56+00:00",
+      "first_seen": "2026-07-31T10:23:24.815676",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "hep-th",
+        "cs.AI",
+        "cs.LG",
+        "hep-ph"
+      ]
+    },
+    "2607.28580": {
+      "arxiv_id": "2607.28580",
+      "title": "DualG-MRAG: Decoupling Macro-Reasoning and Micro-Matching for Multimodal Retrieval-Augmented Generation",
+      "authors": [
+        "Jiacheng Tao",
+        "Qingyun Sun",
+        "Haonan Yuan",
+        "Ziwei Zhang",
+        "Jianxin Li"
+      ],
+      "published": "2026-07-30T17:40:05+00:00",
+      "first_seen": "2026-07-31T10:23:24.815689",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.28537": {
+      "arxiv_id": "2607.28537",
+      "title": "Graph Neural Network Force Fields for Spin Dynamics in Metallic Magnets",
+      "authors": [
+        "Ali Rayat",
+        "Yunhao Fan",
+        "Gia-Wei Chern"
+      ],
+      "published": "2026-07-30T17:04:56+00:00",
+      "first_seen": "2026-07-31T10:23:24.815696",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.str-el",
+        "cs.LG",
+        "physics.comp-ph"
+      ]
+    },
+    "2607.28525": {
+      "arxiv_id": "2607.28525",
+      "title": "Same Graph Cross-Task Transfer in GNNs: Protocols and Predictors",
+      "authors": [
+        "Neelam Akula",
+        "Surbhi Kumar",
+        "Murat Kantarcioglu",
+        "Baris Coskunuzer"
+      ],
+      "published": "2026-07-30T17:01:20+00:00",
+      "first_seen": "2026-07-31T10:23:24.815704",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.SI"
+      ]
+    },
+    "2607.28456": {
+      "arxiv_id": "2607.28456",
+      "title": "Graph Neural Multilevel Preconditioners for Iterative Solvers",
+      "authors": [
+        "Zechen Zhang",
+        "Rui Peng Li",
+        "Yousef Saad"
+      ],
+      "published": "2026-07-30T16:19:41+00:00",
+      "first_seen": "2026-07-31T10:23:24.815710",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "math.NA",
+        "cs.LG"
+      ]
+    },
+    "2607.28397": {
+      "arxiv_id": "2607.28397",
+      "title": "GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation",
+      "authors": [
+        "Maya Arseven",
+        "Anette Frank",
+        "Beni Egressy",
+        "Johann Higl",
+        "Moritz Plenz"
+      ],
+      "published": "2026-07-30T15:49:34+00:00",
+      "first_seen": "2026-07-31T10:23:24.815716",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.IR"
+      ]
+    },
+    "2607.28311": {
+      "arxiv_id": "2607.28311",
+      "title": "Fully Inductive Cardinality Estimation",
+      "authors": [
+        "Tim Schwabe",
+        "Lukas Ketzer",
+        "Maribel Acosta"
+      ],
+      "published": "2026-07-30T14:46:43+00:00",
+      "first_seen": "2026-07-31T10:23:24.815723",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.DB",
+        "cs.LG"
+      ]
+    },
+    "2607.28304": {
+      "arxiv_id": "2607.28304",
+      "title": "Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus",
+      "authors": [
+        "Rasmus Tirsgaard",
+        "Laurits Fredsgaard",
+        "Marisa Wodrich",
+        "Mikkel Jordahn",
+        "Mikkel N. Schmidt"
+      ],
+      "published": "2026-07-30T14:43:55+00:00",
+      "first_seen": "2026-07-31T10:23:24.815735",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.28259": {
+      "arxiv_id": "2607.28259",
+      "title": "TopoFormer: Topology Meets Attention for Graph Learning",
+      "authors": [
+        "Md Joshem Uddin",
+        "Astrit Tola",
+        "Cuneyt Gurcan Akcora",
+        "Baris Coskunuzer"
+      ],
+      "published": "2026-07-30T14:18:17+00:00",
+      "first_seen": "2026-07-31T10:23:24.815741",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "math.AT"
+      ]
+    },
+    "2607.28185": {
+      "arxiv_id": "2607.28185",
+      "title": "Persistent Gaussian Perturbations Prevent Oversmoothing in Recurrent Graph Neural Networks",
+      "authors": [
+        "Mostafa Haghir Chehreghani"
+      ],
+      "published": "2026-07-30T13:21:18+00:00",
+      "first_seen": "2026-07-31T10:23:24.815747",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.IT"
+      ]
+    },
+    "2607.28068": {
+      "arxiv_id": "2607.28068",
+      "title": "Stimulus-Evoked Network Dynamics in Human Cortical Organoids: From a Graph-Computational Framework to Repeated-Stimulation Depression",
+      "authors": [
+        "Esmaeil S. Nadimi",
+        "Vinay C. Gogineni",
+        "Jan-Matthias Braun",
+        "Martin Røssel Larsen",
+        "Victoria Blanes-Vidal",
+        "Helle Bogetofte Barnkob"
+      ],
+      "published": "2026-07-30T11:45:16+00:00",
+      "first_seen": "2026-07-31T10:23:24.815753",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "q-bio.NC",
+        "cs.AI"
+      ]
+    },
+    "2607.27966": {
+      "arxiv_id": "2607.27966",
+      "title": "What Makes Graph Unified? Principles and Generative Sliding-Window Transformer for Graph Foundation Models",
+      "authors": [
+        "Dongxiao He",
+        "Siqi Liu",
+        "Jitao Zhao",
+        "Yawen Li",
+        "Yi Wang",
+        "Di Jin"
+      ],
+      "published": "2026-07-30T10:13:59+00:00",
+      "first_seen": "2026-07-31T10:23:24.815758",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.27891": {
+      "arxiv_id": "2607.27891",
+      "title": "Dynamic Spectral Filtering for Temporal Graph Learning: Learning Evolving Propagation Operators",
+      "authors": [
+        "Yan Kong"
+      ],
+      "published": "2026-07-30T09:05:46+00:00",
+      "first_seen": "2026-07-31T10:23:24.815763",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.27767": {
+      "arxiv_id": "2607.27767",
+      "title": "Train Small, Deploy Large: Zero-Shot GNN Transfer Through Geometric Renormalization",
+      "authors": [
+        "Robert Jankowski",
+        "Pedro Almagro-Blanco",
+        "Marián Boguñá",
+        "Melanie Weber",
+        "M. Ángeles Serrano"
+      ],
+      "published": "2026-07-30T07:03:23+00:00",
+      "first_seen": "2026-07-31T10:23:24.815769",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "physics.soc-ph"
+      ]
+    },
+    "2607.27665": {
+      "arxiv_id": "2607.27665",
+      "title": "FedOGL: Combating Catastrophic Forgetting in Federated Open-World Multimodal Graph Learning",
+      "authors": [
+        "Zekai Chen",
+        "Haodong Lu",
+        "Shihao Li",
+        "Weiwei Ji",
+        "Xunkai Li",
+        "Xun Wu",
+        "Yinlin Zhu",
+        "Rong-Hua Li"
+      ],
+      "published": "2026-07-30T04:24:41+00:00",
+      "first_seen": "2026-07-31T10:23:24.815774",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.27479": {
+      "arxiv_id": "2607.27479",
+      "title": "Schreier-Coset Graph Rewiring",
+      "authors": [
+        "Aryan Mishra",
+        "Randy Martinez",
+        "Lizhen Lin"
+      ],
+      "published": "2026-07-29T21:42:02+00:00",
+      "first_seen": "2026-07-31T10:23:24.815779",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.27443": {
+      "arxiv_id": "2607.27443",
+      "title": "Leveraging Trajectory Graphs for Pre-Execution Error Diagnosis in Agentic LLM Systems",
+      "authors": [
+        "Xu Zheng",
+        "Zhuomin Chen",
+        "Chaohao Lin",
+        "Hua Wei",
+        "Haifeng Chen",
+        "Wei Cheng",
+        "Dongsheng Luo"
+      ],
+      "published": "2026-07-29T20:14:43+00:00",
+      "first_seen": "2026-07-31T10:23:24.815784",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2607.27389": {
+      "arxiv_id": "2607.27389",
+      "title": "FunL2O: LLM-Guided Feature Function Design for Learning to Optimize",
+      "authors": [
+        "Bingheng Li",
+        "Junyang Cai",
+        "Yupeng Zhang",
+        "Bistra Dilkina",
+        "Jayant Kalagnanam",
+        "Dzung T. Phan"
+      ],
+      "published": "2026-07-29T18:52:44+00:00",
+      "first_seen": "2026-07-31T10:23:24.815789",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.26699": {
+      "arxiv_id": "2607.26699",
+      "title": "Universality and Approximation Rates of Graph Neural Networks with Random Features",
+      "authors": [
+        "Lukas Gonon",
+        "Thilo Meyer-Brandis",
+        "Niklas Weber"
+      ],
+      "published": "2026-07-29T09:46:07+00:00",
+      "first_seen": "2026-07-31T10:23:24.815795",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2607.26404": {
+      "arxiv_id": "2607.26404",
+      "title": "Examining the Efficacy of Graph Neural Network Message-Passing in Regression Contexts",
+      "authors": [
+        "Keith G. Mills",
+        "Aedan J. DeFrates",
+        "Joong Ho Kim"
+      ],
+      "published": "2026-07-29T02:35:55+00:00",
+      "first_seen": "2026-07-31T10:23:24.815800",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.27940": {
+      "arxiv_id": "2607.27940",
+      "title": "TriShield: Zero-Utility-Loss Defense Against Privacy Backdoors in Federated Language Model Fine-Tuning via Orthogonal Gradient Projection and Optimizer State Entanglement",
+      "authors": [
+        "Cheng Wei"
+      ],
+      "published": "2026-07-30T09:49:13+00:00",
+      "first_seen": "2026-07-31T10:23:33.735563",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ]
+    },
+    "2607.27815": {
+      "arxiv_id": "2607.27815",
+      "title": "Robust Estimation of Sparse Numerical Vectors under Local Differential Privacy",
+      "authors": [
+        "Puning Zhao",
+        "Zhikun Zhang",
+        "Shaowei Wang",
+        "Sheng Yue",
+        "Bangzhou Xin",
+        "Tianhang Zheng",
+        "Pengfei Zhang",
+        "Xiaochun Cao"
+      ],
+      "published": "2026-07-30T07:55:09+00:00",
+      "first_seen": "2026-07-31T10:23:33.735598",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2607.27164": {
+      "arxiv_id": "2607.27164",
+      "title": "Function Privatization in the Local Model",
+      "authors": [
+        "Yuting Liang",
+        "Tian Shu",
+        "Ke Yi"
+      ],
+      "published": "2026-07-29T17:39:50+00:00",
+      "first_seen": "2026-07-31T10:23:33.735605",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2607.28338": {
+      "arxiv_id": "2607.28338",
+      "title": "Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata",
+      "authors": [
+        "Michael Ben Ali",
+        "Imen Megdiche",
+        "André Péninou",
+        "Olivier Teste"
+      ],
+      "published": "2026-07-30T15:04:59+00:00",
+      "first_seen": "2026-07-31T10:23:39.771233",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DC",
+        "stat.ML"
+      ]
+    },
+    "2607.28191": {
+      "arxiv_id": "2607.28191",
+      "title": "Secure Aggregation for Privacy-Preserving Federated Learning on Clinical EEG Data",
+      "authors": [
+        "Pouya Rajabi",
+        "Mohsen Toorani"
+      ],
+      "published": "2026-07-30T13:28:39+00:00",
+      "first_seen": "2026-07-31T10:23:39.771245",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2607.27632": {
+      "arxiv_id": "2607.27632",
+      "title": "First-order Constrained Trilevel Optimization Over Distributed Networks for Robust Coreset Selection",
+      "authors": [
+        "Yang Jiao",
+        "Kaixuan Jiao",
+        "Kai Yang",
+        "Nadjib Aitsaadi",
+        "Ilhem Fajjari",
+        "Renwei",
+        "Li"
+      ],
+      "published": "2026-07-30T03:43:18+00:00",
+      "first_seen": "2026-07-31T10:23:39.771251",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.26933": {
+      "arxiv_id": "2607.26933",
+      "title": "Defending Against Backdoor Attacks via Alignment Checking in Model-Contrastive Federated Learning",
+      "authors": [
+        "Hongliang Zhang",
+        "Zhongyuan Yu",
+        "Guijuan Wang",
+        "Tianqing He",
+        "Wenshuo Ma",
+        "Xiaosong Zhang",
+        "Jiguo Yu"
+      ],
+      "published": "2026-07-29T13:59:37+00:00",
+      "first_seen": "2026-07-31T10:23:39.771258",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2607.26801": {
+      "arxiv_id": "2607.26801",
+      "title": "FedTopo: Relation-Level Topology Sharing for Model-Heterogeneous Federated Learning",
+      "authors": [
+        "Zhaoyang Ma",
+        "Zhihao Wu",
+        "Xin Gao",
+        "Lipo Wang",
+        "Youfang Lin",
+        "Jing Wang"
+      ],
+      "published": "2026-07-29T11:39:21+00:00",
+      "first_seen": "2026-07-31T10:23:39.771263",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.26788": {
+      "arxiv_id": "2607.26788",
+      "title": "Stable and Budget-Feasible Coalition Formation for Clustered Federated Learning: A Hedonic Potential-Game Approach",
+      "authors": [
+        "Cengis Hasan"
+      ],
+      "published": "2026-07-29T11:29:45+00:00",
+      "first_seen": "2026-07-31T10:23:39.771269",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.GT",
+        "cs.LG"
+      ]
+    },
+    "2607.26682": {
+      "arxiv_id": "2607.26682",
+      "title": "An Informativeness-based Clustered Federated Learning Method for Reliable Traffic Prediction in Managed Wi-Fi Networks",
+      "authors": [
+        "Luca Barbieri",
+        "Gianluca Fontanesi",
+        "Lorenzo Galati Giordano",
+        "Alfonso Fernandez Duran",
+        "Thorsten Wild"
+      ],
+      "published": "2026-07-29T09:32:42+00:00",
+      "first_seen": "2026-07-31T10:23:39.771274",
+      "topic": "Federated Learning",
+      "categories": [
+        "eess.SP",
+        "cs.LG"
+      ]
+    },
+    "2607.26038": {
+      "arxiv_id": "2607.26038",
+      "title": "Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling",
+      "authors": [
+        "Fan Yang",
+        "Madelyn Weller",
+        "Dimuthu Fernando",
+        "Hila Livneh",
+        "Yuxin Wen"
+      ],
+      "published": "2026-07-28T17:46:19+00:00",
+      "first_seen": "2026-07-31T10:23:39.771324",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.28497": {
+      "arxiv_id": "2607.28497",
+      "title": "The Role of Causality in Algorithmic Recourse",
+      "authors": [
+        "Srikanth Avasarala",
+        "Varun Gupta",
+        "Shahin Jabbari",
+        "Saber Salehkaleybar",
+        "Juba Ziani"
+      ],
+      "published": "2026-07-30T16:42:51+00:00",
+      "first_seen": "2026-07-31T10:23:42.820285",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CY",
+        "cs.GT"
+      ]
+    },
+    "2607.28070": {
+      "arxiv_id": "2607.28070",
+      "title": "CCFormer: Efficient Cross-Field Interaction and Hierarchical Sequence Compression for Industrial Recommendation at Tencent",
+      "authors": [
+        "Yunlong Wang",
+        "Huizhe Zhang",
+        "Haonan Hu",
+        "Yudong Li",
+        "Bing Wen",
+        "Jianchao Tu",
+        "Chengxiang Zhuo",
+        "Zang Li"
+      ],
+      "published": "2026-07-30T11:45:31+00:00",
+      "first_seen": "2026-07-31T10:23:42.820297",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.28019": {
+      "arxiv_id": "2607.28019",
+      "title": "Building a User Foundation Model for the Open Web",
+      "authors": [
+        "Solal Vernier",
+        "Ivan Can Arisoy",
+        "Merwan Barlier",
+        "Blaž Škrlj"
+      ],
+      "published": "2026-07-30T11:07:54+00:00",
+      "first_seen": "2026-07-31T10:23:42.820304",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2607.27944": {
+      "arxiv_id": "2607.27944",
+      "title": "Interpretable Representation via LLM-Driven Generative Disentanglement for Local-Life Service Recommendation",
+      "authors": [
+        "Long Zhang",
+        "Hao Jiang",
+        "Sheng Yu",
+        "Fei Pan",
+        "Peng Jiang",
+        "Kun Gai"
+      ],
+      "published": "2026-07-30T09:52:18+00:00",
+      "first_seen": "2026-07-31T10:23:42.820310",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2607.27789": {
+      "arxiv_id": "2607.27789",
+      "title": "From Understanding to Action: Feedback-Grounded Policy Discovery for Generative Recommendation",
+      "authors": [
+        "Zhi Chen",
+        "Minmao Wang",
+        "Xingchen Liu",
+        "Haoqiang Liang",
+        "Huihuang Lin",
+        "Likang Wu",
+        "Hongke Zhao",
+        "Yulong Wang",
+        "Shijie Yi",
+        "Fei Pan",
+        "Peng Jiang"
+      ],
+      "published": "2026-07-30T07:23:07+00:00",
+      "first_seen": "2026-07-31T10:23:42.820316",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.27760": {
+      "arxiv_id": "2607.27760",
+      "title": "Hierarchical Latent Reasoning for LLM-based Recommendation",
+      "authors": [
+        "Peiyu Hu",
+        "Siying Gu",
+        "Weihai Lu",
+        "Zhuodong Liu",
+        "Yuntian Tang",
+        "Jiahao Liang",
+        "Yiying Xie",
+        "Jiang Rong",
+        "Zhaokai Luo",
+        "Zhiyong Wang",
+        "Jia Wang"
+      ],
+      "published": "2026-07-30T06:58:37+00:00",
+      "first_seen": "2026-07-31T10:23:42.820322",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2607.27744": {
+      "arxiv_id": "2607.27744",
+      "title": "ROCS: Request-Oriented Compute Sharing for Efficient Large-Scale Recommendation",
+      "authors": [
+        "Yuxin Chen",
+        "Liang Luo",
+        "Buyun Zhang",
+        "Jian Jiao",
+        "Boda Li",
+        "Haoyu Wang",
+        "Tongyi Tang",
+        "Ao Cai",
+        "Zijian Shen",
+        "Zhengkai Zhang",
+        "Wenyi Xie",
+        "Ryan Dick",
+        "Han Liu",
+        "Neng Shi",
+        "Bin Yu",
+        "Jianbo Xiao",
+        "Shuyao Bi",
+        "Hongtao Yu",
+        "Yuanwei Fang",
+        "Zhuoran Zhao",
+        "Sijia Chen",
+        "Yang Chen",
+        "Shuqi Yang",
+        "Qianru Li",
+        "Zikun Liu",
+        "Wei Ling",
+        "Sihan Zeng",
+        "Longhao Jin",
+        "Jiaxin Lu",
+        "Yinbin Ma",
+        "Jiawei Li",
+        "Yichen Ruan",
+        "Yong Ler Lee",
+        "Birmingham Guan",
+        "Zijian Li",
+        "Jianbo Sun",
+        "Zhengyu Zhang",
+        "Zeliang Chen",
+        "Xiaohan Wei",
+        "Yuchen Hao",
+        "GP Musumeci",
+        "Venkatesh Ranganathan",
+        "Yantao Yao",
+        "Chunqiang Tang",
+        "Wenlin Chen",
+        "Santanu Kolay",
+        "Ellie Dingqiao Wen"
+      ],
+      "published": "2026-07-30T06:33:50+00:00",
+      "first_seen": "2026-07-31T10:23:42.820328",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2607.27682": {
+      "arxiv_id": "2607.27682",
+      "title": "Restoring Collaborative Signals in Semantic-ID Generative Recommendation via Personalized Natural Language",
+      "authors": [
+        "Changjiang Han",
+        "Qingyang Li",
+        "Yaqiang Zang",
+        "Jikun Kang",
+        "Pinghua Gong",
+        "Xue Liu",
+        "Bowei He"
+      ],
+      "published": "2026-07-30T04:58:22+00:00",
+      "first_seen": "2026-07-31T10:23:42.820333",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.27647": {
+      "arxiv_id": "2607.27647",
+      "title": "LoopMemGR: From Behavior Logs to Evolving Memory for Generative Recommendation",
+      "authors": [
+        "Hui Qian",
+        "Changfa Wu",
+        "Chang Liu",
+        "Binbin Cao",
+        "Jian Wu",
+        "Yuliang Yan",
+        "Han Zhu",
+        "Bo Zheng"
+      ],
+      "published": "2026-07-30T03:59:00+00:00",
+      "first_seen": "2026-07-31T10:23:42.820339",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.27640": {
+      "arxiv_id": "2607.27640",
+      "title": "Dynamic Exploration Graph: A Novel Approach for Efficient Nearest Neighbor Search in Evolving Multimedia Datasets",
+      "authors": [
+        "Nico Hezel",
+        "Kai Uwe Barthel",
+        "Bruno Schilling",
+        "Konstantin Schall",
+        "Klaus Jung"
+      ],
+      "published": "2026-07-30T03:50:40+00:00",
+      "first_seen": "2026-07-31T10:23:42.820344",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.27623": {
+      "arxiv_id": "2607.27623",
+      "title": "An Exploration Graph with Continuous Refinement for Efficient Multimedia Retrieval",
+      "authors": [
+        "Nico Hezel",
+        "Kai Uwe Barthel",
+        "Konstantin Schall",
+        "Klaus Jung"
+      ],
+      "published": "2026-07-30T03:22:17+00:00",
+      "first_seen": "2026-07-31T10:23:42.820349",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.27577": {
+      "arxiv_id": "2607.27577",
+      "title": "Heterogeneous Ranking in Industrial-Scale Recommender Systems: A Case Study",
+      "authors": [
+        "Di Bai",
+        "Jintao Liu",
+        "Zhenwei Tang",
+        "Peifan Wu",
+        "Nada Al-Thawr",
+        "Luoshu Wang"
+      ],
+      "published": "2026-07-30T01:41:42+00:00",
+      "first_seen": "2026-07-31T10:23:42.820355",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2607.27475": {
+      "arxiv_id": "2607.27475",
+      "title": "OneShot: Index-in-Ranking with Neural Scoring for Large-Scale Retrieval",
+      "authors": [
+        "Ziwei Li",
+        "Shuyao Li",
+        "Xufeng Cai",
+        "Xue Zou",
+        "Yiming Ma",
+        "Huiting Lu",
+        "Wujie Yan",
+        "Zhichen Zhao",
+        "Yang Lu",
+        "Zhe Wang",
+        "Rui Luo",
+        "Zhengyu Su",
+        "Dan Zhang",
+        "Ji Liu"
+      ],
+      "published": "2026-07-29T21:29:00+00:00",
+      "first_seen": "2026-07-31T10:23:42.820360",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2607.27055": {
+      "arxiv_id": "2607.27055",
+      "title": "Learning from the Future: Privileged Self-Distillation for Sequential Recommendation",
+      "authors": [
+        "Jiakai Tang",
+        "Yang Zhang",
+        "See-Kiong Ng",
+        "Xu Chen",
+        "Wen Chen",
+        "Jian Wu",
+        "Han Zhu"
+      ],
+      "published": "2026-07-29T15:47:22+00:00",
+      "first_seen": "2026-07-31T10:23:42.820366",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.27002": {
+      "arxiv_id": "2607.27002",
+      "title": "IMFuse: Instance-Aware Multi-Layer Fusion for LLM-Enhanced Sequential Recommendation",
+      "authors": [
+        "Yuheng Zheng",
+        "Yu Cui",
+        "Bin Wu",
+        "Jian Zhang",
+        "Ye Feng",
+        "Can Wang",
+        "Jiawei Chen"
+      ],
+      "published": "2026-07-29T14:58:36+00:00",
+      "first_seen": "2026-07-31T10:23:42.820371",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.26908": {
+      "arxiv_id": "2607.26908",
+      "title": "Actions Have Consequences: Detecting Outcome Performativity using Intervention Testing",
+      "authors": [
+        "Brandon Gower-Winter",
+        "Georg Krempl"
+      ],
+      "published": "2026-07-29T13:39:29+00:00",
+      "first_seen": "2026-07-31T10:23:42.820376",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2607.26893": {
+      "arxiv_id": "2607.26893",
+      "title": "Beyond Action Imitation: Learning a Decision-Aware User Simulator for Online Advertising",
+      "authors": [
+        "Zipeng Chen",
+        "Jiaer Zheng",
+        "Xiangyang Xu",
+        "Xinyu Lin",
+        "Zhaobin Wang",
+        "Zhaohui Liu",
+        "Qianjin Xiang",
+        "Xiaoyu Zhao",
+        "Zhuozhen Yu",
+        "Guangshuo Wang",
+        "Daxing Chen",
+        "Junwei Pan",
+        "Zhangbin Zhu",
+        "Chengguo Yin",
+        "Hao Chen",
+        "Tat-Seng Chua",
+        "Haijie Gu",
+        "Jie Jiang"
+      ],
+      "published": "2026-07-29T13:25:30+00:00",
+      "first_seen": "2026-07-31T10:23:42.820382",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.26832": {
+      "arxiv_id": "2607.26832",
+      "title": "Kairos: Numerically Robust News Recommendation under Item Cold-Start via Cholesky-based LinUCB",
+      "authors": [
+        "Finn Hertsch"
+      ],
+      "published": "2026-07-29T12:25:25+00:00",
+      "first_seen": "2026-07-31T10:23:42.820387",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2607.26720": {
+      "arxiv_id": "2607.26720",
+      "title": "CaIRec: Calibrated Modality Imputation for Incomplete Multimodal Recommendation",
+      "authors": [
+        "Ruiyu Liu",
+        "Xiaohao Liu",
+        "Miaomiao Cai",
+        "Yunshan Ma",
+        "See-Kiong Ng"
+      ],
+      "published": "2026-07-29T10:10:20+00:00",
+      "first_seen": "2026-07-31T10:23:42.820392",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2607.26621": {
+      "arxiv_id": "2607.26621",
+      "title": "WhisperRec: Latent Reasoning for Efficient Foundation Recommendation Models",
+      "authors": [
+        "Hao Jiang",
+        "Peiru Du",
+        "Pengfei Yao",
+        "Mengting Li",
+        "Siyuan Lou",
+        "Kuo Cai",
+        "Sheng Yu",
+        "Qiang Luo",
+        "Jian Liang",
+        "Ruiming Tang",
+        "Fei Pan",
+        "Peng Jiang",
+        "Wenwu Ou"
+      ],
+      "published": "2026-07-29T08:48:35+00:00",
+      "first_seen": "2026-07-31T10:23:42.820397",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2607.28073": {
+      "arxiv_id": "2607.28073",
+      "title": "GVR-Coder: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios",
+      "authors": [
+        "Yiming Xu",
+        "Jihua Kang",
+        "Chunsai Du",
+        "Qifan Zhang",
+        "Wangqiu Zhou",
+        "Yiting Wu",
+        "Tianqi Li",
+        "Qi Song"
+      ],
+      "published": "2026-07-30T11:47:50+00:00",
+      "first_seen": "2026-07-31T10:23:48.702789",
+      "topic": "Implicit Feedback",
+      "categories": [
+        "cs.LG",
+        "cs.CV"
+      ]
+    },
+    "2607.26859": {
+      "arxiv_id": "2607.26859",
+      "title": "No Data Is Not No Risk: Visibility Aware Graph-Based Inference of Business Conduct Risk",
+      "authors": [
+        "Tsuyoshi Iwata",
+        "Johannes Laurmaa",
+        "Ryohei Hisano"
+      ],
+      "published": "2026-07-29T12:44:09+00:00",
+      "first_seen": "2026-07-31T10:23:48.702801",
+      "topic": "Implicit Feedback",
+      "categories": [
+        "q-fin.RM",
+        "cs.LG"
       ]
     }
   }

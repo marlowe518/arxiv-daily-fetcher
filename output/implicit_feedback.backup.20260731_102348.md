@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-30 | [GVR-Coder: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios](https://arxiv.org/abs/2607.28073) | In demanding professional environments and meeting review scenarios, lengthy text often imposes a high cognitive load. |
-| 2026-07-29 | [No Data Is Not No Risk: Visibility Aware Graph-Based Inference of Business Conduct Risk](https://arxiv.org/abs/2607.26859) | The monitoring of business conduct risk is hindered by sparse, uneven, and visibility-biased data. |
 | 2026-07-21 | [Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection](https://arxiv.org/abs/2607.18700) | The FathomNetCLEF 2026 competition combines underwater object detection and fine-grained marine species classification under a positive-unlabeled evaluation setting. |
 | 2026-07-15 | [PUe: Biased Positive-Unlabeled Learning Enhancement by Causal Inference](https://arxiv.org/abs/2607.13428) | Positive-Unlabeled (PU) learning aims to achieve high-accuracy binary classification with limited labeled positive examples and numerous unlabeled ones. |
 | 2026-06-18 | [Your Mouse and Eyes Secretly Leak Your Preference: LLM Alignment using Implicit Feedback from Users](https://arxiv.org/abs/2606.20482) | To align a Large Language Model (LLM), most existing methods collect explicit human feedback and train a reward model to predict the human preference based on the response text. |

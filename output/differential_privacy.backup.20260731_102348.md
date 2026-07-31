@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-30 | [TriShield: Zero-Utility-Loss Defense Against Privacy Backdoors in Federated Language Model Fine-Tuning via Orthogonal Gradient Projection and Optimizer State Entanglement](https://arxiv.org/abs/2607.27940) | Federated fine-tuning of large language models (LLMs) enables collaborative training without exposing raw data. |
-| 2026-07-30 | [Robust Estimation of Sparse Numerical Vectors under Local Differential Privacy](https://arxiv.org/abs/2607.27815) | Local differential privacy (LDP) protocols are vulnerable to poisoning attacks. |
-| 2026-07-29 | [Function Privatization in the Local Model](https://arxiv.org/abs/2607.27164) | We study the problem of privately releasing functions, with a particular focus on curves, which are images of continuous functions on some finite interval. |
 | 2026-07-28 | [E-MagDiP: Electro-Magnetic based Differential Privacy for EEG based Community Sensing](https://arxiv.org/abs/2607.25968) | EEG-based community sensing programs are emerging globally as a tool to leverage aggregated brain data to gain insights into attentiveness of students and employees. |
 | 2026-07-27 | [ScoreShield: Differentially Private Release of Similarity Scores](https://arxiv.org/abs/2607.25041) | A growing number of applications, such as biometrics and retrieval-augmented generation (RAG), rely on cosine similarity scores computed between vector embeddings of text, images, or audio. |
 | 2026-07-26 | [DP-IVON-Gradsq: Differentially Private Squared-Gradient Improved Variational Online Newton](https://arxiv.org/abs/2607.23649) | Differential privacy provides formal privacy guarantees for training neural networks on sensitive data, while Bayesian deep learning offers a principled framework for uncertainty-aware prediction. |
