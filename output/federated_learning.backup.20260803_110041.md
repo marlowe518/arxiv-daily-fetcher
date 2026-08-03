@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-31 | [GQ-FSL: Green Quantized Federated Split Learning](https://arxiv.org/abs/2607.29659) | Deploying state-of-the-art deep neural networks (DNNs) at the wireless edge is severely bottlenecked by the strict energy and resource constraints of mobile devices. |
-| 2026-07-31 | [Federated Foundation Models Fine-Tuning with Heterogeneous Compressed Clients](https://arxiv.org/abs/2607.29071) | Federated learning of foundation models faces a fundamental resource-asymmetry challenge: the institutions holding the most valuable domain-specific data cannot host billion-parameter models. |
 | 2026-07-30 | [Encryption-Compatible Clustered Federated Learning via Distributed Expectation-Maximization over Metadata](https://arxiv.org/abs/2607.28338) | Clustered Federated Learning (CFL) addresses data heterogeneity in federated settings by grouping clients with similar data distributions to enable effective training. |
 | 2026-07-30 | [Secure Aggregation for Privacy-Preserving Federated Learning on Clinical EEG Data](https://arxiv.org/abs/2607.28191) | Federated learning enables multiple institutions to train shared models without exchanging raw clinical EEG data, but it does not fully prevent privacy leakage from individual model updates. |
 | 2026-07-30 | [First-order Constrained Trilevel Optimization Over Distributed Networks for Robust Coreset Selection](https://arxiv.org/abs/2607.27632) | With the rapid advancement of the Internet of Things (IoT), massive amounts of data are generated across distributed edge networks. |

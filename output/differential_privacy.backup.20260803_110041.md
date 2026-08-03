@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-07-31 | [Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering](https://arxiv.org/abs/2607.29675) | Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. |
-| 2026-07-31 | [StraightDP: Geometry-Aware Differential Privacy for Rectified-Flow Transformers](https://arxiv.org/abs/2607.29100) | Differentially private (DP) training of text-conditioned generative models suffers a utility cliff at strong privacy. |
-| 2026-07-31 | [MESS: Fast and Private Semantic Search on Multi-Graph HNSW](https://arxiv.org/abs/2607.28999) | Semantic search systems map data to a high-dimensional vector space and support retrieval of similar data via approximate nearest neighbor search. |
-| 2026-07-30 | [Costs of Arbitrary Real Matrix Factorizations for Pure-DP Continual Counting](https://arxiv.org/abs/2607.28703) | Let \(T_n\) be the lower-triangular prefix-sum matrix and let \(\cfrob(T_n)\) and \(\ctwo(T_n)\) be the factorization costs that govern mean and maximum per-coordinate squared error of the Laplace... |
 | 2026-07-30 | [TriShield: Zero-Utility-Loss Defense Against Privacy Backdoors in Federated Language Model Fine-Tuning via Orthogonal Gradient Projection and Optimizer State Entanglement](https://arxiv.org/abs/2607.27940) | Federated fine-tuning of large language models (LLMs) enables collaborative training without exposing raw data. |
 | 2026-07-30 | [Robust Estimation of Sparse Numerical Vectors under Local Differential Privacy](https://arxiv.org/abs/2607.27815) | Local differential privacy (LDP) protocols are vulnerable to poisoning attacks. |
 | 2026-07-29 | [Function Privatization in the Local Model](https://arxiv.org/abs/2607.27164) | We study the problem of privately releasing functions, with a particular focus on curves, which are images of continuous functions on some finite interval. |
