@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-03 | [Private Generative Bootstrap via Blocking](https://arxiv.org/abs/2608.02480) | With AI systems gaining more access to individuals' information, it is important to protect privacy when reporting statistical answers. |
-| 2026-08-02 | [FedChronos: Federated Fine-Tuning of Time-Series Foundation Models for Privacy-Preserving Commodity Price Forecasting](https://arxiv.org/abs/2608.01290) | Time-series foundation models (TSFMs) such as Chronos have demonstrated strong forecasting capabilities across domains, yet adapting them to institutionally fragmented settings, where data cannot be... |
-| 2026-08-01 | [Similarity Weighted Aggregation with Global Differential Privacy for Federated Brain Lesion Segmentation](https://arxiv.org/abs/2608.00872) | Federated Learning (FL) enables collaborative training of machine learning models across multiple institutions without sharing sensitive data, making it particularly suitable for medical imaging... |
 | 2026-07-31 | [Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering](https://arxiv.org/abs/2607.29675) | Density modes provide a localized and interpretable summary of multimodal distributions, but their estimation under rigorous differential privacy constraints remains largely unexplored. |
 | 2026-07-31 | [StraightDP: Geometry-Aware Differential Privacy for Rectified-Flow Transformers](https://arxiv.org/abs/2607.29100) | Differentially private (DP) training of text-conditioned generative models suffers a utility cliff at strong privacy. |
 | 2026-07-31 | [MESS: Fast and Private Semantic Search on Multi-Graph HNSW](https://arxiv.org/abs/2607.28999) | Semantic search systems map data to a high-dimensional vector space and support retrieval of similar data via approximate nearest neighbor search. |
