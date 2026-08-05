@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-04T10:22:53.902353",
+  "last_updated": "2026-08-05T10:18:36.276181",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -50326,6 +50326,335 @@
       ],
       "published": "2026-08-01T13:44:04+00:00",
       "first_seen": "2026-08-04T10:22:48.322841",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.03696": {
+      "arxiv_id": "2608.03696",
+      "title": "Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling",
+      "authors": [
+        "Nelson Aloysio Reis de Almeida Passos",
+        "Emanuele Carlini",
+        "Salvatore Trani"
+      ],
+      "published": "2026-08-04T14:01:08+00:00",
+      "first_seen": "2026-08-05T10:18:12.357066",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.SI"
+      ]
+    },
+    "2608.03512": {
+      "arxiv_id": "2608.03512",
+      "title": "Reversing Arrows in Large Language Models",
+      "authors": [
+        "Sefika Efeoglu",
+        "Adrian Paschke"
+      ],
+      "published": "2026-08-04T11:56:02+00:00",
+      "first_seen": "2026-08-05T10:18:15.265504",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2608.03737": {
+      "arxiv_id": "2608.03737",
+      "title": "Dependency Triad: A Metric to Quantify the Dependencies Between Attributes for Local Differential Privacy",
+      "authors": [
+        "Sandaru Jayawardana",
+        "Sennur Ulukus",
+        "Ming Ding",
+        "Kanchana Thilakarathna"
+      ],
+      "published": "2026-08-04T14:30:55+00:00",
+      "first_seen": "2026-08-05T10:18:21.258114",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.IT"
+      ]
+    },
+    "2608.03267": {
+      "arxiv_id": "2608.03267",
+      "title": "FedGSA: Geometry-Consistent Subspace Aggregation for Differentially Private Federated LoRA",
+      "authors": [
+        "Lele Zheng",
+        "Ruijie Hu",
+        "Tao Zhang",
+        "Ke Cheng",
+        "Yulong Shen"
+      ],
+      "published": "2026-08-04T07:39:40+00:00",
+      "first_seen": "2026-08-05T10:18:21.258125",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2608.03878": {
+      "arxiv_id": "2608.03878",
+      "title": "Operationally Feasible Synthetic Power-Grid Scenarios via Learning the AC-Operable Joint Distribution",
+      "authors": [
+        "Chenhan Xiao",
+        "Xinyu He",
+        "Haoran Li",
+        "Hanghang Tong",
+        "Yang Weng"
+      ],
+      "published": "2026-08-04T16:17:15+00:00",
+      "first_seen": "2026-08-05T10:18:27.396156",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2608.03498": {
+      "arxiv_id": "2608.03498",
+      "title": "FedCARE: A Multi-Objective Personalised Federated Learning Framework for Smart Healthcare",
+      "authors": [
+        "Rojalini Tripathy",
+        "Padmalochan Bera",
+        "Shreya Ghosh",
+        "Rajkumar Buyya"
+      ],
+      "published": "2026-08-04T11:37:03+00:00",
+      "first_seen": "2026-08-05T10:18:27.396166",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2608.03436": {
+      "arxiv_id": "2608.03436",
+      "title": "FedRings: A Scalable and Topology-Aware Federated Learning Framework for LEO Satellite Constellations",
+      "authors": [
+        "Ziwu Liu",
+        "Inês Pinto Gouveia",
+        "Rehana Yasmin",
+        "Paulo Esteves-Verissimo",
+        "Ali Shoker"
+      ],
+      "published": "2026-08-04T10:31:58+00:00",
+      "first_seen": "2026-08-05T10:18:27.396172",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2608.03324": {
+      "arxiv_id": "2608.03324",
+      "title": "AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning",
+      "authors": [
+        "Shengyang Li",
+        "Yiting Dong",
+        "Liuyang Song",
+        "Ximing Wang",
+        "Luyuan Xie",
+        "Cong Li",
+        "Qingni Shen",
+        "Zhaofei Yu"
+      ],
+      "published": "2026-08-04T08:32:30+00:00",
+      "first_seen": "2026-08-05T10:18:27.396180",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.NE"
+      ]
+    },
+    "2608.03156": {
+      "arxiv_id": "2608.03156",
+      "title": "Trust-Aware Topology Learning for Dynamic Decentralized Federated Learning under Adversaries",
+      "authors": [
+        "Shubham Vaishnav",
+        "Murtaza Rangwala",
+        "Ali Beikmohammadi",
+        "Sindri Magnússon",
+        "Rajkumar Buyya"
+      ],
+      "published": "2026-08-04T05:45:35+00:00",
+      "first_seen": "2026-08-05T10:18:27.396187",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC"
+      ]
+    },
+    "2608.02939": {
+      "arxiv_id": "2608.02939",
+      "title": "Federated generative event models for tokenized electronic health records",
+      "authors": [
+        "Michael C. Burkhart",
+        "Luke Solo",
+        "Inhyeok Lee",
+        "S'Khaja Charles",
+        "Zewei \"Whiskey\" Liao",
+        "Kaveri Chhikara",
+        "Dema Therese",
+        "Wan-Ting Liao",
+        "Catherine A. Gao",
+        "William F. Parker",
+        "Brett K. Beaulieu-Jones"
+      ],
+      "published": "2026-08-03T22:54:31+00:00",
+      "first_seen": "2026-08-05T10:18:27.396193",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CY"
+      ]
+    },
+    "2608.03899": {
+      "arxiv_id": "2608.03899",
+      "title": "ATLAS: Learning to Recommend Across Unseen Domains",
+      "authors": [
+        "Pervez Shaik",
+        "Prosenjit Biswas",
+        "Abhinav Thorat",
+        "Ravi Kolla",
+        "Niranjan Pedanekar"
+      ],
+      "published": "2026-08-04T16:29:02+00:00",
+      "first_seen": "2026-08-05T10:18:30.267287",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.03692": {
+      "arxiv_id": "2608.03692",
+      "title": "SITA: Semantic Interest Tokens for Target-Aware Compression in Long-Sequence Recommendation",
+      "authors": [
+        "Rui Zhou",
+        "Bo Chen",
+        "Qinglin Jia",
+        "Jiezhou Ji",
+        "Chaoyi Ma",
+        "Ruiming Tang",
+        "Hao Wang",
+        "Enhong Chen"
+      ],
+      "published": "2026-08-04T13:59:44+00:00",
+      "first_seen": "2026-08-05T10:18:30.267298",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.03647": {
+      "arxiv_id": "2608.03647",
+      "title": "Conditionally Identifiable Latent-Environment Modeling for Out-of-Distribution Recommendation",
+      "authors": [
+        "Qianqian Wang",
+        "Wenwu Gong",
+        "Yunshan Li",
+        "Zhenqing Wu",
+        "Ruili Wang",
+        "Lili Yang"
+      ],
+      "published": "2026-08-04T13:30:51+00:00",
+      "first_seen": "2026-08-05T10:18:30.267304",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2608.03511": {
+      "arxiv_id": "2608.03511",
+      "title": "How Many Labels Are Enough? ALDA: Active Learning Deployment Advisor for Medical Image Classification",
+      "authors": [
+        "Julia Machnio",
+        "Mads Nielsen",
+        "Mostafa Mehdipour Ghazi"
+      ],
+      "published": "2026-08-04T11:53:02+00:00",
+      "first_seen": "2026-08-05T10:18:30.267310",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2608.03382": {
+      "arxiv_id": "2608.03382",
+      "title": "LLM-Derived Priors for Thompson Sampling in Cold-Start Comment Recommendation",
+      "authors": [
+        "Eugene Lee",
+        "Oseong Choi",
+        "Byungsoo Kang",
+        "Taeyeong Jang"
+      ],
+      "published": "2026-08-04T09:31:44+00:00",
+      "first_seen": "2026-08-05T10:18:30.267315",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2608.03272": {
+      "arxiv_id": "2608.03272",
+      "title": "Attacking and Defending Multi-Agent Collaborative Filtering Systems Through Connectivity",
+      "authors": [
+        "Anjun Hu",
+        "Hanting Xie",
+        "Saranya Govindan",
+        "Jas Kandola",
+        "Kurt Cutajar"
+      ],
+      "published": "2026-08-04T07:49:58+00:00",
+      "first_seen": "2026-08-05T10:18:30.267321",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CR",
+        "cs.MA",
+        "cs.SI"
+      ]
+    },
+    "2608.03091": {
+      "arxiv_id": "2608.03091",
+      "title": "Position Bias Undermines Preference Consistency in Listwise LLM-Based Reranking",
+      "authors": [
+        "Ethan Bito",
+        "Yongli Ren",
+        "Estrid He"
+      ],
+      "published": "2026-08-04T04:04:12+00:00",
+      "first_seen": "2026-08-05T10:18:30.267327",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.02738": {
+      "arxiv_id": "2608.02738",
+      "title": "Knowledge-Geometry Decoupling: Refreshable Pretrained Transfer for Streaming Recommendation",
+      "authors": [
+        "Zixuan Wang",
+        "Yuhong Chen",
+        "Yuxuan Zhu",
+        "Guidong Lei",
+        "Zhiluohan Guo",
+        "Yu Zhao",
+        "Kun Wang",
+        "Bangyang Hong",
+        "Kangle Wu",
+        "Yabo Ni",
+        "Anxiang Zeng",
+        "Cong Fu",
+        "Hui Li"
+      ],
+      "published": "2026-08-03T18:00:05+00:00",
+      "first_seen": "2026-08-05T10:18:30.267332",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"

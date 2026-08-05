@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-04 | [Dependency Triad: A Metric to Quantify the Dependencies Between Attributes for Local Differential Privacy](https://arxiv.org/abs/2608.03737) | Collecting multidimensional user data is essential for extracting rich insights across various applications. |
-| 2026-08-04 | [FedGSA: Geometry-Consistent Subspace Aggregation for Differentially Private Federated LoRA](https://arxiv.org/abs/2608.03267) | Low-Rank Adaptation (LoRA) enables communication-efficient federated fine-tuning of pretrained language models. |
 | 2026-08-03 | [Private Generative Bootstrap via Blocking](https://arxiv.org/abs/2608.02480) | With AI systems gaining more access to individuals' information, it is important to protect privacy when reporting statistical answers. |
 | 2026-08-02 | [FedChronos: Federated Fine-Tuning of Time-Series Foundation Models for Privacy-Preserving Commodity Price Forecasting](https://arxiv.org/abs/2608.01290) | Time-series foundation models (TSFMs) such as Chronos have demonstrated strong forecasting capabilities across domains, yet adapting them to institutionally fragmented settings, where data cannot be... |
 | 2026-08-01 | [Similarity Weighted Aggregation with Global Differential Privacy for Federated Brain Lesion Segmentation](https://arxiv.org/abs/2608.00872) | Federated Learning (FL) enables collaborative training of machine learning models across multiple institutions without sharing sensitive data, making it particularly suitable for medical imaging... |

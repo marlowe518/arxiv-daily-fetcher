@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-04 | [Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling](https://arxiv.org/abs/2608.03696) | This work focuses on the problem of learning on temporal graphs, with particular emphasis on the task of clustering: obtaining coarse-grained representations by aggregating information from nodes,... |
 | 2026-08-03 | [Benchmarking Sheaf Neural Networks for Inductive Tasks](https://arxiv.org/abs/2608.02558) | Sheaf Neural Networks (SNNs) generalize message passing by replacing scalar edge weights of standard Graph Neural Networks (GNNs) with learnable, edge-dependent restriction maps between node stalks. |
 | 2026-08-03 | [Network Information Enhances Unreliable News Domain Detection](https://arxiv.org/abs/2608.02399) | Content-based detection of unreliable news is increasingly difficult, as low-reliability sources mimic credible journalism and generative AI makes fabricated content harder to flag. |
 | 2026-08-03 | [Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning](https://arxiv.org/abs/2608.02168) | Credit risk detection, particularly mitigating individual fraud, is crucial for maintaining the stability of digital financial ecosystems. |
