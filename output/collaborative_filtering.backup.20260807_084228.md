@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-06 | [An Inertial Block Proximal Linearized Method with Adaptive Momentum for Nonconvex and Nonsmooth Optimization](https://arxiv.org/abs/2608.05502) | In this paper, we consider a class of multiblock nonconvex nonsmooth optimization problems, which covers many applications such as the analysis of pre-earthquake anomalies and machine learning. |
 | 2026-07-28 | [Quasi-SVD: Learning a Lie-constrained matrix factorisation for real-time imaging](https://arxiv.org/abs/2607.25967) | Singular Value Decomposition (SVD) underlies matrix factorisation tasks across computational imaging, with medical applications increasingly demanding real-time processing. |
 | 2026-07-27 | [Low-Rank Dependence Decomposition via Accelerated Symmetric Non-negative Matrix Factorization](https://arxiv.org/abs/2607.24518) | Symmetric non-negative matrix factorization (SymNMF) recovers latent group structure from a dependence matrix, but its dense, quadratic-memory objective has confined prior work to moderate sizes. |
 | 2026-07-21 | [SCPP: A Unified Python Library for Soft Clustering](https://arxiv.org/abs/2607.19620) | In this paper, we present SCPP (Soft Clustering Python Package), an open-source Python framework for soft clustering. |

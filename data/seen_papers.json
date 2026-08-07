@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-06T10:20:38.965178",
+  "last_updated": "2026-08-07T08:42:28.300039",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -51054,6 +51054,306 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.RO",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2608.06110": {
+      "arxiv_id": "2608.06110",
+      "title": "ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment",
+      "authors": [
+        "Abdulkadir Külçe",
+        "Alihan Esen",
+        "Cağla Fikir",
+        "Berke Kurt",
+        "Kuzey Arar",
+        "Gökhan Ercan",
+        "Faik Boray Tek"
+      ],
+      "published": "2026-08-06T14:44:12+00:00",
+      "first_seen": "2026-08-07T08:42:03.830128",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2608.06253": {
+      "arxiv_id": "2608.06253",
+      "title": "MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction",
+      "authors": [
+        "Dohyun Ku",
+        "Min Gu Kwak",
+        "Francisco J. Pasquel",
+        "Jing Li"
+      ],
+      "published": "2026-08-06T16:42:34+00:00",
+      "first_seen": "2026-08-07T08:42:06.765079",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.06112": {
+      "arxiv_id": "2608.06112",
+      "title": "From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems",
+      "authors": [
+        "Manideep Dhar",
+        "Ritwik Singh",
+        "Sharat Chandra Kumar Manikonda"
+      ],
+      "published": "2026-08-06T14:44:31+00:00",
+      "first_seen": "2026-08-07T08:42:12.983271",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.MA"
+      ]
+    },
+    "2608.05737": {
+      "arxiv_id": "2608.05737",
+      "title": "ABC: Numerical Data Collection under Local Differential Privacy without Prior Knowledge",
+      "authors": [
+        "Incheol Baek",
+        "Hyungbin Kim",
+        "Yon Dohn Chung"
+      ],
+      "published": "2026-08-06T08:19:12+00:00",
+      "first_seen": "2026-08-07T08:42:12.983283",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2608.05358": {
+      "arxiv_id": "2608.05358",
+      "title": "DG-FedReuse: Proxy-Gradient-Gated Cached-Update Reuse with Matched Sparse Uplink Accounting",
+      "authors": [
+        "Rahil Aftab",
+        "Vineet Kumar Rakesh",
+        "Soumya Mazumdar",
+        "Tapas Samanta"
+      ],
+      "published": "2026-08-05T19:30:04+00:00",
+      "first_seen": "2026-08-07T08:42:18.770238",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2608.06213": {
+      "arxiv_id": "2608.06213",
+      "title": "Gryphon-v2: One Model in Place of a Cascade - Generate-and-Rank Recommender with Rollout Distillation",
+      "authors": [
+        "Anna Lipkina",
+        "Daria Tikhonovich",
+        "Viktor Yanush",
+        "Mariia Ulianova",
+        "Oleg Sorokin",
+        "Vladislav Dodonov",
+        "Ilya Murzin",
+        "Denis Burshtein",
+        "Nikolay Savushkin"
+      ],
+      "published": "2026-08-06T16:04:21+00:00",
+      "first_seen": "2026-08-07T08:42:21.892549",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.06091": {
+      "arxiv_id": "2608.06091",
+      "title": "\"I don't know anything about laptops!\" - User Perception of Digital Product Advisors Adapting to Their Knowledge Levels",
+      "authors": [
+        "Kevin Schott",
+        "Andrea Papenmeier",
+        "Daniel Hienert",
+        "Dagmar Kern"
+      ],
+      "published": "2026-08-06T14:31:57+00:00",
+      "first_seen": "2026-08-07T08:42:21.892562",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.IR"
+      ]
+    },
+    "2608.06068": {
+      "arxiv_id": "2608.06068",
+      "title": "Cleo: A Transparent and Controllable Chatbot for Conversational Commerce",
+      "authors": [
+        "Kevin Schott",
+        "Jan Lattenkamp",
+        "Daniel Hienert",
+        "Dagmar Kern"
+      ],
+      "published": "2026-08-06T14:12:14+00:00",
+      "first_seen": "2026-08-07T08:42:21.892571",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.IR"
+      ]
+    },
+    "2608.05656": {
+      "arxiv_id": "2608.05656",
+      "title": "Studying People to Study AI: Expert Perspectives on the Epistemic Fit and Barriers of Human Research in AI Safety & Ethics",
+      "authors": [
+        "Jessica Y. Bo",
+        "Paula Akemi Aoyagui",
+        "Shalaleh Rismani",
+        "Dipto Das",
+        "Syed Ishtiaque Ahmed",
+        "Ashton Anderson"
+      ],
+      "published": "2026-08-06T06:52:52+00:00",
+      "first_seen": "2026-08-07T08:42:21.892579",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2608.05655": {
+      "arxiv_id": "2608.05655",
+      "title": "Is Personalized Modality Weighting Actually Personalized? A Controlled Audit of Per-User Weighting Claims in Multimodal Recommenders",
+      "authors": [
+        "Jingyuan Zheng",
+        "Xin Zhang",
+        "Yang Gu",
+        "Dongjing Wang",
+        "Yuxiang Wang",
+        "Xudong Shen",
+        "Haiping Zhang",
+        "Youhuizi Li",
+        "Dongjin Yu"
+      ],
+      "published": "2026-08-06T06:52:38+00:00",
+      "first_seen": "2026-08-07T08:42:21.892585",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.05402": {
+      "arxiv_id": "2608.05402",
+      "title": "Robustness and User-Perceived Value of Popularity Calibration in Music Recommendation: A User Study",
+      "authors": [
+        "Oleg Lesota",
+        "Gustavo Escobedo",
+        "Bruce Ferwerda",
+        "Simone Kopeinik",
+        "Dominik Kowald",
+        "Elisabeth Lex",
+        "Markus Schedl"
+      ],
+      "published": "2026-08-05T20:44:34+00:00",
+      "first_seen": "2026-08-07T08:42:21.892591",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.05255": {
+      "arxiv_id": "2608.05255",
+      "title": "An Emerging Retail Portfolio Management Application: Personalized, Tax-Aware Reinforcement Learning with Natural Language Goals",
+      "authors": [
+        "Ramin Pishehvar"
+      ],
+      "published": "2026-08-05T16:20:11+00:00",
+      "first_seen": "2026-08-07T08:42:21.892597",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    "2608.05235": {
+      "arxiv_id": "2608.05235",
+      "title": "From Trajectories to Evidence: Auditable Experimental Records for Industrial Research Agents",
+      "authors": [
+        "Zijie Zhuang",
+        "Changxin Lao",
+        "Pengbo Xu",
+        "Hanwen Xu",
+        "Ruochen Yang",
+        "Yingzhi He",
+        "Peng Zhang",
+        "Jiangxia Cao",
+        "Yusheng Huang",
+        "Guohong Mu",
+        "Jian Liang",
+        "Ruiming Tang",
+        "Shuang Yang",
+        "Zhaojie Liu",
+        "Wenwu Ou",
+        "Kun Gai"
+      ],
+      "published": "2026-08-05T13:37:38+00:00",
+      "first_seen": "2026-08-07T08:42:21.892603",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.05230": {
+      "arxiv_id": "2608.05230",
+      "title": "Quality Diversity for Reliable Data Driven Time-Use Optimization",
+      "authors": [
+        "Aneta Neumann",
+        "Ty Stanford",
+        "Dorothea Dumuid",
+        "Frank Neumann"
+      ],
+      "published": "2026-08-05T12:41:52+00:00",
+      "first_seen": "2026-08-07T08:42:21.892608",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.AI",
+        "cs.LG",
+        "cs.NE"
+      ]
+    },
+    "2608.05502": {
+      "arxiv_id": "2608.05502",
+      "title": "An Inertial Block Proximal Linearized Method with Adaptive Momentum for Nonconvex and Nonsmooth Optimization",
+      "authors": [
+        "Weifeng Yang"
+      ],
+      "published": "2026-08-06T01:11:58+00:00",
+      "first_seen": "2026-08-07T08:42:24.868335",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "math.OC",
+        "cs.LG"
+      ]
+    },
+    "2608.05341": {
+      "arxiv_id": "2608.05341",
+      "title": "Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation",
+      "authors": [
+        "Yuta Kobayashi",
+        "Pradyun Ramesh",
+        "Muhammad Ahmed Chaudhry",
+        "Vincent Jeanselme",
+        "Judy Wawira Gichoya",
+        "Sanmi Koyejo",
+        "Kathleen Capaccione",
+        "Shalmali Joshi"
+      ],
+      "published": "2026-08-05T18:59:23+00:00",
+      "first_seen": "2026-08-07T08:42:28.294217",
+      "topic": "Implicit Feedback",
+      "categories": [
         "cs.CV",
         "cs.LG"
       ]

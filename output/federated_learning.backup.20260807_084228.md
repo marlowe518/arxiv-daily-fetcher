@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-05 | [DG-FedReuse: Proxy-Gradient-Gated Cached-Update Reuse with Matched Sparse Uplink Accounting](https://arxiv.org/abs/2608.05358) | Federated learning repeatedly incurs local optimization and model-update transmission. |
 | 2026-08-05 | [Attention, Anomalies! Handling Attention Layers in Unsupervised Federated Outlier Detection](https://arxiv.org/abs/2608.04753) | Attention layers are the backbone of today's most powerful and impactful models. |
 | 2026-08-04 | [FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks](https://arxiv.org/abs/2608.04073) | Personalized Federated Learning (PFL) has emerged as a promising solution for intrusion detection in heterogeneous IoT environments, as it can improve local adaptation under highly Non-Independent... |
 | 2026-08-04 | [Robust and Personalized Federated Learning for Aircraft-Engine Prognostics under Benign and Adversarial Client Heterogeneity](https://arxiv.org/abs/2608.04045) | Federated learning (FL) enables aircraft fleet operators to jointly train remaining-useful-life (RUL) models from engine sensor telemetry without sharing raw data. |

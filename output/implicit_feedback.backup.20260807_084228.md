@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-05 | [Positive-Unlabeled Preference Optimization For Chest X-ray Report Generation](https://arxiv.org/abs/2608.05341) | Vision-Language Models (VLMs) for radiology report generation are typically trained on retrospective clinical reports, which suffer from omission noise: clinically present findings are left... |
 | 2026-07-30 | [GVR-Coder: A Visual-Feedback Framework for Structured SVG Generation in Complex Document and Meeting Scenarios](https://arxiv.org/abs/2607.28073) | In demanding professional environments and meeting review scenarios, lengthy text often imposes a high cognitive load. |
 | 2026-07-29 | [No Data Is Not No Risk: Visibility Aware Graph-Based Inference of Business Conduct Risk](https://arxiv.org/abs/2607.26859) | The monitoring of business conduct risk is hindered by sparse, uneven, and visibility-biased data. |
 | 2026-07-21 | [Decoupled Pipeline with Proposal Reranking and Score Fusion for Positive-Unlabeled Marine Species Detection](https://arxiv.org/abs/2607.18700) | The FathomNetCLEF 2026 competition combines underwater object detection and fine-grained marine species classification under a positive-unlabeled evaluation setting. |

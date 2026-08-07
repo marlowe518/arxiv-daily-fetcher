@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-06 | [MetaboLLM: a metabolomics-specialized large language model for biochemical knowledge integration and predictive metabolite graph construction](https://arxiv.org/abs/2608.06253) | Metabolomics knowledge is distributed across heterogeneous resources and remains difficult to translate into predictive representations. |
 | 2026-08-04 | [Reversing Arrows in Large Language Models](https://arxiv.org/abs/2608.03512) | Large language models (LLMs) have achieved strong performance on text-to-knowledge graph generation and related tasks. |
 | 2026-07-27 | [When Can You Correct Distribution Drift in Temporal Graph Generation? A Sharpening--Drift Tension and an Impossibility for Observation-Based Correction](https://arxiv.org/abs/2607.24662) | Generative models of temporal graphs are trained on one stretch of an evolving network and deployed on the next, and they degrade badly in the gap. |
 | 2026-07-26 | [MS-GPT: Rethinking MS/MS De Novo Structure Elucidation as Spectrum-Induced Posterior Querying of a Molecule-Language Model](https://arxiv.org/abs/2607.23607) | Molecular structure elucidation from tandem mass spectra (MS/MS) is a central inverse problem in analytical chemistry. |

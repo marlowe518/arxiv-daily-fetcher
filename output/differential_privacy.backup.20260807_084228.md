@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-06 | [From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems](https://arxiv.org/abs/2608.06112) | Hospitals are rapidly adopting artificial intelligence for triage, imaging, scheduling etc., yet most deployments remain isolated point solutions locked inside departmental silos, resulting in... |
-| 2026-08-06 | [ABC: Numerical Data Collection under Local Differential Privacy without Prior Knowledge](https://arxiv.org/abs/2608.05737) | Local Differential Privacy (LDP) provides strong privacy guarantees for collecting numerical data. |
 | 2026-08-05 | [SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant](https://arxiv.org/abs/2608.05127) | Achieving local differential privacy in distributed optimization while maintaining low communication cost remains challenging. |
 | 2026-08-04 | [Dependency Triad: A Metric to Quantify the Dependencies Between Attributes for Local Differential Privacy](https://arxiv.org/abs/2608.03737) | Collecting multidimensional user data is essential for extracting rich insights across various applications. |
 | 2026-08-04 | [FedGSA: Geometry-Consistent Subspace Aggregation for Differentially Private Federated LoRA](https://arxiv.org/abs/2608.03267) | Low-Rank Adaptation (LoRA) enables communication-efficient federated fine-tuning of pretrained language models. |

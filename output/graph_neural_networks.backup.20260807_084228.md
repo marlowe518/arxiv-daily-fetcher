@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-06 | [ECHO: A Locally-Deployable Agentic Health Assistant with Temporal Memory, Safety Guardrails, and Speech Assessment](https://arxiv.org/abs/2608.06110) | This paper presents ECHO (Enhanced Care \& Health Observer), a locally-deployable conversational health assistant for long-term chronic care management. |
 | 2026-08-05 | [Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings](https://arxiv.org/abs/2608.05132) | Predicting how a subcortical structure's shape will evolve from a few prior scans could support prognosis and clinical-trial enrichment. |
 | 2026-08-05 | [Tropical Algebraic Geometry for Neuronal Representations: An Arakelov-Green Measure Based Descriptor for Graph Learning](https://arxiv.org/abs/2608.04460) | The quantitative analysis of 3D neuronal morphologies requires capturing both graph topology and spatial geometry. |
 | 2026-08-05 | [Towards Trustworthy Hypergraph Neural Networks under Label Noise](https://arxiv.org/abs/2608.04377) | Hypergraph neural networks (HGNNs) have demonstrated remarkable capabilities in processing complex higher-order relationships. |
