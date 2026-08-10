@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-09T08:26:16.475163",
+  "last_updated": "2026-08-10T09:02:37.970230",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -51356,6 +51356,438 @@
       "categories": [
         "cs.CV",
         "cs.LG"
+      ]
+    },
+    "2608.07333": {
+      "arxiv_id": "2608.07333",
+      "title": "When GNNs Fail: Quantifying and Overcoming Temporal Correlation Volatility in Time Series",
+      "authors": [
+        "Chen Shao",
+        "Yue Wang",
+        "Zhenyi Zhu",
+        "Zhanbo Huang",
+        "Tobias Käfer",
+        "Zonghan Wu",
+        "Danai Koutra"
+      ],
+      "published": "2026-08-07T15:28:45+00:00",
+      "first_seen": "2026-08-10T09:02:14.078460",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.07161": {
+      "arxiv_id": "2608.07161",
+      "title": "Fluid-DiT: Graph-Free Diffusion Transformers for Fluid Flow Simulations Learning",
+      "authors": [
+        "Shentong Mo",
+        "Guolin Ke"
+      ],
+      "published": "2026-08-07T12:28:45+00:00",
+      "first_seen": "2026-08-10T09:02:14.078472",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CE"
+      ]
+    },
+    "2608.07158": {
+      "arxiv_id": "2608.07158",
+      "title": "Edge Sparsification via Temporal Forman-Ricci Curvature for Dynamic Graph Learning",
+      "authors": [
+        "Poupak Azad",
+        "Cuneyt Gurcan Akcora",
+        "Kiarash Shamsi"
+      ],
+      "published": "2026-08-07T12:26:15+00:00",
+      "first_seen": "2026-08-10T09:02:14.078479",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.06917": {
+      "arxiv_id": "2608.06917",
+      "title": "ReGraph: Learning to Generate Recipe Graphs from Food Images",
+      "authors": [
+        "Guoshan Liu",
+        "Bin Zhu",
+        "Pengkun Jiao",
+        "Jingjing Chen",
+        "Chong-Wah Ngo",
+        "Yu-Gang Jiang"
+      ],
+      "published": "2026-08-07T07:51:08+00:00",
+      "first_seen": "2026-08-10T09:02:14.078486",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2608.06441": {
+      "arxiv_id": "2608.06441",
+      "title": "SNI-GNN: SmartNIC-Assisted Full-Graph GNN Training with In-Network Embedding Prediction",
+      "authors": [
+        "Guofan Yu",
+        "Sitian Chen",
+        "Zhenheng Tang",
+        "Xiaowen Chu",
+        "Amelie Chi Zhou"
+      ],
+      "published": "2026-08-06T11:03:36+00:00",
+      "first_seen": "2026-08-10T09:02:14.078493",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2608.07023": {
+      "arxiv_id": "2608.07023",
+      "title": "An Agentic Hybrid Top-Down and Bottom-Up Approach to Knowledge Graph Generation",
+      "authors": [
+        "Emma Jouffroy",
+        "Warren Jouanneau",
+        "Marc Palyart"
+      ],
+      "published": "2026-08-07T09:32:25+00:00",
+      "first_seen": "2026-08-10T09:02:18.288058",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CL",
+        "cs.AI"
+      ]
+    },
+    "2608.06956": {
+      "arxiv_id": "2608.06956",
+      "title": "How Molecular Generative Models Organize Molecular Identity",
+      "authors": [
+        "Raul Ortega-Ochoa",
+        "Tejs Vegge",
+        "Jens S. Bakander",
+        "Luis Mantilla Calderon",
+        "Alan Aspuru-Guzik",
+        "Tonio Buonassisi"
+      ],
+      "published": "2026-08-07T08:32:13+00:00",
+      "first_seen": "2026-08-10T09:02:18.288074",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "physics.chem-ph"
+      ]
+    },
+    "2608.06713": {
+      "arxiv_id": "2608.06713",
+      "title": "MolBioKG: Grounding Out-of-Graph Molecules in Biomedical Knowledge Graphs via Multi-Resolution Structural Anchoring",
+      "authors": [
+        "Yiming Zhang",
+        "Hikaru Shindo",
+        "Shuan Chen",
+        "Kaushalya Madhawa",
+        "Jun Jin Choong",
+        "Yuna Oikawa",
+        "Takashi Fujiwara",
+        "Keisuke Ozawa"
+      ],
+      "published": "2026-08-07T02:12:52+00:00",
+      "first_seen": "2026-08-10T09:02:18.288084",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2608.07393": {
+      "arxiv_id": "2608.07393",
+      "title": "FedDOSE: Federated Learning Framework Decomposing Site Effects for Modeling Brain Dynamic Functional Connectivity",
+      "authors": [
+        "Deepank Girish",
+        "Yi Hao Chan",
+        "Yubin Zheng",
+        "Sukrit Gupta",
+        "Jagath C. Rajapakse"
+      ],
+      "published": "2026-08-07T16:37:30+00:00",
+      "first_seen": "2026-08-10T09:02:29.056539",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "eess.SP",
+        "q-bio.NC"
+      ]
+    },
+    "2608.07274": {
+      "arxiv_id": "2608.07274",
+      "title": "TOFD: Target-Oriented Feature Decoupling against Poisoning Attacks in Split Federated Learning",
+      "authors": [
+        "Yuhan Xie",
+        "Jingrong Huang",
+        "Chen Lyu"
+      ],
+      "published": "2026-08-07T14:34:24+00:00",
+      "first_seen": "2026-08-10T09:02:29.056551",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.07157": {
+      "arxiv_id": "2608.07157",
+      "title": "Capacity Confounds and Coverage Guarantees in Adaptive Sub-model Federated Learning",
+      "authors": [
+        "Alireza Moayedikia",
+        "Alicia Troncoso Lora"
+      ],
+      "published": "2026-08-07T12:26:03+00:00",
+      "first_seen": "2026-08-10T09:02:29.056558",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2608.07007": {
+      "arxiv_id": "2608.07007",
+      "title": "FedLBW: A Loss-Based Weighting Strategy for Federated Learning on Non-IID Data in Wireless Networks",
+      "authors": [
+        "Majid Kundroo",
+        "Tinku Singh",
+        "Taehong Kim"
+      ],
+      "published": "2026-08-07T09:21:37+00:00",
+      "first_seen": "2026-08-10T09:02:29.056564",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.AI",
+        "cs.DC",
+        "cs.ET",
+        "cs.LG"
+      ]
+    },
+    "2608.06876": {
+      "arxiv_id": "2608.06876",
+      "title": "FedVAR: Prototype-Aligned Federated Framework for Video Anomaly Recognition",
+      "authors": [
+        "Ghani Haider",
+        "Majid Kundroo",
+        "Boyun Eom",
+        "Dong Hwan Park",
+        "Chen Chen",
+        "Taehong Kim"
+      ],
+      "published": "2026-08-07T07:01:42+00:00",
+      "first_seen": "2026-08-10T09:02:29.056570",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2608.06637": {
+      "arxiv_id": "2608.06637",
+      "title": "Bypassing Krum: Selection-Aware Backdoor Attacks in Federated Learning",
+      "authors": [
+        "Srinivasan Subramanian",
+        "Md. Abdullah Al Hafiz Khan",
+        "Kazi Aminul Islam"
+      ],
+      "published": "2026-08-06T23:07:15+00:00",
+      "first_seen": "2026-08-10T09:02:29.056576",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.06563": {
+      "arxiv_id": "2608.06563",
+      "title": "Theoretical Foundations of Communication-Efficient, Robust, and Practical Distributed and Federated Optimization",
+      "authors": [
+        "Grigory Malinovsky"
+      ],
+      "published": "2026-08-06T20:20:52+00:00",
+      "first_seen": "2026-08-10T09:02:29.056582",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "math.OC"
+      ]
+    },
+    "2608.06447": {
+      "arxiv_id": "2608.06447",
+      "title": "FedTransKD-IDS: Robust Federated Transfer Learning with Knowledge Distillation for Intrusion Detection in IoT",
+      "authors": [
+        "Mohammad Hosssein Gholamrezazadeh",
+        "Ahmadreza MontazerolghaemAhmadreza Montazerolghaem"
+      ],
+      "published": "2026-08-06T16:01:31+00:00",
+      "first_seen": "2026-08-10T09:02:29.056588",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.NI",
+        "cs.LG"
+      ]
+    },
+    "2608.07069": {
+      "arxiv_id": "2608.07069",
+      "title": "Invisible to the Machine: Auditing AI Restaurant, Cafe, and Bar Recommendation Against a Complete Market Census",
+      "authors": [
+        "Vladimir Pitenin"
+      ],
+      "published": "2026-08-07T10:23:45+00:00",
+      "first_seen": "2026-08-10T09:02:31.844147",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CY"
+      ]
+    },
+    "2608.07055": {
+      "arxiv_id": "2608.07055",
+      "title": "Teacher Retains Full Tokens, Student Merges Efficiently: TM20K for E-Commerce Sequence Modeling in Ad Recommendation",
+      "authors": [
+        "Xinchun Li",
+        "Duoru Zheng",
+        "Wenlin Zhao",
+        "Ziyi Zhou",
+        "Jingxuan Tan",
+        "Huizhi Yang",
+        "Linlan Chen",
+        "Dongjian Wang",
+        "Dongyue Wang",
+        "Xiaosong Li",
+        "Hongyue Mao",
+        "Yaocheng Tan"
+      ],
+      "published": "2026-08-07T10:04:44+00:00",
+      "first_seen": "2026-08-10T09:02:31.844158",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.06997": {
+      "arxiv_id": "2608.06997",
+      "title": "Hierarchical Quantization with Domain-Adaptive Sparse Routing for Generative Cross-Domain Recommendation",
+      "authors": [
+        "Haiying He",
+        "Xiaopeng Li",
+        "Yuchen Gu",
+        "Kuo Cai",
+        "Bo Chen",
+        "Jingtong Gao",
+        "Yejing Wang",
+        "Derong Xu",
+        "Ruiming Tang",
+        "Guorui Zhou",
+        "Han Li",
+        "Xiangyu Zhao"
+      ],
+      "published": "2026-08-07T09:15:19+00:00",
+      "first_seen": "2026-08-10T09:02:31.844165",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.06928": {
+      "arxiv_id": "2608.06928",
+      "title": "From Classification to Recommendation: Empirical Analysis of Audio Embedding Models Application for Content-Based Music Recommendation",
+      "authors": [
+        "Qingrui Li",
+        "Haowei Lou",
+        "Chengkai Huang",
+        "Quan Z. Sheng",
+        "Lina Yao"
+      ],
+      "published": "2026-08-07T08:03:29+00:00",
+      "first_seen": "2026-08-10T09:02:31.844171",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.06825": {
+      "arxiv_id": "2608.06825",
+      "title": "Multiscale Reward Hedging from Correct Demonstrations",
+      "authors": [
+        "Pahan Dewasurendra"
+      ],
+      "published": "2026-08-07T05:36:22+00:00",
+      "first_seen": "2026-08-10T09:02:31.844176",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.06792": {
+      "arxiv_id": "2608.06792",
+      "title": "Progressive Alignment of Recommender Foundation Model through Multi-Phase Post-Training",
+      "authors": [
+        "Oseong Choi",
+        "Hoeinn Kim",
+        "Jihoon Lee",
+        "Byungsoo Kang",
+        "Taeyeong Jang"
+      ],
+      "published": "2026-08-07T04:30:34+00:00",
+      "first_seen": "2026-08-10T09:02:31.844182",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2608.06510": {
+      "arxiv_id": "2608.06510",
+      "title": "Agentic AI: User Empowerment or Enclosure?",
+      "authors": [
+        "David Gamba",
+        "Daniel M. Romero",
+        "Grant Schoenebeck"
+      ],
+      "published": "2026-08-06T18:49:13+00:00",
+      "first_seen": "2026-08-10T09:02:31.844187",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2608.06486": {
+      "arxiv_id": "2608.06486",
+      "title": "Beyond Attention: Signed Integrated Gradients Attribution in a BiomeGPT-Style Microbiome Transformer",
+      "authors": [
+        "Oren Nelson"
+      ],
+      "published": "2026-08-06T18:26:05+00:00",
+      "first_seen": "2026-08-10T09:02:31.844192",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.06430": {
+      "arxiv_id": "2608.06430",
+      "title": "MiGHT-EHR: A Multi-task Graph Transformer for Heterogeneous Temporal Electronic Health Records",
+      "authors": [
+        "Anirudh Rayas",
+        "Yuan Wang",
+        "Pavan Turaga"
+      ],
+      "published": "2026-08-05T23:27:40+00:00",
+      "first_seen": "2026-08-10T09:02:31.844198",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "q-bio.QM"
       ]
     }
   }
