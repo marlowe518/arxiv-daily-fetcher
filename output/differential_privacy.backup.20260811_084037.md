@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-08 | [Differential Privacy for Markov Chain State Trajectories](https://arxiv.org/abs/2608.08341) | Data-driven systems may require state trajectories of Markov chains to function because these trajectories contain information that is useful to the system, e.g., a product's credit risk, a user's... |
 | 2026-08-06 | [From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems](https://arxiv.org/abs/2608.06112) | Hospitals are rapidly adopting artificial intelligence for triage, imaging, scheduling etc., yet most deployments remain isolated point solutions locked inside departmental silos, resulting in... |
 | 2026-08-06 | [ABC: Numerical Data Collection under Local Differential Privacy without Prior Knowledge](https://arxiv.org/abs/2608.05737) | Local Differential Privacy (LDP) provides strong privacy guarantees for collecting numerical data. |
 | 2026-08-05 | [SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant](https://arxiv.org/abs/2608.05127) | Achieving local differential privacy in distributed optimization while maintaining low communication cost remains challenging. |
