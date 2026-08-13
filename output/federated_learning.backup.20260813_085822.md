@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-12 | [Beyond Parameter Space: NTK-Guided Personalized Aggregation for Robust Federated Learning](https://arxiv.org/abs/2608.12108) | Federated learning (FL) enables collaborative model training across distributed clients while keeping data local. |
-| 2026-08-12 | [Hierarchical Federated Transfer Learning in Digital Twin-Based Vehicular Networks](https://arxiv.org/abs/2608.11532) | In recent research on the Digital Twin-based Vehicular Ad hoc Network(DT-VANET), Federated Learning (FL) has shown its ability to provide data privacy. |
-| 2026-08-11 | [Federated Learning for Distributed CNC Tool Wear Prediction](https://arxiv.org/abs/2608.11281) | Tool wear prediction is an important task in CNC machining, where accurate monitoring of tool condition supports product quality and process reliability. |
 | 2026-08-10 | [Defining Decentralization: An Ontological Perspective](https://arxiv.org/abs/2608.09748) | Decentralization as a concept in computer science has existed for over half a century. |
 | 2026-08-10 | [Rethinking Factor Sharing in Federated LoRA: A Rank-Aware Adaptive Approach](https://arxiv.org/abs/2608.09742) | Low-rank adaptation (LoRA) represents large language model (LLM) updates with two compact matrix factors, i.e., $A$ and $B$, providing an efficient way to fine-tune large models in federated learning... |
 | 2026-08-10 | [FedOrbit: Adaptive Personalized Federated Learning for Non-IID LEO Satellite Constellations](https://arxiv.org/abs/2608.09687) | Federated learning (FL) in Low Earth Orbit (LEO) satellite constellations is affected by non-IID data and irregular ground-station visibility, both driven by orbital geometry. |

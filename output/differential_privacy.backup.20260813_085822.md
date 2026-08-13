@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-11 | [Synthesizing Probabilistic Saturating Counters with Differentially Private Formal Guarantees](https://arxiv.org/abs/2608.10521) | Branch predictors improve instruction-level parallelism in modern processors and are commonly modeled using saturating counters. |
-| 2026-07-31 | [Leak It: Per-Document Extraction Beyond Aggregate Membership Inference](https://arxiv.org/abs/2608.00144) | Membership inference (MIA) on language models is usually summarised by aggregate ROC-AUC, but such evaluations are confounded: model-free blind baselines can separate members from non-members using... |
 | 2026-08-08 | [Differential Privacy for Markov Chain State Trajectories](https://arxiv.org/abs/2608.08341) | Data-driven systems may require state trajectories of Markov chains to function because these trajectories contain information that is useful to the system, e.g., a product's credit risk, a user's... |
 | 2026-08-06 | [From Siloed Algorithms to Compliance-First Agentic Platforms: A Multi-Layered Architecture for Hospital AI Systems](https://arxiv.org/abs/2608.06112) | Hospitals are rapidly adopting artificial intelligence for triage, imaging, scheduling etc., yet most deployments remain isolated point solutions locked inside departmental silos, resulting in... |
 | 2026-08-06 | [ABC: Numerical Data Collection under Local Differential Privacy without Prior Knowledge](https://arxiv.org/abs/2608.05737) | Local Differential Privacy (LDP) provides strong privacy guarantees for collecting numerical data. |
