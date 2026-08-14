@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-13 | [Wasserstein Filtering: A Sample Selection Method for Robust Distribution Learning](https://arxiv.org/abs/2608.13418) | Given a dataset where a portion of the samples are contaminated, our goal is to recover the underlying clean population distribution. |
-| 2026-08-13 | [Understanding Backdoor Vulnerabilities in Vertical Federated Learning: The Gap Between Research and Practice](https://arxiv.org/abs/2608.12962) | Vertical Federated Learning (VFL) enables organizations holding complementary features of shared entities to collaborate and train models. |
-| 2026-08-13 | [Federated Compositional Muon Optimizer for Matrix-Wise Models](https://arxiv.org/abs/2608.12710) | Muon, a more recently developed optimizer, is useful for matrix-wise models in AI areas. |
 | 2026-08-12 | [Beyond Parameter Space: NTK-Guided Personalized Aggregation for Robust Federated Learning](https://arxiv.org/abs/2608.12108) | Federated learning (FL) enables collaborative model training across distributed clients while keeping data local. |
 | 2026-08-12 | [Hierarchical Federated Transfer Learning in Digital Twin-Based Vehicular Networks](https://arxiv.org/abs/2608.11532) | In recent research on the Digital Twin-based Vehicular Ad hoc Network(DT-VANET), Federated Learning (FL) has shown its ability to provide data privacy. |
 | 2026-08-11 | [Federated Learning for Distributed CNC Tool Wear Prediction](https://arxiv.org/abs/2608.11281) | Tool wear prediction is an important task in CNC machining, where accurate monitoring of tool condition supports product quality and process reliability. |
