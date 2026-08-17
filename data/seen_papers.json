@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-16T08:12:37.554516",
+  "last_updated": "2026-08-17T08:27:06.138584",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -53629,6 +53629,308 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
+      ]
+    },
+    "2608.14177": {
+      "arxiv_id": "2608.14177",
+      "title": "Structure-Guided Spatiotemporal Attention Graph Neural Network for Traffic Flow Prediction",
+      "authors": [
+        "Xuanmian He",
+        "Can Li",
+        "Wanjing Ma"
+      ],
+      "published": "2026-08-14T10:46:37+00:00",
+      "first_seen": "2026-08-17T08:26:42.384568",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.14121": {
+      "arxiv_id": "2608.14121",
+      "title": "Overcoming Shortcut Learning in Graph Neural Networks through Active Explanation Guidance",
+      "authors": [
+        "Taraneh Younesian",
+        "Steve Azzolin",
+        "Antonio Longa",
+        "Francesco Ferrini",
+        "Vincenzo Marco De Luca",
+        "Stefano Teso"
+      ],
+      "published": "2026-08-14T09:27:06+00:00",
+      "first_seen": "2026-08-17T08:26:42.384578",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.13827": {
+      "arxiv_id": "2608.13827",
+      "title": "HI-MeshGraphNets: Efficient and Accurate Mesh-based Physics Learning with Hierarchical Multi-scale Graph Neural Networks",
+      "authors": [
+        "SiHun Lee",
+        "Dong-Hyuk Park",
+        "Taesoo Bang",
+        "Seung-Hoon Kang"
+      ],
+      "published": "2026-08-13T23:30:29+00:00",
+      "first_seen": "2026-08-17T08:26:42.384584",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.14242": {
+      "arxiv_id": "2608.14242",
+      "title": "Could Model Partitioning Make Federated Learning More Sustainable?",
+      "authors": [
+        "Tobias Frohlich",
+        "Tiffany Vlaar",
+        "Lauritz Thamsen"
+      ],
+      "published": "2026-08-14T12:22:04+00:00",
+      "first_seen": "2026-08-17T08:26:57.042117",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC"
+      ]
+    },
+    "2608.13961": {
+      "arxiv_id": "2608.13961",
+      "title": "Polar Code Based Federated Learning: Convergence Analysis and Resource Allocation",
+      "authors": [
+        "Han Xiao",
+        "Wei Kang",
+        "Nan Liu"
+      ],
+      "published": "2026-08-14T05:10:42+00:00",
+      "first_seen": "2026-08-17T08:26:57.042128",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.13914": {
+      "arxiv_id": "2608.13914",
+      "title": "Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning",
+      "authors": [
+        "Chun-Hua Lin",
+        "Samuel Yen-Chi Chen",
+        "Yu-Chao Hsu",
+        "Kuo-Chung Peng",
+        "Jiun-Cheng Jiang",
+        "Chi-Sheng Chen",
+        "Tai-Yue Li",
+        "Nan-Yow Chen",
+        "En-Jui Kuo",
+        "Hsi-Sheng Goan"
+      ],
+      "published": "2026-08-14T03:35:08+00:00",
+      "first_seen": "2026-08-17T08:26:57.042134",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC",
+        "cs.ET",
+        "quant-ph"
+      ]
+    },
+    "2608.13911": {
+      "arxiv_id": "2608.13911",
+      "title": "MedMix: Specialization-Consistent Federated Sparse MoEs under Modality Heterogeneity",
+      "authors": [
+        "Adiba Orzikulova",
+        "Dong Min Kim",
+        "Jaehong Yoon",
+        "Sung-Ju Lee"
+      ],
+      "published": "2026-08-14T03:30:33+00:00",
+      "first_seen": "2026-08-17T08:26:57.042140",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.13844": {
+      "arxiv_id": "2608.13844",
+      "title": "Federated Prompt Learning: A Unified Framework, Empirical Analysis, and Future Directions",
+      "authors": [
+        "Qinglin Yang",
+        "Chen Qiu",
+        "Hongyuan Zhang",
+        "Pengdeng Li",
+        "Yuan Liu",
+        "Zhihong Tian"
+      ],
+      "published": "2026-08-14T00:25:24+00:00",
+      "first_seen": "2026-08-17T08:26:57.042147",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2608.14429": {
+      "arxiv_id": "2608.14429",
+      "title": "PriCoRec: A Privacy-Aware Cloud-Device Collaborative Framework for Ad Recommendation under Feature Constraints",
+      "authors": [
+        "Dairui Liu",
+        "Zhongyi Lu",
+        "Jitao Lu",
+        "Aghiles Salah",
+        "Mete Sertkan",
+        "Roger Zhe Li",
+        "Changhong Jin",
+        "Barry Smyth",
+        "Xingsheng Guo",
+        "Ruihai Dong"
+      ],
+      "published": "2026-08-14T16:11:27+00:00",
+      "first_seen": "2026-08-17T08:27:00.166654",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.14068": {
+      "arxiv_id": "2608.14068",
+      "title": "MACS: A Hybrid Multi-Agent Framework for Reliable Conversational E-Commerce Recommendation",
+      "authors": [
+        "Juli Huang",
+        "Hannah Clay",
+        "Sajjad Beygi",
+        "Thomas Sarda",
+        "Negin Golrezaei",
+        "Amin Saberi"
+      ],
+      "published": "2026-08-14T08:26:19+00:00",
+      "first_seen": "2026-08-17T08:27:00.166663",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2608.14066": {
+      "arxiv_id": "2608.14066",
+      "title": "TenderKG",
+      "authors": [
+        "Yacine Mokhtari",
+        "Véra Pukhkoy",
+        "Grégory Smits"
+      ],
+      "published": "2026-08-14T08:24:30+00:00",
+      "first_seen": "2026-08-17T08:27:00.166668",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.14021": {
+      "arxiv_id": "2608.14021",
+      "title": "Residual Dominance as a Structural Account of Last-Item Reliance in Causal Self-Attention Recommenders",
+      "authors": [
+        "Keito Kozaki",
+        "Keigo Sakurai",
+        "Ren Togo",
+        "Takahiro Ogawa",
+        "Miki Haseyama"
+      ],
+      "published": "2026-08-14T07:09:58+00:00",
+      "first_seen": "2026-08-17T08:27:00.166673",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2608.14011": {
+      "arxiv_id": "2608.14011",
+      "title": "EchoRec: Multi-Item Prediction-Empowered Generative Recommendation via Cycle-Consistent Preference Alignment",
+      "authors": [
+        "Haokai Ma",
+        "Aoqi Hu",
+        "Yueao Xing",
+        "Ruobing Xie",
+        "Yonghui Yang",
+        "Teng Tu",
+        "Lei Meng",
+        "Tat-Seng Chua"
+      ],
+      "published": "2026-08-14T06:59:12+00:00",
+      "first_seen": "2026-08-17T08:27:00.166677",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2608.13990": {
+      "arxiv_id": "2608.13990",
+      "title": "Content Depth Matters in Short-Video Recommendation: Rethinking the Attention Economy",
+      "authors": [
+        "Liwei Deng",
+        "Jing Jiang",
+        "Zhiwei Li",
+        "Yang Wang",
+        "Guodong Long"
+      ],
+      "published": "2026-08-14T06:13:40+00:00",
+      "first_seen": "2026-08-17T08:27:00.166682",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2608.13879": {
+      "arxiv_id": "2608.13879",
+      "title": "Whose Posts Get Ranked: Identical-Text Exposure Gaps in Bluesky Custom Feeds",
+      "authors": [
+        "Yipeng Wang",
+        "Mohit Singhal"
+      ],
+      "published": "2026-08-14T02:08:44+00:00",
+      "first_seen": "2026-08-17T08:27:00.166686",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.SI",
+        "cs.IR"
+      ]
+    },
+    "2608.13874": {
+      "arxiv_id": "2608.13874",
+      "title": "Predicting Custom-Feed Returns for New Bluesky Posts: A Prospective Study",
+      "authors": [
+        "Yipeng Wang",
+        "Mohit Singhal"
+      ],
+      "published": "2026-08-14T02:00:28+00:00",
+      "first_seen": "2026-08-17T08:27:00.166690",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CY"
+      ]
+    },
+    "2608.13695": {
+      "arxiv_id": "2608.13695",
+      "title": "Language-Specific Gaps in AI Safety Training Datasets",
+      "authors": [
+        "Chialuka Prisca-Mary Onuoha",
+        "Bright Etornam Sunu",
+        "Rashidat Sikiru"
+      ],
+      "published": "2026-08-13T18:40:22+00:00",
+      "first_seen": "2026-08-17T08:27:00.166694",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.LG"
       ]
     }
   }
