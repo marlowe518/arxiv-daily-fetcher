@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-16 | [Fast Simulation Algorithms for OLH using Binomial Modeling](https://arxiv.org/abs/2608.15778) | Optimized Local Hashing (OLH) is a widely used hash-based Local Differential Privacy (LDP) protocol, and simulation-based experimentation is the standard approach for evaluating OLH and OLH-based... |
 | 2026-08-11 | [Synthesizing Probabilistic Saturating Counters with Differentially Private Formal Guarantees](https://arxiv.org/abs/2608.10521) | Branch predictors improve instruction-level parallelism in modern processors and are commonly modeled using saturating counters. |
 | 2026-07-31 | [Leak It: Per-Document Extraction Beyond Aggregate Membership Inference](https://arxiv.org/abs/2608.00144) | Membership inference (MIA) on language models is usually summarised by aggregate ROC-AUC, but such evaluations are confounded: model-free blind baselines can separate members from non-members using... |
 | 2026-08-08 | [Differential Privacy for Markov Chain State Trajectories](https://arxiv.org/abs/2608.08341) | Data-driven systems may require state trajectories of Markov chains to function because these trajectories contain information that is useful to the system, e.g., a product's credit risk, a user's... |
