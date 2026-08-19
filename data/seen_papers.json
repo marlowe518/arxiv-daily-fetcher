@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-18T08:19:17.386361",
+  "last_updated": "2026-08-19T08:19:34.828396",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -54641,6 +54641,230 @@
       "categories": [
         "cs.LG",
         "cs.AI"
+      ]
+    },
+    "2608.17987": {
+      "arxiv_id": "2608.17987",
+      "title": "Against Political Polarization: A Unified Framework for Tracing Evolving Political Ideologies on Social Media",
+      "authors": [
+        "Yijie Xu",
+        "Chao Wang",
+        "Hui Xiong"
+      ],
+      "published": "2026-08-18T16:33:32+00:00",
+      "first_seen": "2026-08-19T08:19:11.398979",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI",
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2608.17715": {
+      "arxiv_id": "2608.17715",
+      "title": "Communicating Credit Risk with Large Language Models: Evaluation of Explanations from Standard and Alternative Data-Based Models",
+      "authors": [
+        "Sahab Zandi",
+        "Noah Kostesku",
+        "Christophe Mues",
+        "María Óskarsdóttir",
+        "Cristián Bravo"
+      ],
+      "published": "2026-08-18T12:39:46+00:00",
+      "first_seen": "2026-08-19T08:19:11.398989",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "q-fin.RM",
+        "cs.AI"
+      ]
+    },
+    "2608.17440": {
+      "arxiv_id": "2608.17440",
+      "title": "General Semantic Knowledge Infusion for Spatio-Temporal Traffic Forecasting",
+      "authors": [
+        "Mattis thor Straten",
+        "Yannick Wolker",
+        "Steffen Strohm",
+        "Prathvish Mithare",
+        "Ralf Krestel",
+        "Matthias Renz"
+      ],
+      "published": "2026-08-18T07:19:13+00:00",
+      "first_seen": "2026-08-19T08:19:11.398994",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.17103": {
+      "arxiv_id": "2608.17103",
+      "title": "From Abductive Explanations to Global Logical Rules for Node Classification in SGCs",
+      "authors": [
+        "Bryan Lima Cavalcante",
+        "Thiago Alves Rocha"
+      ],
+      "published": "2026-08-17T20:27:45+00:00",
+      "first_seen": "2026-08-19T08:19:11.399000",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.LO"
+      ]
+    },
+    "2608.17147": {
+      "arxiv_id": "2608.17147",
+      "title": "Picture the Epsilon: Pursuing Identity-Level Privacy Guarantees for Images",
+      "authors": [
+        "Arman Zareian Jahromi",
+        "Vishnu Bondalakunta",
+        "Mohammad Akbar Bin Shah",
+        "Naimul Haque",
+        "Shuangqing Wei",
+        "George T. Amariucai"
+      ],
+      "published": "2026-08-17T21:30:06+00:00",
+      "first_seen": "2026-08-19T08:19:19.921171",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2608.17849": {
+      "arxiv_id": "2608.17849",
+      "title": "Efficient Resource Optimization for Split Federated Learning",
+      "authors": [
+        "Wei Wei",
+        "Xianhao Chen"
+      ],
+      "published": "2026-08-18T14:44:46+00:00",
+      "first_seen": "2026-08-19T08:19:25.870357",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.17069": {
+      "arxiv_id": "2608.17069",
+      "title": "Dynamic Entanglement-Weighted Pruning for Quantum Federated Unlearning in Supply-Chain Risk Prediction",
+      "authors": [
+        "Aditya Kumar",
+        "Sumit Chongder"
+      ],
+      "published": "2026-08-17T19:17:30+00:00",
+      "first_seen": "2026-08-19T08:19:25.870367",
+      "topic": "Federated Learning",
+      "categories": [
+        "quant-ph",
+        "cs.LG"
+      ]
+    },
+    "2608.17618": {
+      "arxiv_id": "2608.17618",
+      "title": "From Student Risk Prediction to SC2R: Semantics-Constrained Counterfactual Recourse for Educational Decision Support",
+      "authors": [
+        "Ngoc Luyen Le",
+        "Marie-Hélène Abel",
+        "Bertrand Laforge"
+      ],
+      "published": "2026-08-18T10:33:21+00:00",
+      "first_seen": "2026-08-19T08:19:28.894990",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2608.17613": {
+      "arxiv_id": "2608.17613",
+      "title": "Once Generated, Ranked: End-to-End Generative Slate Recommendation with Unified Semantic-Collaborative IDs",
+      "authors": [
+        "Yang Hu",
+        "Jiayi Guo",
+        "Jingui Ma",
+        "Ning Li",
+        "Jiangling Qin",
+        "Yanming Li",
+        "Yang Deng",
+        "Xiaoshuang Chen",
+        "Kaiqiao Zhan"
+      ],
+      "published": "2026-08-18T10:24:09+00:00",
+      "first_seen": "2026-08-19T08:19:28.895001",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.SI"
+      ]
+    },
+    "2608.17316": {
+      "arxiv_id": "2608.17316",
+      "title": "Empowering Compact LLMs with Fusion of Layer-wise Exits for Recommendation",
+      "authors": [
+        "Xurong Liang",
+        "Tong Chen",
+        "Quoc Viet Hung Nguyen",
+        "Jianxin Li",
+        "Xiangliang Zhang",
+        "Hongzhi Yin"
+      ],
+      "published": "2026-08-18T03:14:28+00:00",
+      "first_seen": "2026-08-19T08:19:28.895006",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.17138": {
+      "arxiv_id": "2608.17138",
+      "title": "Overview of the TREC 2025 Product Search and Recommendation Track",
+      "authors": [
+        "Dean E. Alvarez",
+        "Surya Kallumadi",
+        "Daniel Campos",
+        "ChengXiang Zhai",
+        "Alessandro Magnani",
+        "Rikiya Takehi",
+        "Michael D. Ekstrand"
+      ],
+      "published": "2026-08-17T21:13:52+00:00",
+      "first_seen": "2026-08-19T08:19:28.895011",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.16974": {
+      "arxiv_id": "2608.16974",
+      "title": "Position: Fairness Failure in Generative Models is an Evaluation Problem",
+      "authors": [
+        "Mariia Vladimirova",
+        "Jean-Yves Franceschi",
+        "Thibaut Issenhuth"
+      ],
+      "published": "2026-08-17T14:41:28+00:00",
+      "first_seen": "2026-08-19T08:19:28.895015",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.16922": {
+      "arxiv_id": "2608.16922",
+      "title": "Towards welfare-oriented recommendations in activity-travel behavior",
+      "authors": [
+        "Ekin Ugurel",
+        "Takahiro Yabe"
+      ],
+      "published": "2026-08-03T16:34:35+00:00",
+      "first_seen": "2026-08-19T08:19:31.851274",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.IR",
+        "cs.CY"
       ]
     }
   }

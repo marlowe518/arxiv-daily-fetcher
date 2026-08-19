@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-18 | [Efficient Resource Optimization for Split Federated Learning](https://arxiv.org/abs/2608.17849) | Split federated learning (SFL) has emerged as a powerful paradigm for model training at the edge. |
-| 2026-08-17 | [Dynamic Entanglement-Weighted Pruning for Quantum Federated Unlearning in Supply-Chain Risk Prediction](https://arxiv.org/abs/2608.17069) | Federated deployments of variational quantum classifiers are attractive for cross-organisation risk prediction in supply chains, because raw data never leaves the client, yet data-protection... |
 | 2026-08-17 | [CoM$^3$eT: A foundation model for medical image analysis through federated, multidimensional context integration](https://arxiv.org/abs/2608.16268) | Medical foundation models improve generalization when training AI models with limited labeled data, but remain confined to a single specialty, such as pathology or radiology, and to either sparse or... |
 | 2026-08-16 | [Adaptive Heterogeneous Compression for Resource-Efficient Federated Knowledge Distillation](https://arxiv.org/abs/2608.15660) | Federated learning (FL) enables privacy-preserving distributed model training but faces challenges from heterogeneous model architectures and limited communication resources at the network edge. |
 | 2026-08-16 | [When Is Shallow Enough? Adaptive Split Federated Learning with Client-Specific Sufficiency Estimation](https://arxiv.org/abs/2608.15639) | \textit{Split Federated Learning} (SFL) enables distributed model training by splitting networks between the server and clients. |

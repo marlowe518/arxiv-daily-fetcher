@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-03 | [Towards welfare-oriented recommendations in activity-travel behavior](https://arxiv.org/abs/2608.16922) | While mainstream recommender systems (RS) rely on diverse heuristics to rank alternatives, they generally lack a principled account of user welfare (i.e., whether accepting the recommendation will... |
 | 2026-08-12 | [Adaptive Bregman Proximal Stochastic Gradient with a Stabilized Barzilai--Borwein Step Size](https://arxiv.org/abs/2608.12009) | Bregman proximal stochastic gradient (BPSG) methods bring variance-reduced composite optimization to objectives whose geometry is poorly captured by Euclidean smoothness. |
 | 2026-08-10 | [Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth](https://arxiv.org/abs/2608.10297) | Graph Collaborative Filtering (GCF) has become the dominant paradigm in modern recommender systems by modeling user-item interactions as a bipartite graph and propagating embeddings through a fixed... |
 | 2026-08-10 | [DualSpectralCF: Training-Free Sign-Aware Spectral Collaborative Filtering](https://arxiv.org/abs/2608.10247) | Real-world recommendation platforms routinely collect explicit negative feedback such as 1-star reviews, hate-button clicks, distrust between users, and very-low watch-ratio videos. |
