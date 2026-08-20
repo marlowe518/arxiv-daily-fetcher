@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-19 | [Computational Measurement of Team-Process Phase Dynamics in Collaborative Virtual Reality](https://arxiv.org/abs/2608.18660) | Collaborative virtual reality (VR) environments make team communication observable as it unfolds, but conventional transcript analyses often summarize entire trials or divide them into fixed temporal... |
 | 2026-08-03 | [Towards welfare-oriented recommendations in activity-travel behavior](https://arxiv.org/abs/2608.16922) | While mainstream recommender systems (RS) rely on diverse heuristics to rank alternatives, they generally lack a principled account of user welfare (i.e., whether accepting the recommendation will... |
 | 2026-08-12 | [Adaptive Bregman Proximal Stochastic Gradient with a Stabilized Barzilai--Borwein Step Size](https://arxiv.org/abs/2608.12009) | Bregman proximal stochastic gradient (BPSG) methods bring variance-reduced composite optimization to objectives whose geometry is poorly captured by Euclidean smoothness. |
 | 2026-08-10 | [Neural Tree Collaborative Filtering: Rethinking Graph Collaborative Filtering as Tree Collaborative Filtering with Curvature-Aware Propagation Depth](https://arxiv.org/abs/2608.10297) | Graph Collaborative Filtering (GCF) has become the dominant paradigm in modern recommender systems by modeling user-item interactions as a bipartite graph and propagating embeddings through a fixed... |

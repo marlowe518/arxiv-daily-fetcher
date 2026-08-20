@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-19 | [FedGuard-DC: Privacy-Preserving Federated Load Forecasting and Cyber-Attack Detection for Data-Center Loads in Transmission Systems](https://arxiv.org/abs/2608.19155) | The rapid growth of large data-center (DC) loads is creating new challenges for power-system visibility, privacy, and cyber-physical security. |
-| 2026-08-19 | [Decisive Margins in Differentially Private Voting](https://arxiv.org/abs/2608.18772) | Differential privacy protects individual voting records by injecting randomness into the published outcome, but this noise can lead to erroneous results when an election is close. |
-| 2026-08-19 | [Gradient Mirage: Trainable yet Label-Unidentifiable Gradients in Large Language Model Split Learning](https://arxiv.org/abs/2608.18767) | Gradient matching attacks (GMAs) in LLM split learning (SL) rely on a critical yet underexplored assumption: the gradient exposed at the split interface is a faithful derivative of the client's... |
 | 2026-08-17 | [Picture the Epsilon: Pursuing Identity-Level Privacy Guarantees for Images](https://arxiv.org/abs/2608.17147) | Image-to-image face generators are widely used, and visual dissimilarity between their outputs and source images is sometimes treated as evidence of privacy. |
 | 2026-08-16 | [Fast Simulation Algorithms for OLH using Binomial Modeling](https://arxiv.org/abs/2608.15778) | Optimized Local Hashing (OLH) is a widely used hash-based Local Differential Privacy (LDP) protocol, and simulation-based experimentation is the standard approach for evaluating OLH and OLH-based... |
 | 2026-08-11 | [Synthesizing Probabilistic Saturating Counters with Differentially Private Formal Guarantees](https://arxiv.org/abs/2608.10521) | Branch predictors improve instruction-level parallelism in modern processors and are commonly modeled using saturating counters. |

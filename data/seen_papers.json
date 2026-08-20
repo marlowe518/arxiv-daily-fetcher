@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-19T08:19:34.828396",
+  "last_updated": "2026-08-20T08:20:47.479872",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -54865,6 +54865,436 @@
       "categories": [
         "cs.IR",
         "cs.CY"
+      ]
+    },
+    "2608.19082": {
+      "arxiv_id": "2608.19082",
+      "title": "Learning Random Geometric Graphs Drawn in Probabilistic Metric Spaces",
+      "authors": [
+        "Dalia Chakrabarty",
+        "Kangrui Wang",
+        "Chuqiao Zhang",
+        "Ye Liu"
+      ],
+      "published": "2026-08-19T16:31:39+00:00",
+      "first_seen": "2026-08-20T08:20:23.674902",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "stat.AP"
+      ]
+    },
+    "2608.18819": {
+      "arxiv_id": "2608.18819",
+      "title": "A Unifying Relational Perspective on Expressive Lottery Tickets",
+      "authors": [
+        "Lorenz Kummer",
+        "Samir Moustafa",
+        "Anatol Ehrlich",
+        "Franka Bause",
+        "Marco Nennstiel",
+        "Przemysław Andrzej Wałȩga",
+        "Nils Morten Kriege"
+      ],
+      "published": "2026-08-19T11:16:14+00:00",
+      "first_seen": "2026-08-20T08:20:23.674915",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2608.18727": {
+      "arxiv_id": "2608.18727",
+      "title": "Visual-Aware Representation of Web Pages for Machine Learning Applications",
+      "authors": [
+        "Radek Burget",
+        "Radek Hranický"
+      ],
+      "published": "2026-08-19T09:28:56+00:00",
+      "first_seen": "2026-08-20T08:20:23.674922",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2608.18696": {
+      "arxiv_id": "2608.18696",
+      "title": "Impact of Iterative Fine-Tuning on Transcription Accuracy in Complex Historical Sanskrit Manuscripts",
+      "authors": [
+        "Kartik Chincholikar",
+        "Kaushik Gopalan",
+        "Mihir Hasabnis"
+      ],
+      "published": "2026-08-19T08:50:45+00:00",
+      "first_seen": "2026-08-20T08:20:23.674929",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    "2608.18777": {
+      "arxiv_id": "2608.18777",
+      "title": "GraphK: Variable-Size Graph Generation with Efficient Edge Construction",
+      "authors": [
+        "Resul Tugay",
+        "Eren Oluğ",
+        "Elif Ak",
+        "Sule Gunduz Oguducu"
+      ],
+      "published": "2026-08-19T10:34:17+00:00",
+      "first_seen": "2026-08-20T08:20:26.470496",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.18238": {
+      "arxiv_id": "2608.18238",
+      "title": "GenEx: A Graph-Based Representational Paradigm for SARS-CoV-2 Variant Detection via Codon Co-occurrence Networks",
+      "authors": [
+        "Arefin Amin",
+        "Labiba Faiza Karim",
+        "M. Monir Uddin"
+      ],
+      "published": "2026-08-18T18:24:45+00:00",
+      "first_seen": "2026-08-20T08:20:26.470508",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI",
+        "q-bio.QM"
+      ]
+    },
+    "2608.19155": {
+      "arxiv_id": "2608.19155",
+      "title": "FedGuard-DC: Privacy-Preserving Federated Load Forecasting and Cyber-Attack Detection for Data-Center Loads in Transmission Systems",
+      "authors": [
+        "Md Kibria Saroare",
+        "Md Rubel Ahmed"
+      ],
+      "published": "2026-08-19T17:40:59+00:00",
+      "first_seen": "2026-08-20T08:20:32.548075",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2608.18772": {
+      "arxiv_id": "2608.18772",
+      "title": "Decisive Margins in Differentially Private Voting",
+      "authors": [
+        "Quentin Hillebrand",
+        "Pasin Manurangsi",
+        "Vorapong Suppakitpaisarn",
+        "Phanu Vajanopath"
+      ],
+      "published": "2026-08-19T10:29:19+00:00",
+      "first_seen": "2026-08-20T08:20:32.548091",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DS",
+        "cs.CR"
+      ]
+    },
+    "2608.18767": {
+      "arxiv_id": "2608.18767",
+      "title": "Gradient Mirage: Trainable yet Label-Unidentifiable Gradients in Large Language Model Split Learning",
+      "authors": [
+        "Shiyu Miao",
+        "Yunlong Mao",
+        "Zirui Huang",
+        "Liang Yao",
+        "Tianshuo Zheng",
+        "Yanhui Gu",
+        "Fan Liu",
+        "Sheng Zhong"
+      ],
+      "published": "2026-08-19T10:20:33+00:00",
+      "first_seen": "2026-08-20T08:20:32.548099",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2608.19135": {
+      "arxiv_id": "2608.19135",
+      "title": "Autonomous Cyber Defense in Connected Vehicles: A Multi-Agent Approach to V2X Security",
+      "authors": [
+        "Krishna Teja Medam"
+      ],
+      "published": "2026-08-19T17:28:32+00:00",
+      "first_seen": "2026-08-20T08:20:38.484928",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.DC",
+        "cs.MA",
+        "cs.NI"
+      ]
+    },
+    "2608.18736": {
+      "arxiv_id": "2608.18736",
+      "title": "FedLNS: Leverage LayerNorm Signature Modeling to Mitigate Adversarial Manipulation in Federated LLMs",
+      "authors": [
+        "Kai Li",
+        "Jong-Ik Park",
+        "Carlee Joe-Wong",
+        "Wei Ni",
+        "Falko Dressler"
+      ],
+      "published": "2026-08-19T09:43:09+00:00",
+      "first_seen": "2026-08-20T08:20:38.484940",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DC"
+      ]
+    },
+    "2608.18634": {
+      "arxiv_id": "2608.18634",
+      "title": "Coordination on a Budget: Federated Active Learning with Few Labels",
+      "authors": [
+        "Liam Mohr",
+        "Daphna Weinshall"
+      ],
+      "published": "2026-08-19T07:31:46+00:00",
+      "first_seen": "2026-08-20T08:20:38.484947",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.18311": {
+      "arxiv_id": "2608.18311",
+      "title": "FedCoRe: Target-Adaptive Completion for Missing Modalities in Healthcare Federated Learning",
+      "authors": [
+        "Holger R. Roth",
+        "Ziyue Xu",
+        "Peter Cnudde"
+      ],
+      "published": "2026-08-18T20:45:23+00:00",
+      "first_seen": "2026-08-20T08:20:38.484953",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2608.19127": {
+      "arxiv_id": "2608.19127",
+      "title": "Leaf Values as Coordinates: Exact Contrastive Explanation for Gradient-Boosted Ensembles",
+      "authors": [
+        "Emanuele Luzio"
+      ],
+      "published": "2026-08-19T17:20:33+00:00",
+      "first_seen": "2026-08-20T08:20:41.563902",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CY"
+      ]
+    },
+    "2608.18952": {
+      "arxiv_id": "2608.18952",
+      "title": "rEDMRec: Distilling Large Language Model Reasoning into an Editable Experience Memory for Recommendation",
+      "authors": [
+        "Minh Hoang Nguyen",
+        "Tung Le",
+        "Huy Tien Nguyen"
+      ],
+      "published": "2026-08-19T14:17:34+00:00",
+      "first_seen": "2026-08-20T08:20:41.563915",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2608.18779": {
+      "arxiv_id": "2608.18779",
+      "title": "SIDScope: A Diagnostic Resource for Semantic-ID Interfaces in Generative Recommendation",
+      "authors": [
+        "Jiandong Ding",
+        "Huijie Qin",
+        "Tiandeng Wu",
+        "Yi Cao"
+      ],
+      "published": "2026-08-19T10:35:12+00:00",
+      "first_seen": "2026-08-20T08:20:41.563922",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2608.18638": {
+      "arxiv_id": "2608.18638",
+      "title": "Report on The 1st Workshop on Human-Centered Proactive and Personalized Agents for Interactive Information Access at CHIIR 2026",
+      "authors": [
+        "Kirandeep Kaur",
+        "Vinayak Gupta",
+        "Tanya Roosta",
+        "Madhura Raju",
+        "Grace Hui Yang",
+        "Chirag Shah"
+      ],
+      "published": "2026-08-19T07:35:21+00:00",
+      "first_seen": "2026-08-20T08:20:41.563928",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2608.18637": {
+      "arxiv_id": "2608.18637",
+      "title": "PILOT Technical Report",
+      "authors": [
+        "Jiuning Lin",
+        "Ruiquan Lan",
+        "Xiaodong Zhu",
+        "Bin Zhang",
+        "Chengyu Lai",
+        "Chuxin Chen",
+        "Dimin Wang",
+        "Hongtao Cheng",
+        "Jialin Zhu",
+        "Lingqing Zhang",
+        "Shuai Zhong",
+        "Tao Wang",
+        "Weipeng Huang",
+        "Yinjiang Cai",
+        "Yinnan Song",
+        "Yuan Liu",
+        "Zhibo Xiao",
+        "Zhixin Ma",
+        "Zihong Huang"
+      ],
+      "published": "2026-08-19T07:35:10+00:00",
+      "first_seen": "2026-08-20T08:20:41.563934",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.18606": {
+      "arxiv_id": "2608.18606",
+      "title": "OneModel: A Unified Foundation for Platform-Scale Multi-Scenario Ranking",
+      "authors": [
+        "Yinqi Zhang",
+        "Peiyu Hu",
+        "Yuntian Tang",
+        "Siying Gu",
+        "Jiahao Liang",
+        "Longxin Kou",
+        "Haiqing Hu",
+        "Shuman Zhuang",
+        "Yubin Xu",
+        "Chenggen Sun",
+        "Bin Ye",
+        "Donghui Xu",
+        "Zhaoyu Liu",
+        "Jiang Rong",
+        "Yuting Jia",
+        "Zhaokai Luo",
+        "Leilei Ma",
+        "Yiying Xie",
+        "Yao Hu"
+      ],
+      "published": "2026-08-19T06:50:47+00:00",
+      "first_seen": "2026-08-20T08:20:41.563940",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.18531": {
+      "arxiv_id": "2608.18531",
+      "title": "Pairwise Ranking Outperforms Single-Action RL for Offline Explanation Selection: A Practical Lesson",
+      "authors": [
+        "Tanay Chowdhury",
+        "Saeideh Shahrokh Esfahani"
+      ],
+      "published": "2026-08-19T04:29:04+00:00",
+      "first_seen": "2026-08-20T08:20:41.563946",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2608.18469": {
+      "arxiv_id": "2608.18469",
+      "title": "ERASE: EaRly bAckpropagation SchEdule for Faster Training of Modern Recommendation Systems",
+      "authors": [
+        "Ergan Shang",
+        "Flavio Sales Truzzi"
+      ],
+      "published": "2026-08-19T02:51:08+00:00",
+      "first_seen": "2026-08-20T08:20:41.563952",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.18322": {
+      "arxiv_id": "2608.18322",
+      "title": "Multimedia Asset Personalization via Multimodal Embeddings at Netflix",
+      "authors": [
+        "Emma Yanyang Kong",
+        "Aditya Deshpande",
+        "Bowei Yan",
+        "Asad Abbasi",
+        "Santiago Castro",
+        "Avneesh Saluja",
+        "David Fagnan",
+        "Ashish Rastogi"
+      ],
+      "published": "2026-08-18T21:15:56+00:00",
+      "first_seen": "2026-08-20T08:20:41.563957",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.18268": {
+      "arxiv_id": "2608.18268",
+      "title": "Global Crises and National Policies: A Large Scale Analysis of Political Content in German Language Online Media",
+      "authors": [
+        "Yara Döring",
+        "Felix Bießmann"
+      ],
+      "published": "2026-08-18T19:39:00+00:00",
+      "first_seen": "2026-08-20T08:20:41.563963",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CY",
+        "cs.LG",
+        "cs.SI"
+      ]
+    },
+    "2608.18660": {
+      "arxiv_id": "2608.18660",
+      "title": "Computational Measurement of Team-Process Phase Dynamics in Collaborative Virtual Reality",
+      "authors": [
+        "Qing Huang",
+        "Jianing Zhang",
+        "Pooja Pol"
+      ],
+      "published": "2026-08-19T08:05:13+00:00",
+      "first_seen": "2026-08-20T08:20:44.442018",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG"
       ]
     }
   }
