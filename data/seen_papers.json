@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-20T08:20:47.479872",
+  "last_updated": "2026-08-21T08:22:20.210520",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -55295,6 +55295,233 @@
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG"
+      ]
+    },
+    "2608.19914": {
+      "arxiv_id": "2608.19914",
+      "title": "Multi-Source Wasserstein Distributionally Robust Graph Learning",
+      "authors": [
+        "Chuansen Peng",
+        "Yifan Xia",
+        "Jinshan Zhong",
+        "Xiaojing Shen"
+      ],
+      "published": "2026-08-20T11:30:59+00:00",
+      "first_seen": "2026-08-21T08:21:56.347340",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.19381": {
+      "arxiv_id": "2608.19381",
+      "title": "Fairness-Aware Network Embeddings: Methods, Applications, and Challenges",
+      "authors": [
+        "Ella Has",
+        "Harshith Kumar Yadav",
+        "Gaurav Dixit",
+        "Mykola Pechenizkiy",
+        "Akrati Saxena"
+      ],
+      "published": "2026-08-19T18:51:55+00:00",
+      "first_seen": "2026-08-21T08:21:56.347350",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI",
+        "cs.AI"
+      ]
+    },
+    "2608.20099": {
+      "arxiv_id": "2608.20099",
+      "title": "Reward-Guided Autoregressive Graph Generation for Efficient Multi-Agent Communication Topology Design",
+      "authors": [
+        "Poomphob Suwannapichat",
+        "Boonyarit Changaival",
+        "Caesar Wu",
+        "Pascal Bouvry"
+      ],
+      "published": "2026-08-20T14:32:01+00:00",
+      "first_seen": "2026-08-21T08:21:59.259679",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.MA",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2608.19650": {
+      "arxiv_id": "2608.19650",
+      "title": "Enhancing Privacy in Federated Learning via Dual Obfuscation of Gradients and Training Images",
+      "authors": [
+        "Yuki Itabashi",
+        "Hiroto Sawada",
+        "Mare Hirose",
+        "Shoko Imaizumi",
+        "Hitoshi Kiya"
+      ],
+      "published": "2026-08-20T05:36:22+00:00",
+      "first_seen": "2026-08-21T08:22:11.233678",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2608.19534": {
+      "arxiv_id": "2608.19534",
+      "title": "AEGIS: Attention-Embedding Gradient Isolation Shield - Triple-Channel Gradient Masking for Privacy-Preserving Federated LLM Fine-Tuning",
+      "authors": [
+        "Ye Tao",
+        "Hong Shen",
+        "Hui Tian",
+        "Xin Wang",
+        "Can Wang"
+      ],
+      "published": "2026-08-20T01:12:56+00:00",
+      "first_seen": "2026-08-21T08:22:11.233687",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2608.19462": {
+      "arxiv_id": "2608.19462",
+      "title": "A Federated Learning Framework for Privacy-Preserving Oral Cancer Screening on Smartphones",
+      "authors": [
+        "Lena D. Swamikannan",
+        "Akshay Bhagwan Sonawane",
+        "Jay S. Patel",
+        "C. S. Mani",
+        "Lakshmi Narayana",
+        "Lakshman Tamil"
+      ],
+      "published": "2026-08-19T21:33:53+00:00",
+      "first_seen": "2026-08-21T08:22:11.233693",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2608.19998": {
+      "arxiv_id": "2608.19998",
+      "title": "SCoRD: Semantic-Assisted Continual Retriever-Reranker Distillation for LLM-Based Recommendation",
+      "authors": [
+        "Seunghyun Baek",
+        "Gyuseok Lee",
+        "Seunghan Lee",
+        "Wonbin Kweon",
+        "Dong Wang",
+        "SeongKu Kang"
+      ],
+      "published": "2026-08-20T13:11:28+00:00",
+      "first_seen": "2026-08-21T08:22:14.150460",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.19950": {
+      "arxiv_id": "2608.19950",
+      "title": "Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness",
+      "authors": [
+        "Nini Kurashvili",
+        "Yana Ivanchenko",
+        "Greta Schiavo",
+        "Cansu Koyuturk",
+        "Dimitri Ognibene"
+      ],
+      "published": "2026-08-20T12:17:24+00:00",
+      "first_seen": "2026-08-21T08:22:14.150471",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI",
+        "cs.CY"
+      ]
+    },
+    "2608.19833": {
+      "arxiv_id": "2608.19833",
+      "title": "Do Sequential Recommendation Benchmarks Really Require Higher-Order Sequence Modelling?",
+      "authors": [
+        "Aleksandr V. Petrov",
+        "Praveen Chandar",
+        "Paul N. Bennett",
+        "Hugues Bouchard",
+        "Mounia Lalmas"
+      ],
+      "published": "2026-08-20T09:33:33+00:00",
+      "first_seen": "2026-08-21T08:22:14.150477",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.19735": {
+      "arxiv_id": "2608.19735",
+      "title": "RecPFN: Prior-Fitted Networks for In-Context-Based Recommendations",
+      "authors": [
+        "En Zhi Tan",
+        "Jia Xiang Lim",
+        "Bryan Lijie Chew",
+        "Tze Minh Ng",
+        "Benjamin Yan Han Yap"
+      ],
+      "published": "2026-08-20T07:35:03+00:00",
+      "first_seen": "2026-08-21T08:22:14.150482",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.19677": {
+      "arxiv_id": "2608.19677",
+      "title": "CacheRoute: Planned Prefix-Affinity Routing for Large-Scale LLM Serving",
+      "authors": [
+        "Huang Cheng"
+      ],
+      "published": "2026-08-20T06:12:47+00:00",
+      "first_seen": "2026-08-21T08:22:14.150486",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2608.19665": {
+      "arxiv_id": "2608.19665",
+      "title": "Training-Free LLM-Based Recommendation with Post-LLM Item Refinement Using Collaborative Signals",
+      "authors": [
+        "Kyungho Kim",
+        "Sunwoo Kim",
+        "Geon Lee",
+        "Shinhwan Kang",
+        "Sojeong Kim",
+        "Liam Collins",
+        "Bhuvesh Kumar",
+        "Donald Loveland",
+        "Kijung Shin"
+      ],
+      "published": "2026-08-20T06:01:59+00:00",
+      "first_seen": "2026-08-21T08:22:14.150491",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.19545": {
+      "arxiv_id": "2608.19545",
+      "title": "Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love",
+      "authors": [
+        "Daria Leshchikova",
+        "Valentina V. Kuskova",
+        "Dmitry Zaytsev",
+        "Valerii Klimov"
+      ],
+      "published": "2026-08-20T01:25:03+00:00",
+      "first_seen": "2026-08-21T08:22:14.150495",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.IR"
       ]
     }
   }

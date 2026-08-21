@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-20 | [Multi-Source Wasserstein Distributionally Robust Graph Learning](https://arxiv.org/abs/2608.19914) | Network topology inference from graph signals is central to graph signal processing with applications in neuroscience, sensor, and social networks. |
-| 2026-08-19 | [Fairness-Aware Network Embeddings: Methods, Applications, and Challenges](https://arxiv.org/abs/2608.19381) | Network embedding methods learn low-dimensional representations of graph-structured data to support downstream tasks such as node classification, link prediction, and influence maximization. |
 | 2026-08-19 | [Learning Random Geometric Graphs Drawn in Probabilistic Metric Spaces](https://arxiv.org/abs/2608.19082) | We present a new data-driven learning of a Random Geometric Graph (RGG) of a multivariate dataset, where the graph is drawn in a probabilistic metric space. |
 | 2026-08-19 | [A Unifying Relational Perspective on Expressive Lottery Tickets](https://arxiv.org/abs/2608.18819) | Graph neural networks (GNNs) are widely used, but how parameter sparsity affects the expressivity of relational (RGNNs) and temporal (TGNNs) variants is poorly understood. |
 | 2026-08-19 | [Visual-Aware Representation of Web Pages for Machine Learning Applications](https://arxiv.org/abs/2608.18727) | Applying machine learning to web pages is challenging due to the need to interpret HTML together with associated resources and perform rendering to obtain a meaningful visual and layout-aware... |

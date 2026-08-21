@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-20 | [Enhancing Privacy in Federated Learning via Dual Obfuscation of Gradients and Training Images](https://arxiv.org/abs/2608.19650) | Federated learning enables collaborative model training while keeping data locally at each client; however, recent studies have shown that training data can be reconstructed from shared model updates. |
-| 2026-08-20 | [AEGIS: Attention-Embedding Gradient Isolation Shield - Triple-Channel Gradient Masking for Privacy-Preserving Federated LLM Fine-Tuning](https://arxiv.org/abs/2608.19534) | Gradient inversion attacks recover private training text from gradients shared in federated learning, posing a serious threat to collaborative model training. |
-| 2026-08-19 | [A Federated Learning Framework for Privacy-Preserving Oral Cancer Screening on Smartphones](https://arxiv.org/abs/2608.19462) | Data are the cornerstone of robust AI models. |
 | 2026-08-19 | [Autonomous Cyber Defense in Connected Vehicles: A Multi-Agent Approach to V2X Security](https://arxiv.org/abs/2608.19135) | A connected vehicle has roughly 100 milliseconds to decide whether an incoming Basic Safety Message is real or fabricated. |
 | 2026-08-19 | [FedLNS: Leverage LayerNorm Signature Modeling to Mitigate Adversarial Manipulation in Federated LLMs](https://arxiv.org/abs/2608.18736) | Federated training enables language models to learn from distributed private text, but the server cannot directly verify the local supervision or optimization process that produces each client update. |
 | 2026-08-19 | [Coordination on a Budget: Federated Active Learning with Few Labels](https://arxiv.org/abs/2608.18634) | Federated Active Learning (FAL) addresses the dual challenges of data privacy and label scarcity, where the absence of a global data view introduces additional hurdles for coordinated query selection. |
