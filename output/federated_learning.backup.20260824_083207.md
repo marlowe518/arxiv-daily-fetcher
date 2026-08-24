@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-21 | [BackDFL: A Unified Benchmark For Backdoor Attacks and Defenses In Decentralized Federated Learning](https://arxiv.org/abs/2608.21137) | Decentralized Federated Learning (DFL) promises trust-free collaborative learning by replacing the centralized parameter server with peer-to-peer model exchange. |
-| 2026-08-20 | [Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning](https://arxiv.org/abs/2608.20580) | Federated learning (FL) is vulnerable to multi-level attacks. |
 | 2026-08-20 | [Enhancing Privacy in Federated Learning via Dual Obfuscation of Gradients and Training Images](https://arxiv.org/abs/2608.19650) | Federated learning enables collaborative model training while keeping data locally at each client; however, recent studies have shown that training data can be reconstructed from shared model updates. |
 | 2026-08-20 | [AEGIS: Attention-Embedding Gradient Isolation Shield - Triple-Channel Gradient Masking for Privacy-Preserving Federated LLM Fine-Tuning](https://arxiv.org/abs/2608.19534) | Gradient inversion attacks recover private training text from gradients shared in federated learning, posing a serious threat to collaborative model training. |
 | 2026-08-19 | [A Federated Learning Framework for Privacy-Preserving Oral Cancer Screening on Smartphones](https://arxiv.org/abs/2608.19462) | Data are the cornerstone of robust AI models. |

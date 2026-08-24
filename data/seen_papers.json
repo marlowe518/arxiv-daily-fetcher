@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-23T08:14:05.275293",
+  "last_updated": "2026-08-24T08:32:07.527678",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -55522,6 +55522,302 @@
       "categories": [
         "cs.CY",
         "cs.IR"
+      ]
+    },
+    "2608.21096": {
+      "arxiv_id": "2608.21096",
+      "title": "FlatLand: Personalized Graph Federated Learning via Tailored Lorentz Space",
+      "authors": [
+        "Jiahong Liu",
+        "Ram Samarth B B",
+        "Xinyu Fu",
+        "Menglin Yang",
+        "Weixi Zhang",
+        "Rex Ying",
+        "Irwin King"
+      ],
+      "published": "2026-08-21T13:42:47+00:00",
+      "first_seen": "2026-08-24T08:31:44.015550",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.20991": {
+      "arxiv_id": "2608.20991",
+      "title": "Trojaning the Alignment: Stealthy Backdoor Attacks against Graph Foundation Models",
+      "authors": [
+        "Minhua Lin",
+        "Zhicheng Gao",
+        "Yilong Wang",
+        "Hanqing Lu",
+        "Xiang Zhang",
+        "Suhang Wang"
+      ],
+      "published": "2026-08-21T11:20:35+00:00",
+      "first_seen": "2026-08-24T08:31:44.015563",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.20980": {
+      "arxiv_id": "2608.20980",
+      "title": "A Critical Audit of Spatiotemporal Forecasting Benchmark Datasets and Baselines",
+      "authors": [
+        "Kenneth Martin",
+        "Simon Heilig",
+        "Asja Fischer",
+        "Michel F. C. Haddad",
+        "Adam M. Sykulski",
+        "Moshe Eliasof"
+      ],
+      "published": "2026-08-21T11:08:17+00:00",
+      "first_seen": "2026-08-24T08:31:44.015571",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2608.20967": {
+      "arxiv_id": "2608.20967",
+      "title": "Generalizing Soft Tissue Deformation and Force Prediction Across Material Stiffness and Geometry",
+      "authors": [
+        "Madina Kojanazarova",
+        "Sidaty El Hadramy",
+        "Philippe C. Cattin"
+      ],
+      "published": "2026-08-21T10:39:54+00:00",
+      "first_seen": "2026-08-24T08:31:44.015577",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.CG",
+        "cs.CV"
+      ]
+    },
+    "2608.20758": {
+      "arxiv_id": "2608.20758",
+      "title": "Hidden Axis of Uncertainty: Latent-Posterior Alignment in Graph Neural Networks with Bayesian Output Layers",
+      "authors": [
+        "Suk Hoon Choi",
+        "Damdae Park",
+        "Junhyuk Choi",
+        "Hyein Jung",
+        "Changsoo Kim",
+        "Ung Lee",
+        "Kyeongsu Kim"
+      ],
+      "published": "2026-08-21T05:39:26+00:00",
+      "first_seen": "2026-08-24T08:31:44.015584",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.20738": {
+      "arxiv_id": "2608.20738",
+      "title": "Continuous-Time Quantum Walks based Graph Neural Network",
+      "authors": [
+        "Yuliang Zhan",
+        "Zefeng Gao",
+        "Jian Li",
+        "Yang Liu",
+        "Hao sun"
+      ],
+      "published": "2026-08-21T04:53:16+00:00",
+      "first_seen": "2026-08-24T08:31:44.015590",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2608.21137": {
+      "arxiv_id": "2608.21137",
+      "title": "BackDFL: A Unified Benchmark For Backdoor Attacks and Defenses In Decentralized Federated Learning",
+      "authors": [
+        "Mouhamed Amine Bouchiha",
+        "Gregory Blanc",
+        "Yufei Han"
+      ],
+      "published": "2026-08-21T14:13:28+00:00",
+      "first_seen": "2026-08-24T08:31:58.785246",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DC"
+      ]
+    },
+    "2608.20580": {
+      "arxiv_id": "2608.20580",
+      "title": "Keyed Provenance Watermarking with Complementary Lattice-Based Secure Aggregation for Federated Learning",
+      "authors": [
+        "Xinyun Liu",
+        "Zhi Lu",
+        "Yu Chen",
+        "Ronghua Xu"
+      ],
+      "published": "2026-08-20T21:26:31+00:00",
+      "first_seen": "2026-08-24T08:31:58.785260",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2608.21294": {
+      "arxiv_id": "2608.21294",
+      "title": "Event-Time Confounding Under Bursty Human Dynamics",
+      "authors": [
+        "Michael Iannelli",
+        "Alan Ai"
+      ],
+      "published": "2026-08-21T16:57:12+00:00",
+      "first_seen": "2026-08-24T08:32:01.494429",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "stat.ME"
+      ]
+    },
+    "2608.21274": {
+      "arxiv_id": "2608.21274",
+      "title": "Recommendation Quality and the Concentration of Consumption: Experimental Evidence from Netflix",
+      "authors": [
+        "Guy Aridor",
+        "Winston Chou",
+        "Nathan Kallus",
+        "Antoine Scheid",
+        "Allen Tren",
+        "Kevin Zielincki"
+      ],
+      "published": "2026-08-21T16:30:18+00:00",
+      "first_seen": "2026-08-24T08:32:01.494441",
+      "topic": "Recommender Systems",
+      "categories": [
+        "econ.GN",
+        "cs.IR"
+      ]
+    },
+    "2608.21243": {
+      "arxiv_id": "2608.21243",
+      "title": "Adapting Knowledge Graphs for Behavior Denoising in Sequential Recommendation",
+      "authors": [
+        "Zichun Jin",
+        "Zihan Zhou",
+        "Yinan Liu",
+        "Bin Wang",
+        "Xiaochun Yang"
+      ],
+      "published": "2026-08-21T15:54:39+00:00",
+      "first_seen": "2026-08-24T08:32:01.494447",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2608.21074": {
+      "arxiv_id": "2608.21074",
+      "title": "PromptResponse: Optimizing Prompts for LLM Coding Tasks",
+      "authors": [
+        "Erik Thureck",
+        "Robert Kühnen",
+        "Tim Jacobowitz"
+      ],
+      "published": "2026-08-21T13:16:48+00:00",
+      "first_seen": "2026-08-24T08:32:01.494453",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.HC",
+        "cs.SE"
+      ]
+    },
+    "2608.21012": {
+      "arxiv_id": "2608.21012",
+      "title": "From a Static Multi-Level Small Semantic Codebook to a Dynamic Single-Level Large Semantic Codebook for Generative Recommendation",
+      "authors": [
+        "Tianlu Xie",
+        "Xin Ku",
+        "Mingjie Sun",
+        "Yunhao Sha",
+        "Lixiang Wang",
+        "Peng Wang",
+        "Yiyu Wang",
+        "Wenjin Wu",
+        "Zhaojie Liu",
+        "Peng Jiang",
+        "Wenwu Ou"
+      ],
+      "published": "2026-08-21T11:58:44+00:00",
+      "first_seen": "2026-08-24T08:32:01.494459",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2608.20801": {
+      "arxiv_id": "2608.20801",
+      "title": "Profiling What Matters: Context-Aware Item Profiles from Large-Scale Metadata for LLM Recommenders",
+      "authors": [
+        "Dojun Hwang",
+        "Seunghan Lee",
+        "Cheonyoung Park",
+        "Sara Yu",
+        "SeongKu Kang"
+      ],
+      "published": "2026-08-21T07:20:06+00:00",
+      "first_seen": "2026-08-24T08:32:01.494465",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2608.20640": {
+      "arxiv_id": "2608.20640",
+      "title": "One Hierarchy, Two Systems: Semantic Product IDs for Discovery-Surface Ranking and Search-Page Query Reformulation",
+      "authors": [
+        "Steven Xu",
+        "Sanjyot Thete",
+        "Saathvik Dirisala",
+        "Raghav Saboo",
+        "Nimesh Sinha",
+        "Leo Shao",
+        "Elyse Winer",
+        "Sudeep Das",
+        "Martin Wang",
+        "Kyle MacDonald"
+      ],
+      "published": "2026-08-21T00:27:32+00:00",
+      "first_seen": "2026-08-24T08:32:01.494470",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2608.20591": {
+      "arxiv_id": "2608.20591",
+      "title": "Disentangling Threads: Exploring the Potential of LLM-Supported Discussion Forum Analysis for Community Insight",
+      "authors": [
+        "Tony W. Li",
+        "Zhiqing Wang",
+        "Thanh-Nha Tran",
+        "Yu-Chun Grace Yen",
+        "Steven P. Dow"
+      ],
+      "published": "2026-08-20T22:00:24+00:00",
+      "first_seen": "2026-08-24T08:32:01.494476",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
       ]
     }
   }
