@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-23 | [Mitigating Explanation Leakage in Financial Fraud Detection Systems](https://arxiv.org/abs/2608.22607) | Financial fraud detection relies heavily on centralized machine learning models. |
-| 2026-08-23 | [Residual Privacy Budgeting with Weighted Scarcity Allocation for Online Query Answering](https://arxiv.org/abs/2608.22185) | In many practical deployments of differential privacy, queries do not arrive all at once. |
 | 2026-08-19 | [FedGuard-DC: Privacy-Preserving Federated Load Forecasting and Cyber-Attack Detection for Data-Center Loads in Transmission Systems](https://arxiv.org/abs/2608.19155) | The rapid growth of large data-center (DC) loads is creating new challenges for power-system visibility, privacy, and cyber-physical security. |
 | 2026-08-19 | [Decisive Margins in Differentially Private Voting](https://arxiv.org/abs/2608.18772) | Differential privacy protects individual voting records by injecting randomness into the published outcome, but this noise can lead to erroneous results when an election is close. |
 | 2026-08-19 | [Gradient Mirage: Trainable yet Label-Unidentifiable Gradients in Large Language Model Split Learning](https://arxiv.org/abs/2608.18767) | Gradient matching attacks (GMAs) in LLM split learning (SL) rely on a critical yet underexplored assumption: the gradient exposed at the split interface is a faithful derivative of the client's... |
