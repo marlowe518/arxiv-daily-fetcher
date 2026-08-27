@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-26T08:26:29.054199",
+  "last_updated": "2026-08-27T18:25:58.130795",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -56727,6 +56727,433 @@
       "topic": "Collaborative Filtering",
       "categories": [
         "cs.LG"
+      ]
+    },
+    "2608.26009": {
+      "arxiv_id": "2608.26009",
+      "title": "Imitation Learning for Connection-Tableau Construction",
+      "authors": [
+        "Fredrik Rømming",
+        "Mantas Bakšys",
+        "Martin S. Fixman",
+        "Sean B. Holden"
+      ],
+      "published": "2026-08-26T16:53:25+00:00",
+      "first_seen": "2026-08-27T18:25:34.214027",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG",
+        "cs.LO"
+      ]
+    },
+    "2608.25922": {
+      "arxiv_id": "2608.25922",
+      "title": "Query-Side Attacks on GNN-Based KGQA: Tracing Failures from Entity Linking to Answer Generation",
+      "authors": [
+        "Pankaj Kumar",
+        "Subhankar Mishra"
+      ],
+      "published": "2026-08-26T15:34:29+00:00",
+      "first_seen": "2026-08-27T18:25:34.214034",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2608.25903": {
+      "arxiv_id": "2608.25903",
+      "title": "MetaSieve: Faster Relational Deep Learning through SQL-Based Metapath Selection",
+      "authors": [
+        "Fahim Shahriar Khan",
+        "Ashraf Aboulnaga"
+      ],
+      "published": "2026-08-26T15:22:52+00:00",
+      "first_seen": "2026-08-27T18:25:34.214038",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.DB",
+        "cs.LG"
+      ]
+    },
+    "2608.25741": {
+      "arxiv_id": "2608.25741",
+      "title": "Why Does Graph Learning Fail to Fully Benefit from a Text Teacher?",
+      "authors": [
+        "Fumiaki Kimino",
+        "Ryoma Sato"
+      ],
+      "published": "2026-08-26T12:51:30+00:00",
+      "first_seen": "2026-08-27T18:25:34.214042",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CL"
+      ]
+    },
+    "2608.25727": {
+      "arxiv_id": "2608.25727",
+      "title": "Are LLM-Enhanced GNNs Privacy-Safe?",
+      "authors": [
+        "Longzhu He",
+        "Zelang Wen",
+        "Chaozhuo Li",
+        "Sen Su"
+      ],
+      "published": "2026-08-26T12:42:21+00:00",
+      "first_seen": "2026-08-27T18:25:34.214046",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2608.25282": {
+      "arxiv_id": "2608.25282",
+      "title": "SHSP: Structure-Aware Hierarchical Solution Prediction for Mixed-Integer Linear Programming",
+      "authors": [
+        "Zherong Zhang",
+        "Guanlin Li",
+        "Chengrui Gao",
+        "Haopu Shang",
+        "Ke Xue",
+        "Jixiang Lu",
+        "Weiyong Yang",
+        "Chao Qian"
+      ],
+      "published": "2026-08-26T01:41:45+00:00",
+      "first_seen": "2026-08-27T18:25:34.214050",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.25735": {
+      "arxiv_id": "2608.25735",
+      "title": "Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale",
+      "authors": [
+        "Peichun Hua",
+        "Danyang Chen",
+        "Junan Zhang",
+        "Haifeng Sun",
+        "Jingyu Wang",
+        "Diwen Xue",
+        "Mingyu Li",
+        "Yunming Xiao"
+      ],
+      "published": "2026-08-26T12:46:36+00:00",
+      "first_seen": "2026-08-27T18:25:43.123109",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2608.25873": {
+      "arxiv_id": "2608.25873",
+      "title": "How Edge of Stability Hinders SCAFFOLD in Federated Optimization",
+      "authors": [
+        "Anant Khandelwal",
+        "Michael Crawshaw",
+        "Mingrui Liu"
+      ],
+      "published": "2026-08-26T14:45:21+00:00",
+      "first_seen": "2026-08-27T18:25:49.355778",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.25794": {
+      "arxiv_id": "2608.25794",
+      "title": "Cooperative Multi-Agent Reinforcement Learning for Adaptive Aggregation in Semi-Supervised Federated Learning with non-IID Data",
+      "authors": [
+        "Rene Glitza",
+        "Luca Becker",
+        "Rainer Martin"
+      ],
+      "published": "2026-08-26T13:46:43+00:00",
+      "first_seen": "2026-08-27T18:25:49.355785",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC",
+        "cs.SD",
+        "eess.AS",
+        "eess.SP"
+      ]
+    },
+    "2608.25535": {
+      "arxiv_id": "2608.25535",
+      "title": "Resilient Decentralized Wireless Federated Learning via Gradient Tracking with AdamW",
+      "authors": [
+        "Nguyen Van Thieu",
+        "Ti Ti Nguyen",
+        "Ons Aouedi",
+        "Vu Nguyen Ha",
+        "Symeon Chatzinotas"
+      ],
+      "published": "2026-08-26T08:46:46+00:00",
+      "first_seen": "2026-08-27T18:25:49.355789",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC",
+        "cs.NI"
+      ]
+    },
+    "2608.25133": {
+      "arxiv_id": "2608.25133",
+      "title": "Rethinking the Transferable Adversarial Attacks and Robust Defense in Federated Learning",
+      "authors": [
+        "Zuobin Xiong",
+        "Deval Mukherjee",
+        "Homook Cho",
+        "Wei Li"
+      ],
+      "published": "2026-08-25T20:30:57+00:00",
+      "first_seen": "2026-08-27T18:25:49.355793",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2608.25114": {
+      "arxiv_id": "2608.25114",
+      "title": "Flower Hub: A Reproducible Benchmarking Platform for Federated Learning in Simulation and Deployment",
+      "authors": [
+        "Yan Gao",
+        "Mohammad Naseri",
+        "Javier Fernandez-Marques",
+        "Dimitris Stripelis",
+        "Lorenzo Sani",
+        "Davide Eynard",
+        "Fan Zhang",
+        "Hong Jia",
+        "Ting Dang",
+        "D. B. Emerson",
+        "Fatemeh Tavakoli",
+        "Ole Werger",
+        "Lars Wulfert",
+        "Petros Demetrakopoulos",
+        "Sofia Tsekeridou",
+        "InSeo Song",
+        "KangYoon Lee",
+        "Honghao Li",
+        "Lingjuan Lyu",
+        "John P Dickerson",
+        "Daniel Janes Beutel",
+        "Nicholas D. Lane"
+      ],
+      "published": "2026-08-25T20:09:44+00:00",
+      "first_seen": "2026-08-27T18:25:49.355796",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.24949": {
+      "arxiv_id": "2608.24949",
+      "title": "Demystifying Reinforcement Learning Post-Training of Language Models",
+      "authors": [
+        "Donovan Clay",
+        "Saket Gollapudi",
+        "Sankar Harilal",
+        "Min Jang",
+        "Jacob Morrison",
+        "Sewoong Oh",
+        "Natasha Jaques"
+      ],
+      "published": "2026-08-24T18:39:45+00:00",
+      "first_seen": "2026-08-27T18:25:49.355800",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2608.25755": {
+      "arxiv_id": "2608.25755",
+      "title": "Hamiltonian Spectral-Temporal Dissipative Dynamics for Sequential Recommendation",
+      "authors": [
+        "Shuiying Liao",
+        "P. Y. Mok"
+      ],
+      "published": "2026-08-26T13:04:04+00:00",
+      "first_seen": "2026-08-27T18:25:52.411352",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.25737": {
+      "arxiv_id": "2608.25737",
+      "title": "D3ER: Supporting Multi-Modal Recommendation via Disentangle and Distillation-based Dynamic Ensemble",
+      "authors": [
+        "Bingnan Wang",
+        "Yi Li",
+        "Xiongxin Tang",
+        "Fanjiang Xu",
+        "Jiangmeng Li"
+      ],
+      "published": "2026-08-26T12:47:50+00:00",
+      "first_seen": "2026-08-27T18:25:52.411359",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.MM"
+      ]
+    },
+    "2608.25546": {
+      "arxiv_id": "2608.25546",
+      "title": "An Event is Worth One Token: Event Tokenization for Industrial-scale LLM Recommendation",
+      "authors": [
+        "Fan Xia",
+        "Zhaoheng Zheng",
+        "Iman Setayesh",
+        "Ruogu Lin",
+        "Yiqin Pan",
+        "Samarth Mittal",
+        "Wentao Bao",
+        "Vinti Pandey",
+        "Sachin Patil",
+        "Jianpeng Cheng",
+        "Jun Xiao",
+        "Zhuang Wang",
+        "Xiangjun Fan",
+        "Sri Reddy",
+        "Minghai Chen"
+      ],
+      "published": "2026-08-26T08:59:17+00:00",
+      "first_seen": "2026-08-27T18:25:52.411363",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.25528": {
+      "arxiv_id": "2608.25528",
+      "title": "TransRetrieval: Scaling Up Transformer-Based Retrieval for Industrial Recommendation",
+      "authors": [
+        "Zhifei Zheng",
+        "Yunfei Liu",
+        "Bin Liu",
+        "Qiren Zhu",
+        "Hanbing Liu",
+        "Ziru Xu",
+        "Han Zhu",
+        "Jian Xu",
+        "Qi Qi",
+        "Bo Zheng"
+      ],
+      "published": "2026-08-26T08:35:16+00:00",
+      "first_seen": "2026-08-27T18:25:52.411366",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.25381": {
+      "arxiv_id": "2608.25381",
+      "title": "MOTIF: Motivation-guided Topology Inference for Cold-start Multimodal Recommendation",
+      "authors": [
+        "Yurui Shi",
+        "Yuchen Miao",
+        "Ximing Hu",
+        "Zijun Wang",
+        "Chang Han"
+      ],
+      "published": "2026-08-26T05:16:20+00:00",
+      "first_seen": "2026-08-27T18:25:52.411370",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.25370": {
+      "arxiv_id": "2608.25370",
+      "title": "CRAMER: Control via Request-Aware Masking for Editing Recommenders",
+      "authors": [
+        "Zhiyuan Julian Su",
+        "Naihe Feng",
+        "Zhen Luther Qin",
+        "Ga Wu"
+      ],
+      "published": "2026-08-26T04:43:23+00:00",
+      "first_seen": "2026-08-27T18:25:52.411373",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2608.25291": {
+      "arxiv_id": "2608.25291",
+      "title": "InsightSR: Refining Symbolic Regression Search Spaces via Parallel Semantic and Structural LLM Guidance",
+      "authors": [
+        "Yating Ling",
+        "Wenjing Cun",
+        "Zhitang Chen"
+      ],
+      "published": "2026-08-26T02:04:20+00:00",
+      "first_seen": "2026-08-27T18:25:52.411376",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.25104": {
+      "arxiv_id": "2608.25104",
+      "title": "SWIM: Step-Wise Integrated Measure for Session-supervised List Evaluation in Generative Re-ranking",
+      "authors": [
+        "Yuanhao Pu",
+        "Chenghao Zhang",
+        "Chao Feng",
+        "Xunyong Yang",
+        "Xiang Li",
+        "Yongqi Liu",
+        "Defu Lian",
+        "Kaiqiao Zhan",
+        "Kun Gai"
+      ],
+      "published": "2026-08-25T19:57:48+00:00",
+      "first_seen": "2026-08-27T18:25:52.411379",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.25037": {
+      "arxiv_id": "2608.25037",
+      "title": "Retrieve, Match, Escalate: Accurate and Scalable Product Linking with VLM-Distilled Cross-Encoders and Agentic VLMs",
+      "authors": [
+        "Jian Wang",
+        "Steven Xu",
+        "Sanjyot Thete",
+        "Maryam Barouti",
+        "Tom Tang",
+        "Elaine Wu",
+        "Charu Sareen",
+        "Kyle MacDonald"
+      ],
+      "published": "2026-08-25T18:26:34+00:00",
+      "first_seen": "2026-08-27T18:25:52.411383",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.DB",
+        "cs.IR"
       ]
     }
   }
