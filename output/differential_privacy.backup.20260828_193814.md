@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-27 | [SecureDrive-FL: Joint Differential Privacy and Gradient-Aware Selective Homomorphic Encryption for Federated Driver Monitoring](https://arxiv.org/abs/2608.27108) | Federated Learning (FL) enables privacy-aware distributed training, yet gradient updates remain exploitable: Man-in-the-Middle (MitM) interception exposes updates in transit, while model poisoning... |
-| 2026-08-27 | [Neighborhood Watch: Privacy Risks in Seeded Local Combination Synthetic Data](https://arxiv.org/abs/2608.27037) | Synthetic data is seen as a promising solution for sharing data in sensitive contexts. |
-| 2026-08-27 | [When Privacy Hurts Mergeability: Geometry-Aware Model Merging under Differential Privacy](https://arxiv.org/abs/2608.26655) | Model merging promises to construct a single multi-task model from independently fine-tuned task models without accessing the original task data. |
-| 2026-08-26 | [Privacy Without Regret: Differentially Private Inference-Time Alignment](https://arxiv.org/abs/2608.26324) | Best-of-N (BoN) sampling is the simplest and most widely deployed inference-time alignment strategy, but it suffers from two distinct problems: reward hacking, in which the selected response exploits... |
 | 2026-08-26 | [Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale](https://arxiv.org/abs/2608.25735) | Hosted retrieval-augmented generation (RAG) and semantic search allow users to query valuable provider-held corpora, raising two competing demands: to hide each query and chosen result, yet reveal... |
 | 2026-08-23 | [Mitigating Explanation Leakage in Financial Fraud Detection Systems](https://arxiv.org/abs/2608.22607) | Financial fraud detection relies heavily on centralized machine learning models. |
 | 2026-08-23 | [Residual Privacy Budgeting with Weighted Scarcity Allocation for Online Query Answering](https://arxiv.org/abs/2608.22185) | In many practical deployments of differential privacy, queries do not arrive all at once. |

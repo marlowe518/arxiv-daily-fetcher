@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-26 | [FedCMAPSS: A Benchmark for Federated Learning in Remaining Useful Life Estimation](https://arxiv.org/abs/2608.26433) | Data-driven prognostics and health management has emerged as a key enabler for Industry 4. |
 | 2026-08-26 | [How Edge of Stability Hinders SCAFFOLD in Federated Optimization](https://arxiv.org/abs/2608.25873) | In federated learning, it is well known that heterogeneous data can (in theory) slow down optimization, and much effort has been directed at designing optimization algorithms that are unaffected by... |
 | 2026-08-26 | [Cooperative Multi-Agent Reinforcement Learning for Adaptive Aggregation in Semi-Supervised Federated Learning with non-IID Data](https://arxiv.org/abs/2608.25794) | Federated Learning (FL) enables distributed training of machine learning models while preserving data privacy. |
 | 2026-08-26 | [Resilient Decentralized Wireless Federated Learning via Gradient Tracking with AdamW](https://arxiv.org/abs/2608.25535) | Wireless Internet-of-Things (IoT) edge networks require decentralized learning (DecL) methods that can operate reliably under both heterogeneous local data and communication-constrained wireless... |

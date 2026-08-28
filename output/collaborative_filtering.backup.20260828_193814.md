@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-26 | [Diff Mining: Logit Differences Reveal Finetuning Objectives](https://arxiv.org/abs/2608.26462) | Finetuning has become the gold standard for refining existing behaviors and inducing new ones in language models, yet it often remains unclear exactly which behaviors emerge during this process. |
 | 2026-08-24 | [Maximum-distance nonnegative matrix factorization for unmixing highly mixed grain-size distribution data: A generalization of AnalySize](https://arxiv.org/abs/2608.22681) | Nonnegative matrix factorization (NMF) decomposes a nonnegative matrix into the product of two nonnegative matrices. |
 | 2026-08-19 | [Computational Measurement of Team-Process Phase Dynamics in Collaborative Virtual Reality](https://arxiv.org/abs/2608.18660) | Collaborative virtual reality (VR) environments make team communication observable as it unfolds, but conventional transcript analyses often summarize entire trials or divide them into fixed temporal... |
 | 2026-08-03 | [Towards welfare-oriented recommendations in activity-travel behavior](https://arxiv.org/abs/2608.16922) | While mainstream recommender systems (RS) rely on diverse heuristics to rank alternatives, they generally lack a principled account of user welfare (i.e., whether accepting the recommendation will... |

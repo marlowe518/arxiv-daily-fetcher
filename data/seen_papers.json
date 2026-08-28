@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-27T18:25:58.130795",
+  "last_updated": "2026-08-28T19:38:14.355650",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -57154,6 +57154,427 @@
         "cs.CL",
         "cs.DB",
         "cs.IR"
+      ]
+    },
+    "2608.27413": {
+      "arxiv_id": "2608.27413",
+      "title": "Scaling Graph Neural Networks for Friend Recommendation: Multi-Hash User Embeddings and Temporal Neighbor Sampling",
+      "authors": [
+        "Maksim Utushkin",
+        "Andrei Ovsiannikov",
+        "Alexander D'yakonov"
+      ],
+      "published": "2026-08-27T17:41:33+00:00",
+      "first_seen": "2026-08-28T19:37:50.370477",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.IR",
+        "cs.LG",
+        "cs.SI"
+      ]
+    },
+    "2608.27153": {
+      "arxiv_id": "2608.27153",
+      "title": "Inductive Correlation Clustering with Graph Neural Networks",
+      "authors": [
+        "Francesco Paolo Nerini",
+        "Francesco Bonchi",
+        "Arijit Khan",
+        "André Panisson"
+      ],
+      "published": "2026-08-27T14:05:48+00:00",
+      "first_seen": "2026-08-28T19:37:50.370490",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.DS"
+      ]
+    },
+    "2608.27122": {
+      "arxiv_id": "2608.27122",
+      "title": "Cone Extended Rayleigh Quotients for Directed Graph Learning: Minimax Spectral Certificates, Sensitivity, and Adaptive Control",
+      "authors": [
+        "Yavdat Sh. Il'yasov",
+        "Nur F. Valeev"
+      ],
+      "published": "2026-08-27T13:37:02+00:00",
+      "first_seen": "2026-08-28T19:37:50.370498",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.26732": {
+      "arxiv_id": "2608.26732",
+      "title": "Rethinking Message Passing as Retrieval for Text-Attributed Graph Learning",
+      "authors": [
+        "Jintang Li",
+        "Yuhong Chen",
+        "Ruofan Wu",
+        "Binli Luo",
+        "Jiayi Ji",
+        "Hui Li",
+        "Rongrong Ji"
+      ],
+      "published": "2026-08-27T07:25:44+00:00",
+      "first_seen": "2026-08-28T19:37:50.370505",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.26694": {
+      "arxiv_id": "2608.26694",
+      "title": "Relational Over-Regularization: Graph-Based AI-Generated Text Detection via Sentence Transition Deviation",
+      "authors": [
+        "Hyeonchu Park",
+        "Bugeun Kim"
+      ],
+      "published": "2026-08-27T06:51:40+00:00",
+      "first_seen": "2026-08-28T19:37:50.370511",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2608.26451": {
+      "arxiv_id": "2608.26451",
+      "title": "Toward Equitable Low-Carbon Mobility: Fairness-Aware Demand Prediction for Expanding Bike-Sharing Systems",
+      "authors": [
+        "Man Luo",
+        "Yixuan Zhao"
+      ],
+      "published": "2026-08-26T22:57:40+00:00",
+      "first_seen": "2026-08-28T19:37:50.370517",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.26437": {
+      "arxiv_id": "2608.26437",
+      "title": "Subgraph Filtering for Fair Graph Neural Networks",
+      "authors": [
+        "Haohui Lu",
+        "jiyuan Tian",
+        "Fangyu Zhou",
+        "Shahadat Uddin"
+      ],
+      "published": "2026-08-26T22:40:31+00:00",
+      "first_seen": "2026-08-28T19:37:50.370523",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.26961": {
+      "arxiv_id": "2608.26961",
+      "title": "Gromov-Monge Flow Matching for Equivariant Graph Generation",
+      "authors": [
+        "Moritz Piening",
+        "Christian Wald"
+      ],
+      "published": "2026-08-27T11:01:03+00:00",
+      "first_seen": "2026-08-28T19:37:53.335617",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "math.OC",
+        "stat.ML"
+      ]
+    },
+    "2608.27108": {
+      "arxiv_id": "2608.27108",
+      "title": "SecureDrive-FL: Joint Differential Privacy and Gradient-Aware Selective Homomorphic Encryption for Federated Driver Monitoring",
+      "authors": [
+        "Baran Can Gül",
+        "Hanuma Siddhartha Tunuguntla",
+        "Anjana Arvind Naik",
+        "Abhishek Vijay Potekar",
+        "Nasser Jazdi",
+        "Michael Weyrich"
+      ],
+      "published": "2026-08-27T13:24:33+00:00",
+      "first_seen": "2026-08-28T19:37:59.288585",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2608.27037": {
+      "arxiv_id": "2608.27037",
+      "title": "Neighborhood Watch: Privacy Risks in Seeded Local Combination Synthetic Data",
+      "authors": [
+        "Hadrien Lautraite",
+        "Tristan Allard",
+        "Anne-Sophie Charest",
+        "Jean-François Rajotte",
+        "Sébastien Gambs"
+      ],
+      "published": "2026-08-27T12:22:55+00:00",
+      "first_seen": "2026-08-28T19:37:59.288597",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2608.26655": {
+      "arxiv_id": "2608.26655",
+      "title": "When Privacy Hurts Mergeability: Geometry-Aware Model Merging under Differential Privacy",
+      "authors": [
+        "Jin Liu",
+        "Junkang Liu",
+        "Ning Xi",
+        "Yinbin Miao",
+        "Dawei Wei",
+        "Ke Cheng",
+        "Jianfeng Ma"
+      ],
+      "published": "2026-08-27T06:08:11+00:00",
+      "first_seen": "2026-08-28T19:37:59.288606",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.26324": {
+      "arxiv_id": "2608.26324",
+      "title": "Privacy Without Regret: Differentially Private Inference-Time Alignment",
+      "authors": [
+        "Ishi Jain",
+        "Nandini Bhattad",
+        "Sayak Ray Chowdhury"
+      ],
+      "published": "2026-08-26T18:56:27+00:00",
+      "first_seen": "2026-08-28T19:37:59.288613",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.26433": {
+      "arxiv_id": "2608.26433",
+      "title": "FedCMAPSS: A Benchmark for Federated Learning in Remaining Useful Life Estimation",
+      "authors": [
+        "Amelia Sorrenti",
+        "Matteo Pennisi",
+        "Concetto Spampinato",
+        "Simone Palazzo"
+      ],
+      "published": "2026-08-26T22:18:03+00:00",
+      "first_seen": "2026-08-28T19:38:05.311647",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.27366": {
+      "arxiv_id": "2608.27366",
+      "title": "Stageboost: Recommending Signals Based on Counterfactual Estimation",
+      "authors": [
+        "Darpan Singhal",
+        "Matan Mandelbrod",
+        "Tal Franji",
+        "Manasa Kolla",
+        "Vipul Gaba",
+        "Yuri Brovman"
+      ],
+      "published": "2026-08-27T17:04:45+00:00",
+      "first_seen": "2026-08-28T19:38:08.234344",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2608.27291": {
+      "arxiv_id": "2608.27291",
+      "title": "Recovering Expert Critic-Sourced Network Adjacency between Musical Artists from Acoustic Distributions: A Construct-Validity Approach",
+      "authors": [
+        "Elena Badillo-Goicoechea",
+        "Fengfeng He"
+      ],
+      "published": "2026-08-27T15:59:21+00:00",
+      "first_seen": "2026-08-28T19:38:08.234355",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2608.27205": {
+      "arxiv_id": "2608.27205",
+      "title": "Profit based evaluation of machine learning for nitrogen recommendations in winter wheat",
+      "authors": [
+        "Xulong Wang",
+        "Po Yang"
+      ],
+      "published": "2026-08-27T14:52:02+00:00",
+      "first_seen": "2026-08-28T19:38:08.234361",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.27006": {
+      "arxiv_id": "2608.27006",
+      "title": "Conversational Recommendation over Live E-Commerce Catalogues with Self-Refreshing Retrieval",
+      "authors": [
+        "Ante Kapetanovic",
+        "Tomislav Duricic",
+        "Dionizije Fa",
+        "Andro Mercep",
+        "Emanuel Lacic"
+      ],
+      "published": "2026-08-27T11:50:15+00:00",
+      "first_seen": "2026-08-28T19:38:08.234367",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.26895": {
+      "arxiv_id": "2608.26895",
+      "title": "When Memory Takes Gradients: Collaborative Vector Memory for Agentic Recommender Systems",
+      "authors": [
+        "Hanchong Chen",
+        "Xing Tang",
+        "Lingjie Li",
+        "Xiongfeng Shan",
+        "Xiuqiang He"
+      ],
+      "published": "2026-08-27T09:51:18+00:00",
+      "first_seen": "2026-08-28T19:38:08.234373",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2608.26804": {
+      "arxiv_id": "2608.26804",
+      "title": "Incremental Recommendation via Causal Models",
+      "authors": [
+        "Athanasios Vlontzos",
+        "David Gustafsson",
+        "Michael O'Riordan",
+        "Ciarán M. Gilligan-Lee"
+      ],
+      "published": "2026-08-27T08:43:11+00:00",
+      "first_seen": "2026-08-28T19:38:08.234379",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "stat.ME"
+      ]
+    },
+    "2608.26755": {
+      "arxiv_id": "2608.26755",
+      "title": "Safety by Design: Realized-Cost Constraints for Contextual Bandits with Continuous Actions",
+      "authors": [
+        "Spyros Dragazis",
+        "Aldo Pacchiano"
+      ],
+      "published": "2026-08-27T07:52:00+00:00",
+      "first_seen": "2026-08-28T19:38:08.234386",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.26728": {
+      "arxiv_id": "2608.26728",
+      "title": "Beyond a Single Story: Meta-Reviewing Sparse and Incomplete User-generated Contents for Recommendation",
+      "authors": [
+        "Hongren Wang",
+        "Tianjun Wei",
+        "Yingpeng Du",
+        "Jie Zhang",
+        "Yin-Leng Theng"
+      ],
+      "published": "2026-08-27T07:21:35+00:00",
+      "first_seen": "2026-08-28T19:38:08.234391",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.26579": {
+      "arxiv_id": "2608.26579",
+      "title": "Preference Flow Matching with Spectral Factorization for Micro-video Recommendation",
+      "authors": [
+        "Xinxin Dong",
+        "Haokai Ma",
+        "Fei Hu",
+        "YuZe Zheng",
+        "Bin Wu",
+        "Yonghui Yang",
+        "Xiaodong Wang"
+      ],
+      "published": "2026-08-27T03:46:02+00:00",
+      "first_seen": "2026-08-28T19:38:08.234397",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.26500": {
+      "arxiv_id": "2608.26500",
+      "title": "Systematic Literature Review of Machine Learning Models and Applications for Text Recognition",
+      "authors": [
+        "Nuzhat Khan",
+        "Ab Al-Hadi Ab Rahman",
+        "Shahriyar Masud Rizvi",
+        "Ibrahim Yousef Alshareef",
+        "Muhammad Nadzir Marsono",
+        "Muhammad Paend Bakht",
+        "Mohd Shahrizal Rusli",
+        "Shahidatul Sadiah"
+      ],
+      "published": "2026-08-27T00:48:11+00:00",
+      "first_seen": "2026-08-28T19:38:08.234402",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2608.26423": {
+      "arxiv_id": "2608.26423",
+      "title": "The Latent Diagnostic Taxonomy: A Framework for Constructing Classifiers and Diagnosing Their Decisions, Applied to Prompt Injection Detection",
+      "authors": [
+        "Jaturong Kongmanee",
+        "Smile Thanapattheerakul"
+      ],
+      "published": "2026-08-26T21:55:15+00:00",
+      "first_seen": "2026-08-28T19:38:08.234408",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.CR"
+      ]
+    },
+    "2608.26462": {
+      "arxiv_id": "2608.26462",
+      "title": "Diff Mining: Logit Differences Reveal Finetuning Objectives",
+      "authors": [
+        "Greg Kocher",
+        "Robert West",
+        "Clément Dumas",
+        "Julian Minder"
+      ],
+      "published": "2026-08-26T23:33:18+00:00",
+      "first_seen": "2026-08-28T19:38:11.380689",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL"
       ]
     }
   }
