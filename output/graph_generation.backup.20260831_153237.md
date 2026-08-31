@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-28 | [When Evidence Shapes Collaboration: Knowledge-Conditioned Topology Generation for Multi-Agent Systems](https://arxiv.org/abs/2608.27984) | Multi-Agent Systems (MAS) have recently moved from static workflows toward dynamically generated collaboration topologies. |
 | 2026-08-27 | [Gromov-Monge Flow Matching for Equivariant Graph Generation](https://arxiv.org/abs/2608.26961) | Graphs are invariant under node permutations, motivating the use of permutation-equivariant architectures in generative models. |
 | 2026-08-24 | [Toward Effective and Reliable LLM Agents via Dynamic Ontology](https://arxiv.org/abs/2608.22974) | Large language model (LLM) agents rely heavily on knowledge encoded in model parameters or presented as unstructured context. |
 | 2026-08-20 | [Reward-Guided Autoregressive Graph Generation for Efficient Multi-Agent Communication Topology Design](https://arxiv.org/abs/2608.20099) | LLM-based Multi-Agent Systems (MAS) achieve strong performance on complex reasoning tasks by coordinating multiple agents, but at the cost of substantial token consumption. |

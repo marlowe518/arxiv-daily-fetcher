@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-08-30T13:21:23.319408",
+  "last_updated": "2026-08-31T15:32:37.392813",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -57575,6 +57575,471 @@
         "cs.LG",
         "cs.AI",
         "cs.CL"
+      ]
+    },
+    "2608.28342": {
+      "arxiv_id": "2608.28342",
+      "title": "Scalable dynamic community detection on temporal graphs using graph neural networks",
+      "authors": [
+        "Peijie Zhong",
+        "Raul Mondragon",
+        "Richard G. Clegg"
+      ],
+      "published": "2026-08-28T13:57:46+00:00",
+      "first_seen": "2026-08-31T15:32:13.932172",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI"
+      ]
+    },
+    "2608.28188": {
+      "arxiv_id": "2608.28188",
+      "title": "Beyond Flat Netlist: Hierarchical Graph Representation Learning for Scalable Analysis of Sequential Circuits",
+      "authors": [
+        "Jingyi Zhou",
+        "Zhengyuan Shi",
+        "Jiaying Zhu",
+        "Ziyang Zheng",
+        "Qiang Xu"
+      ],
+      "published": "2026-08-28T10:56:04+00:00",
+      "first_seen": "2026-08-31T15:32:13.932185",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.AR"
+      ]
+    },
+    "2608.27948": {
+      "arxiv_id": "2608.27948",
+      "title": "Temporal Memory-Aware Online Test-Time Adaptation on Dynamic Graphs",
+      "authors": [
+        "Bo Li",
+        "Xin Zheng",
+        "Ming Jin",
+        "Can Wang",
+        "Shirui Pan"
+      ],
+      "published": "2026-08-28T05:41:39+00:00",
+      "first_seen": "2026-08-31T15:32:13.932193",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.27942": {
+      "arxiv_id": "2608.27942",
+      "title": "CASTANET: Causality-Aware Spatio-Temporal Adversarial Network Using Traffic Incident Effects",
+      "authors": [
+        "Toshiya Kitahara",
+        "Ryu Shirakami",
+        "Koh Takeuchi",
+        "Hisashi Kashima"
+      ],
+      "published": "2026-08-28T05:34:07+00:00",
+      "first_seen": "2026-08-31T15:32:13.932199",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2608.27794": {
+      "arxiv_id": "2608.27794",
+      "title": "Node-wise Feature Encoding for Neural Performance Prediction",
+      "authors": [
+        "Matthew Grenier",
+        "William Hammer",
+        "Andrew Heuer",
+        "Nikhil Krishna",
+        "Yi Wang",
+        "Ramtin Zand"
+      ],
+      "published": "2026-08-28T00:20:27+00:00",
+      "first_seen": "2026-08-31T15:32:13.932206",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.27574": {
+      "arxiv_id": "2608.27574",
+      "title": "Self-Explainable Multi-Label Graph Neural Network for Correlated Evidence Attribution",
+      "authors": [
+        "Yingqi Feng",
+        "Yufei Tang",
+        "Min Shi",
+        "Xingquan Zhu"
+      ],
+      "published": "2026-08-27T18:02:23+00:00",
+      "first_seen": "2026-08-31T15:32:13.932212",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2608.27984": {
+      "arxiv_id": "2608.27984",
+      "title": "When Evidence Shapes Collaboration: Knowledge-Conditioned Topology Generation for Multi-Agent Systems",
+      "authors": [
+        "Yangxiao Jiang",
+        "Jiarun Fan",
+        "Mingcong Xu",
+        "Yanxi Guo",
+        "Jiwen Feng",
+        "Shanqing Xu",
+        "Mengchen Qian",
+        "Wei Chen",
+        "Xiaojin Zhang"
+      ],
+      "published": "2026-08-28T06:52:50+00:00",
+      "first_seen": "2026-08-31T15:32:16.039585",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2608.28198": {
+      "arxiv_id": "2608.28198",
+      "title": "Performative Privacy: When Differential Privacy Maximizes Utility",
+      "authors": [
+        "Uddalak Mukherjee",
+        "Edwige Cyffers",
+        "Yann Chevaleyre"
+      ],
+      "published": "2026-08-28T11:13:28+00:00",
+      "first_seen": "2026-08-31T15:32:22.112724",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "stat.ML"
+      ]
+    },
+    "2608.27826": {
+      "arxiv_id": "2608.27826",
+      "title": "Personalized and Multi-View Representation for Federated Cold-Start Recommendation",
+      "authors": [
+        "Jaehyung Lim",
+        "Wonbin Kweon",
+        "Woojoo Kim",
+        "Junyoung Kim",
+        "Dongha Kim",
+        "Hwanjo Yu"
+      ],
+      "published": "2026-08-28T01:48:50+00:00",
+      "first_seen": "2026-08-31T15:32:22.112735",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2608.27782": {
+      "arxiv_id": "2608.27782",
+      "title": "Memorization Is Not Extraction: Tight Differential-Privacy Bounds and Audit Blind Spots",
+      "authors": [
+        "Xujun Che",
+        "Depeng Xu",
+        "Shuhan Yuan"
+      ],
+      "published": "2026-08-27T23:28:08+00:00",
+      "first_seen": "2026-08-31T15:32:22.112743",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2608.27766": {
+      "arxiv_id": "2608.27766",
+      "title": "Revisiting Continuous Noise Sampling for Multi-Party Differential Privacy",
+      "authors": [
+        "Yucheng Fu",
+        "Tianhao Wang"
+      ],
+      "published": "2026-08-27T22:57:31+00:00",
+      "first_seen": "2026-08-31T15:32:22.112749",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2608.28379": {
+      "arxiv_id": "2608.28379",
+      "title": "Quantum Federated Learning Based on Bures--Uhlmann Geometry for Heterogeneous Noisy Clients",
+      "authors": [
+        "Haruki Emori",
+        "Masaki Uchihara",
+        "Yuuki Tokunaga"
+      ],
+      "published": "2026-08-28T14:33:53+00:00",
+      "first_seen": "2026-08-31T15:32:28.014105",
+      "topic": "Federated Learning",
+      "categories": [
+        "quant-ph",
+        "cs.LG"
+      ]
+    },
+    "2608.27856": {
+      "arxiv_id": "2608.27856",
+      "title": "FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling",
+      "authors": [
+        "Jun Bai",
+        "Ruilin Wang",
+        "Yue Li"
+      ],
+      "published": "2026-08-28T03:02:10+00:00",
+      "first_seen": "2026-08-31T15:32:28.014115",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    "2608.27836": {
+      "arxiv_id": "2608.27836",
+      "title": "FISGuard: Defending Against Membership Inference via Fixed Input Subspaces",
+      "authors": [
+        "Haocheng Jiang",
+        "Hua Shen"
+      ],
+      "published": "2026-08-28T02:06:37+00:00",
+      "first_seen": "2026-08-31T15:32:28.014121",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2608.27791": {
+      "arxiv_id": "2608.27791",
+      "title": "Initialization Is Critical: Advancing Federated Short-Term Load Forecasting under Load Heterogeneity via Model Initialization",
+      "authors": [
+        "Jianing Chen",
+        "Vajiheh Farhadi",
+        "Yan Li",
+        "Thomas La Porta"
+      ],
+      "published": "2026-08-28T00:08:51+00:00",
+      "first_seen": "2026-08-31T15:32:28.014127",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2608.27715": {
+      "arxiv_id": "2608.27715",
+      "title": "Beyond Non-IID: Learner--Client Distribution Mismatch in Federated Learning",
+      "authors": [
+        "Yiming Xie",
+        "Lili Su",
+        "Ningfang Mi"
+      ],
+      "published": "2026-08-27T21:08:12+00:00",
+      "first_seen": "2026-08-31T15:32:28.014132",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.27713": {
+      "arxiv_id": "2608.27713",
+      "title": "DART-FL: Burst-Aware Multitask Federated Learning under Dynamic Inference Demand at the Edge",
+      "authors": [
+        "Yiming Xie",
+        "Pinrui Yu",
+        "Geng Yuan",
+        "Xue Lin",
+        "Ningfang Mi"
+      ],
+      "published": "2026-08-27T21:03:33+00:00",
+      "first_seen": "2026-08-31T15:32:28.014138",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.28552": {
+      "arxiv_id": "2608.28552",
+      "title": "Advancing Interaction-Sensitive Feature Selection: Novel Relief-Based Algorithms, Expanded Comparisons, and Recommendations for Biomedical Data Mining",
+      "authors": [
+        "Kia Kazemi-Nia",
+        "Harsh Bandhey",
+        "Philip J. Freda",
+        "Ryan J. Urbanowicz"
+      ],
+      "published": "2026-08-28T17:28:50+00:00",
+      "first_seen": "2026-08-31T15:32:33.815509",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2608.28503": {
+      "arxiv_id": "2608.28503",
+      "title": "SG-UMP: Sequence-Guided Universal Multimodal Prioritization Calculation Framework",
+      "authors": [
+        "Xinyi Zhang",
+        "Yutong Li",
+        "Peijie Sun"
+      ],
+      "published": "2026-08-28T16:34:27+00:00",
+      "first_seen": "2026-08-31T15:32:33.815520",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.28444": {
+      "arxiv_id": "2608.28444",
+      "title": "Sliding-window beats linear attention",
+      "authors": [
+        "Alexia Jolicoeur-Martineau",
+        "Rhea Sanjay Sukthanker",
+        "Pashmina Cameron",
+        "Emy Gervais"
+      ],
+      "published": "2026-08-28T15:31:34+00:00",
+      "first_seen": "2026-08-31T15:32:33.815527",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2608.28393": {
+      "arxiv_id": "2608.28393",
+      "title": "Timing-Aware Repurchase Prediction for Web-Scale E-Commerce: Survival Models for Multi-Surface Grocery Recommendation",
+      "authors": [
+        "Akshay Kekuda",
+        "Shreeranjani Srirangamsridharan",
+        "Ishan Bhatt",
+        "Yanan Cao",
+        "Sinduja Subramaniam",
+        "Evren Korpeoglu",
+        "Kaushiki Nag",
+        "Kannan Achan"
+      ],
+      "published": "2026-08-28T14:49:03+00:00",
+      "first_seen": "2026-08-31T15:32:33.815533",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2608.27991": {
+      "arxiv_id": "2608.27991",
+      "title": "HubMixer: Progressive Latent Hub Mixing for Parameter-Efficient Feature Interaction in Recommendation",
+      "authors": [
+        "Jie Zhou",
+        "Zixian Gong",
+        "Wenhao Li",
+        "Chang Liu",
+        "Enzhao Shen",
+        "Bo Liu",
+        "Xu Guo",
+        "Fei Pan",
+        "Peng Jiang"
+      ],
+      "published": "2026-08-28T06:59:16+00:00",
+      "first_seen": "2026-08-31T15:32:33.815538",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.27950": {
+      "arxiv_id": "2608.27950",
+      "title": "Information-Guided Selective Modality-Interest Alignment for Multimodal Recommendation",
+      "authors": [
+        "Wenze Ma",
+        "Chenyu Sun",
+        "Yanmin Zhu",
+        "Qiwen Gu",
+        "Xuhao Zhao"
+      ],
+      "published": "2026-08-28T05:46:10+00:00",
+      "first_seen": "2026-08-31T15:32:33.815544",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2608.27873": {
+      "arxiv_id": "2608.27873",
+      "title": "Anchored Scenario Coverage for Failure-Aware First-Hit Batch Inverse Design",
+      "authors": [
+        "Chuhan Yang",
+        "Chenxi Wang",
+        "Linhan Wu",
+        "Yuyang Liu"
+      ],
+      "published": "2026-08-28T03:27:00+00:00",
+      "first_seen": "2026-08-31T15:32:33.815550",
+      "topic": "Recommender Systems",
+      "categories": [
+        "math.OC",
+        "cs.LG"
+      ]
+    },
+    "2608.27842": {
+      "arxiv_id": "2608.27842",
+      "title": "Guidelines Are Not Rules: Characterizing Terminologies around Visualization Design Guidelines",
+      "authors": [
+        "Anna L. Chinni",
+        "Md Dilshadur Rahman",
+        "Bon Adriel Aseniero",
+        "Petra Isenberg",
+        "Kushin Mukherjee",
+        "Ghulam Jilani Quadri",
+        "Paul Rosen",
+        "Karen B. Schloss",
+        "Daniel Weiskopf"
+      ],
+      "published": "2026-08-28T02:21:07+00:00",
+      "first_seen": "2026-08-31T15:32:33.815555",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2608.27840": {
+      "arxiv_id": "2608.27840",
+      "title": "An Empirical Evaluation of Cross-City POI Recommendation on a Large-Scale Benchmark",
+      "authors": [
+        "Peibo Li",
+        "Yang Song",
+        "Hao Xue",
+        "Maarten de Rijke",
+        "Flora D. Salim"
+      ],
+      "published": "2026-08-28T02:16:33+00:00",
+      "first_seen": "2026-08-31T15:32:33.815561",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2608.27663": {
+      "arxiv_id": "2608.27663",
+      "title": "A Versioned Unified Graph Index for Dynamic Timestamp-Aware Nearest Neighbor Search",
+      "authors": [
+        "Jun Woo Chung",
+        "Weijie Zhao"
+      ],
+      "published": "2026-08-27T19:51:28+00:00",
+      "first_seen": "2026-08-31T15:32:33.815566",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
       ]
     }
   }
