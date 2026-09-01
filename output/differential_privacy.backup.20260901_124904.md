@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-31 | [DP-VOXLET: Provable Speaker Anonymization for Disentangled Speech Representations](https://arxiv.org/abs/2608.30969) | Systems for speaker anonymization obfuscate the speaker of an utterance, while maintaining its original semantic contents and prosody. |
-| 2026-08-31 | [Bounds on the Posterior-to-Prior Ratios for Inclusion Belief under Bounded Differential Privacy](https://arxiv.org/abs/2608.30473) | Differential privacy has become the standard for generating privacy-protected data releases. |
-| 2026-08-28 | [Revisiting the Provable-Auditable Privacy Gap of DP-SGD](https://arxiv.org/abs/2608.28934) | Differential privacy (DP) has traditionally been used to provide theoretical upper bounds on an algorithm's stability to changing its training data. |
 | 2026-08-28 | [Performative Privacy: When Differential Privacy Maximizes Utility](https://arxiv.org/abs/2608.28198) | Privacy-preserving learning is often motivated by the idea that protecting users' data can preserve trust and thus participation, improving utility in the long term. |
 | 2026-08-28 | [Personalized and Multi-View Representation for Federated Cold-Start Recommendation](https://arxiv.org/abs/2608.27826) | Federated recommendation (FedRec) enables personalized modeling without centralizing users' interaction histories, but most existing methods assume a fixed item pool and thus overlook the practical... |
 | 2026-08-27 | [Memorization Is Not Extraction: Tight Differential-Privacy Bounds and Audit Blind Spots](https://arxiv.org/abs/2608.27782) | Memorization in large language models is measured through a zoo of definitions whose formal relations are unknown, and differential privacy (DP) is treated as a proxy against all of them at once. |

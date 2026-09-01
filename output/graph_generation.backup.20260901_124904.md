@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-31 | [Language-Informed Flow Matching for Trend-Guided Structure-Based 3D Molecular Generation](https://arxiv.org/abs/2608.31009) | Structure-based drug design (SBDD) requires ligands that satisfy both 3D target affinity and 1D chemical validity. |
-| 2026-08-28 | [Generation of High-Level Concepts in 3D Scene Graphs via Autoregressive Diffusion](https://arxiv.org/abs/2608.28733) | Indoor 3D Scene Graphs (3DSGs) represent environments as multi-layer hierarchies that connect observed geometric primitives (e.g., planes) to higher-level metric-semantic concepts (e.g., rooms,... |
 | 2026-08-28 | [When Evidence Shapes Collaboration: Knowledge-Conditioned Topology Generation for Multi-Agent Systems](https://arxiv.org/abs/2608.27984) | Multi-Agent Systems (MAS) have recently moved from static workflows toward dynamically generated collaboration topologies. |
 | 2026-08-27 | [Gromov-Monge Flow Matching for Equivariant Graph Generation](https://arxiv.org/abs/2608.26961) | Graphs are invariant under node permutations, motivating the use of permutation-equivariant architectures in generative models. |
 | 2026-08-24 | [Toward Effective and Reliable LLM Agents via Dynamic Ontology](https://arxiv.org/abs/2608.22974) | Large language model (LLM) agents rely heavily on knowledge encoded in model parameters or presented as unstructured context. |

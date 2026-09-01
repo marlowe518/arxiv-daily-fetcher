@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-08-29 | [CARVY-FL: Client Anticlustering for Robust Voting in Provably Secure Federated Learning](https://arxiv.org/abs/2608.28992) | Federated learning (FL) enables collaborative training without directly sharing raw data, but remains vulnerable to malicious clients. |
 | 2026-08-28 | [Quantum Federated Learning Based on Bures--Uhlmann Geometry for Heterogeneous Noisy Clients](https://arxiv.org/abs/2608.28379) | Quantum federated learning enables collaborative model training across quantum devices without sharing raw data, and it faces the data and hardware heterogeneity inherent to noisy quantum devices. |
 | 2026-08-28 | [FedEHR-Agents: Federated Agentic Optimization for Automated EHR Modeling](https://arxiv.org/abs/2608.27856) | Recent advances in large language models are enabling autonomous clinical agents to perform increasingly complex electronic health record (EHR) modeling workflows. |
 | 2026-08-28 | [FISGuard: Defending Against Membership Inference via Fixed Input Subspaces](https://arxiv.org/abs/2608.27836) | As large language models are increasingly adopted in federated learning, protecting user privacy while performing parameter-efficient fine-tuning on distributed private data has become an important... |
