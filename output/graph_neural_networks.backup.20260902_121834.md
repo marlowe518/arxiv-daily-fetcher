@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-01 | [Edge-Girth as a Structural Edge Feature for Graph Neural Networks](https://arxiv.org/abs/2609.01441) | Graph neural networks (GNN) based on message passing are provably no more powerful than the one-dimensional Weisfeiler--Leman colour-refinement test (1-WL): two graphs it cannot tell apart receive... |
-| 2026-09-01 | [CATeye: Coupled Attribute-Topology Invariance Learning for Voucher Abuse Detection](https://arxiv.org/abs/2609.01425) | Voucher abuse poses a major challenge in e-commerce, where malicious users exploit promotional vouchers for profit. |
-| 2026-09-01 | [MUGEN: Generating Unlearnable Graph Examples for Multiple Learning Tasks](https://arxiv.org/abs/2609.00696) | Graph data across diverse domains can expose valuable relational information to unauthorized representation learning, creating a pressing need for protection against such misuse. |
-| 2026-09-01 | [Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials](https://arxiv.org/abs/2609.00528) | We prove that the Hypergraph Neural Network, an invariant architecture with 3-body message passing, is a universal approximator for potential energy surfaces. |
 | 2026-08-31 | [CoMPASS: Collaborative Molecular Property Prediction via Adaptive Small-Large Model Synergy](https://arxiv.org/abs/2608.30674) | Accurate molecular property prediction requires both statistical reliability and chemical reasoning. |
 | 2026-08-31 | [MolLedger: An Additive Graph Neural Network with Chemically Grounded ADME Attributions](https://arxiv.org/abs/2608.30636) | Optimizing absorption, distribution, metabolism, and excretion (ADME) is an important part of small molecule drug discovery. |
 | 2026-08-31 | [Beamforming Design Via GNN in mmWave Cell-Free Massive MIMO Using Sub-6 GHz CSI](https://arxiv.org/abs/2608.30524) | Beamforming methods in millimeter-wave (mmWave) cell-free massive multiple-input multiple-output (CFmMIMO) systems require accurate channel state information (CSI), whose acquisition entails... |

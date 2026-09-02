@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-01 | [A Network Science Perspective on Evaluating Deep Graph Generative Models](https://arxiv.org/abs/2609.01015) | Traditional network models from network science, such as the Erdos-Renyi and configuration models, generate random networks that reproduce few selected topological properties observed in real-world... |
-| 2026-09-01 | [Probabilistic Model Checking of Autoregressive Neural Sequence Models](https://arxiv.org/abs/2609.00838) | Test-set accuracy is silent on two issues that matter when deploying autoregressive neural sequence models: how much probability mass the system under test (SUT) places on constraint-violating... |
-| 2026-08-31 | [Elite-Weighted Supervised Fine-tuning for Goal-Directed Molecular Optimization](https://arxiv.org/abs/2609.00189) | Goal-directed optimization is essential for steering molecular generators to propose candidates with desired properties. |
 | 2026-08-31 | [Language-Informed Flow Matching for Trend-Guided Structure-Based 3D Molecular Generation](https://arxiv.org/abs/2608.31009) | Structure-based drug design (SBDD) requires ligands that satisfy both 3D target affinity and 1D chemical validity. |
 | 2026-08-28 | [Generation of High-Level Concepts in 3D Scene Graphs via Autoregressive Diffusion](https://arxiv.org/abs/2608.28733) | Indoor 3D Scene Graphs (3DSGs) represent environments as multi-layer hierarchies that connect observed geometric primitives (e.g., planes) to higher-level metric-semantic concepts (e.g., rooms,... |
 | 2026-08-28 | [When Evidence Shapes Collaboration: Knowledge-Conditioned Topology Generation for Multi-Agent Systems](https://arxiv.org/abs/2608.27984) | Multi-Agent Systems (MAS) have recently moved from static workflows toward dynamically generated collaboration topologies. |
