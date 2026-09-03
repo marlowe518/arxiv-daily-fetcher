@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-02 | [Overcoming the Randomness-Utility Trade-off in Answering Differentially Private Linear Queries](https://arxiv.org/abs/2609.02880) | We study the question of answering linear queries with differential privacy using few (expected) random bits. |
-| 2026-09-01 | [Private Computation Space: Experience with Trusted Multi-Cluster Federated Learning for Agriculture](https://arxiv.org/abs/2609.01667) | Artificial Intelligence has shown to help improve agricultural practices, yet adoption remains limited: 69% of U. |
 | 2026-09-01 | [Differentially Private Paired Table-Image Multimodal Synthesis](https://arxiv.org/abs/2609.00708) | Differentially private (DP) synthesis has been extensively studied for tabular and image data separately, yet many real-world datasets contain images paired with multivariate tabular records. |
 | 2026-08-31 | [DP-VOXLET: Provable Speaker Anonymization for Disentangled Speech Representations](https://arxiv.org/abs/2608.30969) | Systems for speaker anonymization obfuscate the speaker of an utterance, while maintaining its original semantic contents and prosody. |
 | 2026-08-31 | [Bounds on the Posterior-to-Prior Ratios for Inclusion Belief under Bounded Differential Privacy](https://arxiv.org/abs/2608.30473) | Differential privacy has become the standard for generating privacy-protected data releases. |
