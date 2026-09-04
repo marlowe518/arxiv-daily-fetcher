@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-02 | [Privacy Leakage in Federated Learning: Gradient-Based Client Identity Inference and Defenses for Inertial Sensing in Vehicular Edge Networks](https://arxiv.org/abs/2609.02971) | As vehicular networks move toward 5G/6G edge intelligence, federated learning (FL) is widely promoted as a privacy-preserving way for vehicles and infrastructure to train shared models without... |
 | 2026-09-02 | [Spectral Initialization and Scheduled Graph Smoothness for Uncertain Knowledge Graph Completion](https://arxiv.org/abs/2609.02519) | Uncertain knowledge graphs (UKGs) extend knowledge graphs by assigning each triple a continuous confidence score. |
 | 2026-09-02 | [CACTUS: Mask-Guided Semantic Clean-Label Backdoors in Decentralized Federated Learning](https://arxiv.org/abs/2609.02450) | Semantic triggers in federated learning (FL) can be less conspicuous than synthetic patches, but sample-dependent placement may weaken backdoor implantation across aggregation rounds. |
 | 2026-09-02 | [Similarity-Aware Personalized Federated Learning in Heterogeneous Environments](https://arxiv.org/abs/2609.02241) | Federated Learning (FL) allows decentralized clients to train models collaboratively while preserving data privacy. |
