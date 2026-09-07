@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-04 | [Embedded Graph Flows for Categorical Graph Generation](https://arxiv.org/abs/2609.05328) | Generating categorical graphs requires choosing node and edge types that form a coherent structure without depending on node order. |
-| 2026-09-04 | [NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer](https://arxiv.org/abs/2609.05097) | AI-driven de novo molecular design offers a promising route to accelerate early-stage drug discovery by generating novel ligands directly within target protein binding pockets. |
-| 2026-09-03 | [Recovering molecules from coarse-grained beads: free-energy-conditioned generative backmapping across chemical space](https://arxiv.org/abs/2609.04432) | Transferable coarse-grained (CG) force fields compress chemical space: by aggregating atoms into a reduced set of interaction beads, models such as MARTINI reduce the number of distinguishable... |
 | 2026-09-02 | [From topology learning to graph generation: A unifying perspective](https://arxiv.org/abs/2609.02286) | Learning graph structures from data is a fundamental problem that spans a wide range of signal processing and machine learning tasks. |
 | 2026-09-02 | [Codebook Agent: Amortized Topology Design for LLM Multi-Agent Systems](https://arxiv.org/abs/2609.02264) | Adapting the communication topology of an LLM multi-agent system to each query improves both accuracy and efficiency, yet current designers treat this as conditional graph generation: a variational,... |
 | 2026-09-01 | [A Network Science Perspective on Evaluating Deep Graph Generative Models](https://arxiv.org/abs/2609.01015) | Traditional network models from network science, such as the Erdos-Renyi and configuration models, generate random networks that reproduce few selected topological properties observed in real-world... |
