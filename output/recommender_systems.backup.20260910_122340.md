@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-09 | [Purchase Advice and Observable Buyer Responses in Real AI Conversations](https://arxiv.org/abs/2609.09878) | How often does a generative assistant persuade someone to buy, or persuade them not to buy? |
-| 2026-09-09 | [Should I Be Polite to My LLM Relevance Judge? Tone as a Severity Operating-Point Shift](https://arxiv.org/abs/2609.09703) | Large language models are increasingly used as relevance judges, yet their labels can shift with prompt surface form. |
-| 2026-09-08 | [Ephemeral Feeds and Enduring Rituals: RushTok and the Formation of Event-Based Algorithmic Communities](https://arxiv.org/abs/2609.09331) | Each August, TikTok's For You page turns the University of Alabama's sorority recruitment into RushTok. |
 | 2026-09-08 | [Travel Package Booking Application with API Bot](https://arxiv.org/abs/2609.09112) | These days we are witnessing many mobile applications based on the recommended systems, which have become a great technology which is been used by the various mobile applications according to the... |
 | 2026-09-08 | [FINALLY: A Dataset Recommender System for Recommender-Systems Research](https://arxiv.org/abs/2609.08941) | Dataset selection shapes the empirical conditions under which recommender-system algorithms are evaluated, yet existing tools provide limited support for constructing complete dataset sets that... |
 | 2026-09-08 | [MoEMB: Scaling Universal Multimodal Embeddings with Efficient Mixture-of-Experts Models](https://arxiv.org/abs/2609.08663) | Universal multimodal embedding (UME) increasingly demands encoder's capacity for handling a broad range of tasks and modalities with increased complexity. |

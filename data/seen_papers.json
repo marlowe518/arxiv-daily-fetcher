@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-09T12:30:34.193857",
+  "last_updated": "2026-09-10T12:23:40.762463",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -61433,6 +61433,349 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
+      ]
+    },
+    "2609.10490": {
+      "arxiv_id": "2609.10490",
+      "title": "Learning with Covariance Matrices: Principal Component Analysis Meets Learning with Graphs",
+      "authors": [
+        "Saurabh Sihag",
+        "Andrea Cavallo",
+        "Elvin Isufi",
+        "Gonzalo Mateos",
+        "Alejandro Ribeiro"
+      ],
+      "published": "2026-09-09T17:28:46+00:00",
+      "first_seen": "2026-09-10T12:23:16.888236",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SP"
+      ]
+    },
+    "2609.10350": {
+      "arxiv_id": "2609.10350",
+      "title": "Cyber-Financial Contagion: Modeling the Propagation of an AI Vendor Compromise Through the Banking System",
+      "authors": [
+        "Alex Leytes"
+      ],
+      "published": "2026-09-09T15:46:16+00:00",
+      "first_seen": "2026-09-10T12:23:16.888246",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.CY",
+        "cs.LG"
+      ]
+    },
+    "2609.09980": {
+      "arxiv_id": "2609.09980",
+      "title": "Fidelity-Aware Scheduling of Quantum Circuits on Multi-QPU Systems",
+      "authors": [
+        "Innocenzo Fulginiti",
+        "Antonio Tudisco",
+        "Salvatore Zammuto",
+        "Patrick Hopf",
+        "Deborah Volpe",
+        "Helmut Seidl",
+        "Giovanna Turvani",
+        "Robert Wille",
+        "Christian B. Mendl",
+        "Martin Schulz"
+      ],
+      "published": "2026-09-09T10:10:33+00:00",
+      "first_seen": "2026-09-10T12:23:16.888252",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "quant-ph",
+        "cs.AI",
+        "cs.ET"
+      ]
+    },
+    "2609.09971": {
+      "arxiv_id": "2609.09971",
+      "title": "Deep Neural Networks for Learning Intent from sEMG Signals to Support Hardware Devices for Post-Stroke Neurorehabilitation",
+      "authors": [
+        "Zakariyya Brewster",
+        "Divy Wadhwani",
+        "Emily Yan",
+        "Aidan Wang",
+        "Karma Namgyal",
+        "Shuting Xie",
+        "Markiyan Konyk",
+        "Tala Abdelmaguid"
+      ],
+      "published": "2026-09-09T09:56:44+00:00",
+      "first_seen": "2026-09-10T12:23:16.888257",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.09891": {
+      "arxiv_id": "2609.09891",
+      "title": "ProMeta: Few-shot PROTAC-targeted degradation prediction across E3 ligases",
+      "authors": [
+        "Yuansheng Liu",
+        "Yufei Ye",
+        "Tao Tang",
+        "Jiawei Luo",
+        "Wen Tao",
+        "Xiao Luo"
+      ],
+      "published": "2026-09-09T08:47:01+00:00",
+      "first_seen": "2026-09-10T12:23:16.888262",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.QM"
+      ]
+    },
+    "2609.09708": {
+      "arxiv_id": "2609.09708",
+      "title": "Efficient Graph Neural Networks for Multicarrier Wideband Hybrid Beamforming Optimization",
+      "authors": [
+        "Beier Li",
+        "Mai Vu"
+      ],
+      "published": "2026-09-09T04:47:20+00:00",
+      "first_seen": "2026-09-10T12:23:16.888267",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SP",
+        "cs.LG",
+        "cs.NI"
+      ]
+    },
+    "2609.09698": {
+      "arxiv_id": "2609.09698",
+      "title": "Kernel-Complexity Edge Sanitization for Training-Free Defense against Structural Graph Attacks",
+      "authors": [
+        "Yaning Jia",
+        "Shenyang Deng",
+        "Yaoqing Yang",
+        "Chiyu Ma",
+        "Wenxuan Xu",
+        "Soroush Vosoughi"
+      ],
+      "published": "2026-09-09T04:33:09+00:00",
+      "first_seen": "2026-09-10T12:23:16.888272",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.09565": {
+      "arxiv_id": "2609.09565",
+      "title": "Multi-Agent Agentic Graph Learning via Structural Signatures",
+      "authors": [
+        "Liang Qu",
+        "Jianxin Li",
+        "Hua Wang"
+      ],
+      "published": "2026-09-09T00:43:45+00:00",
+      "first_seen": "2026-09-10T12:23:16.888281",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2609.09504": {
+      "arxiv_id": "2609.09504",
+      "title": "Inductive Biases in Field-Level Cosmological Inference from Galaxy Catalogs",
+      "authors": [
+        "James O. Baldwin",
+        "Shy Genel",
+        "Francisco Villaescusa-Navarro"
+      ],
+      "published": "2026-09-08T22:38:38+00:00",
+      "first_seen": "2026-09-10T12:23:16.888287",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "astro-ph.CO",
+        "cs.LG"
+      ]
+    },
+    "2609.09848": {
+      "arxiv_id": "2609.09848",
+      "title": "Subgroup Membership Inference Audits of Differentially Private Synthetic Text",
+      "authors": [
+        "Yidan Sun",
+        "Viktor Schlegel",
+        "Srinivasan Nandakumar",
+        "Siew Kei Lam",
+        "Anil Anthony Bharath"
+      ],
+      "published": "2026-09-09T07:56:24+00:00",
+      "first_seen": "2026-09-10T12:23:25.803037",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2609.10404": {
+      "arxiv_id": "2609.10404",
+      "title": "HybridFLow: SDN-Orchestrated Client Partitioning for Hybrid Federated Learning",
+      "authors": [
+        "Osama Abu Hamdan",
+        "Rabin Pandey",
+        "Hao Che",
+        "Engin Arslan",
+        "Md Arifuzzaman"
+      ],
+      "published": "2026-09-09T16:23:53+00:00",
+      "first_seen": "2026-09-10T12:23:31.774696",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.NI",
+        "cs.LG"
+      ]
+    },
+    "2609.10364": {
+      "arxiv_id": "2609.10364",
+      "title": "OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis",
+      "authors": [
+        "Ayush Debnath",
+        "Ruelia Saha",
+        "Sudip Misra"
+      ],
+      "published": "2026-09-09T15:56:26+00:00",
+      "first_seen": "2026-09-10T12:23:31.774705",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.10108": {
+      "arxiv_id": "2609.10108",
+      "title": "A Trust-Network-Based Federated Learning Framework for Multi-Center Aging Clock Prediction",
+      "authors": [
+        "Chunxu Zhang",
+        "Bo Li",
+        "Wenliang Wang",
+        "Yang Liu",
+        "Di Jiang",
+        "Yuan Huang",
+        "Yo-ichi Nabeshima",
+        "Akinori Yamamura",
+        "Bo Yang",
+        "Qiang Yang"
+      ],
+      "published": "2026-09-09T12:42:39+00:00",
+      "first_seen": "2026-09-10T12:23:31.774710",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.09904": {
+      "arxiv_id": "2609.09904",
+      "title": "Beyond Conventional Federated Learning via High-Order Regularization",
+      "authors": [
+        "Alireza Kabgani",
+        "Masoud Ahookhosh"
+      ],
+      "published": "2026-09-09T09:02:00+00:00",
+      "first_seen": "2026-09-10T12:23:31.774715",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2609.09794": {
+      "arxiv_id": "2609.09794",
+      "title": "Privacy-Preserving Split Learning for Federated LLM Fine-Tuning",
+      "authors": [
+        "Heng Jin",
+        "Chaoyu Zhang",
+        "Hexuan Yu",
+        "Wenjing Lou",
+        "Y. Thomas Hou"
+      ],
+      "published": "2026-09-09T06:48:21+00:00",
+      "first_seen": "2026-09-10T12:23:31.774719",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.09786": {
+      "arxiv_id": "2609.09786",
+      "title": "NEXUS-MI: Communication-Aware Federated Personalization for Gateway-Coordinated Motor-Imagery Brain-Computer Interfaces",
+      "authors": [
+        "Daniel Adu Worae",
+        "Aarthy Nagarajan"
+      ],
+      "published": "2026-09-09T06:34:45+00:00",
+      "first_seen": "2026-09-10T12:23:31.774724",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.NI"
+      ]
+    },
+    "2609.09659": {
+      "arxiv_id": "2609.09659",
+      "title": "Cascading Gradient Inversion via LT-Code Inspired Peeling in Federated Learning",
+      "authors": [
+        "Saeed Shariati",
+        "Mohsen Alambardar Meybodi"
+      ],
+      "published": "2026-09-09T03:17:01+00:00",
+      "first_seen": "2026-09-10T12:23:31.774728",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    "2609.09878": {
+      "arxiv_id": "2609.09878",
+      "title": "Purchase Advice and Observable Buyer Responses in Real AI Conversations",
+      "authors": [
+        "Benjamin Tannenbaum"
+      ],
+      "published": "2026-09-09T08:31:30+00:00",
+      "first_seen": "2026-09-10T12:23:34.717453",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.09703": {
+      "arxiv_id": "2609.09703",
+      "title": "Should I Be Polite to My LLM Relevance Judge? Tone as a Severity Operating-Point Shift",
+      "authors": [
+        "Tian Zhang",
+        "Meng Li"
+      ],
+      "published": "2026-09-09T04:40:14+00:00",
+      "first_seen": "2026-09-10T12:23:34.717462",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.09331": {
+      "arxiv_id": "2609.09331",
+      "title": "Ephemeral Feeds and Enduring Rituals: RushTok and the Formation of Event-Based Algorithmic Communities",
+      "authors": [
+        "Emelia Hughes",
+        "Tim Weninger"
+      ],
+      "published": "2026-09-08T18:17:35+00:00",
+      "first_seen": "2026-09-10T12:23:34.717467",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.CY",
+        "cs.SI"
       ]
     }
   }

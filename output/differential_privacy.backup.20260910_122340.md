@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-09 | [Subgroup Membership Inference Audits of Differentially Private Synthetic Text](https://arxiv.org/abs/2609.09848) | Synthetic data releases are increasingly proposed in the literature as a means of sharing realistic data replicas in lieu of sensitive private datasets. |
 | 2026-09-04 | [RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments](https://arxiv.org/abs/2609.05403) | Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both... |
 | 2026-09-04 | [Machine Unlearning as Private Retroactive Algorithms](https://arxiv.org/abs/2609.05329) | Machine unlearning typically aims to emulate retraining from scratch: upon a deletion request, the unlearning algorithm should produce an outcome that would have been obtained had the deleted point... |
 | 2026-09-04 | [CAT-LDP: Cloud-edge Adaptive Taxonomy under Local Differential Privacy](https://arxiv.org/abs/2609.05095) | Recommender systems are widely used in daily life, but their direct collection and use of user preference data can also lead to privacy leakage. |
