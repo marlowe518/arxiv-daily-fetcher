@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-09 | [Byzantine-Robust Federated Fire Detection with a Rotating Coordinator](https://arxiv.org/abs/2609.10647) | We study the application of federated learning (FL) to indoor fire detection. |
 | 2026-09-09 | [HybridFLow: SDN-Orchestrated Client Partitioning for Hybrid Federated Learning](https://arxiv.org/abs/2609.10404) | Cross-silo Federated Learning (FL) enables geographically distributed institutions to collaboratively train machine learning models without sharing raw data. |
 | 2026-09-09 | [OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis](https://arxiv.org/abs/2609.10364) | Simultaneous assessment of medical imaging and patient records is often required in clinical diagnosis. |
 | 2026-09-09 | [A Trust-Network-Based Federated Learning Framework for Multi-Center Aging Clock Prediction](https://arxiv.org/abs/2609.10108) | Aging clocks quantify biological aging and help characterize individual health status. |

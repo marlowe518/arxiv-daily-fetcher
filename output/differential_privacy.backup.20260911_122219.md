@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-10 | [Differentially Private EEG Feature Anonymization: A Privacy-Utility Case Study in Clinical Neurophysiology](https://arxiv.org/abs/2609.11777) | Clinical electroencephalography (EEG) data are valuable for healthcare research and for developing artificial intelligence (AI)-based clinical decision-support systems, but EEG recordings and derived... |
-| 2026-09-09 | [Lower Bounds for Private Graph Optimization Problems using Reconstruction Attacks](https://arxiv.org/abs/2609.10877) | This paper studies fundamental graph optimization problems under differential privacy (DP) and shows new, reconstruction-based lower bounds. |
 | 2026-09-09 | [Subgroup Membership Inference Audits of Differentially Private Synthetic Text](https://arxiv.org/abs/2609.09848) | Synthetic data releases are increasingly proposed in the literature as a means of sharing realistic data replicas in lieu of sensitive private datasets. |
 | 2026-09-04 | [RegionFed: Federated Learning for Personalized Query Understanding in Heterogeneous Retail Environments](https://arxiv.org/abs/2609.05403) | Retail search systems serve diverse geographic regions with distinct query patterns, vocabularies, and product preferences, creating significant data heterogeneity that challenges both... |
 | 2026-09-04 | [Machine Unlearning as Private Retroactive Algorithms](https://arxiv.org/abs/2609.05329) | Machine unlearning typically aims to emulate retraining from scratch: upon a deletion request, the unlearning algorithm should produce an outcome that would have been obtained had the deleted point... |

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-10T12:23:40.762463",
+  "last_updated": "2026-09-11T12:22:19.267094",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -61776,6 +61776,323 @@
         "cs.HC",
         "cs.CY",
         "cs.SI"
+      ]
+    },
+    "2609.11347": {
+      "arxiv_id": "2609.11347",
+      "title": "Reification as a Transferable Vocabulary: Zero-Shot Link Prediction with Vanilla GNNs",
+      "authors": [
+        "Camille Pradel"
+      ],
+      "published": "2026-09-10T10:26:09+00:00",
+      "first_seen": "2026-09-11T12:21:55.643679",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.11166": {
+      "arxiv_id": "2609.11166",
+      "title": "When does a spectral prior help graph learning? Connectivity-loss estimation under road-network disruptions",
+      "authors": [
+        "Van-Truong Le"
+      ],
+      "published": "2026-09-10T07:12:22+00:00",
+      "first_seen": "2026-09-11T12:21:55.643689",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.11123": {
+      "arxiv_id": "2609.11123",
+      "title": "HERALD: High-Fidelity Exemplar Retrieval with Adaptive Landmark Distillation for Heterophily-Aware Graph Condensation",
+      "authors": [
+        "Sujan Chakraborty",
+        "Priyanka Saha",
+        "Saptarshi Bej"
+      ],
+      "published": "2026-09-10T06:11:54+00:00",
+      "first_seen": "2026-09-11T12:21:55.643694",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.10983": {
+      "arxiv_id": "2609.10983",
+      "title": "A variational physics-informed graph neural network for heterogeneous solid mechanics",
+      "authors": [
+        "Aashay Rajan Yadav",
+        "Amiya Prakash Das",
+        "Ratna Kumar Annabattula"
+      ],
+      "published": "2026-09-10T02:02:32+00:00",
+      "first_seen": "2026-09-11T12:21:55.643699",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "math.NA",
+        "cs.LG"
+      ]
+    },
+    "2609.10742": {
+      "arxiv_id": "2609.10742",
+      "title": "SynCo: Synthetic Community-Aware Attributed Graph Generator for Graph Neural Network Benchmarking",
+      "authors": [
+        "Guilherme Henrique Messias",
+        "Mariana Caravanti de Souza",
+        "Sylvia Iasulaitis",
+        "Alan Demétrius Baria Valejo"
+      ],
+      "published": "2026-09-09T18:38:48+00:00",
+      "first_seen": "2026-09-11T12:21:55.643704",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI",
+        "cs.LG"
+      ]
+    },
+    "2609.10781": {
+      "arxiv_id": "2609.10781",
+      "title": "From Connectivity to Rewards: Dense Reward Learning with Directed State Graphs",
+      "authors": [
+        "Shuyuan Zhang",
+        "Zihan Wang",
+        "Xiao-Wen Chang",
+        "Doina Precup"
+      ],
+      "published": "2026-09-09T19:29:22+00:00",
+      "first_seen": "2026-09-11T12:21:58.384068",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.11777": {
+      "arxiv_id": "2609.11777",
+      "title": "Differentially Private EEG Feature Anonymization: A Privacy-Utility Case Study in Clinical Neurophysiology",
+      "authors": [
+        "Noman Sadiq",
+        "Mohsen Toorani"
+      ],
+      "published": "2026-09-10T16:31:11+00:00",
+      "first_seen": "2026-09-11T12:22:04.328649",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG",
+        "eess.SP"
+      ]
+    },
+    "2609.10877": {
+      "arxiv_id": "2609.10877",
+      "title": "Lower Bounds for Private Graph Optimization Problems using Reconstruction Attacks",
+      "authors": [
+        "Jacob Imola",
+        "Rasmus Pagh",
+        "Lukas Retschmeier"
+      ],
+      "published": "2026-09-09T22:34:33+00:00",
+      "first_seen": "2026-09-11T12:22:04.328660",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DS",
+        "cs.CR"
+      ]
+    },
+    "2609.10647": {
+      "arxiv_id": "2609.10647",
+      "title": "Byzantine-Robust Federated Fire Detection with a Rotating Coordinator",
+      "authors": [
+        "Georgia Argyrou",
+        "Aymen Bahrouny",
+        "Hedi Fendriy",
+        "Alexander Jung"
+      ],
+      "published": "2026-09-09T13:18:37+00:00",
+      "first_seen": "2026-09-11T12:22:10.287451",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.11915": {
+      "arxiv_id": "2609.11915",
+      "title": "Generative Marketing Mix Modeling: A Causal Inference Framework Linking GEO and GEM to Business Impact",
+      "authors": [
+        "Masahiro Kato",
+        "Daiki Honma",
+        "Taka Kato"
+      ],
+      "published": "2026-09-10T17:57:28+00:00",
+      "first_seen": "2026-09-11T12:22:13.167165",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.AI",
+        "cs.LG",
+        "econ.EM",
+        "stat.ME"
+      ]
+    },
+    "2609.11632": {
+      "arxiv_id": "2609.11632",
+      "title": "FedHUR: Learning Hierarchical Utility-Guided Client Relations for Personalized Federated Recommendation",
+      "authors": [
+        "Mingzhe Han",
+        "Jiahao Liu",
+        "Dongsheng Li",
+        "Jiankui Zhou",
+        "Hansu Gu",
+        "Peng Zhang",
+        "Ning Gu",
+        "Tun Lu"
+      ],
+      "published": "2026-09-10T14:42:24+00:00",
+      "first_seen": "2026-09-11T12:22:13.167175",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.11198": {
+      "arxiv_id": "2609.11198",
+      "title": "(Whose defaults?) Is artificial intelligence reorienting archaeological methods?",
+      "authors": [
+        "Lorenzo Cardarelli",
+        "Roberto Ragno"
+      ],
+      "published": "2026-09-10T08:08:15+00:00",
+      "first_seen": "2026-09-11T12:22:13.167181",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.AI",
+        "cs.CL",
+        "cs.HC"
+      ]
+    },
+    "2609.11190": {
+      "arxiv_id": "2609.11190",
+      "title": "Agentic Share-of-Search: A Multi-Agent AI System for Competitive Decision-Making in LLM-Mediated E-Commerce",
+      "authors": [
+        "Spandan Ghose Chowdhury"
+      ],
+      "published": "2026-09-10T07:55:59+00:00",
+      "first_seen": "2026-09-11T12:22:13.167186",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2609.11109": {
+      "arxiv_id": "2609.11109",
+      "title": "How AI Coders Discuss, Disagree, and Reach Consensus: Challenges and Opportunities for LLM-Based Qualitative Coding",
+      "authors": [
+        "Jeongyeon Kim",
+        "John Mitchell"
+      ],
+      "published": "2026-09-10T05:34:47+00:00",
+      "first_seen": "2026-09-11T12:22:13.167190",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ]
+    },
+    "2609.11052": {
+      "arxiv_id": "2609.11052",
+      "title": "UniRec: Cross-stage Multi-Task Fusion with Preference Alignment for Cascaded Recommender Systems",
+      "authors": [
+        "Lingyuan Kong",
+        "Jiaqi Cui",
+        "Fanjiao Zeng",
+        "Congqi Wang",
+        "Yu Li",
+        "Yuan Cheng",
+        "Jingxin Liu",
+        "Xiaoshuang Chen",
+        "Kaiqiao Zhan"
+      ],
+      "published": "2026-09-10T03:54:17+00:00",
+      "first_seen": "2026-09-11T12:22:13.167194",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.11041": {
+      "arxiv_id": "2609.11041",
+      "title": "Meta-Learning for Classifier Selection in Image Datasets: A Feature-Driven Framework for Accuracy Prediction",
+      "authors": [
+        "Zahra Nabizadeh_Shahre_Babak",
+        "Farzaneh Koohestani",
+        "Nader Karimi",
+        "Shahram Shirani",
+        "Shadrokh Samavi"
+      ],
+      "published": "2026-09-10T03:39:16+00:00",
+      "first_seen": "2026-09-11T12:22:13.167199",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2609.10856": {
+      "arxiv_id": "2609.10856",
+      "title": "Following the Preference, Missing the Optimum: Compliance Without Optimization in AI Housing Recommendation",
+      "authors": [
+        "Hsuan Lo"
+      ],
+      "published": "2026-09-09T21:51:15+00:00",
+      "first_seen": "2026-09-11T12:22:13.167203",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.IR"
+      ]
+    },
+    "2609.10994": {
+      "arxiv_id": "2609.10994",
+      "title": "Importance Weighting for Unlabeled-unlabeled Learning under Distribution Shift",
+      "authors": [
+        "Atsutoshi Kumagai",
+        "Tomoharu Iwata",
+        "Hiroshi Takahashi",
+        "Taishi Nishiyama",
+        "Kazuki Adachi",
+        "Yasuhiro Fujiwara"
+      ],
+      "published": "2026-09-10T02:13:53+00:00",
+      "first_seen": "2026-09-11T12:22:19.261580",
+      "topic": "Implicit Feedback",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "stat.ML"
+      ]
+    },
+    "2609.10928": {
+      "arxiv_id": "2609.10928",
+      "title": "AUC Maximization from Biased Positive-unlabeled Data with Confidence",
+      "authors": [
+        "Atsutoshi Kumagai",
+        "Tomoharu Iwata",
+        "Hiroshi Takahashi",
+        "Taishi Nishiyama",
+        "Kazuki Adachi",
+        "Yasuhiro Fujiwara"
+      ],
+      "published": "2026-09-10T00:22:57+00:00",
+      "first_seen": "2026-09-11T12:22:19.261589",
+      "topic": "Implicit Feedback",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "stat.ML"
       ]
     }
   }
