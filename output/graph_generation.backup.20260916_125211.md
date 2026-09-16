@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-15 | [QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules](https://arxiv.org/abs/2609.16527) | Exploring the chemical space of flexible molecules remains challenging because the vast number of possible compounds and conformations, together with the increasing cost and limited generalization of... |
-| 2026-09-14 | [Ensemble-Conditioned Molecular Design](https://arxiv.org/abs/2609.15077) | Molecular design is typically approached as a problem of finding molecules which can adopt a single bioactive conformation. |
-| 2026-09-11 | [Fraglingo: Molecular Design via Attachment-Aware Autoregressive Fragment Generation](https://arxiv.org/abs/2609.13519) | Molecular design is most effective when generation mirrors the edits chemists actually make: extending a scaffold, replacing a substituent, or decorating a scaffold at a specified attachment site... |
 | 2026-09-09 | [From Connectivity to Rewards: Dense Reward Learning with Directed State Graphs](https://arxiv.org/abs/2609.10781) | The integration of graphs with Goal-Conditioned Hierarchical Reinforcement Learning (GCHRL) has received increasing attention, as graphs naturally encode task hierarchies for effective subgoal... |
 | 2026-09-04 | [Embedded Graph Flows for Categorical Graph Generation](https://arxiv.org/abs/2609.05328) | Generating categorical graphs requires choosing node and edge types that form a coherent structure without depending on node order. |
 | 2026-09-04 | [NEAT-POCKET: Pocket-Conditioned Autoregressive 3D Molecular Generation with a Neighborhood-Guided Set Transformer](https://arxiv.org/abs/2609.05097) | AI-driven de novo molecular design offers a promising route to accelerate early-stage drug discovery by generating novel ligands directly within target protein binding pockets. |
