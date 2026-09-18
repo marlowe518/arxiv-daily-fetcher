@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-16T12:52:11.820254",
+  "last_updated": "2026-09-18T12:23:40.560997",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -63346,6 +63346,727 @@
         "cs.AI",
         "cs.IR",
         "cs.LG"
+      ]
+    },
+    "2609.19983": {
+      "arxiv_id": "2609.19983",
+      "title": "Quantum Graph Convolutional Networks: Implementation and Trainability Analysis",
+      "authors": [
+        "Paul San Sebastian Sein",
+        "Theodor Iosif",
+        "Tilen G. Limbäck-Stokin",
+        "Kin Ian Lo",
+        "Yidong Liao"
+      ],
+      "published": "2026-09-17T09:56:22+00:00",
+      "first_seen": "2026-09-18T12:23:16.717078",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "quant-ph",
+        "cs.LG"
+      ]
+    },
+    "2609.19832": {
+      "arxiv_id": "2609.19832",
+      "title": "MetaRTL: Meta-path Attention Enhanced Relational Table Learning",
+      "authors": [
+        "Ken Zhong",
+        "Weichen Li",
+        "Zheng Wang"
+      ],
+      "published": "2026-09-17T07:37:25+00:00",
+      "first_seen": "2026-09-18T12:23:16.717096",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2609.18759": {
+      "arxiv_id": "2609.18759",
+      "title": "Stable Filters for Generative Modeling of Graph Signals",
+      "authors": [
+        "Martin Schmidt",
+        "Gonzalo Mateos"
+      ],
+      "published": "2026-09-16T14:46:46+00:00",
+      "first_seen": "2026-09-18T12:23:16.717109",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "eess.SP",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2609.18597": {
+      "arxiv_id": "2609.18597",
+      "title": "Reasoning through Evolution: Automatic Meta-path Discovery for LLM-based Fake News Detection",
+      "authors": [
+        "Ziyi Zhou",
+        "Xiaoming Zhang",
+        "Hui Pang",
+        "Yuting Zhang",
+        "Tiesunlong Shen",
+        "Bingyu Yan",
+        "Erik Cambria",
+        "Litian Zhang"
+      ],
+      "published": "2026-09-16T12:51:51+00:00",
+      "first_seen": "2026-09-18T12:23:16.717120",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2609.18595": {
+      "arxiv_id": "2609.18595",
+      "title": "ReDIL-GNN: Resynthesis Domain Incremental Learning for Circuit Graph Neural Networks",
+      "authors": [
+        "Rupesh Raj Karn",
+        "Johann Knechtel",
+        "Ozgur Sinanoglu"
+      ],
+      "published": "2026-09-16T12:51:25+00:00",
+      "first_seen": "2026-09-18T12:23:16.717132",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.NE"
+      ]
+    },
+    "2609.19210": {
+      "arxiv_id": "2609.19210",
+      "title": "Not All Nodes Are Created Equal: Homophily-Aware Stratification for Stable GNN Evaluation",
+      "authors": [
+        "Naga Venkata Sai Jitin Jami",
+        "Thomas Altstidl",
+        "Sebastian Hoefler",
+        "Jonas Mueller",
+        "Dario Zanca",
+        "Bjoern Eskofier",
+        "Heike Leutheuser"
+      ],
+      "published": "2026-09-16T11:27:08+00:00",
+      "first_seen": "2026-09-18T12:23:16.717143",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI",
+        "cs.AI",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2609.18407": {
+      "arxiv_id": "2609.18407",
+      "title": "TERN: A Delta-rule Memory with a Seasonal Reference and Online Adaptation for Epidemic Forecasting",
+      "authors": [
+        "Shunya Nagashima",
+        "Yuta Funayama"
+      ],
+      "published": "2026-09-16T10:00:53+00:00",
+      "first_seen": "2026-09-18T12:23:16.717154",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.18107": {
+      "arxiv_id": "2609.18107",
+      "title": "FoundAna: A GNN-assisted Foundation Model for Graph Anomaly Detection",
+      "authors": [
+        "Suprim Nakarmi",
+        "Chahana Dahal",
+        "Yue Zhao",
+        "Junggab Son",
+        "Zuobin Xiong"
+      ],
+      "published": "2026-09-16T04:24:14+00:00",
+      "first_seen": "2026-09-18T12:23:16.717172",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2609.17646": {
+      "arxiv_id": "2609.17646",
+      "title": "Robust and Efficient AI Frameworks for Scalable Material Design and Property Prediction",
+      "authors": [
+        "Kishalay Das"
+      ],
+      "published": "2026-09-15T15:15:21+00:00",
+      "first_seen": "2026-09-18T12:23:16.717186",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cs.LG"
+      ]
+    },
+    "2609.19944": {
+      "arxiv_id": "2609.19944",
+      "title": "MaSCoD: A Multi-Agent Framework for Structural-Context-Guided Candidate Causal Graph Generation",
+      "authors": [
+        "Yudai Nakada",
+        "Yuichiro Nishiura",
+        "Jin Michael Splichal"
+      ],
+      "published": "2026-09-17T09:17:15+00:00",
+      "first_seen": "2026-09-18T12:23:19.763271",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2609.20561": {
+      "arxiv_id": "2609.20561",
+      "title": "Empirical Analysis of Randomness Quality in Differential Privacy Mechanisms",
+      "authors": [
+        "Cesare Gerolimetto Fabrello",
+        "Valeria Rossi",
+        "Alberto Trombetta",
+        "Massimo Caccia"
+      ],
+      "published": "2026-09-17T15:26:27+00:00",
+      "first_seen": "2026-09-18T12:23:25.889331",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2609.20532": {
+      "arxiv_id": "2609.20532",
+      "title": "Towards TEE-Certified DP: Verifiable Differentially Private Training on Legacy GPUs",
+      "authors": [
+        "Li Ge",
+        "Wenjie Qu",
+        "Weitao Feng",
+        "Yi Zeng",
+        "Jiaheng Zhang",
+        "Xiaofeng Wang",
+        "Wei Dong"
+      ],
+      "published": "2026-09-17T15:06:30+00:00",
+      "first_seen": "2026-09-18T12:23:25.889342",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2609.18876": {
+      "arxiv_id": "2609.18876",
+      "title": "Low-Rank Masking for Single-Server Matrix Multiplication",
+      "authors": [
+        "Alejandro Cohen",
+        "Rafael G. L. D'Oliveira",
+        "Alex Sprintson"
+      ],
+      "published": "2026-09-16T16:12:28+00:00",
+      "first_seen": "2026-09-18T12:23:25.889349",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.IT",
+        "cs.CR"
+      ]
+    },
+    "2609.17995": {
+      "arxiv_id": "2609.17995",
+      "title": "QuanText: Protecting Dataset-Level Secrets in Textual Data Sharing",
+      "authors": [
+        "Shuaiqi Wang",
+        "Zinan Lin",
+        "Giulia Fanti"
+      ],
+      "published": "2026-09-16T01:30:58+00:00",
+      "first_seen": "2026-09-18T12:23:25.889355",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2609.17650": {
+      "arxiv_id": "2609.17650",
+      "title": "Tight Lower Bounds for Differentially Private Continual Counting",
+      "authors": [
+        "Charlie Harrison",
+        "Ethan Leeman"
+      ],
+      "published": "2026-09-15T16:32:31+00:00",
+      "first_seen": "2026-09-18T12:23:25.889360",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DS",
+        "cs.CR"
+      ]
+    },
+    "2609.20650": {
+      "arxiv_id": "2609.20650",
+      "title": "Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning",
+      "authors": [
+        "Simon Süwer",
+        "Julian Klemm",
+        "Elisa Acitelli",
+        "Mathieu Almeida",
+        "Lucia Altucci",
+        "Zsolt Bagyura",
+        "Michelangela Barbieri",
+        "Zsolt-Zoltán Bedő",
+        "Rosaria Benedetti",
+        "Béla Bihari",
+        "Csongor Csalóka",
+        "Lucia Dicunta",
+        "Stanislav Ehrlich",
+        "Bjoern M. Eskofier",
+        "Sándor-József Fejér",
+        "Georg Fröwis",
+        "Walter Hötzendorfer",
+        "Alexandra Kautzky-Willer",
+        "Jens Johann Georg Lohmann",
+        "Marianna Maranghi",
+        "Lorenzo Marconi",
+        "Rudolf Mayer",
+        "Wouter Leonard Megchelenbrink",
+        "Monika Moga",
+        "Adham Mottalib",
+        "Sanjeev Mehta",
+        "Madeleine Müller",
+        "Thomas Nyström",
+        "Balázs-Attila Orbán",
+        "Paul O'Toole",
+        "Giuseppe Paolisso",
+        "Paolo Parini",
+        "Matteo Pedrelli",
+        "Enrico Petrillo",
+        "Philipp Poindl",
+        "Niklas Probul",
+        "Anastasia Pustozerova",
+        "Tanja Šarčević",
+        "Lukas Weilguny",
+        "Jan Baumbach",
+        "Andreas Maier"
+      ],
+      "published": "2026-09-17T16:28:45+00:00",
+      "first_seen": "2026-09-18T12:23:31.639817",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DC"
+      ]
+    },
+    "2609.20501": {
+      "arxiv_id": "2609.20501",
+      "title": "Distributionally Robust Federated Learning with Multi-Source Data",
+      "authors": [
+        "Yingzhu Liu",
+        "Zhongkui Li",
+        "Pengcheng You",
+        "Ashish Cherukuri"
+      ],
+      "published": "2026-09-17T14:48:22+00:00",
+      "first_seen": "2026-09-18T12:23:31.639828",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "math.OC"
+      ]
+    },
+    "2609.20359": {
+      "arxiv_id": "2609.20359",
+      "title": "Accelerating Sharded Data Parallelism at Scale with Federated Learning",
+      "authors": [
+        "Gianluca Mittone",
+        "Marco Aldinucci"
+      ],
+      "published": "2026-09-17T13:21:52+00:00",
+      "first_seen": "2026-09-18T12:23:31.639834",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC",
+        "cs.AI",
+        "cs.PF"
+      ]
+    },
+    "2609.20123": {
+      "arxiv_id": "2609.20123",
+      "title": "QoS-Aware Federated Learning for Multimodal In-Cabin Interaction in Smart Vehicles",
+      "authors": [
+        "Baran Can Gül",
+        "Mert Nakıp",
+        "Nasser Jazdi",
+        "Michael Weyrich"
+      ],
+      "published": "2026-09-17T12:20:07+00:00",
+      "first_seen": "2026-09-18T12:23:31.639841",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.19972": {
+      "arxiv_id": "2609.19972",
+      "title": "Efficiently Distributed Federated Learning",
+      "authors": [
+        "Gianluca Mittone",
+        "Robert Birke",
+        "Marco Aldinucci"
+      ],
+      "published": "2026-09-17T09:46:27+00:00",
+      "first_seen": "2026-09-18T12:23:31.639846",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.PF",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2609.19740": {
+      "arxiv_id": "2609.19740",
+      "title": "Federated Learning Framework for Privacy-Preserving Kidney Stone Detection",
+      "authors": [
+        "Najiyya Younas",
+        "Omar Abdulkader",
+        "Yaser Ali Shah",
+        "Muhammad Jawad Ikram",
+        "Jebran Khan",
+        "Amaad Khalil"
+      ],
+      "published": "2026-09-17T06:06:03+00:00",
+      "first_seen": "2026-09-18T12:23:31.639852",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2609.19695": {
+      "arxiv_id": "2609.19695",
+      "title": "Opinion Dynamics-based Coalition Formation for Federated Learning in Heterogeneous IoT Systems",
+      "authors": [
+        "Mohammed El Hanjri",
+        "Anas Abouaomar",
+        "Hamidou Tembine",
+        "Abdellatif Kobbane"
+      ],
+      "published": "2026-09-17T04:44:06+00:00",
+      "first_seen": "2026-09-18T12:23:31.639858",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.19559": {
+      "arxiv_id": "2609.19559",
+      "title": "FedFIbOS: Fisher Importance based Optimal Submodelling for Heterogeneous Federated Learning",
+      "authors": [
+        "Yasmeen Afzal",
+        "Jeremiah D. Deng",
+        "Haibo Zhang"
+      ],
+      "published": "2026-09-17T01:41:17+00:00",
+      "first_seen": "2026-09-18T12:23:31.639864",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.19202": {
+      "arxiv_id": "2609.19202",
+      "title": "Federated Soft Clustering via Generalized Total Variation Minimization",
+      "authors": [
+        "Shamsiiat Abdurakhmanova",
+        "Alexander Jung"
+      ],
+      "published": "2026-09-16T09:19:25+00:00",
+      "first_seen": "2026-09-18T12:23:31.639869",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2609.18089": {
+      "arxiv_id": "2609.18089",
+      "title": "FedPGT: Progressive Gradient Transmission for Vehicular Federated Learning over Time-Varying Channels",
+      "authors": [
+        "Jintao Yan",
+        "Tan Chen",
+        "Yuxuan Sun",
+        "Sheng Zhou",
+        "Zhisheng Niu"
+      ],
+      "published": "2026-09-16T03:48:44+00:00",
+      "first_seen": "2026-09-18T12:23:31.639874",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.IT"
+      ]
+    },
+    "2609.19831": {
+      "arxiv_id": "2609.19831",
+      "title": "Reproducing Transparent and Scrutable Recommendations: Exploring Open-Weight Models via Natural-Language User Profiles",
+      "authors": [
+        "Noah Mamié",
+        "Laurin van den Bergh"
+      ],
+      "published": "2026-09-17T07:36:34+00:00",
+      "first_seen": "2026-09-18T12:23:34.564981",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2609.19640": {
+      "arxiv_id": "2609.19640",
+      "title": "A Policy Profile for Croissant: Refusal as a Property of the Dataset",
+      "authors": [
+        "Alexander Chernov"
+      ],
+      "published": "2026-09-17T03:30:32+00:00",
+      "first_seen": "2026-09-18T12:23:34.564992",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DB"
+      ]
+    },
+    "2609.19418": {
+      "arxiv_id": "2609.19418",
+      "title": "Stable Policy Learning",
+      "authors": [
+        "Harvey Barnhard",
+        "Giacomo Opocher",
+        "Rahul Singh"
+      ],
+      "published": "2026-09-16T20:54:11+00:00",
+      "first_seen": "2026-09-18T12:23:34.564998",
+      "topic": "Recommender Systems",
+      "categories": [
+        "econ.EM",
+        "cs.LG",
+        "math.ST",
+        "stat.ML"
+      ]
+    },
+    "2609.18695": {
+      "arxiv_id": "2609.18695",
+      "title": "SURF: Subtractive Updates for Recommender Forgetting",
+      "authors": [
+        "Filippo Betello",
+        "Antonio Purificato",
+        "Nicola Tonellotto",
+        "Fabrizio Silvestri"
+      ],
+      "published": "2026-09-16T14:08:16+00:00",
+      "first_seen": "2026-09-18T12:23:34.565004",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.19209": {
+      "arxiv_id": "2609.19209",
+      "title": "Generative Query Suggestion via Intent Coverage and Query-Level Credit Assignment",
+      "authors": [
+        "Xinpeng Liu",
+        "Lu Ma",
+        "Jiayi Qiao",
+        "Mengyu Zhou",
+        "Linglong Li",
+        "Xiaofeng Bian",
+        "Haonan Chen",
+        "Xiaoxi Jiang",
+        "Guanjun Jiang"
+      ],
+      "published": "2026-09-16T11:19:06+00:00",
+      "first_seen": "2026-09-18T12:23:34.565009",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.18479": {
+      "arxiv_id": "2609.18479",
+      "title": "Verify, Offload, Extend & Recommend: Selective Complementarity in AI Support for Physical Activity Planning with Longitudinal Patient Data",
+      "authors": [
+        "Pavithren V S Pakianathan",
+        "Rania Islambouli",
+        "Diogo Branco",
+        "Gil Batista Rosa",
+        "Rita Pinto",
+        "Albrecht Schmidt",
+        "Tiago Guerreiro",
+        "Jan David Smeddinck"
+      ],
+      "published": "2026-09-16T11:11:02+00:00",
+      "first_seen": "2026-09-18T12:23:34.565015",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2609.18341": {
+      "arxiv_id": "2609.18341",
+      "title": "Understanding AI Provider Recommendations in Local Service Markets",
+      "authors": [
+        "Hazem Ibrahim",
+        "Yasir Zaki"
+      ],
+      "published": "2026-09-16T09:03:23+00:00",
+      "first_seen": "2026-09-18T12:23:34.565021",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.CL",
+        "cs.IR"
+      ]
+    },
+    "2609.18238": {
+      "arxiv_id": "2609.18238",
+      "title": "F-DACE: Fuzzy Disagreement-Aware Causal Evidence Fusion for Abstention-Safe Conversational Retail Decision Support",
+      "authors": [
+        "Sourish Dey"
+      ],
+      "published": "2026-09-16T07:14:38+00:00",
+      "first_seen": "2026-09-18T12:23:34.565027",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.18188": {
+      "arxiv_id": "2609.18188",
+      "title": "Single-Token Expected-Value Scoring for Cold-Start Candidate Ranking",
+      "authors": [
+        "Qihang Wang",
+        "Jinwei Tan",
+        "Mengyuan Shi",
+        "Mayank Sharma",
+        "Shuai Zhao",
+        "Fuxian Li",
+        "Ryan Yan",
+        "Alexander P. Kreuzer",
+        "Mohit Jain",
+        "Dheeraj Toshniwal",
+        "Manoj Seethamsetty"
+      ],
+      "published": "2026-09-16T06:25:57+00:00",
+      "first_seen": "2026-09-18T12:23:34.565033",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.18148": {
+      "arxiv_id": "2609.18148",
+      "title": "LIGE-GR: A Smooth Leap from Ranking to Generative Recommendation in the LLM Era",
+      "authors": [
+        "Venkat Srinivas",
+        "Chenzhang He",
+        "Sam Woodmansee",
+        "Shawn Lian",
+        "Wenjie Hu",
+        "Renjie Jiang",
+        "Ziheng Huang",
+        "Xinyuan Zhang",
+        "Zhihao Zheng",
+        "Zhuoran Yu",
+        "Rui Li",
+        "Lei Yuan",
+        "Ziwei Li",
+        "Jimmy Jia",
+        "Mert Terzihan",
+        "Ekrem Kocaguneli",
+        "Yiming Liao",
+        "Zhichen Zhao",
+        "Yue Yin",
+        "Yue Weng",
+        "Wanlin Ma",
+        "Xufeng Cai",
+        "Weimiao Wu",
+        "Yezhou Huang",
+        "Du Zhang",
+        "Yukun Ding",
+        "Aaron Johnston",
+        "Yueming Wang",
+        "Zhaojie Gong",
+        "Yuting Zhang",
+        "Serena Li",
+        "Adithya Ganesh",
+        "Boying Liu",
+        "Haichuan Yang",
+        "Xialu Li",
+        "Matt Ma",
+        "Qunshu Zhang",
+        "John Joshua Miller",
+        "Praveen Rathinavelu",
+        "Cheng Huang",
+        "Aadhar Sachdeva",
+        "Josh Karns",
+        "Andres Aaron Gutierrez",
+        "Neil Agarwal",
+        "Gustas Pladis",
+        "Vladimir Batygin",
+        "Gopal Ray",
+        "Aditya Priyadarshi",
+        "Shantanu Patil",
+        "Zhe Wang",
+        "Penny Pan",
+        "Yiping Han",
+        "Arun Singh",
+        "Guangdeng Liao",
+        "Bi Xue",
+        "Xinyao Hu",
+        "Yang Song",
+        "Yisong Song",
+        "Meihong Wang",
+        "Haotian Wu",
+        "Deepak Agarwal",
+        "Ji Liu"
+      ],
+      "published": "2026-09-16T05:28:52+00:00",
+      "first_seen": "2026-09-18T12:23:34.565038",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2609.17639": {
+      "arxiv_id": "2609.17639",
+      "title": "Scaling Articulated Rationales for MLLM-based Recommendation",
+      "authors": [
+        "Haoke Xiao",
+        "Yueyang Liu",
+        "Yuhui Zhang",
+        "Xiang Chen",
+        "Yufei Liu",
+        "Jia Xu",
+        "Yalong Guan",
+        "Xiaolan Zhu",
+        "Xiaoyu Zhang",
+        "Shijun Wang",
+        "Shuang Yang",
+        "Zijie Meng",
+        "Zejian Zhang",
+        "Ruochen Yang",
+        "Xiangyu Wu",
+        "Tingting Gao",
+        "Han Li",
+        "Lantao Hu",
+        "Cheng Luo",
+        "Kun Gai"
+      ],
+      "published": "2026-09-15T13:39:16+00:00",
+      "first_seen": "2026-09-18T12:23:34.565044",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
       ]
     }
   }
