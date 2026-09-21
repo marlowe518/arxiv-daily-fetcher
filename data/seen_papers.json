@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-20T12:39:10.849106",
+  "last_updated": "2026-09-21T14:34:14.669316",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -64066,6 +64066,347 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2609.21519": {
+      "arxiv_id": "2609.21519",
+      "title": "Learning-to-Optimize as the Missing Architectural Layer of AI-Native Networks",
+      "authors": [
+        "Giambattista Amati",
+        "Federica Mangiatordi",
+        "Pierpaolo Salvo",
+        "Emiliano Pallotti",
+        "Simone Angelini"
+      ],
+      "published": "2026-09-18T09:09:03+00:00",
+      "first_seen": "2026-09-21T14:33:50.929466",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2609.21164": {
+      "arxiv_id": "2609.21164",
+      "title": "M2G-LLM: Enhancing Clinical Prediction via Multimodal Graph Reasoning and LLM Context Injection",
+      "authors": [
+        "Inyoung Choi",
+        "Sukwon Yun",
+        "Jiayi Xin",
+        "Jie Peng",
+        "Tianlong Chen",
+        "Qi Long"
+      ],
+      "published": "2026-09-18T00:12:39+00:00",
+      "first_seen": "2026-09-21T14:33:50.929480",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.21151": {
+      "arxiv_id": "2609.21151",
+      "title": "EnSol: an environment-aware graph neural network for molecular solubility prediction",
+      "authors": [
+        "Thao Nguyen",
+        "Saman Shafaei",
+        "Zhengyi Zhang",
+        "Huimin Zhao",
+        "Heng Ji"
+      ],
+      "published": "2026-09-17T23:35:33+00:00",
+      "first_seen": "2026-09-21T14:33:50.929488",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.21340": {
+      "arxiv_id": "2609.21340",
+      "title": "Conformal Privacy Auditing: Calibrated Re-identification Attacks with Statistical Guarantees",
+      "authors": [
+        "Shuo Huang",
+        "Gholamreza Haffari",
+        "Xingliang Yuan",
+        "Ting Yu",
+        "Lizhen Qu"
+      ],
+      "published": "2026-09-18T05:49:54+00:00",
+      "first_seen": "2026-09-21T14:33:59.775447",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.CL"
+      ]
+    },
+    "2609.21829": {
+      "arxiv_id": "2609.21829",
+      "title": "Federated Deep Clustering Networks for High-Dimensional and Heterogeneous Data",
+      "authors": [
+        "Morris Stallmann",
+        "Charalampos S. Kouzinopoulos",
+        "Marcin Pietrasik",
+        "Anna Wilbik"
+      ],
+      "published": "2026-09-18T14:29:31+00:00",
+      "first_seen": "2026-09-21T14:34:05.724076",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.21057": {
+      "arxiv_id": "2609.21057",
+      "title": "FedeRage: Provably Convergent Agnostic Federated Learning under General Client Drift",
+      "authors": [
+        "Herlock Rahimi",
+        "Dionysis Kalogerias"
+      ],
+      "published": "2026-09-17T20:25:57+00:00",
+      "first_seen": "2026-09-21T14:34:05.724088",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC",
+        "eess.SP",
+        "eess.SY"
+      ]
+    },
+    "2609.20883": {
+      "arxiv_id": "2609.20883",
+      "title": "Sparse Priors for Efficient Distribution Learning",
+      "authors": [
+        "Saumya Goyal",
+        "Barnabás Póczos"
+      ],
+      "published": "2026-09-16T21:13:14+00:00",
+      "first_seen": "2026-09-21T14:34:05.724095",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "math.ST"
+      ]
+    },
+    "2609.22048": {
+      "arxiv_id": "2609.22048",
+      "title": "Available Guardrails: Certifying Selective Prediction across ML Systems",
+      "authors": [
+        "Parivesh Priye",
+        "Yufeng Wang",
+        "Haibin Ling",
+        "Michael Chaykowsky"
+      ],
+      "published": "2026-09-18T17:36:52+00:00",
+      "first_seen": "2026-09-21T14:34:08.707847",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.21863": {
+      "arxiv_id": "2609.21863",
+      "title": "AutoRecLab: Describe the Experiment, Get the Code!",
+      "authors": [
+        "Moritz Baumgart",
+        "Philipp Meister",
+        "Justus Krell",
+        "Michael Schmidt",
+        "Bela Gipp",
+        "Joeran Beel"
+      ],
+      "published": "2026-09-18T14:54:44+00:00",
+      "first_seen": "2026-09-21T14:34:08.707864",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2609.21608": {
+      "arxiv_id": "2609.21608",
+      "title": "Open Platform Field Experiments: Expanding the Design Space of Experimental Research on Social Media",
+      "authors": [
+        "Jordi Guillem Condom-Tibau",
+        "Giovanni Puccetti",
+        "Clara Bacciu",
+        "Matteo Abrate",
+        "Stefano Cresci"
+      ],
+      "published": "2026-09-18T10:43:38+00:00",
+      "first_seen": "2026-09-21T14:34:08.707871",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.HC",
+        "cs.SI"
+      ]
+    },
+    "2609.21548": {
+      "arxiv_id": "2609.21548",
+      "title": "Dual-Interest Sequential Product Recommendation With Multi-Granular SSM",
+      "authors": [
+        "Shuiying Liao",
+        "P. Y. Mok"
+      ],
+      "published": "2026-09-18T09:40:51+00:00",
+      "first_seen": "2026-09-21T14:34:08.707877",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2609.21547": {
+      "arxiv_id": "2609.21547",
+      "title": "Do We Care About Personalization and Explainability? An Interview Study with News Recommendation Engineers",
+      "authors": [
+        "Jasmin Kareem",
+        "Siddharth Mehrotra",
+        "Martijn C. Willemsen",
+        "Maarten de Rijke"
+      ],
+      "published": "2026-09-18T09:38:14+00:00",
+      "first_seen": "2026-09-21T14:34:08.707883",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.IR"
+      ]
+    },
+    "2609.21475": {
+      "arxiv_id": "2609.21475",
+      "title": "Adaptive Preference Modeling via Explicit Indirect Relational Learning for Personalized Fashion Matching",
+      "authors": [
+        "Shuiying Liao",
+        "Li Li",
+        "P. Y. Mok"
+      ],
+      "published": "2026-09-18T08:23:55+00:00",
+      "first_seen": "2026-09-21T14:34:08.707888",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.21346": {
+      "arxiv_id": "2609.21346",
+      "title": "IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts",
+      "authors": [
+        "Ran Cheng",
+        "Longfei Xu",
+        "Zheng Liu",
+        "Kaikui Liu",
+        "Xiangxiang Chu"
+      ],
+      "published": "2026-09-18T06:01:13+00:00",
+      "first_seen": "2026-09-21T14:34:08.707894",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.21308": {
+      "arxiv_id": "2609.21308",
+      "title": "Auto-Bidding with Disentangled Advertiser Profiles and Train-Free Adaptation",
+      "authors": [
+        "Songyue Cai",
+        "Shan Gu",
+        "Wei Chen",
+        "Ziru Xu",
+        "Lianyu Wang",
+        "Jian Xu",
+        "Xiaofeng Zhu"
+      ],
+      "published": "2026-09-18T04:35:38+00:00",
+      "first_seen": "2026-09-21T14:34:08.707899",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.21254": {
+      "arxiv_id": "2609.21254",
+      "title": "Two's a Crowd: Human and AI-Based Copresence for Developers with ADHD",
+      "authors": [
+        "Veronica Pimenova",
+        "Seth Bernstein",
+        "Shalini Madan",
+        "Dhruv Jain",
+        "Venkatesh Potluri"
+      ],
+      "published": "2026-09-18T02:59:24+00:00",
+      "first_seen": "2026-09-21T14:34:08.707904",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.SE"
+      ]
+    },
+    "2609.21017": {
+      "arxiv_id": "2609.21017",
+      "title": "A Smoothed Discrepancy Principle for Random Feature Methods and Neural Networks",
+      "authors": [
+        "Mike Nguyen",
+        "Nicole Mücke"
+      ],
+      "published": "2026-09-17T19:12:32+00:00",
+      "first_seen": "2026-09-21T14:34:08.707910",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.ST"
+      ]
+    },
+    "2609.20989": {
+      "arxiv_id": "2609.20989",
+      "title": "Trustworthy FinAInce: Unpacking How AI-Mediated Financial Advice is Judged",
+      "authors": [
+        "Aryan Ramchandra Kapadia",
+        "Eshwar Chandrasekharan",
+        "Koustuv Saha"
+      ],
+      "published": "2026-09-17T18:42:41+00:00",
+      "first_seen": "2026-09-21T14:34:08.707916",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI",
+        "cs.CL",
+        "cs.CY"
+      ]
+    },
+    "2609.20942": {
+      "arxiv_id": "2609.20942",
+      "title": "When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation",
+      "authors": [
+        "Sy-Tuyen Ho",
+        "Minghui Liu",
+        "Furong Huang"
+      ],
+      "published": "2026-09-17T18:01:08+00:00",
+      "first_seen": "2026-09-21T14:34:08.707921",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.21815": {
+      "arxiv_id": "2609.21815",
+      "title": "Matrix AdaGrad: Row-wise and Column-wise Adaptive Subgradient Methods",
+      "authors": [
+        "Wenpeng Zhang",
+        "Runsheng Yu",
+        "Peilin Zhao"
+      ],
+      "published": "2026-09-18T14:22:26+00:00",
+      "first_seen": "2026-09-21T14:34:11.838645",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG",
         "cs.AI"
       ]
     }

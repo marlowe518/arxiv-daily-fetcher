@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-18 | [Conformal Privacy Auditing: Calibrated Re-identification Attacks with Statistical Guarantees](https://arxiv.org/abs/2609.21340) | Empirical identity leakage from released text is increasingly driven by attackers that combine large language models (LLMs) with auxiliary knowledge to link documents to individuals. |
 | 2026-09-17 | [Empirical Analysis of Randomness Quality in Differential Privacy Mechanisms](https://arxiv.org/abs/2609.20561) | Differential Privacy (DP) relies on carefully calibrated random noise to protect individual privacy in statistical analyses. |
 | 2026-09-17 | [Towards TEE-Certified DP: Verifiable Differentially Private Training on Legacy GPUs](https://arxiv.org/abs/2609.20532) | Wide adoption of machine learning has created growing policy and regulatory demand for protecting sensitive training data, with differential privacy (DP) emerging as a key mechanism. |
 | 2026-09-16 | [Low-Rank Masking for Single-Server Matrix Multiplication](https://arxiv.org/abs/2609.18876) | We study the statistical privacy of outsourcing matrix multiplication over a finite field ${\mathbb F_q}$ to a single server using additive masks of rank at most $r$. |

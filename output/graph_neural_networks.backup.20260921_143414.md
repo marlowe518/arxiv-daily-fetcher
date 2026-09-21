@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-18 | [Learning-to-Optimize as the Missing Architectural Layer of AI-Native Networks](https://arxiv.org/abs/2609.21519) | Artificial Intelligence (AI) is becoming a fundamental design principle of future AI-native communication networks, enabling autonomous resource management, adaptive control, and zero-touch network... |
-| 2026-09-18 | [M2G-LLM: Enhancing Clinical Prediction via Multimodal Graph Reasoning and LLM Context Injection](https://arxiv.org/abs/2609.21164) | Integrating diverse data modalities --- such as clinical notes, laboratory results, and medical imaging --- is essential for advancing clinical decision-making. |
-| 2026-09-17 | [EnSol: an environment-aware graph neural network for molecular solubility prediction](https://arxiv.org/abs/2609.21151) | Molecular solubility directly affects key aspects of molecular development such as reaction feasibility, formulation performance, separation efficiency, and solvent selection. |
 | 2026-09-17 | [Quantum Graph Convolutional Networks: Implementation and Trainability Analysis](https://arxiv.org/abs/2609.19983) | Graph Neural Networks (GNNs) achieve state-of-the-art performance on graph-structured data, but training and inference on large graphs are often bottlenecked by memory constraints and sparse... |
 | 2026-09-17 | [MetaRTL: Meta-path Attention Enhanced Relational Table Learning](https://arxiv.org/abs/2609.19832) | Relational table learning has gained increasing attention with the widespread use of relational databases. |
 | 2026-09-16 | [Stable Filters for Generative Modeling of Graph Signals](https://arxiv.org/abs/2609.18759) | Generating signals on graphs requires permutation-equivariant models that exhibit stability with respect to relative structural perturbations. |

@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-18 | [Federated Deep Clustering Networks for High-Dimensional and Heterogeneous Data](https://arxiv.org/abs/2609.21829) | Clustering high-dimensional data is a fundamental task in unsupervised machine learning with applications to a variety of domains. |
-| 2026-09-17 | [FedeRage: Provably Convergent Agnostic Federated Learning under General Client Drift](https://arxiv.org/abs/2609.21057) | Federated learning (FL) enables collaborative model training without sharing raw data, but its performance degrades under non-IID data and stochastic client participation. |
-| 2026-09-16 | [Sparse Priors for Efficient Distribution Learning](https://arxiv.org/abs/2609.20883) | Despite the widespread use and success of generative AI techniques today, theoretical guarantees on learning a distribution supported in $d$ dimensions from $n$ samples degrade as $O(n^{-1/Θ(d)})$,... |
 | 2026-09-17 | [Multi-center Medical Data Mining with FL-Net - A One-stop Shop for Federated Learning](https://arxiv.org/abs/2609.20650) | Federated learning enables collaborative training without sharing patient-level data, but most studies remain simulations. |
 | 2026-09-17 | [Distributionally Robust Federated Learning with Multi-Source Data](https://arxiv.org/abs/2609.20501) | Federated learning trains a shared model from private client data. |
 | 2026-09-17 | [Accelerating Sharded Data Parallelism at Scale with Federated Learning](https://arxiv.org/abs/2609.20359) | The symbiotic scaling of artificial intelligence models and high-performance computing systems continually creates algorithmic challenges in their convergence. |
