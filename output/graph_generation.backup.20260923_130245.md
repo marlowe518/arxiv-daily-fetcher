@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-22 | [MAGIC: Mixed-Granularity Agent Graphs via Incremental Construction with Dense-Reward Reinforcement Learning](https://arxiv.org/abs/2609.26667) | Collaboration topology shapes both the performance and execution cost of LLM-based multi-agent systems. |
-| 2026-09-08 | [Fixed-Dimensional Latent Flow for Generating Variable-Size 3D Molecules](https://arxiv.org/abs/2609.08333) | Molecular size is coupled to composition, structure, and function, yet most 3D molecular generators require a predefined atom count. |
 | 2026-09-17 | [MaSCoD: A Multi-Agent Framework for Structural-Context-Guided Candidate Causal Graph Generation](https://arxiv.org/abs/2609.19944) | Large language models (LLMs) have been applied to causal discovery, but candidate-graph generation rarely treats premature omission of potentially relevant causal relations as an explicit design... |
 | 2026-09-15 | [QALPA: Property-guided diffusion modeling for efficient exploration of chemical spaces of flexible molecules](https://arxiv.org/abs/2609.16527) | Exploring the chemical space of flexible molecules remains challenging because the vast number of possible compounds and conformations, together with the increasing cost and limited generalization of... |
 | 2026-09-14 | [Ensemble-Conditioned Molecular Design](https://arxiv.org/abs/2609.15077) | Molecular design is typically approached as a problem of finding molecules which can adopt a single bioactive conformation. |

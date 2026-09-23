@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-22 | [Geometry-Aware Hyperbolic Residual Quantization](https://arxiv.org/abs/2609.26342) | Residual Vector Quantization turns continuous representations into discrete, multi-level token sequences. |
-| 2026-09-22 | [Efficient Cost-Aware LLM Evaluation via Bayesian Bandit Gittins Indices](https://arxiv.org/abs/2609.25645) | Exhaustively evaluating every candidate LLM configuration on every benchmark item to identify a high-performing one is costly. |
-| 2026-09-22 | [Deflecting the Value Compass: Interacting with Large Language Models Temporarily Shifts Human Value Priorities Toward Personal Focus](https://arxiv.org/abs/2609.25586) | Large language models increasingly support decisions where values are in tension, yet little is known about whether interacting with them changes which values users prioritize. |
-| 2026-09-21 | [Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems](https://arxiv.org/abs/2609.25433) | Modern production-scale recommender systems rely on complex, multi-task ranking models. |
-| 2026-09-21 | [ReFilter: Bridging Embeddings and LLM Filtering for Similar Mobile App Retrieval](https://arxiv.org/abs/2609.25306) | Retrieving similar mobile applications (apps) is essential for researchers, developers, and end-users. |
 | 2026-09-21 | [Annie, Are You Okay? How Style- and Context-Based Personalization Shape AI-Assisted Decision-Making](https://arxiv.org/abs/2609.24644) | As people turn to generative AI for financial advice, these systems can personalize how they communicate and what they say. |
 | 2026-09-21 | [What Makes a Good Semantic ID for Generative Recommendation? A Reproducibility Study](https://arxiv.org/abs/2609.24430) | Generative recommendation has emerged as an active research direction, where items are commonly represented by semantic IDs (SIDs): discrete codes generated token by token. |
 | 2026-09-21 | [Simpler Methods Work Better for L1 Penalized Logistic Models and Large Datasets](https://arxiv.org/abs/2609.23995) | Linear models with an $L_1$-norm penalty remain state-of-the-art for high-dimensional ($d > 1,000,000$) tasks, offering a straightforward method for solving real-world industry problems. |

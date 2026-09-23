@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-22T12:51:56.363723",
+  "last_updated": "2026-09-23T13:02:45.733534",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -64931,6 +64931,473 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG"
+      ]
+    },
+    "2609.26737": {
+      "arxiv_id": "2609.26737",
+      "title": "Diffusion-Induced Spatial Attention Overlapping Community Detection",
+      "authors": [
+        "Kosti Koistinen",
+        "Vesa Kuikka",
+        "Joni Herttuainen",
+        "Matthew Hendren",
+        "Brian Holt",
+        "Kimmo K. Kaski"
+      ],
+      "published": "2026-09-22T17:25:55+00:00",
+      "first_seen": "2026-09-23T13:02:21.923682",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI",
+        "cs.LG"
+      ]
+    },
+    "2609.26603": {
+      "arxiv_id": "2609.26603",
+      "title": "Towards Hierarchical GNNs for multi-grid power flow: generalization across operating scenarios",
+      "authors": [
+        "Carmine Delle Femine",
+        "Leire Garin Atxaga",
+        "Asier Diaz-Iglesias",
+        "Juan Pablo Maroto Herrera",
+        "Ane Miren Florez-Tapia",
+        "Marco Quartulli. Izaro Goienetxea Urziku"
+      ],
+      "published": "2026-09-22T15:41:11+00:00",
+      "first_seen": "2026-09-23T13:02:21.923694",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.26310": {
+      "arxiv_id": "2609.26310",
+      "title": "PreGS: A Parameter-Transfer-Based Multi-Expert Graph Neural Network for Node Classification",
+      "authors": [
+        "Zhicong Cai",
+        "Yinglong Zhang",
+        "Xiaoying Hong",
+        "Xuewen Xia",
+        "Xing Xu"
+      ],
+      "published": "2026-09-22T12:16:23+00:00",
+      "first_seen": "2026-09-23T13:02:21.923702",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.26039": {
+      "arxiv_id": "2609.26039",
+      "title": "EMERGE: Resolution-Agnostic Point Cloud Generation with Equivariant Graph-Based Diffusion",
+      "authors": [
+        "Ilias Mitsouras",
+        "Nikolaos Chaidos",
+        "Giorgos Stamou",
+        "Athanasios Voulodimos"
+      ],
+      "published": "2026-09-22T11:44:31+00:00",
+      "first_seen": "2026-09-23T13:02:21.923709",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2609.25814": {
+      "arxiv_id": "2609.25814",
+      "title": "CacheDyG: Decoupling Temporal Propagation for Efficient Dynamic Graph Learning",
+      "authors": [
+        "PinHeng Zong",
+        "Ye Yuan"
+      ],
+      "published": "2026-09-22T07:44:02+00:00",
+      "first_seen": "2026-09-23T13:02:21.923716",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.25722": {
+      "arxiv_id": "2609.25722",
+      "title": "Signed Graph Pre-Training and Prompt Learning",
+      "authors": [
+        "Zihan Mei",
+        "Rong Pan",
+        "Yuzhou Chen",
+        "Yixuan He"
+      ],
+      "published": "2026-09-22T05:51:38+00:00",
+      "first_seen": "2026-09-23T13:02:21.923722",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.25542": {
+      "arxiv_id": "2609.25542",
+      "title": "DefaultGNN: A Dual-Perspective GNN Framework for Predicting Corporate Default from Buyer-Seller Transaction Networks",
+      "authors": [
+        "Junghoon Kim",
+        "Hyunsung Kim",
+        "Seungyoon Choi",
+        "KyoungYong Park",
+        "Jihun Lee",
+        "YongGu Ji",
+        "Chanyoung Park"
+      ],
+      "published": "2026-09-22T01:18:43+00:00",
+      "first_seen": "2026-09-23T13:02:21.923729",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.25397": {
+      "arxiv_id": "2609.25397",
+      "title": "Deep Reinforcement Learning on Item-Compatibility Graphs for One-Dimensional Bin Packing",
+      "authors": [
+        "M. Aslı Aydın"
+      ],
+      "published": "2026-09-21T20:39:58+00:00",
+      "first_seen": "2026-09-23T13:02:21.923741",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "math.OC"
+      ]
+    },
+    "2609.25326": {
+      "arxiv_id": "2609.25326",
+      "title": "Spatiotemporal Kronecker Covariance Neural Networks",
+      "authors": [
+        "Andrea Cavallo",
+        "Athanasios Georgoutsos",
+        "Elvin Isufi"
+      ],
+      "published": "2026-09-21T19:15:56+00:00",
+      "first_seen": "2026-09-23T13:02:21.923748",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.25179": {
+      "arxiv_id": "2609.25179",
+      "title": "Multi-Term Fourier Graph Neural Network with Sample Relationship Learning for Enhanced Remaining Useful Life Prediction",
+      "authors": [
+        "Ya Song",
+        "Laurens Bliek",
+        "Yaoxin Wu",
+        "Yingqian Zhang"
+      ],
+      "published": "2026-09-21T14:48:25+00:00",
+      "first_seen": "2026-09-23T13:02:21.923754",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.25155": {
+      "arxiv_id": "2609.25155",
+      "title": "Empirical Auditing of Edge-Private Graph Generators",
+      "authors": [
+        "Anum Fatima",
+        "Stratis Limnios",
+        "James Adams",
+        "Lukasz Szpruch",
+        "Carsten Maple",
+        "Gesine Reinert",
+        "Andrew Elliott"
+      ],
+      "published": "2026-09-21T09:36:25+00:00",
+      "first_seen": "2026-09-23T13:02:21.923759",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2609.25149": {
+      "arxiv_id": "2609.25149",
+      "title": "Dual-GNN Multilevel Coarsening for Maximum Independent Set",
+      "authors": [
+        "Tianfeng Chen",
+        "Xianyue Li"
+      ],
+      "published": "2026-09-21T07:24:38+00:00",
+      "first_seen": "2026-09-23T13:02:21.923765",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "math.CO"
+      ]
+    },
+    "2609.25088": {
+      "arxiv_id": "2609.25088",
+      "title": "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
+      "authors": [
+        "Mushahid Intesum"
+      ],
+      "published": "2026-09-19T08:47:43+00:00",
+      "first_seen": "2026-09-23T13:02:21.923770",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2609.22822": {
+      "arxiv_id": "2609.22822",
+      "title": "From IceCube to IT-Sphere: A Hybrid Quantum-Classical GNN for Banking IT Root Cause Analysis",
+      "authors": [
+        "Antonio Greco",
+        "Riccardo Paoletti",
+        "Roberto Cappuccio",
+        "Mario Onorato"
+      ],
+      "published": "2026-09-19T06:49:10+00:00",
+      "first_seen": "2026-09-23T13:02:21.923776",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "quant-ph",
+        "cs.LG"
+      ]
+    },
+    "2609.26667": {
+      "arxiv_id": "2609.26667",
+      "title": "MAGIC: Mixed-Granularity Agent Graphs via Incremental Construction with Dense-Reward Reinforcement Learning",
+      "authors": [
+        "Kairui Yang",
+        "Ziheng Yi",
+        "Xunkai Li",
+        "Minghao An",
+        "Zhanke Liu",
+        "Zekai Chen",
+        "Rong-Hua Li"
+      ],
+      "published": "2026-09-22T16:27:46+00:00",
+      "first_seen": "2026-09-23T13:02:24.782733",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.08333": {
+      "arxiv_id": "2609.08333",
+      "title": "Fixed-Dimensional Latent Flow for Generating Variable-Size 3D Molecules",
+      "authors": [
+        "Weichi Yao",
+        "Cameron Gruich",
+        "Bryan R. Goldsmith",
+        "Yixin Wang"
+      ],
+      "published": "2026-09-08T07:03:51+00:00",
+      "first_seen": "2026-09-23T13:02:24.782744",
+      "topic": "Graph Generation",
+      "categories": [
+        "physics.chem-ph",
+        "cs.LG",
+        "q-bio.QM"
+      ]
+    },
+    "2609.26508": {
+      "arxiv_id": "2609.26508",
+      "title": "Gap-Free Streaming PCA Beyond Rank-One Updates: Near-Optimal Rates and Applications to Differential Privacy",
+      "authors": [
+        "Anming Gu",
+        "Syamantak Kumar",
+        "Kevin Tian",
+        "Chutong Yang"
+      ],
+      "published": "2026-09-22T14:38:39+00:00",
+      "first_seen": "2026-09-23T13:02:32.435150",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.DS",
+        "stat.ML"
+      ]
+    },
+    "2609.26063": {
+      "arxiv_id": "2609.26063",
+      "title": "Towards Adaptive Federated Graph Clustering: A Global Community-aware Contrastive Learning-based Approach",
+      "authors": [
+        "Yinlin Zhu",
+        "Di Wu",
+        "Wang Luo",
+        "Guocong Quan",
+        "Miao Hu"
+      ],
+      "published": "2026-08-01T12:34:27+00:00",
+      "first_seen": "2026-09-23T13:02:33.800674",
+      "topic": "Private Graph Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.26377": {
+      "arxiv_id": "2609.26377",
+      "title": "FairMean: Promoting Fairness in Distributed Learning under Label Poisoning Attacks",
+      "authors": [
+        "Huigan Zheng",
+        "Jiaojiao Zhang",
+        "Yongxiang Liu"
+      ],
+      "published": "2026-09-22T13:21:54+00:00",
+      "first_seen": "2026-09-23T13:02:37.225614",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.25705": {
+      "arxiv_id": "2609.25705",
+      "title": "On the Gradient Heterogeneity Dynamics of Adversarially Robust Federated Regression",
+      "authors": [
+        "Leonardo F. Toso",
+        "James Anderson",
+        "Nirupam Gupta",
+        "Rafael Pinot"
+      ],
+      "published": "2026-09-22T05:17:52+00:00",
+      "first_seen": "2026-09-23T13:02:37.225625",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2609.25471": {
+      "arxiv_id": "2609.25471",
+      "title": "A Practical Recipe for Semi-Supervised Federated ASR: Online Pseudo-Labels with Server Update Stabilization",
+      "authors": [
+        "Wonho Bae",
+        "Zakaria Aldeneh",
+        "Martin Pelikan",
+        "Jan \"Honza\" Silovsky",
+        "Tatiana Likhomanenko",
+        "Sheikh Shams Azam"
+      ],
+      "published": "2026-09-21T22:53:48+00:00",
+      "first_seen": "2026-09-23T13:02:37.225632",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "stat.ML"
+      ]
+    },
+    "2609.25082": {
+      "arxiv_id": "2609.25082",
+      "title": "Federating Quantum and Classical Computing: A Privacy-Preserving Hybrid Approach",
+      "authors": [
+        "Carlos Cano",
+        "Daniel M. Jimenez-Gutierrez",
+        "Diego Sal",
+        "Georgios Kellaris",
+        "Joaquin del Rio",
+        "Oleksii Sliusarenko",
+        "Xabi Uribe-Etxebarria"
+      ],
+      "published": "2026-09-18T20:53:01+00:00",
+      "first_seen": "2026-09-23T13:02:37.225638",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.DC"
+      ]
+    },
+    "2609.26342": {
+      "arxiv_id": "2609.26342",
+      "title": "Geometry-Aware Hyperbolic Residual Quantization",
+      "authors": [
+        "Alessio Colombo",
+        "Melika Ayoughi"
+      ],
+      "published": "2026-09-22T12:50:18+00:00",
+      "first_seen": "2026-09-23T13:02:40.136432",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.25645": {
+      "arxiv_id": "2609.25645",
+      "title": "Efficient Cost-Aware LLM Evaluation via Bayesian Bandit Gittins Indices",
+      "authors": [
+        "Qian Xie",
+        "Yueli He",
+        "Nairen Cao"
+      ],
+      "published": "2026-09-22T03:56:43+00:00",
+      "first_seen": "2026-09-23T13:02:40.136442",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CL",
+        "stat.ML"
+      ]
+    },
+    "2609.25586": {
+      "arxiv_id": "2609.25586",
+      "title": "Deflecting the Value Compass: Interacting with Large Language Models Temporarily Shifts Human Value Priorities Toward Personal Focus",
+      "authors": [
+        "Hasibur Rahman",
+        "Malak Sadek",
+        "Smit Desai"
+      ],
+      "published": "2026-09-22T02:31:50+00:00",
+      "first_seen": "2026-09-23T13:02:40.136449",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ]
+    },
+    "2609.25433": {
+      "arxiv_id": "2609.25433",
+      "title": "Lightweight Ranking Heads: Accelerating Multi-Task Experimentation in Production Recommender Systems",
+      "authors": [
+        "Sanjay Surendranath Girija",
+        "Aniruddh Nath",
+        "Li Wei",
+        "Yanhao Jiang",
+        "Shawn Andrews",
+        "Lukasz Heldt",
+        "Yi Wu",
+        "Aditya Mahajan",
+        "Mohit Sharma"
+      ],
+      "published": "2026-09-21T21:37:41+00:00",
+      "first_seen": "2026-09-23T13:02:40.136455",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.25306": {
+      "arxiv_id": "2609.25306",
+      "title": "ReFilter: Bridging Embeddings and LLM Filtering for Similar Mobile App Retrieval",
+      "authors": [
+        "Buthayna AlMulla",
+        "Maram Assi",
+        "Safwat Hassan"
+      ],
+      "published": "2026-09-21T18:55:32+00:00",
+      "first_seen": "2026-09-23T13:02:40.136460",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
       ]
     }
   }

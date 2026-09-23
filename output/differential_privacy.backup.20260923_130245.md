@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-22 | [Gap-Free Streaming PCA Beyond Rank-One Updates: Near-Optimal Rates and Applications to Differential Privacy](https://arxiv.org/abs/2609.26508) | Streaming principal component analysis (PCA) seeks to recover a leading spectral subspace in a single pass over a data stream. |
 | 2026-09-20 | [Pattern-level Differential Privacy for High-utility Complex Event Processing](https://arxiv.org/abs/2609.23827) | Current privacy-preserving mechanisms (PPMs) in Complex Event Processing (CEP) systems are unnecessarily restrictive, reducing the utility of data received by data consumers. |
 | 2026-09-20 | [Feature Suppression and Differential Privacy for Residential Traffic Classification: A Two-Home Federated Study](https://arxiv.org/abs/2609.23521) | Residential traffic classification supports service management, but learning across homes must account for heterogeneous traffic and privacy constraints. |
 | 2026-09-19 | [Improved Private Sparse Covariance Estimation with Multiscale Threshold Tests](https://arxiv.org/abs/2609.22783) | We study differentially private covariance estimation in operator norm for mean-zero sub-Gaussian distributions with unknown covariance support and at most $k$ nonzero entries per row. |
