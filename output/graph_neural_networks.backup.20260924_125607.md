@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-23 | [Curriculum Learning with GNN-based Reinforcement Learning for Job Shop Scheduling](https://arxiv.org/abs/2609.28085) | The job shop scheduling problem is a challenging combinatorial optimization problem, and recent reinforcement learning approaches using graph neural networks have shown promise for learning... |
-| 2026-09-23 | [Graph Learning with Spectral Connectivity Priors for Scarce Data](https://arxiv.org/abs/2609.27278) | Learning a sparse graph from scarce data is practically important but challenging. |
-| 2026-09-23 | [Scalable Subgraph Sampling via Resistance Curvature](https://arxiv.org/abs/2609.27209) | Subgraph sampling reduces the training cost of large-scale graph neural networks, but sampling criteria may overlook the geometric roles of edges. |
-| 2026-09-22 | [Local Evidence and Geometric Readout Repair in Trained GNNs](https://arxiv.org/abs/2609.27092) | Many node-classification GNNs apply a linear classifier to a nonnegative mixture of local messages. |
-| 2026-09-22 | [Does Graph Structure Earn Its Place in Microservice Root-Cause Analysis? A Controlled Study on RCAEval, and What the Benchmark Was Really Measuring](https://arxiv.org/abs/2609.27069) | Graph neural networks dominate recent work on microservice root-cause analysis, yet recent results question whether the graph contributes. |
 | 2026-09-22 | [Diffusion-Induced Spatial Attention Overlapping Community Detection](https://arxiv.org/abs/2609.26737) | Detection of overlapping communities is essential for modelling networks in which nodes participate simultaneously in multiple structural or functional groups. |
 | 2026-09-22 | [Towards Hierarchical GNNs for multi-grid power flow: generalization across operating scenarios](https://arxiv.org/abs/2609.26603) | Hierarchical latent communication improves the generalization of a multi-grid power-flow model to new operating scenarios. |
 | 2026-09-22 | [PreGS: A Parameter-Transfer-Based Multi-Expert Graph Neural Network for Node Classification](https://arxiv.org/abs/2609.26310) | Graph neural networks have achieved strong performance in node classification by aggregating information from graph neighborhoods. |

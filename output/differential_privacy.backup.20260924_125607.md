@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-23 | [Contraction and Statistical Inference under Privacy for Uniformly Bounded Distributions](https://arxiv.org/abs/2609.28297) | We investigate $c$-interior pointwise maximal leakage (PML) as a tool for contraction analyses and disclosure control. |
-| 2026-09-23 | [Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG](https://arxiv.org/abs/2609.27406) | Deploying large language models (LLMs) on sensitive data via Retrieval-Augmented Generation (RAG) introduces severe privacy risks. |
 | 2026-09-22 | [Gap-Free Streaming PCA Beyond Rank-One Updates: Near-Optimal Rates and Applications to Differential Privacy](https://arxiv.org/abs/2609.26508) | Streaming principal component analysis (PCA) seeks to recover a leading spectral subspace in a single pass over a data stream. |
 | 2026-09-20 | [Pattern-level Differential Privacy for High-utility Complex Event Processing](https://arxiv.org/abs/2609.23827) | Current privacy-preserving mechanisms (PPMs) in Complex Event Processing (CEP) systems are unnecessarily restrictive, reducing the utility of data received by data consumers. |
 | 2026-09-20 | [Feature Suppression and Differential Privacy for Residential Traffic Classification: A Two-Home Federated Study](https://arxiv.org/abs/2609.23521) | Residential traffic classification supports service management, but learning across homes must account for heterogeneous traffic and privacy constraints. |

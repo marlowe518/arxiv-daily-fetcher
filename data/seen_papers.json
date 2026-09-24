@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-09-23T13:02:45.733534",
+  "last_updated": "2026-09-24T12:56:07.070172",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -65398,6 +65398,403 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"
+      ]
+    },
+    "2609.28085": {
+      "arxiv_id": "2609.28085",
+      "title": "Curriculum Learning with GNN-based Reinforcement Learning for Job Shop Scheduling",
+      "authors": [
+        "Jayakrishnan K. Vasudevan",
+        "Jonathan Hoss",
+        "Noah Klarmann"
+      ],
+      "published": "2026-09-23T13:23:25+00:00",
+      "first_seen": "2026-09-24T12:55:43.147207",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.27278": {
+      "arxiv_id": "2609.27278",
+      "title": "Graph Learning with Spectral Connectivity Priors for Scarce Data",
+      "authors": [
+        "Mingxiao Liu",
+        "Bahar Oveisgharan",
+        "Bingyan Zou",
+        "Gene Cheung",
+        "H. Vicky Zhao",
+        "Feifei Gao"
+      ],
+      "published": "2026-09-23T03:08:17+00:00",
+      "first_seen": "2026-09-24T12:55:43.147214",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SP"
+      ]
+    },
+    "2609.27209": {
+      "arxiv_id": "2609.27209",
+      "title": "Scalable Subgraph Sampling via Resistance Curvature",
+      "authors": [
+        "Chaoqun Fei",
+        "Tinglve Zhou",
+        "Tianyong Hao",
+        "Yangyang Li"
+      ],
+      "published": "2026-09-23T01:16:29+00:00",
+      "first_seen": "2026-09-24T12:55:43.147218",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.27092": {
+      "arxiv_id": "2609.27092",
+      "title": "Local Evidence and Geometric Readout Repair in Trained GNNs",
+      "authors": [
+        "Nadi Tomeh",
+        "Hugo Attali"
+      ],
+      "published": "2026-09-22T21:50:04+00:00",
+      "first_seen": "2026-09-24T12:55:43.147222",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.27069": {
+      "arxiv_id": "2609.27069",
+      "title": "Does Graph Structure Earn Its Place in Microservice Root-Cause Analysis? A Controlled Study on RCAEval, and What the Benchmark Was Really Measuring",
+      "authors": [
+        "Imad Buljić"
+      ],
+      "published": "2026-09-22T21:05:08+00:00",
+      "first_seen": "2026-09-24T12:55:43.147225",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SE",
+        "cs.LG"
+      ]
+    },
+    "2609.28297": {
+      "arxiv_id": "2609.28297",
+      "title": "Contraction and Statistical Inference under Privacy for Uniformly Bounded Distributions",
+      "authors": [
+        "Leonhard Grosse",
+        "Sara Saeidian",
+        "Tobias J. Oechtering",
+        "Mikael Skoglund"
+      ],
+      "published": "2026-09-23T15:43:37+00:00",
+      "first_seen": "2026-09-24T12:55:52.101517",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.IT",
+        "cs.CR",
+        "math.ST"
+      ]
+    },
+    "2609.27406": {
+      "arxiv_id": "2609.27406",
+      "title": "Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG",
+      "authors": [
+        "Zhonghao Sun",
+        "Zhiliang Tian",
+        "Xinyue Fang",
+        "Shuo Ma",
+        "Juhua Zhang",
+        "Yiping Song",
+        "Dongsheng Li"
+      ],
+      "published": "2026-09-23T06:20:17+00:00",
+      "first_seen": "2026-09-24T12:55:52.101524",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.DL"
+      ]
+    },
+    "2609.28105": {
+      "arxiv_id": "2609.28105",
+      "title": "Fed-ReMasker: Federated Tabular Imputation under Feature-Level Missingness",
+      "authors": [
+        "Ioannis Papathanail",
+        "Rooholla Poursoleymani",
+        "Lubnaa Abdur Rahman",
+        "Stavroula Georgia Mougiakakou"
+      ],
+      "published": "2026-09-23T13:37:34+00:00",
+      "first_seen": "2026-09-24T12:55:58.099465",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2609.27654": {
+      "arxiv_id": "2609.27654",
+      "title": "FedIncome: Federated Learning for Income Estimation in Digital Lending Under Data Sovereignty Constraints",
+      "authors": [
+        "Sultan Amed",
+        "Tanmay Sen",
+        "Sayantan Banerjee"
+      ],
+      "published": "2026-09-23T10:16:48+00:00",
+      "first_seen": "2026-09-24T12:55:58.099473",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "q-fin.ST"
+      ]
+    },
+    "2609.27499": {
+      "arxiv_id": "2609.27499",
+      "title": "Distributed Stochastic Approximation Algorithms and Heavy-Tailed Age of Information",
+      "authors": [
+        "Adrian Redder",
+        "Arunselvan Ramaswamy",
+        "Holger Karl"
+      ],
+      "published": "2026-09-23T08:01:29+00:00",
+      "first_seen": "2026-09-24T12:55:58.099476",
+      "topic": "Federated Learning",
+      "categories": [
+        "math.OC",
+        "cs.DC",
+        "cs.MA",
+        "cs.NI",
+        "math.PR"
+      ]
+    },
+    "2609.27202": {
+      "arxiv_id": "2609.27202",
+      "title": "Reliable Federated TinyML Deployment for IoT Security",
+      "authors": [
+        "Younsoo Park",
+        "Seokhyoen Bae",
+        "Shasi Kumar Ramachandran Prabhu",
+        "Suman Saha",
+        "Peilong Li"
+      ],
+      "published": "2026-09-23T01:08:21+00:00",
+      "first_seen": "2026-09-24T12:55:58.099480",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2609.27124": {
+      "arxiv_id": "2609.27124",
+      "title": "When Clients Are Orchestrated: Strategic Gradient Manipulation to Defeat Federated Learning Servers with Efficient Defense",
+      "authors": [
+        "Mohamed Shaaban",
+        "Ahmed Abdelnaby",
+        "Mohamed Elmahallawy"
+      ],
+      "published": "2026-09-22T22:33:31+00:00",
+      "first_seen": "2026-09-24T12:55:58.099483",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2609.26814": {
+      "arxiv_id": "2609.26814",
+      "title": "FedCoT-VQA: A Federated Learning and Unlearning Framework for Chain-of-Thought Planners in VideoQA",
+      "authors": [
+        "Rui Lu",
+        "Tao Ling",
+        "Dan Wang",
+        "Qing Li"
+      ],
+      "published": "2026-09-18T18:03:01+00:00",
+      "first_seen": "2026-09-24T12:55:58.099486",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2609.28405": {
+      "arxiv_id": "2609.28405",
+      "title": "Learning Collective Dynamics with Differentiable Gaussian Representations",
+      "authors": [
+        "Jianxiang Ma",
+        "Mingfu Zhang",
+        "Xiaocui Yang",
+        "Yichen Gao",
+        "Junzhao Huang",
+        "Yuesong Hou"
+      ],
+      "published": "2026-09-23T17:08:53+00:00",
+      "first_seen": "2026-09-24T12:56:01.101557",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.27998": {
+      "arxiv_id": "2609.27998",
+      "title": "A Flexible Recommendation System for Individuals and Groups",
+      "authors": [
+        "Yacine Mokhtari",
+        "Grégory Smits"
+      ],
+      "published": "2026-09-23T12:27:27+00:00",
+      "first_seen": "2026-09-24T12:56:01.101563",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.27201": {
+      "arxiv_id": "2609.27201",
+      "title": "A Systematic Benchmark of Explainable Methods for Temporal Attribution in Sequential Recommendation Systems",
+      "authors": [
+        "Akash Pandey",
+        "Kanisha Shah",
+        "Addrish Roy",
+        "Dwipam Katariya",
+        "Hongyangyang Shi",
+        "Amanda Ding",
+        "Kalanand Mishra",
+        "Pranab Mohanty"
+      ],
+      "published": "2026-09-23T01:07:25+00:00",
+      "first_seen": "2026-09-24T12:56:01.101566",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2609.27183": {
+      "arxiv_id": "2609.27183",
+      "title": "When LLM-Based User Profiling Adds Value in Production Streaming Recommendation",
+      "authors": [
+        "Milad Sabouri",
+        "Neeraj Sharma",
+        "Sardar Hamidian",
+        "Shaghayegh Agah"
+      ],
+      "published": "2026-09-23T00:42:36+00:00",
+      "first_seen": "2026-09-24T12:56:01.101570",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.27155": {
+      "arxiv_id": "2609.27155",
+      "title": "The Like Trap: Multi-Stage Poisoning against Agents in Similarity-based Recommendation Systems",
+      "authors": [
+        "Yue Xing",
+        "Pengfei He",
+        "Zitao Li"
+      ],
+      "published": "2026-09-22T23:39:24+00:00",
+      "first_seen": "2026-09-24T12:56:01.101573",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2609.27110": {
+      "arxiv_id": "2609.27110",
+      "title": "Feed the Panel Dimensions, Not Verdicts: Rubric-Decomposed Fusion of Vision-Language Aesthetic Judges",
+      "authors": [
+        "Amit Jadhav",
+        "Shaurya Beriwala",
+        "Beomjin Kim"
+      ],
+      "published": "2026-09-22T22:07:52+00:00",
+      "first_seen": "2026-09-24T12:56:01.101575",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2609.26978": {
+      "arxiv_id": "2609.26978",
+      "title": "Tight Regret Bound for Online Inverse Linear Optimization via Multiscale Matrix Weights",
+      "authors": [
+        "Shinsaku Sakaue"
+      ],
+      "published": "2026-09-22T19:13:53+00:00",
+      "first_seen": "2026-09-24T12:56:01.101578",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.DS",
+        "cs.LG"
+      ]
+    },
+    "2609.26977": {
+      "arxiv_id": "2609.26977",
+      "title": "Tie Handling Is Part of the Evaluation Protocol: An Order-Invariance Audit for Tie-Heavy Recommender Scores",
+      "authors": [
+        "Chengkun Guo",
+        "Han Chen",
+        "Yilin Zhu",
+        "Yingrui Li"
+      ],
+      "published": "2026-09-22T19:13:46+00:00",
+      "first_seen": "2026-09-24T12:56:01.101582",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.26975": {
+      "arxiv_id": "2609.26975",
+      "title": "Calibrating Reproduced Claims in Recommender Systems",
+      "authors": [
+        "Alan Said"
+      ],
+      "published": "2026-09-22T19:10:29+00:00",
+      "first_seen": "2026-09-24T12:56:01.101585",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.26921": {
+      "arxiv_id": "2609.26921",
+      "title": "Distilling Lexical Product Associations into Deep Transformers: An Extreme Multi-Label Approach for Natural Language E-Commerce Search",
+      "authors": [
+        "Sunnidhya Roy",
+        "Samarpita Bhaumik"
+      ],
+      "published": "2026-09-22T18:16:41+00:00",
+      "first_seen": "2026-09-24T12:56:01.101588",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2609.27953": {
+      "arxiv_id": "2609.27953",
+      "title": "The Recall Ceiling of LLM Recommendation Reranking",
+      "authors": [
+        "Zhaohui Wang"
+      ],
+      "published": "2026-08-27T13:11:40+00:00",
+      "first_seen": "2026-09-24T12:56:04.443207",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
       ]
     }
   }
