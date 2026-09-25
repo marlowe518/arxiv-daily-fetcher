@@ -5,11 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-24 | [Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores](https://arxiv.org/abs/2609.29453) | We formalize slate recommendation as a randomized score learner followed by deterministic selection. |
-| 2026-09-24 | [SPADE-DFL: Communication-Efficient Decentralized Federated Learning via Derivative-Free Linearized ADMM](https://arxiv.org/abs/2609.29446) | Reducing communication in derivative-free decentralized learning requires controlling the disagreement accumulated over multiple local updates. |
-| 2026-09-24 | [When Do Differentially Private Inputs Protect Graph Shift Operators?](https://arxiv.org/abs/2609.28899) | We study the differential privacy (DP) of a graph shift operator (GSO) when an analyst observes the output of a graph filter. |
-| 2026-09-23 | [Federated Learning of AnDE Classifiers](https://arxiv.org/abs/2609.28695) | This work presents a federated framework for training Averaged $n$-Dependence Estimators (AnDE) in distributed environments. |
-| 2026-09-22 | [An Exposition of GPT Astra's Proof of Lower Bound on DP Continual Counting](https://arxiv.org/abs/2609.28528) | The goal of this note is to give a detailed proof, to the best of our understanding, of the recent presentation by Harrison and Leeman (arXiv:2609. |
 | 2026-09-23 | [Contraction and Statistical Inference under Privacy for Uniformly Bounded Distributions](https://arxiv.org/abs/2609.28297) | We investigate $c$-interior pointwise maximal leakage (PML) as a tool for contraction analyses and disclosure control. |
 | 2026-09-23 | [Only Pay What You Must Spend: On-Demand Privacy Budget Payment for Differentially Private RAG](https://arxiv.org/abs/2609.27406) | Deploying large language models (LLMs) on sensitive data via Retrieval-Augmented Generation (RAG) introduces severe privacy risks. |
 | 2026-09-22 | [Gap-Free Streaming PCA Beyond Rank-One Updates: Near-Optimal Rates and Applications to Differential Privacy](https://arxiv.org/abs/2609.26508) | Streaming principal component analysis (PCA) seeks to recover a leading spectral subspace in a single pass over a data stream. |

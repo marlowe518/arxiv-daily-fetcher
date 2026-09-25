@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-24 | [From Graphs to Feeders: Constraint-Guided Diffusion for Rule-Compliant Feeder Generation](https://arxiv.org/abs/2609.29879) | Generative modeling approaches often focus on recovering broad statistical characteristics from the training data. |
 | 2026-09-22 | [MAGIC: Mixed-Granularity Agent Graphs via Incremental Construction with Dense-Reward Reinforcement Learning](https://arxiv.org/abs/2609.26667) | Collaboration topology shapes both the performance and execution cost of LLM-based multi-agent systems. |
 | 2026-09-08 | [Fixed-Dimensional Latent Flow for Generating Variable-Size 3D Molecules](https://arxiv.org/abs/2609.08333) | Molecular size is coupled to composition, structure, and function, yet most 3D molecular generators require a predefined atom count. |
 | 2026-09-17 | [MaSCoD: A Multi-Agent Framework for Structural-Context-Guided Candidate Causal Graph Generation](https://arxiv.org/abs/2609.19944) | Large language models (LLMs) have been applied to causal discovery, but candidate-graph generation rarely treats premature omission of potentially relevant causal relations as an explicit design... |
