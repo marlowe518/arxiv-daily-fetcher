@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-25 | [Budgeted Quotient-Residual Guidance for Frozen Pocket-Conditioned Molecular Diffusion](https://arxiv.org/abs/2609.31222) | Pocket-conditioned molecular diffusion updates ambient atom coordinates, but many lead-optimization objectives are expressed on quotient features such as distances, contacts, and anchored... |
-| 2026-09-25 | [Training Graph Foundation Models on The Web Graph](https://arxiv.org/abs/2609.30894) | We introduce Acacia, a graph foundation model, trained on the web graph. |
 | 2026-09-24 | [From Graphs to Feeders: Constraint-Guided Diffusion for Rule-Compliant Feeder Generation](https://arxiv.org/abs/2609.29879) | Generative modeling approaches often focus on recovering broad statistical characteristics from the training data. |
 | 2026-09-22 | [MAGIC: Mixed-Granularity Agent Graphs via Incremental Construction with Dense-Reward Reinforcement Learning](https://arxiv.org/abs/2609.26667) | Collaboration topology shapes both the performance and execution cost of LLM-based multi-agent systems. |
 | 2026-09-08 | [Fixed-Dimensional Latent Flow for Generating Variable-Size 3D Molecules](https://arxiv.org/abs/2609.08333) | Molecular size is coupled to composition, structure, and function, yet most 3D molecular generators require a predefined atom count. |

@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-25 | [Toward verifiably private learning from federated data](https://arxiv.org/abs/2609.31494) | Federated Learning (FL) allows devices with private data to collaborate in training a shared model. |
-| 2026-09-25 | [Revisiting Certified Defense with Differential Privacy on Vision Transformers](https://arxiv.org/abs/2609.31310) | Certified defenses that incorporate differential privacy have proven effective on Convolutional Neural Networks (CNNs), furnishing rigorous robustness guarantees against norm-bounded adversaries. |
-| 2026-09-25 | [Distributed Learning as a Service: The Developer's Perspective](https://arxiv.org/abs/2609.31061) | Application developers of distributed learning services face challenges that a typical federated learning loop does not address. |
 | 2026-09-24 | [Decoupled Learning and Selection in Slate Recommendation for Privacy and Stability Under Noisy Scores](https://arxiv.org/abs/2609.29453) | We formalize slate recommendation as a randomized score learner followed by deterministic selection. |
 | 2026-09-24 | [SPADE-DFL: Communication-Efficient Decentralized Federated Learning via Derivative-Free Linearized ADMM](https://arxiv.org/abs/2609.29446) | Reducing communication in derivative-free decentralized learning requires controlling the disagreement accumulated over multiple local updates. |
 | 2026-09-24 | [When Do Differentially Private Inputs Protect Graph Shift Operators?](https://arxiv.org/abs/2609.28899) | We study the differential privacy (DP) of a graph shift operator (GSO) when an analyst observes the output of a graph filter. |
