@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-26 | [TreeRef-BFN: Equivariance-Free De Novo Molecule Generation based on 2D Topology and Internal 3D Geometry](https://arxiv.org/abs/2609.32502) | De novo 3D molecular generation jointly models molecular size, topology, and geometry. |
-| 2026-09-26 | [Bison: Cross-Dataset Learning for Unseen-Compound Perturbation Prediction](https://arxiv.org/abs/2609.32467) | Predicting transcriptional responses to unseen compounds is limited by fragmented chemical coverage and heterogeneous experimental platforms and gene panels. |
 | 2026-09-25 | [Budgeted Quotient-Residual Guidance for Frozen Pocket-Conditioned Molecular Diffusion](https://arxiv.org/abs/2609.31222) | Pocket-conditioned molecular diffusion updates ambient atom coordinates, but many lead-optimization objectives are expressed on quotient features such as distances, contacts, and anchored... |
 | 2026-09-25 | [Training Graph Foundation Models on The Web Graph](https://arxiv.org/abs/2609.30894) | We introduce Acacia, a graph foundation model, trained on the web graph. |
 | 2026-09-24 | [From Graphs to Feeders: Constraint-Guided Diffusion for Rule-Compliant Feeder Generation](https://arxiv.org/abs/2609.29879) | Generative modeling approaches often focus on recovering broad statistical characteristics from the training data. |

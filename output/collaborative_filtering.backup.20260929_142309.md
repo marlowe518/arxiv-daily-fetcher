@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-28 | [Singularities of Non-negative Matrix Factorization and their application to Bayesian inference](https://arxiv.org/abs/2609.34043) | Non-negative matrix factorization (NMF) is a singular statistical model whose Bayesian asymptotics are governed by the real log canonical threshold (RLCT). |
 | 2026-09-24 | [Geometric Feature Learning for Functional Data Valued on the Symmetric Positive Definite Manifold](https://arxiv.org/abs/2609.30487) | We here develop a functional neural network, termed MatFAE, for learning trajectories on the Riemannian manifold of symmetric positive definite (SPD) matrices. |
 | 2026-08-27 | [The Recall Ceiling of LLM Recommendation Reranking](https://arxiv.org/abs/2609.27953) | Some LLM-based recommendation rerankers are evaluated under an oracle protocol that guarantees the ground-truth item is present in the scored set, either by injecting it into the candidate list or by... |
 | 2026-09-18 | [Matrix AdaGrad: Row-wise and Column-wise Adaptive Subgradient Methods](https://arxiv.org/abs/2609.21815) | Adaptive optimization methods such as AdaGrad and Adam are widely used in modern neural-network training, but their adaptive scaling is primarily designed for vector-valued parameters and does not... |
