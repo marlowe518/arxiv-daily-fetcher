@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-29 | [A Sharp Transition in Data Reconstruction under Differential Privacy](https://arxiv.org/abs/2609.37344) | Data reconstruction attacks have empirically been successful in recovering training samples from learned models, raising privacy concerns and motivating defenses with guarantees that remain valid... |
-| 2026-09-28 | [Privacy-Friendly Cohort Determination: Sealed, CSP-Independent In-Browser ML Inference of Professional Segments for Identity-Less Advertising](https://arxiv.org/abs/2609.36153) | B2B advertising targets a viewer's professional attributes (employer size and industry, function, seniority) and has obtained them by matching identities across sites. |
 | 2026-09-26 | [TRAP: Understanding and Mitigating Privacy Memorization in Language Models](https://arxiv.org/abs/2609.32293) | Fine-tuning a language model on sensitive records can leave it able to reproduce them. |
 | 2026-09-25 | [Toward verifiably private learning from federated data](https://arxiv.org/abs/2609.31494) | Federated Learning (FL) allows devices with private data to collaborate in training a shared model. |
 | 2026-09-25 | [Revisiting Certified Defense with Differential Privacy on Vision Transformers](https://arxiv.org/abs/2609.31310) | Certified defenses that incorporate differential privacy have proven effective on Convolutional Neural Networks (CNNs), furnishing rigorous robustness guarantees against norm-bounded adversaries. |
