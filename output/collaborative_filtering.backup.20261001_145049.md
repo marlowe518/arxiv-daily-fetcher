@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-30 | [Generalized Geometry Block Proximal Linearized Method for Multiblock Nonconvex and Nonsmooth Optimization](https://arxiv.org/abs/2609.39301) | This paper considers a class of multiblock nonconvex and nonsmooth optimization problems arising in many applications. |
 | 2026-09-28 | [GEM-KMeans: Memory-Efficient and Accurate Clustering on Massive Scale with GPU Optimization](https://arxiv.org/abs/2609.36074) | Memory-efficient scaling on clustering problems without sacrificing statistical accuracy is of central interest for large-scale data analysis and machine learning problems. |
 | 2026-09-28 | [Singularities of Non-negative Matrix Factorization and their application to Bayesian inference](https://arxiv.org/abs/2609.34043) | Non-negative matrix factorization (NMF) is a singular statistical model whose Bayesian asymptotics are governed by the real log canonical threshold (RLCT). |
 | 2026-09-24 | [Geometric Feature Learning for Functional Data Valued on the Symmetric Positive Definite Manifold](https://arxiv.org/abs/2609.30487) | We here develop a functional neural network, termed MatFAE, for learning trajectories on the Riemannian manifold of symmetric positive definite (SPD) matrices. |
