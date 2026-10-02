@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-01T14:50:49.499688",
+  "last_updated": "2026-10-02T14:11:13.598410",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -69521,6 +69521,542 @@
       "categories": [
         "math.OC",
         "cs.LG"
+      ]
+    },
+    "2610.02175": {
+      "arxiv_id": "2610.02175",
+      "title": "Effective Resistance and Graph Neural Network Reliability in Tissue-Specific Interactomes",
+      "authors": [
+        "Jianru Shen"
+      ],
+      "published": "2026-10-01T17:57:10+00:00",
+      "first_seen": "2026-10-02T14:10:48.975900",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.MN"
+      ]
+    },
+    "2610.01903": {
+      "arxiv_id": "2610.01903",
+      "title": "Higher-Order Positional Encodings for Graph Representation Learning",
+      "authors": [
+        "Caleb Stam",
+        "Aagrim Hoysal",
+        "Sanjukta Krishnagopal"
+      ],
+      "published": "2026-10-01T15:49:18+00:00",
+      "first_seen": "2026-10-02T14:10:48.975910",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.01494": {
+      "arxiv_id": "2610.01494",
+      "title": "Let the Heads Talk: Beyond Diagonal Graph Attention",
+      "authors": [
+        "Riccardo Ali",
+        "Alessio Borgi",
+        "Mario Severino",
+        "Alessio Gravina",
+        "Davide Bacciu",
+        "Pietro Liò",
+        "Christopher Irwin"
+      ],
+      "published": "2026-10-01T11:37:18+00:00",
+      "first_seen": "2026-10-02T14:10:48.975917",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.00730": {
+      "arxiv_id": "2610.00730",
+      "title": "Reformulation-Contrastive Learning for Mixed Integer Programs",
+      "authors": [
+        "Ousema Bouaneni",
+        "Mathis Le Bail",
+        "Clément Elliker",
+        "Maël Jenny",
+        "Sonia Vanier"
+      ],
+      "published": "2026-09-30T21:19:40+00:00",
+      "first_seen": "2026-10-02T14:10:48.975923",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.00713": {
+      "arxiv_id": "2610.00713",
+      "title": "WOMBAT: Whitebox Oracle for Molecular Benchmarking and Attribution Testing",
+      "authors": [
+        "Dominik Matuszek",
+        "Bartosz Zieliński",
+        "Tomasz Danel",
+        "Dawid Rymarczyk"
+      ],
+      "published": "2026-09-30T21:02:26+00:00",
+      "first_seen": "2026-10-02T14:10:48.975928",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.00422": {
+      "arxiv_id": "2610.00422",
+      "title": "Learning to Cover Locally: Graph Neural Combinatorial Optimization under a Hard Information Horizon",
+      "authors": [
+        "Johannes F. Loevenich",
+        "Thies Moehlenhof",
+        "Laurin Holz",
+        "Maxime Schwarzer",
+        "Tobias Huerten",
+        "Roberto Rigolin F. Lopes"
+      ],
+      "published": "2026-09-30T15:23:36+00:00",
+      "first_seen": "2026-10-02T14:10:48.975933",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2610.02186": {
+      "arxiv_id": "2610.02186",
+      "title": "Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry",
+      "authors": [
+        "Yiming Huang",
+        "Yujie Zeng",
+        "Vijay Prakash Dwivedi",
+        "Simone Foti",
+        "Jianmin Wang",
+        "Jure Leskovec",
+        "Tolga Birdal"
+      ],
+      "published": "2026-10-01T17:58:45+00:00",
+      "first_seen": "2026-10-02T14:10:52.101226",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.02113": {
+      "arxiv_id": "2610.02113",
+      "title": "Quantum Advantage for Two-Party Differential Privacy",
+      "authors": [
+        "Daniel Alabi",
+        "Emil T. Khabiboulline"
+      ],
+      "published": "2026-10-01T17:32:30+00:00",
+      "first_seen": "2026-10-02T14:10:58.292300",
+      "topic": "Differential Privacy",
+      "categories": [
+        "quant-ph",
+        "cs.CR",
+        "cs.IT"
+      ]
+    },
+    "2610.02074": {
+      "arxiv_id": "2610.02074",
+      "title": "Homomorphic Advantage Operator: Stabilizing Reinforcement Learning Under Fully Homomorphic Encryption Constraints",
+      "authors": [
+        "Abid Mohamed Nadhir",
+        "Ahmad Al Hanbali",
+        "Beggas Mounir"
+      ],
+      "published": "2026-10-01T17:14:32+00:00",
+      "first_seen": "2026-10-02T14:10:58.292311",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    "2610.01907": {
+      "arxiv_id": "2610.01907",
+      "title": "Detection and Resolution of Periodic Artifacts in OpenDP's Discrete Laplace Sampler",
+      "authors": [
+        "Cesare Gerolimetto Fabrello",
+        "Valeria Rossi",
+        "Alberto Trombetta",
+        "Massimo Caccia"
+      ],
+      "published": "2026-10-01T15:51:08+00:00",
+      "first_seen": "2026-10-02T14:10:58.292316",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "stat.CO"
+      ]
+    },
+    "2610.01650": {
+      "arxiv_id": "2610.01650",
+      "title": "Combining Homomorphic Encryption and Differential Privacy in Federated Learning for Model Inspection and Availability",
+      "authors": [
+        "Ceren Yıldırım",
+        "Kamer Kaya",
+        "Sinan Yıldırım",
+        "Erkay Savaş"
+      ],
+      "published": "2026-10-01T13:13:56+00:00",
+      "first_seen": "2026-10-02T14:10:58.292321",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2610.00309": {
+      "arxiv_id": "2610.00309",
+      "title": "Tokenized Key-Gated Adapter Routing: A Secure Access Control Mechanism Against Private Data Leakage in LLMs",
+      "authors": [
+        "Mohamed Shaaban",
+        "Mohamed Elmahallawy"
+      ],
+      "published": "2026-09-28T19:52:42+00:00",
+      "first_seen": "2026-10-02T14:10:58.292325",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.AI",
+        "cs.CL"
+      ]
+    },
+    "2610.01638": {
+      "arxiv_id": "2610.01638",
+      "title": "FedSAP: Federated Learning with Structured Adaptive Partitioning for Multi-Domain Heterogeneous Edge Devices",
+      "authors": [
+        "Wentao Yue",
+        "Tianyou Lai",
+        "Hongji Li",
+        "Qingyu Mao",
+        "Qilei Li"
+      ],
+      "published": "2026-10-01T13:05:01+00:00",
+      "first_seen": "2026-10-02T14:11:04.030129",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.01537": {
+      "arxiv_id": "2610.01537",
+      "title": "FedFit: Federated Fine-Tuning of LLMs via Vector-Bank Parameterization and Quantization",
+      "authors": [
+        "Hang Zou",
+        "Chao Zhang",
+        "Yuzhi Yang",
+        "Yu Tian",
+        "Samson Lasaulce",
+        "Mérouane Debbah"
+      ],
+      "published": "2026-10-01T12:09:46+00:00",
+      "first_seen": "2026-10-02T14:11:04.030138",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.01126": {
+      "arxiv_id": "2610.01126",
+      "title": "Latent Information Sharing for Accelerating Federated Learning",
+      "authors": [
+        "Seungjun Lee",
+        "Ensieh Khazaei",
+        "Dimitrios Hatzinakos",
+        "Baturalp Buyukates",
+        "Sunwoo Lee"
+      ],
+      "published": "2026-10-01T06:11:14+00:00",
+      "first_seen": "2026-10-02T14:11:04.030144",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.00695": {
+      "arxiv_id": "2610.00695",
+      "title": "Progressive-Resolution Secure Aggregation for Federated Learning",
+      "authors": [
+        "Seyed Mohammad Azimi-Abarghouyi"
+      ],
+      "published": "2026-09-30T20:38:11+00:00",
+      "first_seen": "2026-10-02T14:11:04.030149",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.DC",
+        "cs.IT",
+        "cs.LG"
+      ]
+    },
+    "2610.00693": {
+      "arxiv_id": "2610.00693",
+      "title": "FedMAD: Modulation-Aware Directional Aggregation for Federated Learning in Remote Sensing Image Classification",
+      "authors": [
+        "Barış Büyüktaş",
+        "Begüm Demir"
+      ],
+      "published": "2026-09-30T20:36:37+00:00",
+      "first_seen": "2026-10-02T14:11:04.030153",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2610.00580": {
+      "arxiv_id": "2610.00580",
+      "title": "From Task Mixtures to Specialized Experts",
+      "authors": [
+        "Hojat Allah Salehi",
+        "Mehrdad Mahdavi",
+        "Andrew Arash Mahyari",
+        "M. Hadi Amini"
+      ],
+      "published": "2026-09-30T18:47:47+00:00",
+      "first_seen": "2026-10-02T14:11:04.030158",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.02057": {
+      "arxiv_id": "2610.02057",
+      "title": "Optimizing Effective Training Time for Large-Scale Recommendation Systems",
+      "authors": [
+        "Mingming Ding",
+        "Ruilin Chen",
+        "Yuzhen Huang",
+        "Hang Qi",
+        "Menglu Yu",
+        "San Tan",
+        "Damian Reeves",
+        "Boris Sarana",
+        "Kevin Tang",
+        "Satendra Gera",
+        "Gagan Jain",
+        "Sahil Shah",
+        "Vishwa Karia",
+        "Fuzail Khan",
+        "Yashasvi Makin",
+        "Edward Z. Yang",
+        "Oguz Ulgen",
+        "Jia Chen Ren",
+        "Laith Sakka",
+        "Mayank Garg",
+        "Meet Vadakkanchery",
+        "Aici Lin",
+        "Wei Sun",
+        "Mengjiao Zhou",
+        "Shuai Yang",
+        "Junqing Zhou",
+        "Max Leung",
+        "Apoorv Purwar",
+        "Musharaf Sultan",
+        "John Bocharov",
+        "Zhenyu Tang",
+        "Vivek Trehan"
+      ],
+      "published": "2026-10-01T17:02:16+00:00",
+      "first_seen": "2026-10-02T14:11:07.014423",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.01894": {
+      "arxiv_id": "2610.01894",
+      "title": "A foundation for systematic analysis of transformers and RNNs for tractography",
+      "authors": [
+        "Emmanuelle Renauld",
+        "Philippe Poulin",
+        "Hugo Larochelle",
+        "Antoine Théberge",
+        "Maxime Descoteaux"
+      ],
+      "published": "2026-10-01T15:43:32+00:00",
+      "first_seen": "2026-10-02T14:11:07.014432",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "eess.IV",
+        "q-bio.NC"
+      ]
+    },
+    "2610.01746": {
+      "arxiv_id": "2610.01746",
+      "title": "End-to-End Learning vs. Modular Architectures: Comparative Insights into Autonomous Driving Systems",
+      "authors": [
+        "Kartik B. Kapse"
+      ],
+      "published": "2026-10-01T14:15:06+00:00",
+      "first_seen": "2026-10-02T14:11:07.014437",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.RO",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2610.01705": {
+      "arxiv_id": "2610.01705",
+      "title": "AgentWebRec: Compact Evidence Fusion over the Agent Web for Personalized Recommendation",
+      "authors": [
+        "Haoran Qiang",
+        "Guannan Liu",
+        "Liang Zhang",
+        "Junjie Wu"
+      ],
+      "published": "2026-10-01T13:51:13+00:00",
+      "first_seen": "2026-10-02T14:11:07.014441",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.01533": {
+      "arxiv_id": "2610.01533",
+      "title": "Neither Black nor White: Balancing Semantic and Collaborative Signals with Graph-Informed Semantic IDs (GrIS)",
+      "authors": [
+        "Aleksei Medvedev",
+        "Alejandro Ariza-Casabona",
+        "Steven Derby",
+        "Gonzalo Fiz Pontiveros",
+        "Xinyang Shao",
+        "Florian Spiess"
+      ],
+      "published": "2026-10-01T12:08:56+00:00",
+      "first_seen": "2026-10-02T14:11:07.014445",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2610.01497": {
+      "arxiv_id": "2610.01497",
+      "title": "OpenMTB-Audit: Exposing Over-Refusal and Clinical Expert Perspectives in LLM-Based Molecular Tumor Board Safety Evaluation",
+      "authors": [
+        "Negin Ashrafi",
+        "Jia Luo",
+        "Stacey M. Frumm",
+        "Roxana Daneshjou"
+      ],
+      "published": "2026-10-01T11:39:31+00:00",
+      "first_seen": "2026-10-02T14:11:07.014450",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2610.01270": {
+      "arxiv_id": "2610.01270",
+      "title": "Not All Is Lost: Repairing Lossy User Preference States of Personalization Encoders",
+      "authors": [
+        "Parthiv Chatterjee",
+        "Dhiraj Golhar",
+        "Ummesalma Diwan",
+        "Sourish Dasgupta",
+        "Manjunath Joshi",
+        "Tanmoy Chakraborty"
+      ],
+      "published": "2026-10-01T08:09:37+00:00",
+      "first_seen": "2026-10-02T14:11:07.014454",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2610.00984": {
+      "arxiv_id": "2610.00984",
+      "title": "HADRec: A Hierarchy-Aware Drug Recommendation Framework by Fusing Molecular Knowledge and Electronic Health Record",
+      "authors": [
+        "Junke Wang",
+        "Hongshun Ling",
+        "Li Zhang",
+        "Jinjing Wu",
+        "Tong Shao",
+        "Fang Wang",
+        "Yuan Gao"
+      ],
+      "published": "2026-10-01T03:20:54+00:00",
+      "first_seen": "2026-10-02T14:11:07.014459",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.00961": {
+      "arxiv_id": "2610.00961",
+      "title": "Cybernetic and Epistemic: A Missing Vocabulary for Trustworthy Agentic Delegation",
+      "authors": [
+        "Jérémie Lumbroso"
+      ],
+      "published": "2026-10-01T02:46:49+00:00",
+      "first_seen": "2026-10-02T14:11:07.014463",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2610.00654": {
+      "arxiv_id": "2610.00654",
+      "title": "When More Data Is Not Enough: The Context-Sufficiency Frontier in Generative AI Personalization",
+      "authors": [
+        "Merieme Askour",
+        "Ayoub Merimi"
+      ],
+      "published": "2026-09-30T19:54:26+00:00",
+      "first_seen": "2026-10-02T14:11:07.014468",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2610.01361": {
+      "arxiv_id": "2610.01361",
+      "title": "Degree-Corrected Joint Matrix Factorization for Multilayer Community Detection",
+      "authors": [
+        "Alexandra Dache",
+        "Manon Rustin",
+        "Arnaud Vandaele",
+        "Nicolas Gillis"
+      ],
+      "published": "2026-10-01T09:31:10+00:00",
+      "first_seen": "2026-10-02T14:11:11.091175",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.SI",
+        "cs.LG"
+      ]
+    },
+    "2610.00284": {
+      "arxiv_id": "2610.00284",
+      "title": "Partial AUC Maximization from Positive-unlabeled Data",
+      "authors": [
+        "Atsutoshi Kumagai",
+        "Tomoharu Iwata",
+        "Taishi Nishiyama",
+        "Hiroshi Takahashi",
+        "Kazuki Adachi",
+        "Yasuhiro Fujiwara"
+      ],
+      "published": "2026-09-25T03:43:39+00:00",
+      "first_seen": "2026-10-02T14:11:13.591326",
+      "topic": "Implicit Feedback",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "stat.ML"
       ]
     }
   }

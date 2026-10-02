@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-10-01 | [Higher-Order Molecular Grammars for Generative and Foundation Models in Chemistry](https://arxiv.org/abs/2610.02186) | Molecular learning models are strongly shaped by their underlying representations. |
 | 2026-09-30 | [Stable Transformers for Graph Generation](https://arxiv.org/abs/2609.39739) | Graph generative models increasingly rely on Graph Transformers (GT) to capture complex dependencies among nodes and edges. |
 | 2026-09-29 | [GraphVQ: Structure-Aware Autoregressive Decoding over Context-Quantized Graph Tokens](https://arxiv.org/abs/2609.37604) | Graph foundation models need a discrete token representation, but casting a graph as a generatable token sequence faces a structural obstacle: edges spanning beyond the serialization window cannot be... |
 | 2026-09-26 | [TreeRef-BFN: Equivariance-Free De Novo Molecule Generation based on 2D Topology and Internal 3D Geometry](https://arxiv.org/abs/2609.32502) | De novo 3D molecular generation jointly models molecular size, topology, and geometry. |

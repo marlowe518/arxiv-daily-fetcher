@@ -5,7 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-09-25 | [Partial AUC Maximization from Positive-unlabeled Data](https://arxiv.org/abs/2610.00284) | The partial area under the receiver operating characteristic curve (pAUC) is an important performance metric for binary classification that summarizes true positive rates within a specific range of... |
 | 2026-09-29 | [Learning from Shared-Control Overrides: Context-Driven Acceleration Profile Prediction for Personalized Overtaking](https://arxiv.org/abs/2609.37684) | Adaptive Cruise Control (ACC) systems are typically calibrated for an average driver, often resulting in a mismatch between vehicle behavior and individual expectations during time-critical maneuvers... |
 | 2026-09-10 | [Importance Weighting for Unlabeled-unlabeled Learning under Distribution Shift](https://arxiv.org/abs/2609.10994) | Unlabeled-unlabeled (UU) learning allows us to learn a binary classifier from two sets of unlabeled data with different class-priors. |
 | 2026-09-10 | [AUC Maximization from Biased Positive-unlabeled Data with Confidence](https://arxiv.org/abs/2609.10928) | Maximizing the area under the receiver operating characteristic curve (AUC) is a standard approach to imbalanced binary classification. |

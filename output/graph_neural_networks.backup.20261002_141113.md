@@ -5,12 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-10-01 | [Effective Resistance and Graph Neural Network Reliability in Tissue-Specific Interactomes](https://arxiv.org/abs/2610.02175) | Protein function annotation needs to know which predictions to distrust, not only what a model predicts. |
-| 2026-10-01 | [Higher-Order Positional Encodings for Graph Representation Learning](https://arxiv.org/abs/2610.01903) | Many real-world systems exhibit higher-order interactions among groups of entities that cannot be captured by pairwise relationships alone. |
-| 2026-10-01 | [Let the Heads Talk: Beyond Diagonal Graph Attention](https://arxiv.org/abs/2610.01494) | Sheaf Neural Networks generalize scalar-weighted message passing by replacing scalar edge weights with linear transport maps between local feature spaces. |
-| 2026-09-30 | [Reformulation-Contrastive Learning for Mixed Integer Programs](https://arxiv.org/abs/2610.00730) | Mixed-integer linear programs (MILP) model many real-world decision problems, motivating machine-learning methods that exploit recurring structure to accelerate MILP solving. |
-| 2026-09-30 | [WOMBAT: Whitebox Oracle for Molecular Benchmarking and Attribution Testing](https://arxiv.org/abs/2610.00713) | When a graph neural network (GNN) explainer produces an unexpected attribution on a molecule, the attribution alone cannot reveal whether the explainer has failed or the model has learned a shortcut. |
-| 2026-09-30 | [Learning to Cover Locally: Graph Neural Combinatorial Optimization under a Hard Information Horizon](https://arxiv.org/abs/2610.00422) | Neural combinatorial optimization typically assumes a centralized solver that reads the whole instance. |
 | 2026-09-30 | [MANET-GNN: Learned Decentralized Optimization of Power Allocation in Multi-Channel MANETs](https://arxiv.org/abs/2609.40170) | MANETs enable flexible infrastructure-less wireless connectivity in dynamic and resource-constrained environments. |
 | 2026-09-30 | [GraphMAS: A Systematic Benchmark of Multi-Agent Coordination for Graph Learning](https://arxiv.org/abs/2609.39777) | LLM-based multi-agent systems coordinate specialized reasoning through aggregation, interaction, and adaptive control, yet their potential for graph learning remains unexplored. |
 | 2026-09-30 | [NodeGround: A Node Classification Benchmark in the Graph Foundation Model Era](https://arxiv.org/abs/2609.39673) | Can a pretrained graph model replace training and tuning a separate predictor for each dataset? |
