@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-10-06 | [Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design](https://arxiv.org/abs/2610.08367) | Several discrete design tasks, such as molecular discovery, require diverse collections of useful candidates at low computational cost. |
-| 2026-10-06 | [Towards One-for-All Foundation Model for Attributed Graph Clustering](https://arxiv.org/abs/2610.07778) | Attributed graph clustering aims to discover node groups by jointly exploiting node attributes and graph topology, yet its unsupervised nature makes model selection and adaptation inherently... |
 | 2026-10-05 | [Latent Flow Matching for Molecular Graph Generation](https://arxiv.org/abs/2610.06468) | Modern graph generative models typically operate directly in the discrete graph space, explicitly generating node and edge variables, which can become costly as graphs grow. |
 | 2026-10-05 | [Constrained Goal-directed Planar Graph Generation with Grammar-based Reinforcement Learning](https://arxiv.org/abs/2610.06244) | Planar graphs are central to applications across science and engineering, yet existing generators provide limited support for goal-directed generation under hard structural and geometric feasibility... |
 | 2026-10-05 | [Graph Data Augmentation via Contrastive Generator Inversion ($\texttt{DCBA}$)](https://arxiv.org/abs/2610.05653) | Graphs provide a natural representation of many complex systems, ranging from social platforms to ecosystems. |
