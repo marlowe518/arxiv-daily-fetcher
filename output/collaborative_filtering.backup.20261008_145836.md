@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-10-07 | [Finite-Sample Approximation of Hessian-Guided Perturbed Wasserstein Gradient Flows](https://arxiv.org/abs/2610.10218) | Wasserstein gradient flow extends gradient descent to probability measures. |
-| 2026-10-06 | [Trustworthy Domain-Specific AI for Structured Knowledge Retrieval and Reasoning](https://arxiv.org/abs/2610.08894) | This dissertation presents a scalable architecture for transforming unstructured, domain-specific text into structured knowledge for retrieval and reasoning. |
 | 2026-10-05 | [Encoded but Not in Control: Revealing the Grounding Gap in Vision-Language Robot Policies](https://arxiv.org/abs/2610.06235) | Instruction following is central to language-conditioned robot policies: language should determine what to do when the same scene permits multiple valid actions. |
 | 2026-10-04 | [Joint Estimation of Common-Slope Decay Rates and Spatial Amplitudes Using Parameterized Nonnegative Matrix Factorization](https://arxiv.org/abs/2610.05549) | We formulate joint estimation of common-slope decay rates and amplitudes from room impulse responses (RIRs) as parameterized nonnegative matrix factorization with the Itakura--Saito divergence as the... |
 | 2026-10-03 | [Optimizer Geometry Sets the Pace: Spectral Learning Dynamics in Matrix Factorization](https://arxiv.org/abs/2610.04249) | Recent successes of matrix- and curvature-based optimizers have renewed interest in how update geometry shapes learning. |

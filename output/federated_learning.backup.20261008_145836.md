@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-10-07 | [ORDERS: An Empirical Study of Norm-Rank Aggregation for Personalized Federated Learning](https://arxiv.org/abs/2610.10361) | Personalized federated learning combines shared representations with client-specific predictors, but the contribution of a server weighting rule can be obscured by local training and evaluation... |
-| 2026-10-07 | [Receiver-Domain Behavioral Probing for Backdoor-Resilient Federated GPS Spoofing Detection in UAV Networks](https://arxiv.org/abs/2610.10360) | Federated learning lets a UAV fleet train a shared GPS spoofing detector without raw receiver data leaving any aircraft, and several recent UAV-FL designs weight each client by the validation... |
-| 2026-10-06 | [FedRSPO+: A Heterogeneity-aware Algorithm for Decision-focused Federated Learning](https://arxiv.org/abs/2610.09091) | Decision-focused learning (DFL) trains predictive models for downstream optimization, but existing methods largely assume centralized data. |
 | 2026-10-06 | [FedDermaSeg: Federated Learning for Dermatological Image Segmentation](https://arxiv.org/abs/2610.08574) | Skin cancer is a major global health concern, and early detection and accurate lesion delineation are important for effective diagnosis and treatment planning. |
 | 2026-10-06 | [HE-OFT: Privacy-Preserving One-Shot Federated Fine-Tuning under Homomorphic Encryption](https://arxiv.org/abs/2610.08255) | Many organizations adapt large pretrained models to their own tasks by fine-tuning on private data. |
 | 2026-10-06 | [Quantifying the Privacy Posture of Operator-Side 5G/O-RAN Profiles](https://arxiv.org/abs/2610.07976) | Operator-side network profiles derived from 5G/ORAN traffic carry personal data such as ephemeral subscriber identifiers, slice-level KPIs, and control-plane signalling, and must be anonymised before... |

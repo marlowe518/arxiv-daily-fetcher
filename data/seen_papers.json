@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-07T14:47:09.729750",
+  "last_updated": "2026-10-08T14:58:36.998012",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -71831,6 +71831,352 @@
       "published": "2026-10-05T15:03:27+00:00",
       "first_seen": "2026-10-07T14:47:03.671229",
       "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2610.10520": {
+      "arxiv_id": "2610.10520",
+      "title": "Distilling Graph Geometry: Knowledge Gap from GNNs to MLPs",
+      "authors": [
+        "Zhewei Chen",
+        "Hao Zhu",
+        "Jiaojiao Jiang",
+        "Ahad N. Zehmakan"
+      ],
+      "published": "2026-10-07T17:56:01+00:00",
+      "first_seen": "2026-10-08T14:58:13.251858",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.10018": {
+      "arxiv_id": "2610.10018",
+      "title": "Oscillatory Neural Dynamics over Sheaves",
+      "authors": [
+        "Jan-Willem Van Looy",
+        "Alessandro Trenta",
+        "Alessio Gravina",
+        "Alessio Borgi",
+        "Ferdinando Zanchetta",
+        "Pietro Liò",
+        "Davide Bacciu",
+        "Rita Fioresi"
+      ],
+      "published": "2026-10-07T13:08:17+00:00",
+      "first_seen": "2026-10-08T14:58:13.251868",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.09549": {
+      "arxiv_id": "2610.09549",
+      "title": "CircuitGate: Logic-Consistent Circuit-Level Functional Modeling for And-Inverter Graphs",
+      "authors": [
+        "Qifan Zhang",
+        "Ruijie Li",
+        "Fangzhou Zhang",
+        "Qian Ma",
+        "Hui Li",
+        "Furui Zhan",
+        "Yongpeng Wang",
+        "Liying Hao",
+        "Shikai Guo"
+      ],
+      "published": "2026-10-07T06:48:35+00:00",
+      "first_seen": "2026-10-08T14:58:13.251874",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.09297": {
+      "arxiv_id": "2610.09297",
+      "title": "Node-level Graph Neural Architecture Search Framework",
+      "authors": [
+        "Lintao Yanga",
+        "Sirui Lia",
+        "Yaqing Wang",
+        "Pietro Liò",
+        "Xu Shen",
+        "Baisong Liu",
+        "Chengbin Peng"
+      ],
+      "published": "2026-10-07T01:58:33+00:00",
+      "first_seen": "2026-10-08T14:58:13.251879",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.09059": {
+      "arxiv_id": "2610.09059",
+      "title": "EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks",
+      "authors": [
+        "Sai Karthik Navuluru",
+        "Siddhartha Shankar Das",
+        "Franck Dernoncourt",
+        "S M Ferdous",
+        "Ryan A. Rossi",
+        "Nesreen K. Ahmed",
+        "Baris Coskunuzer",
+        "Alex Pothen",
+        "Lakshman Tamil",
+        "Mahantesh M Halappanavar"
+      ],
+      "published": "2026-10-06T20:09:02+00:00",
+      "first_seen": "2026-10-08T14:58:13.251885",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.09034": {
+      "arxiv_id": "2610.09034",
+      "title": "Shared-Roadmap Generation and Evaluator for Multi-Agent Path Planning Using Heterogeneous Graph Neural Network",
+      "authors": [
+        "Brandon Ho",
+        "Nikola Rogers",
+        "Seung-Kyum Choi"
+      ],
+      "published": "2026-10-06T19:33:51+00:00",
+      "first_seen": "2026-10-08T14:58:13.251890",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG",
+        "cs.MA",
+        "cs.RO"
+      ]
+    },
+    "2610.10075": {
+      "arxiv_id": "2610.10075",
+      "title": "BetweenCut: Private Heavy-Node Classification with Doubly Logarithmic Error in Tree Height",
+      "authors": [
+        "Ergute Bao",
+        "Graham Cormode",
+        "Xiaokui Xiao",
+        "Ting Yu"
+      ],
+      "published": "2026-10-07T13:41:07+00:00",
+      "first_seen": "2026-10-08T14:58:21.974242",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.DS"
+      ]
+    },
+    "2610.09651": {
+      "arxiv_id": "2610.09651",
+      "title": "Closed-Form Noise Calibration Against Membership Inference for Random-Allocation DP-SGD",
+      "authors": [
+        "Murat Bilgehan Ertan",
+        "Marten van Dijk"
+      ],
+      "published": "2026-10-07T08:23:56+00:00",
+      "first_seen": "2026-10-08T14:58:21.974252",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2610.09642": {
+      "arxiv_id": "2610.09642",
+      "title": "LDPGraph: Locally Differentially Private Graph Synthesis by Exploiting Neighborhood Structure",
+      "authors": [
+        "Jiawei Dong",
+        "Zhikun Zhang",
+        "Quan Yuan",
+        "Zhe Liu",
+        "Yunjun Gao"
+      ],
+      "published": "2026-10-07T08:17:03+00:00",
+      "first_seen": "2026-10-08T14:58:21.974258",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DB"
+      ]
+    },
+    "2610.10361": {
+      "arxiv_id": "2610.10361",
+      "title": "ORDERS: An Empirical Study of Norm-Rank Aggregation for Personalized Federated Learning",
+      "authors": [
+        "Koffka Khan"
+      ],
+      "published": "2026-10-07T16:31:44+00:00",
+      "first_seen": "2026-10-08T14:58:28.000458",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.10360": {
+      "arxiv_id": "2610.10360",
+      "title": "Receiver-Domain Behavioral Probing for Backdoor-Resilient Federated GPS Spoofing Detection in UAV Networks",
+      "authors": [
+        "Will Jedrzejczak",
+        "Cole Walther",
+        "Dilpreet Gill",
+        "Moh Khalid Hasan"
+      ],
+      "published": "2026-10-07T16:31:28+00:00",
+      "first_seen": "2026-10-08T14:58:28.000467",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "eess.SP"
+      ]
+    },
+    "2610.09091": {
+      "arxiv_id": "2610.09091",
+      "title": "FedRSPO+: A Heterogeneity-aware Algorithm for Decision-focused Federated Learning",
+      "authors": [
+        "Konstantinos Ziliaskopoulos",
+        "Alexander Vinel",
+        "Jiaqi Wang"
+      ],
+      "published": "2026-10-06T20:46:01+00:00",
+      "first_seen": "2026-10-08T14:58:28.000473",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "math.OC",
+        "stat.ML"
+      ]
+    },
+    "2610.10483": {
+      "arxiv_id": "2610.10483",
+      "title": "Two-Level Softmax Sampling Done Right: Correcting Bias from Size Imbalance and Dispersion",
+      "authors": [
+        "Walid Bendada",
+        "Guillaume Salha-Galvan"
+      ],
+      "published": "2026-10-07T17:38:35+00:00",
+      "first_seen": "2026-10-08T14:58:30.947943",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR",
+        "stat.ML"
+      ]
+    },
+    "2610.10124": {
+      "arxiv_id": "2610.10124",
+      "title": "Training with Missed Targets in Generative Recommendation: Separating Supervision from Probability Competition",
+      "authors": [
+        "Xuesi Wang",
+        "Yangbin Shi",
+        "Xiaolin Zheng"
+      ],
+      "published": "2026-10-07T14:07:06+00:00",
+      "first_seen": "2026-10-08T14:58:30.947952",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2610.09425": {
+      "arxiv_id": "2610.09425",
+      "title": "What a Reporting Convention Hides: A Matched-Budget Audit of Quantum Natural Gradient with an Exactly Computed Metric",
+      "authors": [
+        "Lu Wei",
+        "Yufeng Wang",
+        "Haibin Ling"
+      ],
+      "published": "2026-10-07T04:24:54+00:00",
+      "first_seen": "2026-10-08T14:58:30.947957",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "quant-ph"
+      ]
+    },
+    "2610.09337": {
+      "arxiv_id": "2610.09337",
+      "title": "Ask the Expert: LLM-Guided Reinforcement Learning for Autonomous Cyber Defense",
+      "authors": [
+        "Fernando Martinez",
+        "Abhishek Satyam",
+        "Tao Li",
+        "Junaid Farooq",
+        "Ying Wang",
+        "Juntao Chen"
+      ],
+      "published": "2026-10-07T02:53:26+00:00",
+      "first_seen": "2026-10-08T14:58:30.947962",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2610.09070": {
+      "arxiv_id": "2610.09070",
+      "title": "Covariate-dependent Joint Modeling of Multivariate Ordinal Preferences and Its Connections with Comparison Models",
+      "authors": [
+        "Yujie Chen",
+        "Antik Chakraborty",
+        "Anindya Bhadra"
+      ],
+      "published": "2026-10-06T20:15:43+00:00",
+      "first_seen": "2026-10-08T14:58:30.947966",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "stat.ME"
+      ]
+    },
+    "2610.08875": {
+      "arxiv_id": "2610.08875",
+      "title": "An Empirical Study of Agent Skills' Downstream Utility",
+      "authors": [
+        "Yu Cheng",
+        "Dehai Zhao",
+        "Zhongxin Liu",
+        "Qing Huang",
+        "Zhenchang Xing",
+        "Xiaoxue Ren"
+      ],
+      "published": "2026-10-06T06:05:00+00:00",
+      "first_seen": "2026-10-08T14:58:30.947971",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2610.10218": {
+      "arxiv_id": "2610.10218",
+      "title": "Finite-Sample Approximation of Hessian-Guided Perturbed Wasserstein Gradient Flows",
+      "authors": [
+        "Ryotaro Kawata",
+        "Atsushi Nitanda",
+        "Taiji Suzuki"
+      ],
+      "published": "2026-10-07T15:13:56+00:00",
+      "first_seen": "2026-10-08T14:58:34.344047",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2610.08894": {
+      "arxiv_id": "2610.08894",
+      "title": "Trustworthy Domain-Specific AI for Structured Knowledge Retrieval and Reasoning",
+      "authors": [
+        "Ryan C. Barron"
+      ],
+      "published": "2026-10-06T16:35:41+00:00",
+      "first_seen": "2026-10-08T14:58:34.344056",
+      "topic": "Collaborative Filtering",
       "categories": [
         "cs.IR",
         "cs.AI"

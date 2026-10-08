@@ -5,9 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-10-07 | [BetweenCut: Private Heavy-Node Classification with Doubly Logarithmic Error in Tree Height](https://arxiv.org/abs/2610.10075) | Finding heavy nodes in a tree---those whose counts exceed a given threshold---is a building block for analysis and learning over structured data. |
-| 2026-10-07 | [Closed-Form Noise Calibration Against Membership Inference for Random-Allocation DP-SGD](https://arxiv.org/abs/2610.09651) | DP-SGD protects training data by adding Gaussian noise to clipped gradients. |
-| 2026-10-07 | [LDPGraph: Locally Differentially Private Graph Synthesis by Exploiting Neighborhood Structure](https://arxiv.org/abs/2610.09642) | The widespread application of graph data inevitably brings significant privacy risks, as its unprotected use can lead to the leakage of sensitive information. |
 | 2026-10-06 | [Federated Bayesian Surveillance of Mechanical Thrombectomy Adverse Events: A Population Risk Layer for Surgical Digital Twins](https://arxiv.org/abs/2610.08464) | Learned surgical simulators and world models can roll out plausible procedural futures, but they carry no grounded estimate of how often interventional devices actually harm patients. |
 | 2026-10-06 | [One-Shot Private Confidence Regions via Resampling](https://arxiv.org/abs/2610.08460) | We propose a simple framework for constructing differentially private confidence regions \textit{in one shot}, i.e., by adding noise only to the final resampling quantile instead of privatizing the... |
 | 2026-10-05 | [Reward-Driven Learning under Prompt-Level Differential Privacy](https://arxiv.org/abs/2610.07212) | Reinforcement learning with verifiable rewards (RLVR) trains a language model on problems that may themselves be confidential, and the trained model can reveal which problems it saw. |
