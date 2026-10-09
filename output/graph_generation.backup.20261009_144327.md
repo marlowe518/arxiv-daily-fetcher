@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-10-08 | [Is Real-World Training Data Necessary for Generalist Graph Anomaly Detection?](https://arxiv.org/abs/2610.12167) | Generalist graph anomaly detection (GAD) aims to build a foundation model that detects anomalies on arbitrary unseen graphs without retraining or fine-tuning. |
-| 2026-10-08 | [Scalable Hierarchical Graph Generation via Soft Community Structure](https://arxiv.org/abs/2610.12163) | Generating large attributed graphs requires reproducing the topology, generating attributes jointly with the structure, and remaining scalable. |
 | 2026-10-06 | [Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design](https://arxiv.org/abs/2610.08367) | Several discrete design tasks, such as molecular discovery, require diverse collections of useful candidates at low computational cost. |
 | 2026-10-06 | [Towards One-for-All Foundation Model for Attributed Graph Clustering](https://arxiv.org/abs/2610.07778) | Attributed graph clustering aims to discover node groups by jointly exploiting node attributes and graph topology, yet its unsupervised nature makes model selection and adaptation inherently... |
 | 2026-10-05 | [Latent Flow Matching for Molecular Graph Generation](https://arxiv.org/abs/2610.06468) | Modern graph generative models typically operate directly in the discrete graph space, explicitly generating node and edge variables, which can become costly as graphs grow. |

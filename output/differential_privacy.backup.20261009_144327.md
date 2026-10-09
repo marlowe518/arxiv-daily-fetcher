@@ -5,10 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-10-08 | [Local Sensitivity in Exponential Selection: Failure Modes and Valid Calibrations](https://arxiv.org/abs/2610.11870) | Selection is a task that chooses one element from a finite public candidate range to maximize a data-dependent score. |
-| 2026-10-08 | [Minimax Gaussian Mechanisms for Continual Machine Unlearning](https://arxiv.org/abs/2610.11628) | Machine unlearning updates a trained model after records are deleted, aiming to match exact retraining without repeating the full training procedure. |
-| 2026-10-08 | [Soft Voting for Policy-Aware Private Data Synthesis](https://arxiv.org/abs/2610.11285) | Blowfish privacy relaxes differential privacy (DP) by protecting only the attribute-value substitutions a data owner specifies as edges of a policy graph. |
-| 2026-10-08 | [BRACE: Differential Privacy for Dense Associative Memory with LSR Energy](https://arxiv.org/abs/2610.11218) | Dense associative memory (DAM) provides an energy-based framework for memory retrieval with close connections to attention mechanisms in modern artificial intelligence. |
 | 2026-10-07 | [BetweenCut: Private Heavy-Node Classification with Doubly Logarithmic Error in Tree Height](https://arxiv.org/abs/2610.10075) | Finding heavy nodes in a tree---those whose counts exceed a given threshold---is a building block for analysis and learning over structured data. |
 | 2026-10-07 | [Closed-Form Noise Calibration Against Membership Inference for Random-Allocation DP-SGD](https://arxiv.org/abs/2610.09651) | DP-SGD protects training data by adding Gaussian noise to clipped gradients. |
 | 2026-10-07 | [LDPGraph: Locally Differentially Private Graph Synthesis by Exploiting Neighborhood Structure](https://arxiv.org/abs/2610.09642) | The widespread application of graph data inevitably brings significant privacy risks, as its unprotected use can lead to the leakage of sensitive information. |

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-08T14:58:36.998012",
+  "last_updated": "2026-10-09T14:43:27.186426",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -72180,6 +72180,347 @@
       "categories": [
         "cs.IR",
         "cs.AI"
+      ]
+    },
+    "2610.12119": {
+      "arxiv_id": "2610.12119",
+      "title": "Using Weisfeiler-Leman Features for Algorithm Selection in Constraint Optimisation",
+      "authors": [
+        "Alessio Pellegrino",
+        "Jacopo Mauro"
+      ],
+      "published": "2026-10-08T15:16:16+00:00",
+      "first_seen": "2026-10-09T14:43:03.732258",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.12039": {
+      "arxiv_id": "2610.12039",
+      "title": "MPGE: A Multi-Perspective Graph Explainer for Molecular Classification Explanation",
+      "authors": [
+        "Mahtab Sarvmaili"
+      ],
+      "published": "2026-10-08T14:28:47+00:00",
+      "first_seen": "2026-10-09T14:43:03.732271",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.11665": {
+      "arxiv_id": "2610.11665",
+      "title": "Evi-VN: Hard Region Guided Virtual Node Evidence Injection for GNN-Based Fraud Detection",
+      "authors": [
+        "Jiran Tao",
+        "Yifan Wu",
+        "Binyan Jiang"
+      ],
+      "published": "2026-10-08T10:39:10+00:00",
+      "first_seen": "2026-10-09T14:43:03.732279",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.11549": {
+      "arxiv_id": "2610.11549",
+      "title": "$C_4$-Equivariant Flow Matching on Anisotropic Power-Diagram Graphs for Microstructure Generation",
+      "authors": [
+        "Dawid Lipinski",
+        "Jixiang Qing",
+        "Henry Moss"
+      ],
+      "published": "2026-10-08T09:14:39+00:00",
+      "first_seen": "2026-10-09T14:43:03.732286",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.11506": {
+      "arxiv_id": "2610.11506",
+      "title": "Compactness and Consistency: A Conjoint Framework for Deep Graph Clustering",
+      "authors": [
+        "Wei Ju",
+        "Siyu Yi",
+        "Kangjie Zheng",
+        "Yifan Wang",
+        "Ziyue Qiao",
+        "Li Shen",
+        "Yongdao Zhou",
+        "Xiaochun Cao",
+        "Jiancheng Lv"
+      ],
+      "published": "2026-10-08T08:43:10+00:00",
+      "first_seen": "2026-10-09T14:43:03.732292",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.IR",
+        "cs.SI"
+      ]
+    },
+    "2610.11022": {
+      "arxiv_id": "2610.11022",
+      "title": "A Graph Neural Network for Global Daily Fire Radiative Power Prediction at Medium-Range Lead Times",
+      "authors": [
+        "Li Zhang",
+        "Jun Wang",
+        "Isidora Jankov",
+        "Yongxin Liu",
+        "Gonzalo A. Ferrada",
+        "Ravan Ahmadov",
+        "Ligia Bernardet",
+        "Haonan Chen",
+        "Shobha Kondragunta"
+      ],
+      "published": "2026-10-08T00:14:28+00:00",
+      "first_seen": "2026-10-09T14:43:03.732298",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "physics.ao-ph",
+        "cs.LG"
+      ]
+    },
+    "2610.10776": {
+      "arxiv_id": "2610.10776",
+      "title": "NEMORA: Neural Equivariant Multipole Operators for Long-Range Atomistic Learning",
+      "authors": [
+        "Jay L. Kaplan",
+        "Samuel Varner",
+        "Rebecca Willett",
+        "Juan J. de Pablo"
+      ],
+      "published": "2026-10-07T18:32:31+00:00",
+      "first_seen": "2026-10-09T14:43:03.732304",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "physics.chem-ph",
+        "physics.comp-ph"
+      ]
+    },
+    "2610.12167": {
+      "arxiv_id": "2610.12167",
+      "title": "Is Real-World Training Data Necessary for Generalist Graph Anomaly Detection?",
+      "authors": [
+        "Yujing Liu",
+        "Yixin Liu",
+        "Yue Tan",
+        "Xiaofeng Cao",
+        "Alan Wee-Chung Liew",
+        "Heng Tao Shen",
+        "Shirui Pan"
+      ],
+      "published": "2026-10-08T15:41:16+00:00",
+      "first_seen": "2026-10-09T14:43:06.185543",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.12163": {
+      "arxiv_id": "2610.12163",
+      "title": "Scalable Hierarchical Graph Generation via Soft Community Structure",
+      "authors": [
+        "Ahmet Tüzen",
+        "Helge Langseth",
+        "Kjetil Nørvåg"
+      ],
+      "published": "2026-10-08T15:39:53+00:00",
+      "first_seen": "2026-10-09T14:43:06.185555",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.11870": {
+      "arxiv_id": "2610.11870",
+      "title": "Local Sensitivity in Exponential Selection: Failure Modes and Valid Calibrations",
+      "authors": [
+        "Dung Nguyen",
+        "Anil Vullikanti"
+      ],
+      "published": "2026-10-08T12:45:39+00:00",
+      "first_seen": "2026-10-09T14:43:12.621549",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DS",
+        "cs.CR"
+      ]
+    },
+    "2610.11628": {
+      "arxiv_id": "2610.11628",
+      "title": "Minimax Gaussian Mechanisms for Continual Machine Unlearning",
+      "authors": [
+        "Qi Kuang",
+        "Yin Xia"
+      ],
+      "published": "2026-10-08T10:06:26+00:00",
+      "first_seen": "2026-10-09T14:43:12.621561",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2610.11285": {
+      "arxiv_id": "2610.11285",
+      "title": "Soft Voting for Policy-Aware Private Data Synthesis",
+      "authors": [
+        "Yingge Hu",
+        "Gautham Ramesh Babu",
+        "Mostafa Milani"
+      ],
+      "published": "2026-10-08T05:50:04+00:00",
+      "first_seen": "2026-10-09T14:43:12.621568",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.DB"
+      ]
+    },
+    "2610.11218": {
+      "arxiv_id": "2610.11218",
+      "title": "BRACE: Differential Privacy for Dense Associative Memory with LSR Energy",
+      "authors": [
+        "Chang Qu",
+        "Zhaoyang Shi"
+      ],
+      "published": "2026-10-08T04:13:58+00:00",
+      "first_seen": "2026-10-09T14:43:12.621574",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2610.11511": {
+      "arxiv_id": "2610.11511",
+      "title": "EIFL: Efficiently Protecting Global Model Privacy and Integrity Against an Untrusted Server in Federated Learning",
+      "authors": [
+        "Zehui Liao",
+        "Qiang Li",
+        "Binghui Wang"
+      ],
+      "published": "2026-10-08T08:47:52+00:00",
+      "first_seen": "2026-10-09T14:43:18.098198",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2610.10613": {
+      "arxiv_id": "2610.10613",
+      "title": "Temporal transformer CAN encoder with federated lightweight heads for anomaly detection",
+      "authors": [
+        "Konstantinos Gyftodimos",
+        "Kyriakos Chiotis",
+        "Elena Politi",
+        "George Dimitrakopoulos",
+        "Eirini Liotou"
+      ],
+      "published": "2026-10-07T07:13:20+00:00",
+      "first_seen": "2026-10-09T14:43:18.098209",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2610.11590": {
+      "arxiv_id": "2610.11590",
+      "title": "NeuroDivSim: An Interactive Tool for Model-Based Reflection on Cognitive Diversity in Interface Design",
+      "authors": [
+        "Eske Beckefeld",
+        "Henrik H. J. Detjen"
+      ],
+      "published": "2026-10-08T09:40:56+00:00",
+      "first_seen": "2026-10-09T14:43:21.162378",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2610.11228": {
+      "arxiv_id": "2610.11228",
+      "title": "Multimodal Graph Retrieval-Augmented Sequential Recommendation via Collaborative Filtering Paths",
+      "authors": [
+        "Jason Marcell Setiadi",
+        "Xin Cao",
+        "Lina Yao"
+      ],
+      "published": "2026-10-08T04:27:52+00:00",
+      "first_seen": "2026-10-09T14:43:21.162389",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.10920": {
+      "arxiv_id": "2610.10920",
+      "title": "Language Models for Page-Level Layout Decisions in E-commerce Search",
+      "authors": [
+        "Varun Joshi",
+        "Eva C. Song",
+        "ChengXiang Zhai"
+      ],
+      "published": "2026-10-07T21:19:47+00:00",
+      "first_seen": "2026-10-09T14:43:21.162396",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CL",
+        "cs.IR"
+      ]
+    },
+    "2610.10816": {
+      "arxiv_id": "2610.10816",
+      "title": "Improving social media for democratic discourse",
+      "authors": [
+        "Fan Cheng",
+        "Amirhossein Farzmahdi",
+        "Pinyuan Feng",
+        "Kedar Garzón Gupta",
+        "Trenton Jerde",
+        "Nikolaus Kriegeskorte",
+        "Zi Qi Liow",
+        "Akihito Maruya",
+        "Savannah Smith",
+        "Patrick Stinson",
+        "JohnMark Taylor"
+      ],
+      "published": "2026-10-07T19:20:32+00:00",
+      "first_seen": "2026-10-09T14:43:21.162402",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CY",
+        "cs.HC"
+      ]
+    },
+    "2610.10639": {
+      "arxiv_id": "2610.10639",
+      "title": "Visible Reasoning Is Not a Universal Optimizer: Persona- and Thinking-Dependent Effects in Analytics Code Generation",
+      "authors": [
+        "Bhawani Shankar Leelar",
+        "Pawan Chorasiya",
+        "Davin Hill",
+        "Robert E. Tillman",
+        "Tamer Soliman"
+      ],
+      "published": "2026-10-07T14:27:58+00:00",
+      "first_seen": "2026-10-09T14:43:21.162408",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.SE"
       ]
     }
   }

@@ -5,8 +5,6 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
-| 2026-10-08 | [EIFL: Efficiently Protecting Global Model Privacy and Integrity Against an Untrusted Server in Federated Learning](https://arxiv.org/abs/2610.11511) | Federated learning (FL) typically adopts a server-client architecture, where the server aggregates clients' local models (i.e., the input) and returns the aggregated global model (i.e., the output)... |
-| 2026-10-07 | [Temporal transformer CAN encoder with federated lightweight heads for anomaly detection](https://arxiv.org/abs/2610.10613) | Modern vehicles rely on large numbers of Electronic Control Units (ECUs) that constantly exchange information over the Controller Area Network (CAN) bus. |
 | 2026-10-07 | [ORDERS: An Empirical Study of Norm-Rank Aggregation for Personalized Federated Learning](https://arxiv.org/abs/2610.10361) | Personalized federated learning combines shared representations with client-specific predictors, but the contribution of a server weighting rule can be obscured by local training and evaluation... |
 | 2026-10-07 | [Receiver-Domain Behavioral Probing for Backdoor-Resilient Federated GPS Spoofing Detection in UAV Networks](https://arxiv.org/abs/2610.10360) | Federated learning lets a UAV fleet train a shared GPS spoofing detector without raw receiver data leaving any aircraft, and several recent UAV-FL designs weight each client by the validation... |
 | 2026-10-06 | [FedRSPO+: A Heterogeneity-aware Algorithm for Decision-focused Federated Learning](https://arxiv.org/abs/2610.09091) | Decision-focused learning (DFL) trains predictive models for downstream optimization, but existing methods largely assume centralized data. |
