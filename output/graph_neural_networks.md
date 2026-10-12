@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-09 | [When Edge Independence Fails: Joint Graph Diffusion with Latent Sociability Priors](https://arxiv.org/abs/2610.13765) | Discrete graph diffusion models corrupt graph structure through independent edge updates with a Markovian noise model. |
+| 2026-10-09 | [Amortized Counterfactual Prediction with Graph Neural Networks](https://arxiv.org/abs/2610.13724) | Counterfactual inference asks how an observed outcome might have differed under different circumstances, such as whether a patient would have recovered had they received a different treatment. |
+| 2026-10-08 | [Mesh-Native Tokenisation: Retrofitting Foundation Models to Unstructured Data](https://arxiv.org/abs/2610.12618) | Physics foundation models are an increasingly popular approach for building versatile emulators for spatiotemporal systems. |
 | 2026-10-08 | [Using Weisfeiler-Leman Features for Algorithm Selection in Constraint Optimisation](https://arxiv.org/abs/2610.12119) | Algorithm Selection is essential for efficient Constraint Programming. |
 | 2026-10-08 | [MPGE: A Multi-Perspective Graph Explainer for Molecular Classification Explanation](https://arxiv.org/abs/2610.12039) | Graph neural networks (GNNs) predict molecular properties from chemical graph data, but predictive accuracy does not explain how graph information supports an individual decision. |
 | 2026-10-08 | [Evi-VN: Hard Region Guided Virtual Node Evidence Injection for GNN-Based Fraud Detection](https://arxiv.org/abs/2610.11665) | Online platforms contain growing numbers of bots, deceptive reviewers, and scam accounts that imitate legitimate users. |

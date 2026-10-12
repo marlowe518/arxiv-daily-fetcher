@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-08 | [Kronecker Product Attention: Memory-Efficient KV Compression via Structured Factorization](https://arxiv.org/abs/2610.12657) | Efficient autoregressive generation is increasingly limited by the memory footprint of the key-value (KV) cache, which grows linearly with sequence length, batch size, and model depth. |
 | 2026-10-07 | [Finite-Sample Approximation of Hessian-Guided Perturbed Wasserstein Gradient Flows](https://arxiv.org/abs/2610.10218) | Wasserstein gradient flow extends gradient descent to probability measures. |
 | 2026-10-06 | [Trustworthy Domain-Specific AI for Structured Knowledge Retrieval and Reasoning](https://arxiv.org/abs/2610.08894) | This dissertation presents a scalable architecture for transforming unstructured, domain-specific text into structured knowledge for retrieval and reasoning. |
 | 2026-10-05 | [Encoded but Not in Control: Revealing the Grounding Gap in Vision-Language Robot Policies](https://arxiv.org/abs/2610.06235) | Instruction following is central to language-conditioned robot policies: language should determine what to do when the same scene permits multiple valid actions. |

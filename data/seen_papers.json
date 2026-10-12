@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-11T14:24:56.612658",
+  "last_updated": "2026-10-12T17:02:58.195614",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -72521,6 +72521,416 @@
         "cs.LG",
         "cs.AI",
         "cs.SE"
+      ]
+    },
+    "2610.13765": {
+      "arxiv_id": "2610.13765",
+      "title": "When Edge Independence Fails: Joint Graph Diffusion with Latent Sociability Priors",
+      "authors": [
+        "Adarsh Jamadandi",
+        "Nicolas Keriven",
+        "Aline Roumy"
+      ],
+      "published": "2026-10-09T15:50:48+00:00",
+      "first_seen": "2026-10-12T17:02:34.649300",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.13724": {
+      "arxiv_id": "2610.13724",
+      "title": "Amortized Counterfactual Prediction with Graph Neural Networks",
+      "authors": [
+        "Hendrik Stumpf",
+        "Francesco Quinzan"
+      ],
+      "published": "2026-10-09T15:22:18+00:00",
+      "first_seen": "2026-10-12T17:02:34.649313",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.12618": {
+      "arxiv_id": "2610.12618",
+      "title": "Mesh-Native Tokenisation: Retrofitting Foundation Models to Unstructured Data",
+      "authors": [
+        "Georg Maierhofer",
+        "Miles Cranmer",
+        "Payel Mukhopadhyay"
+      ],
+      "published": "2026-10-08T18:37:52+00:00",
+      "first_seen": "2026-10-12T17:02:34.649321",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CE",
+        "cs.AI",
+        "math.NA"
+      ]
+    },
+    "2610.13768": {
+      "arxiv_id": "2610.13768",
+      "title": "From Pixels to Privacy-Sensitive Features: An Information-Theoretic Framework for Reconstruction Bounds",
+      "authors": [
+        "Henry Bourne",
+        "Robert F. Allison"
+      ],
+      "published": "2026-10-09T15:52:39+00:00",
+      "first_seen": "2026-10-12T17:02:43.185186",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2610.13631": {
+      "arxiv_id": "2610.13631",
+      "title": "Private and Distributionally Robust Federated Multiclass Classification",
+      "authors": [
+        "Andrea P. Hernandez",
+        "Michael Ibrahim",
+        "Nagi Gebraeel"
+      ],
+      "published": "2026-10-09T14:13:47+00:00",
+      "first_seen": "2026-10-12T17:02:43.185202",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "math.OC"
+      ]
+    },
+    "2610.13311": {
+      "arxiv_id": "2610.13311",
+      "title": "Quantization-Tolerant Gradient Auditing for Active Inference-Attack Detection in Federated Learning",
+      "authors": [
+        "Michael Kuehne-Schlinkert"
+      ],
+      "published": "2026-10-09T09:54:54+00:00",
+      "first_seen": "2026-10-12T17:02:43.185210",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2610.13307": {
+      "arxiv_id": "2610.13307",
+      "title": "Sustainable Cloud-Fog-Edge Systems for Smart Buildings: Algorithmic Adaptation under Memory Constraints and Dynamic Orchestration Strategies",
+      "authors": [
+        "Mamadou Sow",
+        "Christophe Cerin"
+      ],
+      "published": "2026-10-09T09:52:27+00:00",
+      "first_seen": "2026-10-12T17:02:43.185217",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.DC",
+        "math.NA"
+      ]
+    },
+    "2610.12712": {
+      "arxiv_id": "2610.12712",
+      "title": "Better Batches, Better Privacy: Random Allocation for DP-BandMF",
+      "authors": [
+        "Ryan McKenna",
+        "Arun Ganesh"
+      ],
+      "published": "2026-10-08T20:47:36+00:00",
+      "first_seen": "2026-10-12T17:02:43.185225",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2610.13508": {
+      "arxiv_id": "2610.13508",
+      "title": "FedPCD: Priority-Constrained Federated Aggregation",
+      "authors": [
+        "Yousef Irshaid",
+        "Dara Varam",
+        "Mohamed I. AlHajri"
+      ],
+      "published": "2026-10-09T12:34:43+00:00",
+      "first_seen": "2026-10-12T17:02:49.322615",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.13215": {
+      "arxiv_id": "2610.13215",
+      "title": "Monarch-MoE: Structured Experts for Multimodal Continual Instruction Tuning",
+      "authors": [
+        "Xi Zhang",
+        "Boyu Diao",
+        "Zesen Chen",
+        "Ruiqi Liu",
+        "Hangda Liu",
+        "Yongjun Xu"
+      ],
+      "published": "2026-10-09T08:33:41+00:00",
+      "first_seen": "2026-10-12T17:02:49.322626",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.13186": {
+      "arxiv_id": "2610.13186",
+      "title": "WaSA: Wavelet Scattering Autoencoders for Unsupervised Offline Detection of Malicious Clients in Federated Learning",
+      "authors": [
+        "Alessandro Licciardi"
+      ],
+      "published": "2026-10-09T08:10:10+00:00",
+      "first_seen": "2026-10-12T17:02:49.322633",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.13113": {
+      "arxiv_id": "2610.13113",
+      "title": "Continually Post-training Small Models via Synthetic Self-distillation",
+      "authors": [
+        "Woosung Koh",
+        "Hyunsoo Lee",
+        "Kyungjae Lee",
+        "Haeju Park",
+        "Dahyun Lee",
+        "Dasol Hwang",
+        "Moontae Lee"
+      ],
+      "published": "2026-10-09T07:06:34+00:00",
+      "first_seen": "2026-10-12T17:02:49.322639",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.12907": {
+      "arxiv_id": "2610.12907",
+      "title": "BLEND: Balancing Personalization vs. Generalization in Federated Vision-Language Models",
+      "authors": [
+        "Payam Abdisarabshali",
+        "Fardis Nadimi",
+        "Kasra Borazjani",
+        "Naji Khosravan",
+        "Richeng Jin",
+        "Seyyedali Hosseinalipour"
+      ],
+      "published": "2026-10-09T02:57:18+00:00",
+      "first_seen": "2026-10-12T17:02:49.322645",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2610.12704": {
+      "arxiv_id": "2610.12704",
+      "title": "PVBRF-ID: Private, Verifiable and Byzantine-Robust Federated Intrusion Detection for Oilfield Enterprise Networks",
+      "authors": [
+        "Mustafa S. Aljumaily",
+        "Ali Ataeemh Allami",
+        "Mustafa N. Mnati",
+        "Nawar S. Alseelawi",
+        "Shahab Abdulla"
+      ],
+      "published": "2026-10-08T20:34:03+00:00",
+      "first_seen": "2026-10-12T17:02:49.322650",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2610.12702": {
+      "arxiv_id": "2610.12702",
+      "title": "Product Monte Carlo: Expectation Under a Product of Densities",
+      "authors": [
+        "Pietro Carlotti",
+        "Sifan Liu",
+        "Yuling Yao"
+      ],
+      "published": "2026-10-08T20:33:34+00:00",
+      "first_seen": "2026-10-12T17:02:49.322656",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ME",
+        "cs.LG",
+        "stat.CO"
+      ]
+    },
+    "2610.13806": {
+      "arxiv_id": "2610.13806",
+      "title": "FORTE: A Production Framework for Feature Evaluation and Deprecation in Industrial Recommender Systems",
+      "authors": [
+        "Vishnu Arun",
+        "Adam Obeng",
+        "Tianyou Wang",
+        "Zilin Ren",
+        "Mukuntha Narayanan Sundararaman",
+        "Han Wang",
+        "Shivin Thukral",
+        "Zhixiang Wang",
+        "Saurabh Vishwas Joshi",
+        "Darren Reger"
+      ],
+      "published": "2026-10-09T16:18:39+00:00",
+      "first_seen": "2026-10-12T17:02:52.262712",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.13504": {
+      "arxiv_id": "2610.13504",
+      "title": "Beyond Temporal Proximity: Explanatory World Models for Credit Assignment in Reinforcement Learning",
+      "authors": [
+        "Oriol Corcoll",
+        "Qiyao Wei",
+        "Ciarán Mark Gilligan-Lee"
+      ],
+      "published": "2026-10-09T12:30:14+00:00",
+      "first_seen": "2026-10-12T17:02:52.262723",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2610.13350": {
+      "arxiv_id": "2610.13350",
+      "title": "Hidden Data Challenges in Clinical Machine Learning",
+      "authors": [
+        "Carolin Cissée",
+        "Dennis Fast",
+        "Raneen Younis",
+        "Alexander Löser",
+        "Wolfgang Nejdl",
+        "Zahra Ahmadi"
+      ],
+      "published": "2026-10-09T10:28:03+00:00",
+      "first_seen": "2026-10-12T17:02:52.262729",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.13057": {
+      "arxiv_id": "2610.13057",
+      "title": "CoBe: A Benchmark For Conversational Counterfactual Text Editing",
+      "authors": [
+        "Arvind Raghavan",
+        "Inwoo Hwang",
+        "Shreyas Havaldar",
+        "Kai-Zhan Lee",
+        "Aurghya Maiti",
+        "Yushu Pan",
+        "Jeffrey Wu",
+        "Mingxuan Li",
+        "Elias Bareinboim"
+      ],
+      "published": "2026-10-09T06:11:12+00:00",
+      "first_seen": "2026-10-12T17:02:52.262736",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.ET",
+        "cs.LG"
+      ]
+    },
+    "2610.13051": {
+      "arxiv_id": "2610.13051",
+      "title": "Space Over Statistic, Retraining Over Ranking: Auditing Training Labels Under Label-Only Backdoors",
+      "authors": [
+        "Arnab Dey",
+        "Mohammad Mahfuzul Islam"
+      ],
+      "published": "2026-10-09T06:05:01+00:00",
+      "first_seen": "2026-10-12T17:02:52.262742",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CR",
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2610.12834": {
+      "arxiv_id": "2610.12834",
+      "title": "From Instructional Intent to Classroom-Ready Lessons: Investigating Teacher-AI Collaboration in Lesson Authoring for Secondary Computing Education",
+      "authors": [
+        "Tahreem Yasir",
+        "Wenbo Li",
+        "Deniz Ozturk",
+        "Yasitha Rajapaksha",
+        "Dmitri Droujkov",
+        "Xiaoyi Tian",
+        "Tiffany Barnes"
+      ],
+      "published": "2026-10-09T00:35:00+00:00",
+      "first_seen": "2026-10-12T17:02:52.262748",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2610.12718": {
+      "arxiv_id": "2610.12718",
+      "title": "A Distributional Framework for Behavioral Characterization and Risk Management of Large Language Models",
+      "authors": [
+        "David García-Lorite",
+        "Raul Merino"
+      ],
+      "published": "2026-10-08T20:57:59+00:00",
+      "first_seen": "2026-10-12T17:02:52.262753",
+      "topic": "Recommender Systems",
+      "categories": [
+        "q-fin.RM",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2610.12717": {
+      "arxiv_id": "2610.12717",
+      "title": "AssemblyLens: Exploring the Role of Structural Roadmaps and Strategies of Furniture Assembly Used by Blind and Low Vision Individuals",
+      "authors": [
+        "Bo Liu",
+        "Gene S-H Kim",
+        "Franklin Mingzhe Li",
+        "Rajalakshmi Nandakumar",
+        "Thijs Roumen"
+      ],
+      "published": "2026-10-08T20:55:38+00:00",
+      "first_seen": "2026-10-12T17:02:52.262759",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2610.12657": {
+      "arxiv_id": "2610.12657",
+      "title": "Kronecker Product Attention: Memory-Efficient KV Compression via Structured Factorization",
+      "authors": [
+        "Bahareh Nikpour",
+        "Hossein Rajabzadeh",
+        "Maryam Dialameh",
+        "Vahid Partovi Nia",
+        "Parsa Omidi"
+      ],
+      "published": "2026-10-08T19:23:56+00:00",
+      "first_seen": "2026-10-12T17:02:55.305217",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
       ]
     }
   }
