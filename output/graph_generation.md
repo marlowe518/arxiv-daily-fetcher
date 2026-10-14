@@ -5,6 +5,10 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-13 | [Exact Topological Compliance: Generating Persistence-Equivalent Graphs](https://arxiv.org/abs/2610.18856) | Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). |
+| 2026-10-12 | [MIRRA: Fast, High-Fidelity Molecular Generation with Chemistry-Informed Discrete Flow Matching](https://arxiv.org/abs/2610.17244) | Fast, high-fidelity molecular generation requires accurate chemical choices and efficient sampling. |
+| 2026-10-12 | [OctMole: Multiscale 3D Molecular Generation with Hierarchical Spatial Flows](https://arxiv.org/abs/2610.16586) | Generating accurate 3D molecules requires jointly determining a variable number of atoms, their identities, and geometry across spatial scales: global shape emerges coarsely, whereas chemical bonds... |
+| 2026-10-11 | [FragFlex: Fragment-Based Flexible Molecular Generation for Exploring Vast Chemical Space](https://arxiv.org/abs/2610.15284) | Drug discovery requires efficient exploration of an astronomically large chemical space. |
 | 2026-10-08 | [Is Real-World Training Data Necessary for Generalist Graph Anomaly Detection?](https://arxiv.org/abs/2610.12167) | Generalist graph anomaly detection (GAD) aims to build a foundation model that detects anomalies on arbitrary unseen graphs without retraining or fine-tuning. |
 | 2026-10-08 | [Scalable Hierarchical Graph Generation via Soft Community Structure](https://arxiv.org/abs/2610.12163) | Generating large attributed graphs requires reproducing the topology, generating attributes jointly with the structure, and remaining scalable. |
 | 2026-10-06 | [Evolutionary One-Step Generators: Fast and Diverse Sampling for Discrete Design](https://arxiv.org/abs/2610.08367) | Several discrete design tasks, such as molecular discovery, require diverse collections of useful candidates at low computational cost. |

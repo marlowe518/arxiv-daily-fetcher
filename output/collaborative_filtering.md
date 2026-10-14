@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-11 | [Pathwise Alignment for Collaborative Filtering: Bilateral Conditional Flow Regularization](https://arxiv.org/abs/2610.15506) | Collaborative filtering predicts user-item interactions from implicit feedback. |
 | 2026-10-08 | [Kronecker Product Attention: Memory-Efficient KV Compression via Structured Factorization](https://arxiv.org/abs/2610.12657) | Efficient autoregressive generation is increasingly limited by the memory footprint of the key-value (KV) cache, which grows linearly with sequence length, batch size, and model depth. |
 | 2026-10-07 | [Finite-Sample Approximation of Hessian-Guided Perturbed Wasserstein Gradient Flows](https://arxiv.org/abs/2610.10218) | Wasserstein gradient flow extends gradient descent to probability measures. |
 | 2026-10-06 | [Trustworthy Domain-Specific AI for Structured Knowledge Retrieval and Reasoning](https://arxiv.org/abs/2610.08894) | This dissertation presents a scalable architecture for transforming unstructured, domain-specific text into structured knowledge for retrieval and reasoning. |
