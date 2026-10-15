@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-14 | [Learning Graph Energies for Finite-Time Generation](https://arxiv.org/abs/2610.19946) | Energy-based models can represent distributions over discrete structures such as molecular graphs, but an energy that is accurate at equilibrium need not yield accurate samples when the sampler stops... |
+| 2026-10-14 | [SNACK: A Sequential Notation Framework for Probabilistic Graph Generation](https://arxiv.org/abs/2610.19781) | We introduce SNACK, a string representation for probabilistic graph generation that enables sequence models to generate and model graphs with discrete node and edge features. |
+| 2026-10-14 | [RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios](https://arxiv.org/abs/2610.19698) | Large language models (LLMs) increasingly tackle complex real-world tasks in specialized domains. |
 | 2026-10-13 | [Exact Topological Compliance: Generating Persistence-Equivalent Graphs](https://arxiv.org/abs/2610.18856) | Persistent homology summarizes the topological evolution of a graph as persistence diagrams (PDs). |
 | 2026-10-12 | [MIRRA: Fast, High-Fidelity Molecular Generation with Chemistry-Informed Discrete Flow Matching](https://arxiv.org/abs/2610.17244) | Fast, high-fidelity molecular generation requires accurate chemical choices and efficient sampling. |
 | 2026-10-12 | [OctMole: Multiscale 3D Molecular Generation with Hierarchical Spatial Flows](https://arxiv.org/abs/2610.16586) | Generating accurate 3D molecules requires jointly determining a variable number of atoms, their identities, and geometry across spatial scales: global shape emerges coarsely, whereas chemical bonds... |

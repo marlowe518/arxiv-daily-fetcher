@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-14 | [On Inherent Privacy of Posterior Sampling: A Unified Rényi-Divergence Framework](https://arxiv.org/abs/2610.19573) | Differential Privacy (DP) provides a rigorous framework for quantifying privacy guarantees. |
 | 2026-10-13 | [Counterfactual Certification for Sequential Unlearning with Long-Run Performance Guarantees](https://arxiv.org/abs/2610.17993) | Certified machine unlearning ensures the proximity between the unlearned model and a model retrained without the data to be forgotten. |
 | 2026-10-13 | [Stable-Plastic Subspace Construction for Differentially Private Continual LoRA](https://arxiv.org/abs/2610.17904) | Continual learning (CL) adapts pretrained models to a sequence of tasks while retaining knowledge acquired from earlier tasks. |
 | 2026-10-12 | [Tight End-to-End Accounting for Differentially Private Synthetic Data](https://arxiv.org/abs/2610.17249) | Differentially private (DP) pipelines often combine heterogeneous mechanisms, yet their guarantees are best analyzed using different notions of privacy (e.g., bounded range, zCDP, ADP). |
