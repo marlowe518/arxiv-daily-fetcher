@@ -5,6 +5,10 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-15 | [Private Retrieval Augmented Generation via Random Projection](https://arxiv.org/abs/2610.22297) | Retrieval-Augmented Generation (RAG) enhances the capabilities of large language models (LLMs) by querying external structured knowledge. |
+| 2026-10-15 | [Subgraph Counting with Local Node Differential Privacy](https://arxiv.org/abs/2610.22278) | We study the problem of approximately counting subgraphs under local node differential privacy (LNDP), a recently introduced model that enforces strong privacy guarantees in analyses of distributed... |
+| 2026-10-15 | [From One Query to Many: A Critical Survey of Privacy Accounting in RAG](https://arxiv.org/abs/2610.21245) | Retrieval-augmented generation (RAG) enables large language models to leverage external knowledge but introduces privacy risks when the retrieved corpus contains sensitive information. |
+| 2026-10-15 | [Efficient Agnostic Learning of Univariate Densities Under Local Differential Privacy](https://arxiv.org/abs/2610.21033) | We propose a general framework for non-interactive locally differentially private (LDP) learning of structured univariate distributions that can be approximated by piece-wise polynomials. |
 | 2026-10-14 | [On Inherent Privacy of Posterior Sampling: A Unified Rényi-Divergence Framework](https://arxiv.org/abs/2610.19573) | Differential Privacy (DP) provides a rigorous framework for quantifying privacy guarantees. |
 | 2026-10-13 | [Counterfactual Certification for Sequential Unlearning with Long-Run Performance Guarantees](https://arxiv.org/abs/2610.17993) | Certified machine unlearning ensures the proximity between the unlearned model and a model retrained without the data to be forgotten. |
 | 2026-10-13 | [Stable-Plastic Subspace Construction for Differentially Private Continual LoRA](https://arxiv.org/abs/2610.17904) | Continual learning (CL) adapts pretrained models to a sequence of tasks while retaining knowledge acquired from earlier tasks. |
