@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-16 | [Task-aware Kernel Stein certificates for Rényi differential privacy](https://arxiv.org/abs/2610.23798) | Rènyi differential privacy, based on Rènyi divergence, has become a notion of choice for privacy guarantees. |
+| 2026-10-16 | [Towards Hyperparameter Transfer for Differentially Private Optimization](https://arxiv.org/abs/2610.22976) | Scaling laws and hyperparameter tuning remain central challenges in training large-scale models, particularly under differential privacy (DP), where optimization is further complicated by noise... |
+| 2026-10-15 | [Exploring The Empirical Privacy Landscape of Synthetic Data](https://arxiv.org/abs/2610.22659) | Methods for training language models on sensitive data differ in how they balance capability gains against the risk of leaking private information. |
 | 2026-10-15 | [Private Retrieval Augmented Generation via Random Projection](https://arxiv.org/abs/2610.22297) | Retrieval-Augmented Generation (RAG) enhances the capabilities of large language models (LLMs) by querying external structured knowledge. |
 | 2026-10-15 | [Subgraph Counting with Local Node Differential Privacy](https://arxiv.org/abs/2610.22278) | We study the problem of approximately counting subgraphs under local node differential privacy (LNDP), a recently introduced model that enforces strong privacy guarantees in analyses of distributed... |
 | 2026-10-15 | [From One Query to Many: A Critical Survey of Privacy Accounting in RAG](https://arxiv.org/abs/2610.21245) | Retrieval-augmented generation (RAG) enables large language models to leverage external knowledge but introduces privacy risks when the retrieved corpus contains sensitive information. |

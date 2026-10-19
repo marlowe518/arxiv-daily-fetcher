@@ -5,6 +5,10 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-16 | [Towards a GraphNARX model for structural dynamics](https://arxiv.org/abs/2610.23103) | The current paper introduces the GraphNARX model, a graph-based nonlinear autoregressive exogenous model for structural dynamics. |
+| 2026-10-15 | [LEMON: Equivariant Learning over Attention Maps for Zero-Shot Misbehavior Monitoring on New LLMs](https://arxiv.org/abs/2610.22723) | Large language models exhibit misbehaviors that hinder deployment in high-stakes settings. |
+| 2026-10-15 | [Diagnosing GNN Failure Modes with Layer-Wise Probe Entropy](https://arxiv.org/abs/2610.22595) | Graph neural networks (GNNs) are typically evaluated only at their final layer, obscuring how task-relevant information evolves during message passing. |
+| 2026-10-15 | [An Adaptive-Horizon Graph Neural Operator for coupled surrogate morphodynamic modelling](https://arxiv.org/abs/2610.22432) | Morphodynamic simulations require repeated coupling between hydrodynamic solvers, sediment transport modules, and bed updating. |
 | 2026-10-15 | [GNN-Guided Local Refinement for Efficient Layout Decomposition with DSA-MP](https://arxiv.org/abs/2610.22214) | Multiple patterning lithography (MPL) has been widely used to improve lithography resolution in advanced nodes, but it faces cost limits as feature sizes shrink. |
 | 2026-10-15 | [GraphBEAT: Graph-based Bucketized Event Aggregation Over Time for Early Risk Stratification of Gastrointestinal Cancers](https://arxiv.org/abs/2610.22014) | Longitudinal electronic health records (EHRs) contain complementary diagnostic and laboratory information about patient health. |
 | 2026-10-15 | [ChronoSheaf: Joint Spatio-Temporal Spectral Filtering on Cellular Sheaves](https://arxiv.org/abs/2610.21958) | Sheaf neural networks generalize graph neural networks by assigning each edge a learned linear restriction map that specifies how the local representations of adjacent nodes relate to one another,... |

@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-16 | [ADT: All-Atom Diffusion Tokenizer for 3D Molecular Structures](https://arxiv.org/abs/2610.23265) | Discrete structural tokenization provides a promising route to autoregressive 3D molecular generation. |
 | 2026-10-14 | [Learning Graph Energies for Finite-Time Generation](https://arxiv.org/abs/2610.19946) | Energy-based models can represent distributions over discrete structures such as molecular graphs, but an energy that is accurate at equilibrium need not yield accurate samples when the sampler stops... |
 | 2026-10-14 | [SNACK: A Sequential Notation Framework for Probabilistic Graph Generation](https://arxiv.org/abs/2610.19781) | We introduce SNACK, a string representation for probabilistic graph generation that enables sequence models to generate and model graphs with discrete node and edge features. |
 | 2026-10-14 | [RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios](https://arxiv.org/abs/2610.19698) | Large language models (LLMs) increasingly tackle complex real-world tasks in specialized domains. |
