@@ -5,6 +5,10 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-19 | [Differential privacy with adjustable preservation of multivariate relationships](https://arxiv.org/abs/2610.26460) | This paper derives an exact attenuation formula for multivariate cross-moments under differential privacy achieved through randomized response. |
+| 2026-10-19 | [Formalization of Rényi Differential Privacy in Isabelle/HOL (Draft version)](https://arxiv.org/abs/2610.25636) | Differential privacy (DP) is a gold-standard definition of privacy designed to evaluate the privacy guarantee of databases. |
+| 2026-10-17 | [How Does Muon Work in Private Deep Learning? Scalable Differentially Private Training via Orthogonalization](https://arxiv.org/abs/2610.24736) | Training deep neural networks requires optimizers that balance computational efficiency with formal data privacy. |
+| 2026-10-17 | [Private Evaluation of High-Dimensional Functions](https://arxiv.org/abs/2610.24477) | We study differentially private black-box evaluation of arbitrary high-dimensional functions. |
 | 2026-10-16 | [Task-aware Kernel Stein certificates for Rényi differential privacy](https://arxiv.org/abs/2610.23798) | Rènyi differential privacy, based on Rènyi divergence, has become a notion of choice for privacy guarantees. |
 | 2026-10-16 | [Towards Hyperparameter Transfer for Differentially Private Optimization](https://arxiv.org/abs/2610.22976) | Scaling laws and hyperparameter tuning remain central challenges in training large-scale models, particularly under differential privacy (DP), where optimization is further complicated by noise... |
 | 2026-10-15 | [Exploring The Empirical Privacy Landscape of Synthetic Data](https://arxiv.org/abs/2610.22659) | Methods for training language models on sensitive data differ in how they balance capability gains against the risk of leaking private information. |
