@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-20 | [Efficient Edge-aware Attention Network for Graph Generation](https://arxiv.org/abs/2610.28618) | Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. |
 | 2026-10-17 | [Aptamers as a sandbox for lab-in-the-loop agentic molecular discovery](https://arxiv.org/abs/2610.24806) | Despite breakthroughs in AI-driven molecular generation, existing discovery pipelines operate largely in silico, with wet-lab feedback reserved for validation rather than iterative improvement. |
 | 2026-10-17 | [TopoCompile: Molecular Generation with Exact Global Count Constraints](https://arxiv.org/abs/2610.24511) | Molecular generation designs novel molecules with desired structures and properties. |
 | 2026-10-16 | [ADT: All-Atom Diffusion Tokenizer for 3D Molecular Structures](https://arxiv.org/abs/2610.23265) | Discrete structural tokenization provides a promising route to autoregressive 3D molecular generation. |
