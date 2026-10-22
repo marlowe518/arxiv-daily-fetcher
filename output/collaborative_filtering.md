@@ -5,6 +5,8 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-20 | [How Does Orthogonalization Adapt to the Neural Network Hessian Structure? A Gradient Self Outer-Product Analysis at Initialization](https://arxiv.org/abs/2610.28975) | Muon orthogonalizes a weight matrix's momentum before each step, and on neural networks this simple preconditioner beats AdamW in a wide range of tasks. |
+| 2026-10-09 | [FutureLens: Longitudinal Topic Patterns in Scholarly Text and Future-Work References](https://arxiv.org/abs/2610.28656) | Future-work statements offer a record of the questions researchers choose to leave open. |
 | 2026-10-11 | [Pathwise Alignment for Collaborative Filtering: Bilateral Conditional Flow Regularization](https://arxiv.org/abs/2610.15506) | Collaborative filtering predicts user-item interactions from implicit feedback. |
 | 2026-10-08 | [Kronecker Product Attention: Memory-Efficient KV Compression via Structured Factorization](https://arxiv.org/abs/2610.12657) | Efficient autoregressive generation is increasingly limited by the memory footprint of the key-value (KV) cache, which grows linearly with sequence length, batch size, and model depth. |
 | 2026-10-07 | [Finite-Sample Approximation of Hessian-Guided Perturbed Wasserstein Gradient Flows](https://arxiv.org/abs/2610.10218) | Wasserstein gradient flow extends gradient descent to probability measures. |

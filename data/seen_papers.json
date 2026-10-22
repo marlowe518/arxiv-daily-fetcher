@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-21T13:15:52.942822",
+  "last_updated": "2026-10-22T13:14:11.174117",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -76993,6 +76993,428 @@
       "categories": [
         "cs.IR",
         "cs.LG"
+      ]
+    },
+    "2610.29725": {
+      "arxiv_id": "2610.29725",
+      "title": "Structure-Aware Message Passing on Petri Nets through Directed Walks and Incidence Diffusion",
+      "authors": [
+        "Geri Skenderi"
+      ],
+      "published": "2026-10-21T13:31:05+00:00",
+      "first_seen": "2026-10-22T13:13:47.544602",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.29667": {
+      "arxiv_id": "2610.29667",
+      "title": "Leveraging Time-Series Foundation Models for Financial Crime Detection",
+      "authors": [
+        "Danae Natalie Savvidi",
+        "H. Çağrı Bilgi",
+        "Kubilay Atasu",
+        "Arie van Deursen"
+      ],
+      "published": "2026-10-21T12:42:17+00:00",
+      "first_seen": "2026-10-22T13:13:47.544612",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.29630": {
+      "arxiv_id": "2610.29630",
+      "title": "Space weather dependence of decameter-scale ionospheric irregularities spatial distribution",
+      "authors": [
+        "Oleg I. Berngardt",
+        "Ivan A. Lavygin"
+      ],
+      "published": "2026-10-21T12:12:15+00:00",
+      "first_seen": "2026-10-22T13:13:47.544618",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "physics.ao-ph",
+        "cs.LG",
+        "physics.geo-ph"
+      ]
+    },
+    "2610.29589": {
+      "arxiv_id": "2610.29589",
+      "title": "Fragment-Level Graph Encoding for Interpretable Molecular Property Prediction",
+      "authors": [
+        "Rafael Lopes Almeida",
+        "Ina Pöhner"
+      ],
+      "published": "2026-10-21T11:29:50+00:00",
+      "first_seen": "2026-10-22T13:13:47.544623",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2610.29571": {
+      "arxiv_id": "2610.29571",
+      "title": "Implicit Feature Reweighting for Label-Free Graph Generalization",
+      "authors": [
+        "Tianjun Yao",
+        "Chen Xi",
+        "Xinyang Li",
+        "Lixian Zhong"
+      ],
+      "published": "2026-10-21T11:04:32+00:00",
+      "first_seen": "2026-10-22T13:13:47.544629",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.29111": {
+      "arxiv_id": "2610.29111",
+      "title": "SU(2)-Equivariant Spinor Message Passing for Molecular Magnetism",
+      "authors": [
+        "Erh-Wei Sheng",
+        "Beom Seok Kang",
+        "Yuchao Lin",
+        "Danish Khan",
+        "Anima Anandkumar"
+      ],
+      "published": "2026-10-21T02:51:38+00:00",
+      "first_seen": "2026-10-22T13:13:47.544634",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "physics.chem-ph",
+        "cs.LG"
+      ]
+    },
+    "2610.30099": {
+      "arxiv_id": "2610.30099",
+      "title": "Differentially Private Sparse Reward Estimation with Preference Feedback",
+      "authors": [
+        "Meng Ding",
+        "Mingxi Lei",
+        "Jie Zhang",
+        "Jinyan Liu",
+        "Di Wang"
+      ],
+      "published": "2026-10-21T17:45:42+00:00",
+      "first_seen": "2026-10-22T13:13:56.140289",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.29575": {
+      "arxiv_id": "2610.29575",
+      "title": "Private Online Prediction from Experts with Small Losses",
+      "authors": [
+        "Bo Li",
+        "Peng Ye"
+      ],
+      "published": "2026-10-21T11:18:45+00:00",
+      "first_seen": "2026-10-22T13:13:56.140300",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2610.28991": {
+      "arxiv_id": "2610.28991",
+      "title": "Diffusion Sensitivity Geometry and Strong Duality for Optimal Privacy-Utility Tradeoffs",
+      "authors": [
+        "Tue Do",
+        "Daniel Alabi"
+      ],
+      "published": "2026-10-20T23:37:12+00:00",
+      "first_seen": "2026-10-22T13:13:56.140307",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.IT",
+        "cs.CR"
+      ]
+    },
+    "2610.28968": {
+      "arxiv_id": "2610.28968",
+      "title": "Unit-Aware Differentially Private Quantum Machine Learning for Clinical and Wearable Health Data",
+      "authors": [
+        "Md Khalid Syfullah",
+        "Alvi Ataur Khalil"
+      ],
+      "published": "2026-10-20T22:38:13+00:00",
+      "first_seen": "2026-10-22T13:13:56.140312",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.NE"
+      ]
+    },
+    "2610.28878": {
+      "arxiv_id": "2610.28878",
+      "title": "Actually, All Learnable Distribution Classes Are Privately Learnable",
+      "authors": [
+        "Mohammad Afzali",
+        "Hassan Ashtiani",
+        "Alex Bie",
+        "Gautam Kamath",
+        "Peihan Liu",
+        "Argyris Mouzakis",
+        "Vikrant Singhal"
+      ],
+      "published": "2026-10-20T19:57:13+00:00",
+      "first_seen": "2026-10-22T13:13:56.140316",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2610.28797": {
+      "arxiv_id": "2610.28797",
+      "title": "CALLIOPE: Private Insights into AI Use, Without Embeddings",
+      "authors": [
+        "Edith Cohen",
+        "Vadym Doroshenko",
+        "Badih Ghazi",
+        "Charlie Harrison",
+        "Pritish Kamath",
+        "Alexander Knop",
+        "Ravi Kumar",
+        "Ethan Leeman",
+        "Pasin Manurangsi",
+        "Mikhail Pravilov",
+        "Adam Sealfon",
+        "Yurii Sushko",
+        "Marika Swanberg",
+        "Chiyuan Zhang"
+      ],
+      "published": "2026-10-20T18:23:08+00:00",
+      "first_seen": "2026-10-22T13:13:56.140321",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CL",
+        "cs.CR"
+      ]
+    },
+    "2610.30075": {
+      "arxiv_id": "2610.30075",
+      "title": "From Classifier Heads to Encoder Prototypes: Personalized Federated Learning with Head-Derived Clustering",
+      "authors": [
+        "Amirardalan Dehghanpour",
+        "Arian Noori",
+        "Ehsan Tanghatari",
+        "Naimeh Omidvar",
+        "Hamid R. Rabiee"
+      ],
+      "published": "2026-10-21T17:27:46+00:00",
+      "first_seen": "2026-10-22T13:14:02.574494",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.29252": {
+      "arxiv_id": "2610.29252",
+      "title": "Extending FAIR Principles with Observability for Trustworthy Federated Learning",
+      "authors": [
+        "Hangli Ge",
+        "Noboru Koshizuka"
+      ],
+      "published": "2026-10-21T06:00:31+00:00",
+      "first_seen": "2026-10-22T13:14:02.574504",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2610.30128": {
+      "arxiv_id": "2610.30128",
+      "title": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation",
+      "authors": [
+        "Zhanshuo Cao",
+        "Jiakai Tang",
+        "Yuqi Zhou",
+        "Sunhao Dai",
+        "Jun Xu"
+      ],
+      "published": "2026-10-21T17:58:06+00:00",
+      "first_seen": "2026-10-22T13:14:05.260038",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2610.29925": {
+      "arxiv_id": "2610.29925",
+      "title": "Privacy in Context Is Being Overlooked in the Age of General-Purpose LLMs",
+      "authors": [
+        "Prakhar Ganesh",
+        "Yash More",
+        "Marco Romanelli",
+        "Ferdinando Fioretto",
+        "Golnoosh Farnadi"
+      ],
+      "published": "2026-10-21T16:01:42+00:00",
+      "first_seen": "2026-10-22T13:14:05.260047",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.29785": {
+      "arxiv_id": "2610.29785",
+      "title": "Where Do LLMs Learn to Recommend AI?",
+      "authors": [
+        "Benaya Trabelsi",
+        "Jonathan Shaki",
+        "Sarit Kraus"
+      ],
+      "published": "2026-10-21T14:13:52+00:00",
+      "first_seen": "2026-10-22T13:14:05.260053",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.CY",
+        "cs.LG"
+      ]
+    },
+    "2610.29556": {
+      "arxiv_id": "2610.29556",
+      "title": "SOAR: Social and Opinion-Aware Recommendations",
+      "authors": [
+        "Giannis Christoforidis",
+        "Apostolos N. Papadopoulos"
+      ],
+      "published": "2026-10-21T10:42:44+00:00",
+      "first_seen": "2026-10-22T13:14:05.260058",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2610.29487": {
+      "arxiv_id": "2610.29487",
+      "title": "The Serendiptionnaire: a Questionnaire for Measuring Experienced Serendipity",
+      "authors": [
+        "Brett Binst",
+        "Annelien Smets"
+      ],
+      "published": "2026-10-21T09:43:53+00:00",
+      "first_seen": "2026-10-22T13:14:05.260063",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2610.29298": {
+      "arxiv_id": "2610.29298",
+      "title": "Generative Recommenders Forget the Long Tail: Restoring Memorization in Retrieval and Ranking",
+      "authors": [
+        "Xu Huang",
+        "Jiancan Wu",
+        "Hongzheng Qin",
+        "Jiawei Feng",
+        "Can Ye",
+        "Wencong Zeng",
+        "Fengze Li",
+        "Xiang Wang"
+      ],
+      "published": "2026-10-21T06:49:39+00:00",
+      "first_seen": "2026-10-22T13:14:05.260068",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.29140": {
+      "arxiv_id": "2610.29140",
+      "title": "From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines",
+      "authors": [
+        "Samhitha Goutham",
+        "Ziwei Gu"
+      ],
+      "published": "2026-10-21T03:20:51+00:00",
+      "first_seen": "2026-10-22T13:14:05.260072",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI"
+      ]
+    },
+    "2610.28976": {
+      "arxiv_id": "2610.28976",
+      "title": "SSMCGM-Stream: A Streaming State-Space Model for Personalized Diabetes Management",
+      "authors": [
+        "Shakson Isaac",
+        "Chirag Patel"
+      ],
+      "published": "2026-10-20T22:48:57+00:00",
+      "first_seen": "2026-10-22T13:14:05.260076",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.28933": {
+      "arxiv_id": "2610.28933",
+      "title": "The Data Differentiator Framework (DDF): Quantifying Marginal Data Value with Information-Theoretic and Game-Theoretic Measures in an Agentic Evaluation Pipeline (SDSAE)",
+      "authors": [
+        "Sukesh Kumar",
+        "Dilip Singh"
+      ],
+      "published": "2026-10-20T21:10:19+00:00",
+      "first_seen": "2026-10-22T13:14:05.260080",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.28975": {
+      "arxiv_id": "2610.28975",
+      "title": "How Does Orthogonalization Adapt to the Neural Network Hessian Structure? A Gradient Self Outer-Product Analysis at Initialization",
+      "authors": [
+        "Shenyang Deng",
+        "Garvit Goyal",
+        "Tianyu Pang",
+        "Shuhua Yu",
+        "Yaoqing Yang"
+      ],
+      "published": "2026-10-20T22:48:42+00:00",
+      "first_seen": "2026-10-22T13:14:08.376987",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.28656": {
+      "arxiv_id": "2610.28656",
+      "title": "FutureLens: Longitudinal Topic Patterns in Scholarly Text and Future-Work References",
+      "authors": [
+        "Ibrahim Al Azher",
+        "Hamed Alhoori"
+      ],
+      "published": "2026-10-09T09:50:18+00:00",
+      "first_seen": "2026-10-22T13:14:08.376996",
+      "topic": "Collaborative Filtering",
+      "categories": [
+        "cs.DL",
+        "cs.AI",
+        "cs.IR"
       ]
     }
   }
