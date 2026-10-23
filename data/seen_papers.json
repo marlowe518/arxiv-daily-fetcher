@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-22T13:14:11.174117",
+  "last_updated": "2026-10-23T12:53:19.344592",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -77414,6 +77414,440 @@
       "categories": [
         "cs.DL",
         "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2610.31572": {
+      "arxiv_id": "2610.31572",
+      "title": "On the Token Collapse Phenomenon in Textual Graph Soft Prompting",
+      "authors": [
+        "Andrea Giuseppe Di Francesco",
+        "Rishabh Jain",
+        "Franco Maria Nardini",
+        "Nicola Tonellotto",
+        "Pietro Liò",
+        "Fabrizio Silvestri"
+      ],
+      "published": "2026-10-22T17:13:03+00:00",
+      "first_seen": "2026-10-23T12:52:55.743250",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.30902": {
+      "arxiv_id": "2610.30902",
+      "title": "Beyond Phenotypic Similarity: Relation Refinement and Selective Population Graph Learning for Multimodal Brain Disorder Diagnosis",
+      "authors": [
+        "Yinyu Lan"
+      ],
+      "published": "2026-10-22T08:25:29+00:00",
+      "first_seen": "2026-10-23T12:52:55.743263",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2610.30748": {
+      "arxiv_id": "2610.30748",
+      "title": "Visualizing and Interpreting Temporal Care Team Dynamics for Cancer Survival Risk Analysis",
+      "authors": [
+        "Yuhua Huang",
+        "Hsiao-Ying Lu",
+        "Kwan-Liu Ma"
+      ],
+      "published": "2026-10-22T05:16:53+00:00",
+      "first_seen": "2026-10-23T12:52:55.743271",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.30444": {
+      "arxiv_id": "2610.30444",
+      "title": "Stability Analysis of Signed Graphs under Structural Perturbations",
+      "authors": [
+        "Ning Zhang",
+        "Li Zhang"
+      ],
+      "published": "2026-10-21T20:53:44+00:00",
+      "first_seen": "2026-10-23T12:52:55.743278",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.30394": {
+      "arxiv_id": "2610.30394",
+      "title": "Escaping the Phylogenetic Trap: Persistent Homology Enables Cross-Species Ion Channel Classification via Multimodal Graph Neural Networks",
+      "authors": [
+        "Arezoo Bybordi",
+        "Favour Achimba",
+        "Mariam Gelashvili",
+        "Jessy Ramirez",
+        "Weigang Qiu",
+        "Mandë Holford",
+        "Anita Raja"
+      ],
+      "published": "2026-10-21T19:59:07+00:00",
+      "first_seen": "2026-10-23T12:52:55.743285",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.BM"
+      ]
+    },
+    "2610.30186": {
+      "arxiv_id": "2610.30186",
+      "title": "SIGNN++: Robust Graph Neural Star Identification on Earth",
+      "authors": [
+        "Jeongbin Sohn",
+        "Jina Lee",
+        "Max Yen",
+        "Dowan Gwon",
+        "Jeahn Han",
+        "Floyd Hepburn-Dickins",
+        "Brian Coltin",
+        "Ryan Soussan",
+        "Pyojin Kim"
+      ],
+      "published": "2026-10-20T12:39:22+00:00",
+      "first_seen": "2026-10-23T12:52:55.743291",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "astro-ph.IM",
+        "cs.LG"
+      ]
+    },
+    "2610.31612": {
+      "arxiv_id": "2610.31612",
+      "title": "Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy",
+      "authors": [
+        "Gautam Kamath",
+        "Mahbod Majid",
+        "Ankur Moitra",
+        "Argyris Mouzakis",
+        "Jonathan Ullman"
+      ],
+      "published": "2026-10-22T17:40:13+00:00",
+      "first_seen": "2026-10-23T12:53:04.538851",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DS"
+      ]
+    },
+    "2610.31294": {
+      "arxiv_id": "2610.31294",
+      "title": "Practical Auditing of Differentially Private Graph Release Mechanisms: Methodology, Toolkit, and Case Study",
+      "authors": [
+        "Nicholas D'Silva",
+        "Surya Nepal",
+        "Salil S. Kanhere"
+      ],
+      "published": "2026-10-22T13:57:00+00:00",
+      "first_seen": "2026-10-23T12:53:04.538865",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2610.30514": {
+      "arxiv_id": "2610.30514",
+      "title": "Membership Inference Attack on Private Evolution",
+      "authors": [
+        "Daniil Filienko",
+        "Sikha Pentyala",
+        "Martine De Cock"
+      ],
+      "published": "2026-10-21T22:50:30+00:00",
+      "first_seen": "2026-10-23T12:53:04.538874",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2610.31211": {
+      "arxiv_id": "2610.31211",
+      "title": "Evolving Federated Density Peak Clustering with Shuffler-Based Anonymization",
+      "authors": [
+        "Miha Ožbot",
+        "Seiichi Ozawa",
+        "Igor Škrjanc"
+      ],
+      "published": "2026-10-22T12:58:40+00:00",
+      "first_seen": "2026-10-23T12:53:10.631967",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DC",
+        "eess.SY"
+      ]
+    },
+    "2610.31133": {
+      "arxiv_id": "2610.31133",
+      "title": "Is High Local Accuracy Enough? Geometric Consensus with Support-Adaptive Statistical Personalization for Federated Learning",
+      "authors": [
+        "Junyu Lin",
+        "Bosong Qi",
+        "Pengcheng Shi",
+        "Jiayuan Li"
+      ],
+      "published": "2026-10-22T11:52:26+00:00",
+      "first_seen": "2026-10-23T12:53:10.631978",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.31481": {
+      "arxiv_id": "2610.31481",
+      "title": "Supporting or Replacing Students' Reasoning? Cognitive Offloading in AI-Assisted Proof Learning",
+      "authors": [
+        "Eason Chen",
+        "Sophia Judicke",
+        "Kayla Beigh",
+        "Xinyi Tang",
+        "Isabel Wang",
+        "Nina Yuan",
+        "Zimo Xiao",
+        "Chuangji Li",
+        "Shizhuo Li",
+        "Reed Luttmer",
+        "Shreya Singh",
+        "Maria Yampolsky",
+        "Naman Parikh",
+        "Yvonne Zhao",
+        "Meiyi Chen",
+        "Scarlett Huang",
+        "Anishka Mohanty",
+        "Gregory Johnson",
+        "John Mackey",
+        "Jionghao Lin",
+        "Ken Koedinger"
+      ],
+      "published": "2026-10-22T16:06:25+00:00",
+      "first_seen": "2026-10-23T12:53:13.335297",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2610.31172": {
+      "arxiv_id": "2610.31172",
+      "title": "Prompting Strategy Effects Depend on the Judge: A Multilingual Study of LLM-as-a-Judge Robustness",
+      "authors": [
+        "Asal Mehrabi",
+        "Mohammad Aliannejadi",
+        "Clemencia Siro"
+      ],
+      "published": "2026-10-22T12:27:05+00:00",
+      "first_seen": "2026-10-23T12:53:13.335308",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2610.31148": {
+      "arxiv_id": "2610.31148",
+      "title": "Prompt Sensitivity in Tool-Augmented Model Comparisons",
+      "authors": [
+        "Mateusz Modrzejewski",
+        "Tomasz Radzikowski"
+      ],
+      "published": "2026-10-22T12:07:01+00:00",
+      "first_seen": "2026-10-23T12:53:13.335315",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2610.31147": {
+      "arxiv_id": "2610.31147",
+      "title": "PriMa-Causa: Causal Prescriptive Maintenance",
+      "authors": [
+        "Felix Saretzky"
+      ],
+      "published": "2026-10-22T12:06:59+00:00",
+      "first_seen": "2026-10-23T12:53:13.335321",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "eess.SY"
+      ]
+    },
+    "2610.30941": {
+      "arxiv_id": "2610.30941",
+      "title": "PAIR: Preference-Aligned Intent Retrieval for Premium People Recommendation at LinkedIn",
+      "authors": [
+        "Zhongkai Shangguan",
+        "Yanbin Kang",
+        "Yihan Cao",
+        "Ruijie Jiang",
+        "Qiannan Yin",
+        "Chang Yue",
+        "Zijian Zhou",
+        "Girish Kathalagiri",
+        "Changshuai Wei",
+        "Zhengming Xing"
+      ],
+      "published": "2026-10-22T08:57:58+00:00",
+      "first_seen": "2026-10-23T12:53:13.335328",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2610.30932": {
+      "arxiv_id": "2610.30932",
+      "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+      "authors": [
+        "Jujia Zhao",
+        "Jiakai Tang",
+        "Jing Yu",
+        "Wen Chen",
+        "Jian Wu",
+        "Han Zhu",
+        "Fei Sun",
+        "Suzan Verberne",
+        "Zhaochun Ren"
+      ],
+      "published": "2026-10-22T08:54:16+00:00",
+      "first_seen": "2026-10-23T12:53:13.335333",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.30825": {
+      "arxiv_id": "2610.30825",
+      "title": "Bezier-Guided Adaptive Flow for Cross-domain Sequential Recommendation",
+      "authors": [
+        "Ziang Lu",
+        "Yu Zhang",
+        "Xinzhe Jiang",
+        "Lei Sang",
+        "Yiwen Zhang"
+      ],
+      "published": "2026-10-22T06:53:57+00:00",
+      "first_seen": "2026-10-23T12:53:13.335339",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.30675": {
+      "arxiv_id": "2610.30675",
+      "title": "OneLatent: Latent Reasoning for Efficient Foundation Recommendation Models",
+      "authors": [
+        "Hao Jiang",
+        "Peiru Du",
+        "Pengfei Yao",
+        "Mengting Li",
+        "Siyuan Lou",
+        "Kuo Cai",
+        "Sheng Yu",
+        "Qiang Luo",
+        "Jian Liang",
+        "Ruiming Tang",
+        "Fei Pan",
+        "Peng Jiang",
+        "Wenwu Ou"
+      ],
+      "published": "2026-10-22T03:39:38+00:00",
+      "first_seen": "2026-10-23T12:53:13.335345",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.30612": {
+      "arxiv_id": "2610.30612",
+      "title": "The Fusion Tax: A Diagnostic Analysis of When Hybrid Retrieval Hurts",
+      "authors": [
+        "Aaditya Chauhan",
+        "Arun Agarwal"
+      ],
+      "published": "2026-10-22T02:24:08+00:00",
+      "first_seen": "2026-10-23T12:53:13.335351",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CL"
+      ]
+    },
+    "2610.30605": {
+      "arxiv_id": "2610.30605",
+      "title": "PATH: Preference-Aware Traversability Estimation for Robotic Teleoperation in Off-Road Navigation",
+      "authors": [
+        "Xianghao Meng",
+        "Wenshuo Wang",
+        "Cheng Shao",
+        "Lewei Feng",
+        "Qingxiao Liu",
+        "Canyu Wang",
+        "Junqiang Xi"
+      ],
+      "published": "2026-10-22T02:08:58+00:00",
+      "first_seen": "2026-10-23T12:53:13.335356",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.RO",
+        "cs.HC"
+      ]
+    },
+    "2610.30577": {
+      "arxiv_id": "2610.30577",
+      "title": "Evaluating Type-1 Diabetes Digital Twins by Decision Quality",
+      "authors": [
+        "Victor Li",
+        "Owen Tucker",
+        "Michael S. Hughes",
+        "Temiloluwa Prioleau",
+        "Shengpu Tang"
+      ],
+      "published": "2026-10-22T01:14:55+00:00",
+      "first_seen": "2026-10-23T12:53:13.335361",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.30384": {
+      "arxiv_id": "2610.30384",
+      "title": "Bayesian Fixed-Confidence Best-Arm Identification with Abstention",
+      "authors": [
+        "Yuqi Huang",
+        "Yunlong Hou",
+        "Vincent Y. F. Tan"
+      ],
+      "published": "2026-10-21T19:45:09+00:00",
+      "first_seen": "2026-10-23T12:53:13.335367",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.30359": {
+      "arxiv_id": "2610.30359",
+      "title": "FAIRGate: Agentic Runtime Policy Selection and Verified Repair for Fairer Recommendation Delivery",
+      "authors": [
+        "Navkar Jain",
+        "Enock Ayiku",
+        "Kenneth Fletcher"
+      ],
+      "published": "2026-10-21T19:23:57+00:00",
+      "first_seen": "2026-10-23T12:53:13.335372",
+      "topic": "Recommender Systems",
+      "categories": [
         "cs.IR"
       ]
     }

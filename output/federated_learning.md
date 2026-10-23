@@ -5,6 +5,8 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-22 | [Evolving Federated Density Peak Clustering with Shuffler-Based Anonymization](https://arxiv.org/abs/2610.31211) | In this paper, we present a novel one-shot federated clustering approach based on evolving fuzzy clustering and shuffler-based anonymization. |
+| 2026-10-22 | [Is High Local Accuracy Enough? Geometric Consensus with Support-Adaptive Statistical Personalization for Federated Learning](https://arxiv.org/abs/2610.31133) | Real-world deployment of personalized federated learning (PFL) requires adapting to heterogeneous clients while preserving recognition performance beyond local distributions. |
 | 2026-10-21 | [From Classifier Heads to Encoder Prototypes: Personalized Federated Learning with Head-Derived Clustering](https://arxiv.org/abs/2610.30075) | Personalized federated learning must decide which clients should share representations. |
 | 2026-10-21 | [Extending FAIR Principles with Observability for Trustworthy Federated Learning](https://arxiv.org/abs/2610.29252) | Federated learning (FL) keeps data at its source, but locality alone does not make a federation trustworthy. |
 | 2026-10-20 | [The Dynamics of Collapse and Recovery in Clustered Federated Learning](https://arxiv.org/abs/2610.28565) | Clustered federated learning (CFL) can suffer from cluster collapse. |

@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-22 | [Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy](https://arxiv.org/abs/2610.31612) | We study learning a discrete distribution under person-level differential privacy in the batched setting. |
+| 2026-10-22 | [Practical Auditing of Differentially Private Graph Release Mechanisms: Methodology, Toolkit, and Case Study](https://arxiv.org/abs/2610.31294) | Differential Privacy (DP) has become a prominent approach for protecting graph data releases, yet empirical auditing methodologies have largely been developed for tabular datasets and machine... |
+| 2026-10-21 | [Membership Inference Attack on Private Evolution](https://arxiv.org/abs/2610.30514) | Synthetic Data Generation (SDG) is an actively studied way to enable safe sharing of private data more broadly. |
 | 2026-10-21 | [Differentially Private Sparse Reward Estimation with Preference Feedback](https://arxiv.org/abs/2610.30099) | Reinforcement Learning with Human Feedback (RLHF) has become a central paradigm for aligning Large Language Models with human values. |
 | 2026-10-21 | [Private Online Prediction from Experts with Small Losses](https://arxiv.org/abs/2610.29575) | We consider online prediction from experts, a fundamental problem in machine learning, under differential privacy constraints. |
 | 2026-10-20 | [Diffusion Sensitivity Geometry and Strong Duality for Optimal Privacy-Utility Tradeoffs](https://arxiv.org/abs/2610.28991) | Existing approaches to differential privacy in diffusion models rely on loose sensitivity bounds and isotropic Gaussian noise, leading to unnecessary estimation error. |
