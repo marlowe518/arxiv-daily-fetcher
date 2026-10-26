@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-23 | [On the Limits of Sparse Linear Model with Shuffled Differential Privacy](https://arxiv.org/abs/2610.32822) | Sparse linear regression is a fundamental problem in high-dimensional statistics, and its private counterparts leave a large gap between the central and the local model of differential privacy. |
 | 2026-10-22 | [Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy](https://arxiv.org/abs/2610.31612) | We study learning a discrete distribution under person-level differential privacy in the batched setting. |
 | 2026-10-22 | [Practical Auditing of Differentially Private Graph Release Mechanisms: Methodology, Toolkit, and Case Study](https://arxiv.org/abs/2610.31294) | Differential Privacy (DP) has become a prominent approach for protecting graph data releases, yet empirical auditing methodologies have largely been developed for tabular datasets and machine... |
 | 2026-10-21 | [Membership Inference Attack on Private Evolution](https://arxiv.org/abs/2610.30514) | Synthetic Data Generation (SDG) is an actively studied way to enable safe sharing of private data more broadly. |

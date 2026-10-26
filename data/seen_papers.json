@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-10-25T12:47:58.632970",
+  "last_updated": "2026-10-26T14:36:10.680660",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -77846,6 +77846,303 @@
       ],
       "published": "2026-10-21T19:23:57+00:00",
       "first_seen": "2026-10-23T12:53:13.335372",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.32241": {
+      "arxiv_id": "2610.32241",
+      "title": "Spatial Heuristic Strategy based Diffusion Reinforcement Learning for Online 3D Bin Packing",
+      "authors": [
+        "Tong Li",
+        "Qingyang Xu"
+      ],
+      "published": "2026-10-23T06:49:30+00:00",
+      "first_seen": "2026-10-26T14:35:46.801878",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2610.32650": {
+      "arxiv_id": "2610.32650",
+      "title": "WL-SeqVAE: Sequence-Based Graph Generation Using Variational Autoencoders and Weisfeiler-Leman Colors",
+      "authors": [
+        "Iakovos Evdaimon",
+        "Giannis Nikolentzos",
+        "Achilleas Tsimichodimos",
+        "Christos Xypolopoulos",
+        "Michalis Vazirgiannis"
+      ],
+      "published": "2026-10-23T13:58:08+00:00",
+      "first_seen": "2026-10-26T14:35:49.734766",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.32602": {
+      "arxiv_id": "2610.32602",
+      "title": "Trajectory Matching: Discrete Flow Matching with Structured Actions",
+      "authors": [
+        "Niklas Kemper",
+        "Marten Lienen",
+        "David Lüdke",
+        "Stephan Günnemann"
+      ],
+      "published": "2026-10-23T13:27:32+00:00",
+      "first_seen": "2026-10-26T14:35:49.734773",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.32822": {
+      "arxiv_id": "2610.32822",
+      "title": "On the Limits of Sparse Linear Model with Shuffled Differential Privacy",
+      "authors": [
+        "Yan Zhang",
+        "Jiong Tuo",
+        "Meng Ding",
+        "Yuheng Ma",
+        "Di Wang"
+      ],
+      "published": "2026-10-23T15:56:19+00:00",
+      "first_seen": "2026-10-26T14:35:55.659005",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.32888": {
+      "arxiv_id": "2610.32888",
+      "title": "When Human Corrections Travel: Safety in Federated VLA Adaptation",
+      "authors": [
+        "Vigneshwaran Subbaraju",
+        "Obaidullah Zaland",
+        "Monowar Bhuyan"
+      ],
+      "published": "2026-10-23T16:56:03+00:00",
+      "first_seen": "2026-10-26T14:36:01.700636",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ]
+    },
+    "2610.32765": {
+      "arxiv_id": "2610.32765",
+      "title": "Clean-label Poisoning Attack and Defense Game for Federated Learning in Vehicular Networks",
+      "authors": [
+        "Yalin E. Sagduyu",
+        "Tugba Erpek",
+        "Nathan Stephenson",
+        "Mengran Xue"
+      ],
+      "published": "2026-10-23T15:06:14+00:00",
+      "first_seen": "2026-10-26T14:36:01.700643",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.NI",
+        "cs.AI",
+        "cs.DC",
+        "cs.LG",
+        "eess.SP"
+      ]
+    },
+    "2610.32626": {
+      "arxiv_id": "2610.32626",
+      "title": "Privacy-Preserving Federated Loss Exploration for Vision-Based Perception under Non-IID Data",
+      "authors": [
+        "Nergiz Yuca",
+        "Christian Internò",
+        "Nikolay Matyunin",
+        "Markus Olhofer",
+        "Barbara Hammer",
+        "Stefan Katzenbeisser"
+      ],
+      "published": "2026-10-23T13:41:37+00:00",
+      "first_seen": "2026-10-26T14:36:01.700647",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2610.32215": {
+      "arxiv_id": "2610.32215",
+      "title": "Democratizing LLM Training with the Edge: Challenges, Systems, and the Road Ahead",
+      "authors": [
+        "Ziyue Luo",
+        "Jiaxuan Cai",
+        "Cedric LeDenmat",
+        "Srijith Nair",
+        "Fatemeh Nourzad",
+        "Rohith Krishnan",
+        "Qinhang Wu",
+        "Jifan Zhang",
+        "Sungjae Lee",
+        "Zhe Li",
+        "Peiwen Qiu",
+        "Siddharth Shah",
+        "Rishabh Sharma",
+        "Sundararajan Srinivasan",
+        "Yinglun Xia",
+        "Xue Zheng",
+        "Zidong Liu",
+        "Bicheng Ying",
+        "Kaushik Chowdhury",
+        "Gauri Joshi",
+        "Yingbin Liang",
+        "Robert Nowak",
+        "Srinivasan Parthasarathy",
+        "Saurav Prakash",
+        "Balaraman Ravindran",
+        "Sanjay Shakkottai",
+        "Ness B. Shroff",
+        "Haibo Yang",
+        "Aylin Yener",
+        "Jia Liu"
+      ],
+      "published": "2026-10-23T06:11:51+00:00",
+      "first_seen": "2026-10-26T14:36:01.700652",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2610.32980": {
+      "arxiv_id": "2610.32980",
+      "title": "Separating Thinking from Spelling for Efficient Generative Recommendation",
+      "authors": [
+        "Danil Gusak",
+        "Anna Volodkevich",
+        "Ivan Oseledets",
+        "Evgeny Frolov"
+      ],
+      "published": "2026-10-23T17:59:24+00:00",
+      "first_seen": "2026-10-26T14:36:05.715602",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.32943": {
+      "arxiv_id": "2610.32943",
+      "title": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recommendation",
+      "authors": [
+        "Yixuan Xu",
+        "Hailin Liu",
+        "Linxiang Peng",
+        "Can Yang"
+      ],
+      "published": "2026-10-23T17:37:55+00:00",
+      "first_seen": "2026-10-26T14:36:05.715609",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2610.32910": {
+      "arxiv_id": "2610.32910",
+      "title": "Recommender regret for improving regularised RL estimation with bandits and MCTS",
+      "authors": [
+        "Danilo Vucetic",
+        "Alexandre Larouche",
+        "Mohammad Pedramfar",
+        "Audrey Durand",
+        "Gauthier Gidel"
+      ],
+      "published": "2026-10-23T17:14:15+00:00",
+      "first_seen": "2026-10-26T14:36:05.715613",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.32514": {
+      "arxiv_id": "2610.32514",
+      "title": "Amortized Thompson Sampling and Efficient Information-Directed Sampling for Simulator-Based Design",
+      "authors": [
+        "Michal Kobiela",
+        "Michael U. Gutmann"
+      ],
+      "published": "2026-10-23T11:38:24+00:00",
+      "first_seen": "2026-10-26T14:36:05.715617",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.32473": {
+      "arxiv_id": "2610.32473",
+      "title": "From Perception to Pixels: Human-Derived Visually Distinct Colors for Improved Dominant Color Extraction",
+      "authors": [
+        "Uldana Shyndali",
+        "Nurdaulet Toleugaliyev",
+        "Kuat Zharykbayev",
+        "Zarina Abildasheva",
+        "Pakizar Shamoi"
+      ],
+      "published": "2026-10-23T10:42:23+00:00",
+      "first_seen": "2026-10-26T14:36:05.715620",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.CV"
+      ]
+    },
+    "2610.32420": {
+      "arxiv_id": "2610.32420",
+      "title": "Hierarchical GTV Estimation: Bridging the Gap between Container-Level Ranking and Item-Level Conversion",
+      "authors": [
+        "Zerong Lan",
+        "Fan Zhang",
+        "Chuang Chen",
+        "Tianchun Huang",
+        "Teng Zhang",
+        "Xingxing Wang"
+      ],
+      "published": "2026-10-23T09:50:06+00:00",
+      "first_seen": "2026-10-26T14:36:05.715623",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.32246": {
+      "arxiv_id": "2610.32246",
+      "title": "Do Halting Heads Really Save Compute in Looped Language Models?",
+      "authors": [
+        "Tsung-Han Wu",
+        "Minsuk Heo",
+        "Kenny Tan"
+      ],
+      "published": "2026-10-23T06:56:48+00:00",
+      "first_seen": "2026-10-26T14:36:05.715626",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2610.32098": {
+      "arxiv_id": "2610.32098",
+      "title": "From Item Scores to Semantic Tokens: Test-Time Collaborative Adaptation for Generative Recommendation",
+      "authors": [
+        "Xiongfeng Shan",
+        "Xing Tang",
+        "Hanchong Chen",
+        "Fuyuan Lyu",
+        "Lingjie Li",
+        "Jingyan Jiang",
+        "Duguang Liu",
+        "Xiuqiang He"
+      ],
+      "published": "2026-10-23T03:01:12+00:00",
+      "first_seen": "2026-10-26T14:36:05.715629",
       "topic": "Recommender Systems",
       "categories": [
         "cs.IR"

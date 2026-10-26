@@ -5,6 +5,8 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-23 | [WL-SeqVAE: Sequence-Based Graph Generation Using Variational Autoencoders and Weisfeiler-Leman Colors](https://arxiv.org/abs/2610.32650) | In this paper, we introduce WL-SeqVAE, a sequence-based variational autoencoder for generating graphs. |
+| 2026-10-23 | [Trajectory Matching: Discrete Flow Matching with Structured Actions](https://arxiv.org/abs/2610.32602) | The natural units of structured discrete generation are often not independent single-component edits but richer actions: attaching a fragment to a molecule, inserting a node together with an incident... |
 | 2026-10-20 | [Efficient Edge-aware Attention Network for Graph Generation](https://arxiv.org/abs/2610.28618) | Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. |
 | 2026-10-17 | [Aptamers as a sandbox for lab-in-the-loop agentic molecular discovery](https://arxiv.org/abs/2610.24806) | Despite breakthroughs in AI-driven molecular generation, existing discovery pipelines operate largely in silico, with wet-lab feedback reserved for validation rather than iterative improvement. |
 | 2026-10-17 | [TopoCompile: Molecular Generation with Exact Global Count Constraints](https://arxiv.org/abs/2610.24511) | Molecular generation designs novel molecules with desired structures and properties. |
