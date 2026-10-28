@@ -5,6 +5,10 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-26 | [Evaluating Federated Vision-Language and Vision-Only Models for Privacy-Aware Breast Cancer Imaging](https://arxiv.org/abs/2610.36379) | Artificial intelligence (AI) shows promise for breast imaging, but limited labeled data, institutional data fragmentation, and privacy concerns hinder centralized training. |
+| 2026-10-26 | [Privately Clipping Heavy-Tailed Data](https://arxiv.org/abs/2610.36281) | Summing vectors is a basic task in differentially private data analysis. |
+| 2026-10-24 | [Projection-Based Federated Learning on Compact Submanifolds with Geometry-Independent Differential Privacy](https://arxiv.org/abs/2610.33712) | Federated learning trains a shared model across clients without exchanging their data, yet the updates they transmit still leak information about individual records. |
+| 2026-10-23 | [Gaussian Approximation for Composition and Subsampling of Differentially Private Algorithms](https://arxiv.org/abs/2610.33333) | The privacy analysis of differentially private stochastic gradient descent (DP-SGD) relies on bounds for the composition of subsampled mechanisms. |
 | 2026-10-23 | [On the Limits of Sparse Linear Model with Shuffled Differential Privacy](https://arxiv.org/abs/2610.32822) | Sparse linear regression is a fundamental problem in high-dimensional statistics, and its private counterparts leave a large gap between the central and the local model of differential privacy. |
 | 2026-10-22 | [Efficient and Optimal Learning of Discrete Distributions with Person-Level Privacy](https://arxiv.org/abs/2610.31612) | We study learning a discrete distribution under person-level differential privacy in the batched setting. |
 | 2026-10-22 | [Practical Auditing of Differentially Private Graph Release Mechanisms: Methodology, Toolkit, and Case Study](https://arxiv.org/abs/2610.31294) | Differential Privacy (DP) has become a prominent approach for protecting graph data releases, yet empirical auditing methodologies have largely been developed for tabular datasets and machine... |

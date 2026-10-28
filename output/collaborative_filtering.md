@@ -5,6 +5,11 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-26 | [AHEAD: Adaptive Neural Acceleration for Large-Scale Linear Programming](https://arxiv.org/abs/2610.36321) | Large-scale linear programs with millions of variables and constraints strain time and memory budgets. |
+| 2026-10-25 | [Theoretically Sound Item Similarity Measures for Recommender Systems](https://arxiv.org/abs/2610.34402) | Quantifying the similarity between items is fundamental to neighborhood-based collaborative filtering, yet many commonly used similarity measures are heuristics that lack theoretical justification. |
+| 2026-10-25 | [Controlled Block Proximal Linearized Method for Nonconvex and Nonsmooth Optimization](https://arxiv.org/abs/2610.34390) | We consider multiblock nonconvex and nonsmooth optimization without assuming bounded iterates or coercivity of the original objective. |
+| 2026-10-24 | [COPE: Composable Performance Emulation for Mixture-of-Experts Offloading Policies](https://arxiv.org/abs/2610.33404) | As LLMs scale, mixture-of-experts (MoE) architectures increase model capacity while keeping per-token computation manageable through sparse expert activation. |
+| 2026-10-23 | [Exploring Joint-Embedding Predictive Architectures for Self-Supervised Representation Learning of Powder X-ray Diffraction Patterns](https://arxiv.org/abs/2610.33310) | Powder X-ray diffraction (XRD) is the primary high-throughput method for resolving crystal structures, a cornerstone of materials science. |
 | 2026-10-20 | [How Does Orthogonalization Adapt to the Neural Network Hessian Structure? A Gradient Self Outer-Product Analysis at Initialization](https://arxiv.org/abs/2610.28975) | Muon orthogonalizes a weight matrix's momentum before each step, and on neural networks this simple preconditioner beats AdamW in a wide range of tasks. |
 | 2026-10-09 | [FutureLens: Longitudinal Topic Patterns in Scholarly Text and Future-Work References](https://arxiv.org/abs/2610.28656) | Future-work statements offer a record of the questions researchers choose to leave open. |
 | 2026-10-11 | [Pathwise Alignment for Collaborative Filtering: Bilateral Conditional Flow Regularization](https://arxiv.org/abs/2610.15506) | Collaborative filtering predicts user-item interactions from implicit feedback. |

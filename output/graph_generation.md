@@ -5,6 +5,8 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-25 | [Interpretable and Steerable Molecular Graph Generation using Concept Bottlenecks](https://arxiv.org/abs/2610.34227) | Deep graph generators (DGGs) largely lack interpretability, which is a significant limitation for one of their most crucial applications, drug discovery, where interpretable and transparent... |
+| 2026-10-24 | [H-GLow: Accelerating Graph Generation via Hazard-Guided Discrete Flow Matching](https://arxiv.org/abs/2610.33599) | Discrete flow matching (DFM) offers a promising approach to graph generation; however, generating high-quality graphs with few steps remains challenging due to the strong dependencies between nodes... |
 | 2026-10-23 | [WL-SeqVAE: Sequence-Based Graph Generation Using Variational Autoencoders and Weisfeiler-Leman Colors](https://arxiv.org/abs/2610.32650) | In this paper, we introduce WL-SeqVAE, a sequence-based variational autoencoder for generating graphs. |
 | 2026-10-23 | [Trajectory Matching: Discrete Flow Matching with Structured Actions](https://arxiv.org/abs/2610.32602) | The natural units of structured discrete generation are often not independent single-component edits but richer actions: attaching a fragment to a molecule, inserting a node together with an incident... |
 | 2026-10-20 | [Efficient Edge-aware Attention Network for Graph Generation](https://arxiv.org/abs/2610.28618) | Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. |
