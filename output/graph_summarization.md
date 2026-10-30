@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-27 | [SAC-GCL: Structure-Aware Compression for Graph Contrastive Learning](https://arxiv.org/abs/2610.37898) | Graph Contrastive Learning (GCL) has achieved remarkable success in self-supervised representation learning by maximizing agreement between augmented views of a graph. |
 | 2026-10-13 | [Graph Coarsening Enables Escaping Local Optima in Compute-Constrained Nonconvex MAX-CUT](https://arxiv.org/abs/2610.19043) | Because its binary optimization landscape contains exponentially many local optima, MAX-CUT is highly sensitive to initialization. |
 | 2026-09-25 | [Relational Compression: A Framework for Relational Fidelity in Constrained Representations](https://arxiv.org/abs/2609.31816) | What should a compressed representation preserve when the information of interest lies in relationships among elements rather than in the elements themselves? |
 | 2026-07-13 | [CGS: Configurable Graph Summarization with Bounded Neighborhood Loss and Query Support](https://arxiv.org/abs/2607.10969) | Given a large graph, how to generate a compact summary graph that is configurable by the user and supports multiple graph queries with either no loss or with high accuracy? |
