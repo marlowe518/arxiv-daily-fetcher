@@ -5,6 +5,10 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-30 | [Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches](https://arxiv.org/abs/2610.42139) | In many practical deployments of Differentially Private Stochastic Gradient Descent (DP-SGD), the server processes data in batches. |
+| 2026-10-30 | [Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT](https://arxiv.org/abs/2610.42117) | In the random allocation sampling scheme each user's data is used in $k$ steps chosen randomly and uniformly from a sequence of $t$ steps. |
+| 2026-10-30 | [New Lower Bounds for Private PAC Learning](https://arxiv.org/abs/2610.41980) | We study realizable PAC learning under approximate differential privacy, and give a framework for proving lower bounds on its sample complexity. |
+| 2026-10-29 | [Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks](https://arxiv.org/abs/2610.41055) | Federated reinforcement learning supports cooperative vehicular routing without centralizing trajectory data, but model updates may reveal private information and incur communication overhead over... |
 | 2026-10-29 | [Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filtering](https://arxiv.org/abs/2610.40654) | An estimator can be accurate and stable on typical data, yet sensitive to a few possible records. |
 | 2026-10-29 | [When to spend privacy: optimal allocation in private learning](https://arxiv.org/abs/2610.39954) | Privacy accounting bounds the cumulative privacy cost of Differentially Private Stochastic Gradient Descent but does not determine how to allocate a fixed budget across iterations. |
 | 2026-10-29 | [CovFedAvg: Local Low-Loss Curves and Federated Model Selection](https://arxiv.org/abs/2610.39902) | Clients observing different parts of a prediction task may learn locally equivalent models with incompatible behavior outside their observed support. |

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-01T14:33:06.058090",
+  "last_updated": "2026-11-02T17:28:48.446399",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -79992,6 +79992,389 @@
         "cs.AI",
         "cs.CV",
         "cs.IR"
+      ]
+    },
+    "2610.41795": {
+      "arxiv_id": "2610.41795",
+      "title": "Accurate and Auditable ECG Classification via Visibility Graph Neural Networks",
+      "authors": [
+        "Artur Xavier",
+        "Guilherme Henrique Gomes Evangelista",
+        "Aitazaz Khan",
+        "Antonio Luiz Pinho Ribeiro",
+        "Mohammed J. Zaki",
+        "Srinivasan Parthasarathy",
+        "Wagner Meira"
+      ],
+      "published": "2026-10-30T14:24:47+00:00",
+      "first_seen": "2026-11-02T17:28:23.799533",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2610.41692": {
+      "arxiv_id": "2610.41692",
+      "title": "From WSIs to Bulk, Spatial and Single-Cell Transcriptomics via Multi-Scale Graph Neural Networks",
+      "authors": [
+        "Miguel Andrade",
+        "José Almeida",
+        "Carlos Santiago",
+        "Catarina Barata"
+      ],
+      "published": "2026-10-30T12:59:05+00:00",
+      "first_seen": "2026-11-02T17:28:23.799544",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.41628": {
+      "arxiv_id": "2610.41628",
+      "title": "What Carries Architectural Signal? A Code-to-Architecture Mapping Study",
+      "authors": [
+        "Rakhshanda Jabeen",
+        "Morgan Ericsson",
+        "Yuyao Duan",
+        "Anna Wingkvist"
+      ],
+      "published": "2026-10-30T12:05:08+00:00",
+      "first_seen": "2026-11-02T17:28:23.799550",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SE",
+        "cs.LG"
+      ]
+    },
+    "2610.41464": {
+      "arxiv_id": "2610.41464",
+      "title": "When Links Mislead: Label-Free Structural Polarity for Zero-Shot Classification of Web Pages",
+      "authors": [
+        "Hanshuai Cui",
+        "Zhiqing Tang",
+        "Zhi Yao",
+        "Weijia Jia",
+        "Jun Luo"
+      ],
+      "published": "2026-10-30T09:16:42+00:00",
+      "first_seen": "2026-11-02T17:28:23.799556",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.41089": {
+      "arxiv_id": "2610.41089",
+      "title": "CIRCE Divines LLM Task Complexity from Constraint Structure",
+      "authors": [
+        "Chenhao Hong",
+        "Jiakai Xu",
+        "Kaushiki Singh",
+        "Yusen Zhang",
+        "Eugene Wu"
+      ],
+      "published": "2026-10-30T00:08:01+00:00",
+      "first_seen": "2026-11-02T17:28:23.799562",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2610.41085": {
+      "arxiv_id": "2610.41085",
+      "title": "Payroll Fraud Detection in Synthetic HR/ERP Graphs: An Inductive Comparison of Rules, Path Features, and Graph Neural Networks",
+      "authors": [
+        "Xiaobo Chen",
+        "Genliang Zhu",
+        "Ziyuan Wang",
+        "Chu Wang"
+      ],
+      "published": "2026-10-29T23:53:22+00:00",
+      "first_seen": "2026-11-02T17:28:23.799567",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2610.41059": {
+      "arxiv_id": "2610.41059",
+      "title": "Nonlinear Maps Between Irreducible Representations in Graph Neural Networks",
+      "authors": [
+        "Mani Shayestehfar"
+      ],
+      "published": "2026-10-29T22:56:36+00:00",
+      "first_seen": "2026-11-02T17:28:23.799572",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "math.RT"
+      ]
+    },
+    "2610.41901": {
+      "arxiv_id": "2610.41901",
+      "title": "ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation",
+      "authors": [
+        "Giacomo Magnifico",
+        "Eduard Barbu"
+      ],
+      "published": "2026-10-30T15:39:02+00:00",
+      "first_seen": "2026-11-02T17:28:26.962392",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2610.42139": {
+      "arxiv_id": "2610.42139",
+      "title": "Counting on Dummies: Privacy Amplification with Observable Counts and Truncated Batches",
+      "authors": [
+        "Vitaly Feldman",
+        "Audra McMillan",
+        "Kunal Talwar"
+      ],
+      "published": "2026-10-30T17:58:42+00:00",
+      "first_seen": "2026-11-02T17:28:32.563152",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2610.42117": {
+      "arxiv_id": "2610.42117",
+      "title": "Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT",
+      "authors": [
+        "Vitaly Feldman",
+        "Moshe Shenfeld"
+      ],
+      "published": "2026-10-30T17:51:03+00:00",
+      "first_seen": "2026-11-02T17:28:32.563164",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.41980": {
+      "arxiv_id": "2610.41980",
+      "title": "New Lower Bounds for Private PAC Learning",
+      "authors": [
+        "Prathamesh Dharangutte",
+        "Amartya Sanyal"
+      ],
+      "published": "2026-10-30T16:28:25+00:00",
+      "first_seen": "2026-11-02T17:28:32.563170",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.41055": {
+      "arxiv_id": "2610.41055",
+      "title": "Communication-Efficient Private Federated Reinforcement Learning with Post-Quantum Authentication for Vehicular Networks",
+      "authors": [
+        "Hojat Allah Salehi",
+        "Devrim Aras",
+        "Md Jueal Mia",
+        "M. Hadi Amini",
+        "Imtiaz Karim",
+        "Mashrur Chowdhury",
+        "Bhavani Thuraisingham"
+      ],
+      "published": "2026-10-29T22:52:45+00:00",
+      "first_seen": "2026-11-02T17:28:32.563175",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2610.41278": {
+      "arxiv_id": "2610.41278",
+      "title": "AuditFL: A Contract-Backed Clearing Layer for Open Federated Learning",
+      "authors": [
+        "Alexandros Balla",
+        "Spyros Lalis"
+      ],
+      "published": "2026-10-30T05:29:59+00:00",
+      "first_seen": "2026-11-02T17:28:38.640271",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2610.41193": {
+      "arxiv_id": "2610.41193",
+      "title": "Role-Aware Server Optimization for Multimodal Federated Learning with Missing Modalities",
+      "authors": [
+        "Liuyin Shi",
+        "Wenbo He"
+      ],
+      "published": "2026-10-30T03:16:47+00:00",
+      "first_seen": "2026-11-02T17:28:38.640279",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.41039": {
+      "arxiv_id": "2610.41039",
+      "title": "Characterizing Recoverable Expert-Utilization Signatures in Fine-Tuned Mixture-of-Experts LLMs",
+      "authors": [
+        "Fei Wang",
+        "Baochun Li",
+        "Bo Li"
+      ],
+      "published": "2026-10-29T22:30:02+00:00",
+      "first_seen": "2026-11-02T17:28:38.640284",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.CR"
+      ]
+    },
+    "2610.40884": {
+      "arxiv_id": "2610.40884",
+      "title": "Robust-by-Design Distributional Learning from Contaminated Samples",
+      "authors": [
+        "Nevena Gligić",
+        "Arya Farahi"
+      ],
+      "published": "2026-10-29T19:05:17+00:00",
+      "first_seen": "2026-11-02T17:28:38.640289",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2610.42001": {
+      "arxiv_id": "2610.42001",
+      "title": "AutoAnalysis: An automated, self-updating meta-analysis of human-AI collaboration",
+      "authors": [
+        "Michelle Vaccaro",
+        "Abdullah Almaatouq",
+        "Thomas W. Malone"
+      ],
+      "published": "2026-10-30T16:44:49+00:00",
+      "first_seen": "2026-11-02T17:28:43.266939",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.AI",
+        "cs.CY",
+        "cs.DL"
+      ]
+    },
+    "2610.41911": {
+      "arxiv_id": "2610.41911",
+      "title": "Recommendation Feedback Loops Shape Urban Income Segregation and Venue Visitation",
+      "authors": [
+        "Guangyuan Weng",
+        "Lin Chen",
+        "Ciro Beneduce",
+        "Giovanni Mauro",
+        "Massimiliano Luca",
+        "Takahiro Yabe",
+        "Bruno Lepri",
+        "Luca Pappalardo",
+        "Esteban Moro"
+      ],
+      "published": "2026-10-30T15:47:06+00:00",
+      "first_seen": "2026-11-02T17:28:43.266949",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CY",
+        "cs.SI",
+        "physics.soc-ph"
+      ]
+    },
+    "2610.41799": {
+      "arxiv_id": "2610.41799",
+      "title": "On-device Detection of Wearer-induced NLOS on Chest-worn UWB Tags: Machine Learning, Link Indicators, or Both?",
+      "authors": [
+        "Markus Gallacher",
+        "Vu Anh Minh Le",
+        "Matteo Trobinger",
+        "Davide Vecchia",
+        "Carlo Alberto Boano",
+        "Gian Pietro Picco"
+      ],
+      "published": "2026-10-30T14:28:13+00:00",
+      "first_seen": "2026-11-02T17:28:43.266955",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2610.41674": {
+      "arxiv_id": "2610.41674",
+      "title": "Towards Trustworthy Multi-stakeholder Recommender Systems",
+      "authors": [
+        "Katarina Marcincinova",
+        "Adrian Gavornik",
+        "Matus Mesarcik",
+        "Michal Kompan"
+      ],
+      "published": "2026-10-30T12:41:26+00:00",
+      "first_seen": "2026-11-02T17:28:43.266959",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.41374": {
+      "arxiv_id": "2610.41374",
+      "title": "BrowseFlow: Sparse Event Flow Matching for Generative User Simulation",
+      "authors": [
+        "Yitian Pang",
+        "Jiayi Zhang",
+        "Zhenjia Ma",
+        "Xiaowei Yue",
+        "Dagui Chen",
+        "Jian Xu"
+      ],
+      "published": "2026-10-30T07:41:35+00:00",
+      "first_seen": "2026-11-02T17:28:43.266964",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.41319": {
+      "arxiv_id": "2610.41319",
+      "title": "MILES-Rec: Uncovering Implicit Intents from Mobility Behaviors for Cross-Domain POI Recommendation",
+      "authors": [
+        "Yi Zou",
+        "Wei Luo",
+        "Xuewen Zhang",
+        "Zhuang Yan",
+        "Pengjie Wang"
+      ],
+      "published": "2026-10-30T06:31:51+00:00",
+      "first_seen": "2026-11-02T17:28:43.266969",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2610.40936": {
+      "arxiv_id": "2610.40936",
+      "title": "Fair Recommender Systems for Intersecting Groups",
+      "authors": [
+        "Christine Ling",
+        "Juba Ziani"
+      ],
+      "published": "2026-10-29T20:12:07+00:00",
+      "first_seen": "2026-11-02T17:28:43.266973",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CY",
+        "cs.GT"
       ]
     }
   }

@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-30 | [ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation](https://arxiv.org/abs/2610.41901) | Current LLM ensemble frameworks focus on multi-step setups with additional modules for answer ranking, often opting for token and span analysis rather than structured outputs, leading to heavyweight... |
 | 2026-10-29 | [Accumulating Pruning Constraints: New Exact Polynomial-Space Algorithms for Max 2-SAT](https://arxiv.org/abs/2610.39992) | We present deterministic polynomial-space algorithms that solve Max 2-SAT on $n$ variables exactly in time $\Ostar(2^{(1-γ)n})$, for a fixed $γ>0$, on several classes of instances whose clause... |
 | 2026-10-29 | [From Local Recovery to Unified Generation: Discovering Triple Set in Knowledge Graphs via Observation-Anchored Latent Diffusion](https://arxiv.org/abs/2610.39114) | Triple set prediction (TSP) is to recover missing relational triples in a knowledge graph by predicting the triple set instead of isolated links. |
 | 2026-10-28 | [What to randomize matters: a controlled study of volume, axis and representation in low-data molecular generation](https://arxiv.org/abs/2610.38835) | Chemical language models can struggle to generate new molecules when trained on small datasets, where a model may reproduce training examples rather than learn a useful generative distribution. |
