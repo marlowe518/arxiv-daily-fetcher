@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-10-31 | [Alignment Flywheel-Guided Suppression Patching for Interactionless Inverse Reinforcement Learning](https://arxiv.org/abs/2611.01322) | Learned reward models allow reinforcement-learning agents to use demonstrations, implicit feedback, safety constraints, social norms, or other sources that do not provide a complete hand-designed... |
 | 2026-10-19 | [OceanTensorCube and ST-MMT: A Multimodal Data and Transformer System for Seven-Day Forecasting of Pyropia Bleaching](https://arxiv.org/abs/2610.26209) | Bleaching of cultured Pyropia (laver) causes losses in Korean seaweed farming. |
 | 2026-10-16 | [Dynamic Neural Optimal Transport for Subset Alignment](https://arxiv.org/abs/2610.24258) | We study optimal transport between distributions when only a subset of the target population is relevant to the source. |
 | 2026-10-14 | [Asymptotically Exact Negative Guidance of Diffusion Models via Positive-Unlabeled Learning](https://arxiv.org/abs/2610.19802) | Negative guidance of diffusion models generates samples that avoid an undesired condition, specified either by reference samples or by a conditional score alongside an unconditional model. |
