@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-03 | [VerfGraph: Efficient Zero-Knowledge Verifiable Graph Query Evaluation System](https://arxiv.org/abs/2611.04240) | Graph databases are often used to manage relationship-rich data, whose graph structure and attributes may be sensitive. |
 | 2026-08-01 | [Towards Adaptive Federated Graph Clustering: A Global Community-aware Contrastive Learning-based Approach](https://arxiv.org/abs/2609.26063) | Federated graph learning (FGL) enables multiple clients to collaboratively train graph models without sharing their private graph data, providing a promising paradigm for mining knowledge from... |
 | 2025-11-14 | [Towards Federated Clustering: A Client-wise Private Graph Aggregation Framework](https://arxiv.org/abs/2511.10915) | Federated clustering addresses the critical challenge of extracting patterns from decentralized, unlabeled data. |
 | 2025-10-08 | [Spectral Graph Clustering under Differential Privacy: Balancing Privacy, Accuracy, and Efficiency](https://arxiv.org/abs/2510.07136) | We study the problem of spectral graph clustering under edge differential privacy (DP). |

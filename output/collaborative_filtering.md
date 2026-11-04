@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-03 | [Finite Spectral Depth Controls Gaussian Entrance Rank and Avoidance of the First Gradient-Flow Saddle](https://arxiv.org/abs/2611.05022) | Matrix factorization provides a simple model for studying the training dynamics of neural networks. |
 | 2026-10-26 | [AHEAD: Adaptive Neural Acceleration for Large-Scale Linear Programming](https://arxiv.org/abs/2610.36321) | Large-scale linear programs with millions of variables and constraints strain time and memory budgets. |
 | 2026-10-25 | [Theoretically Sound Item Similarity Measures for Recommender Systems](https://arxiv.org/abs/2610.34402) | Quantifying the similarity between items is fundamental to neighborhood-based collaborative filtering, yet many commonly used similarity measures are heuristics that lack theoretical justification. |
 | 2026-10-25 | [Controlled Block Proximal Linearized Method for Nonconvex and Nonsmooth Optimization](https://arxiv.org/abs/2610.34390) | We consider multiblock nonconvex and nonsmooth optimization without assuming bounded iterates or coercivity of the original objective. |

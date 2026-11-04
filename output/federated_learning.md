@@ -5,6 +5,10 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-03 | [Federated Transfer Learning for Medical Image Classification under Mixed Skew](https://arxiv.org/abs/2611.05035) | Deep learning in medical imaging is constrained by data scarcity and by privacy regulations that make centralizing patient data across institutions impractical. |
+| 2026-11-03 | [One-shot Distributed Learning via Weighted Averaging with Server-side Information](https://arxiv.org/abs/2611.04700) | Distributed learning has drawn considerable attention due to its capability of learning from distributed data without aggregating raw observations. |
+| 2026-11-03 | [FedCSGA: Client Selection Based on Genetic Algorithm for Federated Learning](https://arxiv.org/abs/2611.04667) | Federated Learning (FL) enables collaborative training of machine learning models across distributed clients while preserving data privacy. |
+| 2026-11-01 | [Does the Trust Boundary Hold over Time? A Long-Horizon Benchmark for Receiver-Directed Federated Learning](https://arxiv.org/abs/2611.03724) | In receiver-directed federated learning, each site draws a trust boundary. |
 | 2026-11-02 | [Hybrid Federated Learning for Multimodal Fusion under Missing Modalities and Site Heterogeneity](https://arxiv.org/abs/2611.03032) | Multimodal fusion is studied under hybrid federation, where data are partitioned across samples and feature blocks. |
 | 2026-11-02 | [Comparative study of global pooling for pre-departure ship fuel consumption prediction: Advantages over per-ship and adaptation-based approaches](https://arxiv.org/abs/2611.03015) | Most fuel oil consumption (FOC) models for voyage planning are per-ship models and thus generalize poorly beyond each vessel's records. |
 | 2026-11-02 | [Beyond Monotonicity: Stochastic Online Optimization under Semi-Bandit Feedback](https://arxiv.org/abs/2611.02739) | We study stochastic online optimization (SOO) under semi-bandit feedback: in each of $T$ rounds, a policy adaptively observes $n$ independent random variables with unknown distributions, learning... |

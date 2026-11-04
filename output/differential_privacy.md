@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-03 | [The Power of Interaction in Locally Edge-Private Subgraph Counting](https://arxiv.org/abs/2611.05038) | We study (non-induced) subgraph counting under interactive local edge differential privacy (LEDP). |
 | 2026-11-02 | [Should We Combine Our Data? Algorithms and Limits for Privately Assessing Data Sharing](https://arxiv.org/abs/2611.03599) | In this paper, we study when two parties should pool their data to train a machine learning model. |
 | 2026-11-02 | [An Information Hierarchy of Privacy Filters and Odometers](https://arxiv.org/abs/2611.03130) | In sequential data analysis, privacy loss accumulates over time, and privacy filters and odometers are used to control and track this cumulative cost. |
 | 2026-11-02 | [Improved regret bounds in tabular RL under local differential privacy](https://arxiv.org/abs/2611.03026) | We study regret minimization for time-homogeneous episodic tabular reinforcement learning with $S$ states and $A$ actions under non-interactive $ε$-local differential privacy (LDP). |
