@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-04 | [Dimension-Free Private Mean Estimation is Impossible Without the Covariance](https://arxiv.org/abs/2611.06615) | We study the limits of differentially private Gaussian mean estimation when the covariance matrix is unknown. |
+| 2026-11-04 | [CoRTeC: A Differentially Private Release for Synthetic Tabular Data, Decodable by Any Generator](https://arxiv.org/abs/2611.06342) | The records that could train the most useful models, such as a hospital's patient files, are often the ones an institution cannot share. |
+| 2026-11-03 | [Exploring the Privacy--Size Tradeoff for Differentially Private Self-Attentive Variational Autoencoders](https://arxiv.org/abs/2611.05582) | Data tends to be most useful when it is shared, and the data most worth sharing is often the data that privacy obligations restrict. |
 | 2026-11-03 | [The Power of Interaction in Locally Edge-Private Subgraph Counting](https://arxiv.org/abs/2611.05038) | We study (non-induced) subgraph counting under interactive local edge differential privacy (LEDP). |
 | 2026-11-02 | [Should We Combine Our Data? Algorithms and Limits for Privately Assessing Data Sharing](https://arxiv.org/abs/2611.03599) | In this paper, we study when two parties should pool their data to train a machine learning model. |
 | 2026-11-02 | [An Information Hierarchy of Privacy Filters and Odometers](https://arxiv.org/abs/2611.03130) | In sequential data analysis, privacy loss accumulates over time, and privacy filters and odometers are used to control and track this cumulative cost. |
