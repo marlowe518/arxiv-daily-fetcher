@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-05 | [Statistical and Privacy Guarantees for Deep M-Regression via Stochastic Gradient Langevin Dynamics](https://arxiv.org/abs/2611.07490) | In this article, we study deep nonparametric regression trained via stochastic gradient Langevin dynamics (SGLD), a variant of stochastic gradient descent that injects carefully calibrated Gaussian... |
 | 2026-11-04 | [Dimension-Free Private Mean Estimation is Impossible Without the Covariance](https://arxiv.org/abs/2611.06615) | We study the limits of differentially private Gaussian mean estimation when the covariance matrix is unknown. |
 | 2026-11-04 | [CoRTeC: A Differentially Private Release for Synthetic Tabular Data, Decodable by Any Generator](https://arxiv.org/abs/2611.06342) | The records that could train the most useful models, such as a hospital's patient files, are often the ones an institution cannot share. |
 | 2026-11-03 | [Exploring the Privacy--Size Tradeoff for Differentially Private Self-Attentive Variational Autoencoders](https://arxiv.org/abs/2611.05582) | Data tends to be most useful when it is shared, and the data most worth sharing is often the data that privacy obligations restrict. |

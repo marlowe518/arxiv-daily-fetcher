@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-05 | [PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning](https://arxiv.org/abs/2611.07408) | Panoptic Scene Graph generation (PSG) requires holistic yet fine-grained reasoning over complex relations among objects. |
 | 2026-11-03 | [Constraint-Preserving Flow Matching for Spectral Graph Generation](https://arxiv.org/abs/2611.05436) | Spectral graph generation models graphs through the eigenvalues and eigenvectors of their Laplacians, providing a compact and continuous alternative to direct graph construction. |
 | 2026-11-03 | [Understanding Backdoor Attacks in Scene Graph Generation via Global Context Pathway](https://arxiv.org/abs/2611.04379) | Scene Graph Generation (SGG) produces structured scene representations, yet its training-time backdoor risk remains unexplored. |
 | 2026-10-30 | [ReX-GG: a LLM Ensemble Pipeline for Relation-extraction and Graph Generation](https://arxiv.org/abs/2610.41901) | Current LLM ensemble frameworks focus on multi-step setups with additional modules for answer ranking, often opting for token and span analysis rather than structured outputs, leading to heavyweight... |

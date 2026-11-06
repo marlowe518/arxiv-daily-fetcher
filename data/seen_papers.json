@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-05T15:51:06.683796",
+  "last_updated": "2026-11-06T15:25:39.034544",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -82260,6 +82260,429 @@
       "categories": [
         "cs.LG",
         "cs.IR"
+      ]
+    },
+    "2611.08379": {
+      "arxiv_id": "2611.08379",
+      "title": "Module-Aware Optimization for Graph Neural Networks",
+      "authors": [
+        "Guy Hadad",
+        "Haggai Roitman",
+        "Moshe Eliasof",
+        "Bracha Shapira"
+      ],
+      "published": "2026-11-05T17:56:33+00:00",
+      "first_seen": "2026-11-06T15:25:15.394713",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.07706": {
+      "arxiv_id": "2611.07706",
+      "title": "Towards Generalist Graph-Level Anomaly Detection",
+      "authors": [
+        "Junjun Pan",
+        "Yixin Liu",
+        "Yu Zheng",
+        "Fuyi Li",
+        "Alan Wee-Chung Liew",
+        "Shirui Pan"
+      ],
+      "published": "2026-11-05T09:26:57+00:00",
+      "first_seen": "2026-11-06T15:25:15.394722",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2611.07585": {
+      "arxiv_id": "2611.07585",
+      "title": "CasHyper: Modeling Multi-Factor Interactions and Asymmetric Influence in Cascade Prediction via Hypercomplex Algebra",
+      "authors": [
+        "Yansong Wang",
+        "Qisen Chai",
+        "Junjie Huang",
+        "Tao Jia"
+      ],
+      "published": "2026-11-05T07:38:59+00:00",
+      "first_seen": "2026-11-06T15:25:15.394727",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI"
+      ]
+    },
+    "2611.07520": {
+      "arxiv_id": "2611.07520",
+      "title": "Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions",
+      "authors": [
+        "Xiaobin Li",
+        "Yanbin Gao",
+        "Jianing Long",
+        "Wuming Lei"
+      ],
+      "published": "2026-11-05T06:30:36+00:00",
+      "first_seen": "2026-11-06T15:25:15.394732",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2611.07410": {
+      "arxiv_id": "2611.07410",
+      "title": "Spectral symmetry fingerprints in equivariant representations",
+      "authors": [
+        "Jiacheng Cen",
+        "Anyi Li",
+        "Ning Lin",
+        "Zihe Wang",
+        "Ji-Rong Wen",
+        "Wenbing Huang"
+      ],
+      "published": "2026-11-05T04:02:47+00:00",
+      "first_seen": "2026-11-06T15:25:15.394736",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cond-mat.mtrl-sci",
+        "math-ph",
+        "physics.chem-ph"
+      ]
+    },
+    "2611.07347": {
+      "arxiv_id": "2611.07347",
+      "title": "AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas",
+      "authors": [
+        "Yujing Liu",
+        "Yixin Liu",
+        "Yu Zheng",
+        "Lianhua Chi",
+        "Alan Wee-Chung Liew",
+        "Heng Tao Shen",
+        "Shirui Pan"
+      ],
+      "published": "2026-11-05T02:36:19+00:00",
+      "first_seen": "2026-11-06T15:25:15.394741",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.07277": {
+      "arxiv_id": "2611.07277",
+      "title": "Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication",
+      "authors": [
+        "Junyu Liao",
+        "Lili Chen",
+        "Tian Han",
+        "Jamie Evans"
+      ],
+      "published": "2026-11-05T00:54:16+00:00",
+      "first_seen": "2026-11-06T15:25:15.394746",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.IT"
+      ]
+    },
+    "2611.07408": {
+      "arxiv_id": "2611.07408",
+      "title": "PSGAgent: Enhancing MLLMs' Dynamic Visual Perception for Panoptic Scene Graph Generation via Agentic Reasoning",
+      "authors": [
+        "Qingyun Liu",
+        "Yuankun Liu",
+        "Jiaye Feng",
+        "Jie Huang",
+        "Zonghong Dai",
+        "Haochen Li",
+        "Jingkun Wang",
+        "Weiping Li",
+        "Tong Mo"
+      ],
+      "published": "2026-11-05T04:02:16+00:00",
+      "first_seen": "2026-11-06T15:25:17.968232",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    "2611.07490": {
+      "arxiv_id": "2611.07490",
+      "title": "Statistical and Privacy Guarantees for Deep M-Regression via Stochastic Gradient Langevin Dynamics",
+      "authors": [
+        "Yeheng Ge",
+        "Jian Huang",
+        "Shuyuan Wu"
+      ],
+      "published": "2026-11-05T05:52:35+00:00",
+      "first_seen": "2026-11-06T15:25:23.918602",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ME",
+        "cs.LG"
+      ]
+    },
+    "2611.08383": {
+      "arxiv_id": "2611.08383",
+      "title": "FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning",
+      "authors": [
+        "Ali Mohammadi Ruzbahani",
+        "Abbas Yazdinejad",
+        "Hadis Karimipour"
+      ],
+      "published": "2026-11-05T18:00:58+00:00",
+      "first_seen": "2026-11-06T15:25:30.195837",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR",
+        "cs.AI"
+      ]
+    },
+    "2611.08021": {
+      "arxiv_id": "2611.08021",
+      "title": "GTAFL: Addressing Test-Agnostic Long-Tailed Federated Learning in Medical Image",
+      "authors": [
+        "Guangyu Chen",
+        "Jingyun Zeng",
+        "Hui Jiang"
+      ],
+      "published": "2026-11-05T13:41:39+00:00",
+      "first_seen": "2026-11-06T15:25:30.195846",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.07093": {
+      "arxiv_id": "2611.07093",
+      "title": "Server-Side Sparse Assignment for Federated Mixture-of-Experts",
+      "authors": [
+        "Xue Zheng",
+        "Aylin Yener"
+      ],
+      "published": "2026-11-04T19:57:11+00:00",
+      "first_seen": "2026-11-06T15:25:30.195852",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.IT"
+      ]
+    },
+    "2611.08487": {
+      "arxiv_id": "2611.08487",
+      "title": "User Embeddings are Superpositions of Interpretable Behavioral Modes",
+      "authors": [
+        "Jonathan Kozaczuk",
+        "Zheng Dong",
+        "Noyan Evirgen",
+        "Keivan Majidi",
+        "Eddie K. H. Ng",
+        "Chris Porter",
+        "Qi Zhao",
+        "Jia Geng",
+        "Changmao Li",
+        "Brandon R. Feng"
+      ],
+      "published": "2026-11-05T18:59:42+00:00",
+      "first_seen": "2026-11-06T15:25:33.035039",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.08144": {
+      "arxiv_id": "2611.08144",
+      "title": "Detecting Silent Faults at the Environment-Trainer Boundary in Reinforcement Learning",
+      "authors": [
+        "Zuo Gou",
+        "Chenhao Lu"
+      ],
+      "published": "2026-11-05T15:05:07+00:00",
+      "first_seen": "2026-11-06T15:25:33.035047",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.RO",
+        "cs.LG",
+        "cs.SE"
+      ]
+    },
+    "2611.07851": {
+      "arxiv_id": "2611.07851",
+      "title": "Tasteply: Externalizing Stable and Situational Preference as Manipulable Spatial Objects",
+      "authors": [
+        "DaEun Choi",
+        "Daniel Lee"
+      ],
+      "published": "2026-11-05T11:30:27+00:00",
+      "first_seen": "2026-11-06T15:25:33.035053",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.IR"
+      ]
+    },
+    "2611.07659": {
+      "arxiv_id": "2611.07659",
+      "title": "Simple Meta-Learning for HPO and CASH Using Performance Representations",
+      "authors": [
+        "Emiel Witting",
+        "Cheng Yan",
+        "Tom Julian Viering"
+      ],
+      "published": "2026-11-05T08:45:04+00:00",
+      "first_seen": "2026-11-06T15:25:33.035057",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.07629": {
+      "arxiv_id": "2611.07629",
+      "title": "Online Learning with Ordered Experts (via Two-point Feedback)",
+      "authors": [
+        "Shiliang Zuo"
+      ],
+      "published": "2026-11-05T08:14:00+00:00",
+      "first_seen": "2026-11-06T15:25:33.035062",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.07591": {
+      "arxiv_id": "2611.07591",
+      "title": "Beyond Independent Predictions: Learning the Browsing Journey for Sequence-Level Re-ranking",
+      "authors": [
+        "Jiayi Zhang",
+        "Jingxin Hai",
+        "Zhenjia Ma",
+        "Hongbin Pei",
+        "Dagui Chen",
+        "Han Zhu",
+        "Jian Xu"
+      ],
+      "published": "2026-11-05T07:41:22+00:00",
+      "first_seen": "2026-11-06T15:25:33.035066",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.07589": {
+      "arxiv_id": "2611.07589",
+      "title": "Learning and Steering in Incomplete-Information Games",
+      "authors": [
+        "Asrın Efe Yorulmaz",
+        "Tamer Başar"
+      ],
+      "published": "2026-11-05T07:40:05+00:00",
+      "first_seen": "2026-11-06T15:25:33.035070",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.GT",
+        "cs.AI",
+        "cs.LG",
+        "eess.SY",
+        "math.OC"
+      ]
+    },
+    "2611.07588": {
+      "arxiv_id": "2611.07588",
+      "title": "What Gets Hacked in a Collaborative Reward for LLM Recommenders: The Part That Does Not Depend on the User",
+      "authors": [
+        "Zhuangsheng Li",
+        "Liang Dong",
+        "Yu Wu",
+        "Dailin Li",
+        "Yu Xia",
+        "Yunhan C. Zhang",
+        "Rui Cai",
+        "Yi Wu",
+        "Julian McAuley"
+      ],
+      "published": "2026-11-05T07:39:28+00:00",
+      "first_seen": "2026-11-06T15:25:33.035074",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.07523": {
+      "arxiv_id": "2611.07523",
+      "title": "OptST: Optimizing Semantic Tokenization for LLM-Enhanced Recommendation",
+      "authors": [
+        "Hanchong Chen",
+        "Jie Liu",
+        "Fuyuan Lyu",
+        "Dugang Liu",
+        "Lingjie Li",
+        "Xiuqiang He",
+        "Xing Tang"
+      ],
+      "published": "2026-11-05T06:34:53+00:00",
+      "first_seen": "2026-11-06T15:25:33.035079",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.07425": {
+      "arxiv_id": "2611.07425",
+      "title": "BRIDGE: Bridging the Semantic Quantization Gap for Generative Recommendation",
+      "authors": [
+        "Yatong Xiao",
+        "Mingjie Sun",
+        "Peng Wang",
+        "Wenjin Wu",
+        "Peng Jiang"
+      ],
+      "published": "2026-11-05T04:20:01+00:00",
+      "first_seen": "2026-11-06T15:25:33.035083",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.07378": {
+      "arxiv_id": "2611.07378",
+      "title": "Adversarial Multiplicity: Cherry-Picked Models and the Limits of Disclosure",
+      "authors": [
+        "Cassandra C. Chou",
+        "Benjamin Q. Huynh",
+        "Allison Koenecke",
+        "Elizabeth T. Chin"
+      ],
+      "published": "2026-11-05T03:32:12+00:00",
+      "first_seen": "2026-11-06T15:25:33.035088",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "stat.AP"
+      ]
+    },
+    "2611.07072": {
+      "arxiv_id": "2611.07072",
+      "title": "Automated Feedback to Peer Tutors Increases Their Talk Moves and Learner Reasoning but Not the Balance of Talk",
+      "authors": [
+        "Dorottya Demszky",
+        "Yann Hicke",
+        "Joy Yun",
+        "Mariah Olson",
+        "Max Karpawich",
+        "Anees Iqbal",
+        "Matt Wu",
+        "Jimmy Huang",
+        "Akshay Ravikumar",
+        "Drew Bent"
+      ],
+      "published": "2026-11-04T19:29:43+00:00",
+      "first_seen": "2026-11-06T15:25:33.035093",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.ET",
+        "cs.HC"
       ]
     }
   }

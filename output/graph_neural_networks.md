@@ -5,6 +5,13 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-05 | [Module-Aware Optimization for Graph Neural Networks](https://arxiv.org/abs/2611.08379) | Different optimizers impose different geometries on parameter updates. |
+| 2026-11-05 | [Towards Generalist Graph-Level Anomaly Detection](https://arxiv.org/abs/2611.07706) | Graph-level anomaly detection (GLAD) aims to identify graphs that deviate significantly from the majority. |
+| 2026-11-05 | [CasHyper: Modeling Multi-Factor Interactions and Asymmetric Influence in Cascade Prediction via Hypercomplex Algebra](https://arxiv.org/abs/2611.07585) | Cascade prediction aims to forecast the future evolution of information diffusion and is an important task in social network analysis. |
+| 2026-11-05 | [Graph learning-assisted logic-based Benders decomposition for distributionally robust in-station train rescheduling under disruptions](https://arxiv.org/abs/2611.07520) | Uncertainty in resource reopening times complicates train holding and rerouting decisions when resource closures coincide with arrival delays and processing-time extensions. |
+| 2026-11-05 | [Spectral symmetry fingerprints in equivariant representations](https://arxiv.org/abs/2611.07410) | Symmetry governs the organization of physical structures, while symmetry breaking reveals their transformations. |
+| 2026-11-05 | [AtlasULP: Domain-aware Universal Link Prediction via Relation Atlas](https://arxiv.org/abs/2611.07347) | Link prediction (LP) is a widely applied task in graph learning. |
+| 2026-11-05 | [Graph Neural Networks for Resource Allocation in Integrated Sensing and Communication](https://arxiv.org/abs/2611.07277) | In vehicular integrated sensing and communication (ISAC) networks, each service-provider vehicle uses a limited power budget to serve multiple sensing targets and communication receivers. |
 | 2026-11-04 | [Message-passing graph persistence](https://arxiv.org/abs/2611.06801) | Message-passing graph neural networks (GNNs) are limited in expressive power by the one-dimensional Weisfeiler-Leman test. |
 | 2026-11-04 | [Learning Pseudo-Riemannian Manifolds for Heterophilic Graphs via Graph Signature](https://arxiv.org/abs/2611.06265) | Several widely used families of Graph Neural Networks carry a positive-definite geometric prior. |
 | 2026-11-03 | [SO(3)-Equivariant Learning on CAD Boundary Representations](https://arxiv.org/abs/2611.05449) | Learning on boundary representations (B-reps) requires robustness to the pose of a part, since CAD models are not stored in a canonical orientation. |

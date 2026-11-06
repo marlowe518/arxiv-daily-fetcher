@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-05 | [FedReason: Large Language Models as Weight-Space Meta-Aggregators for Heterogeneous Federated Learning](https://arxiv.org/abs/2611.08383) | Federated learning servers combine client models with a fixed aggregation rule, and each rule in common use is designed for one kind of heterogeneity. |
+| 2026-11-05 | [GTAFL: Addressing Test-Agnostic Long-Tailed Federated Learning in Medical Image](https://arxiv.org/abs/2611.08021) | In healthcare, protecting patient privacy is crucial due to the sensitivity of medical data and its extensive accessibility. |
+| 2026-11-04 | [Server-Side Sparse Assignment for Federated Mixture-of-Experts](https://arxiv.org/abs/2611.07093) | Large language models (LLMs) are increasingly recognized for their remarkable capabilities; federated learning (FL) offers a promising framework for collaboratively fine-tuning LLMs on edge devices... |
 | 2026-11-04 | [FedFiOT: Fisher-Weighted Optimal Transport for Model Merging in One-Shot and Few-Round Federated Learning](https://arxiv.org/abs/2611.06783) | One-shot and few-round federated learning (FL) reduce communication burden by constructing a global model within one or a few communication rounds, but often achieve lower performance than... |
 | 2026-11-04 | [Distributed Consensus, Optimization, and Learning under Communication Constraints](https://arxiv.org/abs/2611.06524) | Many modern engineering applications require distributed problem-solving in which multiple nodes in a network cooperate to achieve a common optimization objective. |
 | 2026-11-04 | [Learning From Static Context in Federated Time Series Forecasting](https://arxiv.org/abs/2611.06064) | Time series forecasting is shifting from locally trained, per-series models to global models trained across many heterogeneous series, which requires learning what sets the series apart. |
