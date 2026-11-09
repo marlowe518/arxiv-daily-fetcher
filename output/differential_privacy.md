@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-06 | [On the Order of Privacy and Smoothing in Functional Mean Estimation](https://arxiv.org/abs/2611.09799) | Differential privacy (DP) is a leading framework for privacy protection, yet privacy mechanisms tailored to functional data analysis (FDA) remain relatively underexplored. |
+| 2026-11-06 | [Differentially Private GraphRAG: Protecting Relation Connectivity and Semantics](https://arxiv.org/abs/2611.09658) | Graph Retrieval-Augmented Generation (GraphRAG) connects information across documents through entity relationships to support relational reasoning. |
+| 2026-11-05 | [On Differentially Private Mechanisms for Linear Regression](https://arxiv.org/abs/2611.08737) | We study the classic least-squares linear regression problem under differential privacy (DP) in the batch and the continual observation setting. |
 | 2026-11-05 | [Statistical and Privacy Guarantees for Deep M-Regression via Stochastic Gradient Langevin Dynamics](https://arxiv.org/abs/2611.07490) | In this article, we study deep nonparametric regression trained via stochastic gradient Langevin dynamics (SGLD), a variant of stochastic gradient descent that injects carefully calibrated Gaussian... |
 | 2026-11-04 | [Dimension-Free Private Mean Estimation is Impossible Without the Covariance](https://arxiv.org/abs/2611.06615) | We study the limits of differentially private Gaussian mean estimation when the covariance matrix is unknown. |
 | 2026-11-04 | [CoRTeC: A Differentially Private Release for Synthetic Tabular Data, Decodable by Any Generator](https://arxiv.org/abs/2611.06342) | The records that could train the most useful models, such as a hospital's patient files, are often the ones an institution cannot share. |
