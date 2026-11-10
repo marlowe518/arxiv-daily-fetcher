@@ -5,6 +5,8 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-08 | [Shape-Adaptive Subspace-Constrained Quadratic Matrix Factorization](https://arxiv.org/abs/2611.11313) | Quadratic manifold fitting provides a flexible framework for modeling nonlinear low-dimensional structures embedded in high-dimensional spaces. |
+| 2026-11-07 | [Representing Tensors as Compositions for Efficient Computation on Sparse and Structured Data](https://arxiv.org/abs/2611.10855) | We propose a new mathematical formalism in which all kinds of tensors and of operations on those tensors are represented as simple function compositions. |
 | 2026-11-03 | [Finite Spectral Depth Controls Gaussian Entrance Rank and Avoidance of the First Gradient-Flow Saddle](https://arxiv.org/abs/2611.05022) | Matrix factorization provides a simple model for studying the training dynamics of neural networks. |
 | 2026-10-26 | [AHEAD: Adaptive Neural Acceleration for Large-Scale Linear Programming](https://arxiv.org/abs/2610.36321) | Large-scale linear programs with millions of variables and constraints strain time and memory budgets. |
 | 2026-10-25 | [Theoretically Sound Item Similarity Measures for Recommender Systems](https://arxiv.org/abs/2610.34402) | Quantifying the similarity between items is fundamental to neighborhood-based collaborative filtering, yet many commonly used similarity measures are heuristics that lack theoretical justification. |

@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-09 | [Optimal Rates for Adaptive Private $k$-PCA](https://arxiv.org/abs/2611.12419) | Paper titled: Optimal Rates for Adaptive Private $k$-PCA |
+| 2026-11-08 | [PLDP-IDS: Personalized Local Differential Privacy for Infinite Data Stream](https://arxiv.org/abs/2611.11467) | Streaming data collection under local differential privacy (LDP) enables real-time analytics without a trusted curator. |
+| 2026-11-07 | [Optimal Byzantine-resilient Federated Learning with User-level Differential Privacy](https://arxiv.org/abs/2611.10898) | Real-world deployment of federated learning (FL) requires resilience against adversarial clients and data privacy. |
 | 2026-11-06 | [On the Order of Privacy and Smoothing in Functional Mean Estimation](https://arxiv.org/abs/2611.09799) | Differential privacy (DP) is a leading framework for privacy protection, yet privacy mechanisms tailored to functional data analysis (FDA) remain relatively underexplored. |
 | 2026-11-06 | [Differentially Private GraphRAG: Protecting Relation Connectivity and Semantics](https://arxiv.org/abs/2611.09658) | Graph Retrieval-Augmented Generation (GraphRAG) connects information across documents through entity relationships to support relational reasoning. |
 | 2026-11-05 | [On Differentially Private Mechanisms for Linear Regression](https://arxiv.org/abs/2611.08737) | We study the classic least-squares linear regression problem under differential privacy (DP) in the batch and the continual observation setting. |
