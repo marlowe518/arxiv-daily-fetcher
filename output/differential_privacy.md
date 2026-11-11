@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-10 | [MammothDP: Private Boosted Decision Trees Ready for Trusted Hardware and Leakage-free Hyperparameters](https://arxiv.org/abs/2611.14317) | Data spaces like the European Health Data Space (EHDS) require the protection of sensitive data in studies during the data's processing and the study's release alike. |
+| 2026-11-10 | [Gradient Inversion through Linear and Affine Subspace Constraints](https://arxiv.org/abs/2611.13976) | Federated learning enables multiple clients to collaboratively train a machine-learning model without directly sharing their local datasets. |
+| 2026-11-10 | [Differentially Private Statistical Inference for Rankings from Pairwise Comparisons](https://arxiv.org/abs/2611.13485) | Reliable inference for rankings of large language models based on human pairwise comparisons must preserve the privacy of individual preference records. |
 | 2026-11-09 | [Optimal Rates for Adaptive Private $k$-PCA](https://arxiv.org/abs/2611.12419) | Paper titled: Optimal Rates for Adaptive Private $k$-PCA |
 | 2026-11-08 | [PLDP-IDS: Personalized Local Differential Privacy for Infinite Data Stream](https://arxiv.org/abs/2611.11467) | Streaming data collection under local differential privacy (LDP) enables real-time analytics without a trusted curator. |
 | 2026-11-07 | [Optimal Byzantine-resilient Federated Learning with User-level Differential Privacy](https://arxiv.org/abs/2611.10898) | Real-world deployment of federated learning (FL) requires resilience against adversarial clients and data privacy. |

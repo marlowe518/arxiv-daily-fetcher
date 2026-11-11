@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-10 | [Hierarchical Graph Representation Learning with Pooling-Induced Substructures](https://arxiv.org/abs/2611.14126) | Hierarchical graph-level tasks that require reasoning over substructures that extend beyond local neighborhoods are posing challenges for standard Graph Neural Networks (GNNs). |
+| 2026-11-09 | [IC-GNN: Modeling Individualized Brain Community Organization for Disease Prediction](https://arxiv.org/abs/2611.13070) | Brain networks exhibit modular organization, where community structures vary substantially across individuals and diseases. |
+| 2026-11-08 | [Multimodal Graph Learning: A Survey of Models, Benchmarks, and Frontiers](https://arxiv.org/abs/2611.12990) | Multimodal attributed graphs (MAGs), in which nodes carry text, images, and other modalities while edges encode relations among entities, underlie e-commerce, social media, content platforms, and... |
 | 2026-11-09 | [Pricing Symbolic Rules by What GNNs Leave Unlearned](https://arxiv.org/abs/2611.12446) | Symbolic knowledge (motif counts, ring counts, label constraints) is routinely added to graph neural networks (GNNs) and justified by their limited expressivity. |
 | 2026-11-09 | [Reconstructing hourly traffic on every street of a capital from a sparse counting network: a graph neural network applied to Paris](https://arxiv.org/abs/2611.12379) | Micro-scale air quality models require hourly traffic data on every road segment, whereas permanent counters cover only a small part of the network. |
 | 2026-11-09 | [Graph-Based RL for Sequential Rendezvous Planning with Multiple Patrolling USVs](https://arxiv.org/abs/2611.12205) | In patrol missions involving multiple unmanned surface vehicles (USVs), a designated command USV can support fleet management by sequentially rendezvousing with each patrolling USV. |

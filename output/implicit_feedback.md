@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-10 | [Deep Personalization: Continuous Context Observation for Local Proactive Agents](https://arxiv.org/abs/2611.13457) | As AI agents become increasingly capable, users must still recognize when and how to ask for help, leaving many opportunities for useful support unrealized. |
 | 2026-10-31 | [Alignment Flywheel-Guided Suppression Patching for Interactionless Inverse Reinforcement Learning](https://arxiv.org/abs/2611.01322) | Learned reward models allow reinforcement-learning agents to use demonstrations, implicit feedback, safety constraints, social norms, or other sources that do not provide a complete hand-designed... |
 | 2026-10-19 | [OceanTensorCube and ST-MMT: A Multimodal Data and Transformer System for Seven-Day Forecasting of Pyropia Bleaching](https://arxiv.org/abs/2610.26209) | Bleaching of cultured Pyropia (laver) causes losses in Korean seaweed farming. |
 | 2026-10-16 | [Dynamic Neural Optimal Transport for Subset Alignment](https://arxiv.org/abs/2610.24258) | We study optimal transport between distributions when only a subset of the target population is relevant to the source. |

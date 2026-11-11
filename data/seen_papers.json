@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-10T15:50:42.160659",
+  "last_updated": "2026-11-11T15:39:32.951608",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -84094,6 +84094,471 @@
         "cs.LG",
         "cs.MS",
         "cs.PL"
+      ]
+    },
+    "2611.14126": {
+      "arxiv_id": "2611.14126",
+      "title": "Hierarchical Graph Representation Learning with Pooling-Induced Substructures",
+      "authors": [
+        "Luca Sbicego",
+        "Xiaowen Dong",
+        "Dorina Thanou"
+      ],
+      "published": "2026-11-10T14:13:37+00:00",
+      "first_seen": "2026-11-11T15:39:08.772774",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.13070": {
+      "arxiv_id": "2611.13070",
+      "title": "IC-GNN: Modeling Individualized Brain Community Organization for Disease Prediction",
+      "authors": [
+        "Yang Zhang",
+        "Xiao Zhou",
+        "Jonathan Warrell",
+        "Avram Holmes",
+        "Xuan Zhang",
+        "Mark Gerstein",
+        "for the Alzheimer's Disease Neuroimaging Initiative"
+      ],
+      "published": "2026-11-09T18:59:24+00:00",
+      "first_seen": "2026-11-11T15:39:08.772785",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "q-bio.NC"
+      ]
+    },
+    "2611.12990": {
+      "arxiv_id": "2611.12990",
+      "title": "Multimodal Graph Learning: A Survey of Models, Benchmarks, and Frontiers",
+      "authors": [
+        "Rui Xue",
+        "Tianfu Wu"
+      ],
+      "published": "2026-11-08T10:29:16+00:00",
+      "first_seen": "2026-11-11T15:39:08.772791",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.13496": {
+      "arxiv_id": "2611.13496",
+      "title": "Reasoning-Aware Relational Representation Learning for Open-Vocabulary Scene Graph Generation",
+      "authors": [
+        "Jiawei Xiao",
+        "Boya Wang",
+        "Longtian Qiu",
+        "Shan Ning",
+        "Xuming He"
+      ],
+      "published": "2026-11-10T03:08:22+00:00",
+      "first_seen": "2026-11-11T15:39:11.633883",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CV",
+        "cs.AI"
+      ]
+    },
+    "2611.12927": {
+      "arxiv_id": "2611.12927",
+      "title": "An ensemble of graph generative models for assisted history matching of the Brugge field case",
+      "authors": [
+        "Gleb Shishaev",
+        "Anton Shirokov",
+        "Shadfar Davoodi",
+        "Mohammed Al-Shargabi",
+        "Vasily Demyanov",
+        "Daniel Arnold"
+      ],
+      "published": "2026-11-03T09:18:25+00:00",
+      "first_seen": "2026-11-11T15:39:11.633893",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.NE"
+      ]
+    },
+    "2611.14317": {
+      "arxiv_id": "2611.14317",
+      "title": "MammothDP: Private Boosted Decision Trees Ready for Trusted Hardware and Leakage-free Hyperparameters",
+      "authors": [
+        "Moritz Kirschte",
+        "Thorsten Peinemann",
+        "Kari Kostiainen",
+        "Jan Wichelmann",
+        "Thomas Eisenbarth",
+        "Esfandiar Mohammadi"
+      ],
+      "published": "2026-11-10T16:44:28+00:00",
+      "first_seen": "2026-11-11T15:39:17.722697",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.DB",
+        "cs.LG"
+      ]
+    },
+    "2611.13976": {
+      "arxiv_id": "2611.13976",
+      "title": "Gradient Inversion through Linear and Affine Subspace Constraints",
+      "authors": [
+        "Konstantinos Bouros",
+        "Athanasios P. Liavas"
+      ],
+      "published": "2026-11-10T12:16:13+00:00",
+      "first_seen": "2026-11-11T15:39:17.722707",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2611.13485": {
+      "arxiv_id": "2611.13485",
+      "title": "Differentially Private Statistical Inference for Rankings from Pairwise Comparisons",
+      "authors": [
+        "Xintao Xia",
+        "Jia Gu"
+      ],
+      "published": "2026-11-10T02:47:27+00:00",
+      "first_seen": "2026-11-11T15:39:17.722714",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "stat.ME"
+      ]
+    },
+    "2611.14312": {
+      "arxiv_id": "2611.14312",
+      "title": "PSL-RGHA: Parallel Split Learning with Reference Gradient Half-Space Alignment for Mitigating Gradient Divergence",
+      "authors": [
+        "Han Li",
+        "Zheng Lin",
+        "Miao Yang",
+        "Zehang Lin",
+        "Jing Yang",
+        "Zihan Fang",
+        "Qiyang Zhang",
+        "Zhaolu Kang",
+        "Jianmin Li",
+        "Lin Li",
+        "Mingwei Hong",
+        "Shunzhi Zhu"
+      ],
+      "published": "2026-11-10T16:42:30+00:00",
+      "first_seen": "2026-11-11T15:39:23.738579",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.NI"
+      ]
+    },
+    "2611.14272": {
+      "arxiv_id": "2611.14272",
+      "title": "Federated Learning for Cross-Regional Epidemic Forecasting with Asynchronous Outbreaks",
+      "authors": [
+        "Ruibin Liu",
+        "Francisco Fernandes",
+        "Xuanfeng Li",
+        "Zige Liu",
+        "André Salgado",
+        "Chitin Hon",
+        "Zifeng Yang",
+        "Arlindo Oliveira",
+        "Ana Teresa Freitas"
+      ],
+      "published": "2026-11-10T16:14:49+00:00",
+      "first_seen": "2026-11-11T15:39:23.738588",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.13708": {
+      "arxiv_id": "2611.13708",
+      "title": "FedVP: Federated Learning across Heterogeneous Models by Pooling Locally Trained Verifiers",
+      "authors": [
+        "Yifan Li",
+        "Xi Chen"
+      ],
+      "published": "2026-11-10T08:00:55+00:00",
+      "first_seen": "2026-11-11T15:39:23.738594",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.13491": {
+      "arxiv_id": "2611.13491",
+      "title": "Data-Efficient Unlearning-Based Backdoor Detection in Federated Learning",
+      "authors": [
+        "Dowon Kim",
+        "Junhao Cai",
+        "Sung Il Choi",
+        "Dohun Kim",
+        "Juhyun Park",
+        "Chengjun Jin",
+        "Changhee Joo"
+      ],
+      "published": "2026-11-10T03:04:31+00:00",
+      "first_seen": "2026-11-11T15:39:23.738599",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2611.13331": {
+      "arxiv_id": "2611.13331",
+      "title": "Stochastic Projections and Rank-Aware Learning Rates for Federated LoRA",
+      "authors": [
+        "Saber Malekmohammadi",
+        "Kevin Kuo",
+        "Virginia Smith",
+        "Golnoosh Farnadi"
+      ],
+      "published": "2026-11-09T22:58:41+00:00",
+      "first_seen": "2026-11-11T15:39:23.738603",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2611.13137": {
+      "arxiv_id": "2611.13137",
+      "title": "Byzantine-Robust Muon: Resilient Momentum Orthogonalization for Distributed Learning",
+      "authors": [
+        "Grigory Malinovsky",
+        "Yury Demidovich",
+        "Peter Richtárik"
+      ],
+      "published": "2026-11-09T19:18:37+00:00",
+      "first_seen": "2026-11-11T15:39:23.738607",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.14493": {
+      "arxiv_id": "2611.14493",
+      "title": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and Discovery in Enterprise Analytics Agents",
+      "authors": [
+        "Howard Zhang",
+        "Chuck Arvin",
+        "Logan Brown",
+        "Mihir Bhatia",
+        "Neelu Choudhary",
+        "Lily Miao"
+      ],
+      "published": "2026-11-10T18:50:06+00:00",
+      "first_seen": "2026-11-11T15:39:26.449820",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "cs.SE"
+      ]
+    },
+    "2611.14004": {
+      "arxiv_id": "2611.14004",
+      "title": "LUMIR: Decoupled Multimodal Representation Learning from Heterogeneous Data for Next-POI Recommendation",
+      "authors": [
+        "Zehui Wang",
+        "Wolfram Höpken",
+        "Dietmar Jannach"
+      ],
+      "published": "2026-11-10T12:45:09+00:00",
+      "first_seen": "2026-11-11T15:39:26.449828",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG",
+        "cs.MM"
+      ]
+    },
+    "2611.13972": {
+      "arxiv_id": "2611.13972",
+      "title": "Data Quality Challenges in Multimodal Tourism Recommender Systems",
+      "authors": [
+        "Zehui Wang",
+        "Wolfram Höpken",
+        "Dietmar Jannach"
+      ],
+      "published": "2026-11-10T12:08:40+00:00",
+      "first_seen": "2026-11-11T15:39:26.449834",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG",
+        "cs.MM"
+      ]
+    },
+    "2611.13966": {
+      "arxiv_id": "2611.13966",
+      "title": "Controlled Knowledge Engineering for Taxonomy Induction with Tool-Grounded LLM Agents and Runtime-Adaptive Policies",
+      "authors": [
+        "Jonas Limniatis",
+        "Bennet Schaarmann",
+        "Georg Reuber",
+        "Robert Stahlbock"
+      ],
+      "published": "2026-11-10T12:04:54+00:00",
+      "first_seen": "2026-11-11T15:39:26.449840",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2611.13914": {
+      "arxiv_id": "2611.13914",
+      "title": "From Counterfactual Edits to Human Narratives: LLM-Driven Interpretations for Recommender System Explanations",
+      "authors": [
+        "Vojtech Cahlik",
+        "Amir Reza Mohammadi",
+        "Rodrigo Alves",
+        "Pavel Kordik",
+        "Eva Zangerle"
+      ],
+      "published": "2026-11-10T11:05:19+00:00",
+      "first_seen": "2026-11-11T15:39:26.449844",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2611.13566": {
+      "arxiv_id": "2611.13566",
+      "title": "Metamorphic testing of learned AC optimal power flow surrogates reveals representation dependence",
+      "authors": [
+        "Stephen Peng",
+        "Vineet Jagadeesan Nair"
+      ],
+      "published": "2026-11-10T04:33:01+00:00",
+      "first_seen": "2026-11-11T15:39:26.449849",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "eess.SY",
+        "math.OC"
+      ]
+    },
+    "2611.13539": {
+      "arxiv_id": "2611.13539",
+      "title": "Exploiting Feature-invariant Scaling Laws for Efficient A/B Experimentation in Recommendation Systems",
+      "authors": [
+        "Zhiliang Chen",
+        "Sammy Nammari",
+        "Jiahao Su",
+        "Xiaoqiang Luo"
+      ],
+      "published": "2026-11-10T04:02:31+00:00",
+      "first_seen": "2026-11-11T15:39:26.449853",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2611.13525": {
+      "arxiv_id": "2611.13525",
+      "title": "EJAI: Judgment-Preserving Civic AI for Data Center Environmental Justice",
+      "authors": [
+        "Evan Pačes-Wiles",
+        "Bryen Alvarez",
+        "Sara Gulabani",
+        "Akshara Kolipaka",
+        "Snehalkumar 'Neil' S. Gaikwad"
+      ],
+      "published": "2026-11-10T03:50:04+00:00",
+      "first_seen": "2026-11-11T15:39:26.449857",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.CL",
+        "cs.CY"
+      ]
+    },
+    "2611.13361": {
+      "arxiv_id": "2611.13361",
+      "title": "A Technique to Model Product Information and User Reviews (MPIUR)",
+      "authors": [
+        "Emna Belguith",
+        "Fajrian Yunus",
+        "Talel Abdessalem"
+      ],
+      "published": "2026-11-09T23:36:38+00:00",
+      "first_seen": "2026-11-11T15:39:26.449861",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2611.13114": {
+      "arxiv_id": "2611.13114",
+      "title": "ASPIRE: An Agentic System-Identification Platform for Iterative Reasoning and Exploration",
+      "authors": [
+        "Erik Derner",
+        "Jiří Kubalík",
+        "Robert Babuška"
+      ],
+      "published": "2026-11-09T19:03:05+00:00",
+      "first_seen": "2026-11-11T15:39:26.449866",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CL",
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2611.13069": {
+      "arxiv_id": "2611.13069",
+      "title": "INTENT: Out-of-Sample, Out-of-Time, and Cold-Start Evaluation on User Event Sequences",
+      "authors": [
+        "Mattias Kvist",
+        "Erik Lidman Hillbom",
+        "Edoardo de Cal",
+        "Davis Siemens",
+        "Adam Fredriksson",
+        "Rickard Brüel-Gabrielsson"
+      ],
+      "published": "2026-11-09T18:58:56+00:00",
+      "first_seen": "2026-11-11T15:39:26.449870",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2611.13457": {
+      "arxiv_id": "2611.13457",
+      "title": "Deep Personalization: Continuous Context Observation for Local Proactive Agents",
+      "authors": [
+        "Yijia Shao",
+        "Song Bian",
+        "Junxian Guo",
+        "Jindong Jiang",
+        "Zhen Dong",
+        "Huizi Mao",
+        "Diyi Yang",
+        "Song Han"
+      ],
+      "published": "2026-11-10T02:03:31+00:00",
+      "first_seen": "2026-11-11T15:39:32.941932",
+      "topic": "Implicit Feedback",
+      "categories": [
+        "cs.LG"
       ]
     }
   }
