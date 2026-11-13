@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-11 | [Expanding the Decision Space of Pretrained Models through Structured Re-Decoding](https://arxiv.org/abs/2611.15109) | Native decoders limit how pretrained models combine local predictions under new structural constraints. |
 | 2026-11-10 | [Reasoning-Aware Relational Representation Learning for Open-Vocabulary Scene Graph Generation](https://arxiv.org/abs/2611.13496) | Open-Vocabulary Scene Graph Generation (OV-SGG) requires models to recognize visual relationships beyond the training vocabulary, yet existing methods often rely on dataset-specific object--predicate... |
 | 2026-11-03 | [An ensemble of graph generative models for assisted history matching of the Brugge field case](https://arxiv.org/abs/2611.12927) | Assisted history matching remains non-unique because many geological realisations can reproduce equivalent production responses with substantial differences between individual well matches. |
 | 2026-11-09 | [Beyond Flat Walks: Compositional Abstraction for Autoregressive Graph Generation](https://arxiv.org/abs/2611.12160) | Autoregressive graph generators typically linearize graphs through flat node-edge walks, which can obscure higher-order structure in large and complex graphs. |

@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-11 | [Arbor: When Labels Are Not Coarsened at Random](https://arxiv.org/abs/2611.15311) | Merging datasets labelled at different levels of a taxonomy leaves some images with only a coarse label, and some classes with no fine-grained label at all. |
 | 2026-11-10 | [Deep Personalization: Continuous Context Observation for Local Proactive Agents](https://arxiv.org/abs/2611.13457) | As AI agents become increasingly capable, users must still recognize when and how to ask for help, leaving many opportunities for useful support unrealized. |
 | 2026-10-31 | [Alignment Flywheel-Guided Suppression Patching for Interactionless Inverse Reinforcement Learning](https://arxiv.org/abs/2611.01322) | Learned reward models allow reinforcement-learning agents to use demonstrations, implicit feedback, safety constraints, social norms, or other sources that do not provide a complete hand-designed... |
 | 2026-10-19 | [OceanTensorCube and ST-MMT: A Multimodal Data and Transformer System for Seven-Day Forecasting of Pyropia Bleaching](https://arxiv.org/abs/2610.26209) | Bleaching of cultured Pyropia (laver) causes losses in Korean seaweed farming. |
