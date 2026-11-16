@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-15T15:01:40.631640",
+  "last_updated": "2026-11-16T17:31:23.929225",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -85299,6 +85299,301 @@
       "categories": [
         "cs.CV",
         "cs.LG"
+      ]
+    },
+    "2611.18248": {
+      "arxiv_id": "2611.18248",
+      "title": "Dancing Tokens on the Vocabulary Network from LLM Generation",
+      "authors": [
+        "Yuan-Chao Hu"
+      ],
+      "published": "2026-11-13T14:43:55+00:00",
+      "first_seen": "2026-11-16T17:30:59.231700",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cond-mat.dis-nn"
+      ]
+    },
+    "2611.17886": {
+      "arxiv_id": "2611.17886",
+      "title": "Quantum Graph Neural Networks: Architectures, Trainability, and Applications",
+      "authors": [
+        "Zeinab Sharifi",
+        "Hossein Shirazi"
+      ],
+      "published": "2026-11-13T08:23:31+00:00",
+      "first_seen": "2026-11-16T17:30:59.231712",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.17478": {
+      "arxiv_id": "2611.17478",
+      "title": "ERGo: Energy-Efficient Hybrid Graph Neural Network Training on Processing-In-Memory Architectures",
+      "authors": [
+        "Pratyush Dhingra",
+        "Chibuike E. Ugwu",
+        "Janardhan Rao Doppa",
+        "Partha Pratim Pande"
+      ],
+      "published": "2026-11-12T20:02:35+00:00",
+      "first_seen": "2026-11-16T17:30:59.231719",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.17944": {
+      "arxiv_id": "2611.17944",
+      "title": "Differentially Private Federated Class-Incremental Learning for EEG Mental State Classification",
+      "authors": [
+        "Baran Can Gül",
+        "Ali Gülümser",
+        "Nasser Jazdi",
+        "Michael Weyrich"
+      ],
+      "published": "2026-11-13T09:31:03+00:00",
+      "first_seen": "2026-11-16T17:31:09.539577",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.17703": {
+      "arxiv_id": "2611.17703",
+      "title": "iGRAIL: Blockchain-Based Generative Federated Learning for Trustworthy Healthcare Intelligence",
+      "authors": [
+        "Debashis Das",
+        "Sourav Banerjee",
+        "Saraju P. Mohanty"
+      ],
+      "published": "2026-11-13T03:33:35+00:00",
+      "first_seen": "2026-11-16T17:31:09.539592",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2611.17596": {
+      "arxiv_id": "2611.17596",
+      "title": "Tractable Importance Sampling for Monte Carlo Privacy Accounting",
+      "authors": [
+        "Galen Andrew",
+        "Arun Ganesh"
+      ],
+      "published": "2026-11-12T23:33:00+00:00",
+      "first_seen": "2026-11-16T17:31:09.539599",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2611.17554": {
+      "arxiv_id": "2611.17554",
+      "title": "Online Allocation with Differential Privacy",
+      "authors": [
+        "Jianyi Yang",
+        "Xingyu Zhou",
+        "Mostafa Mushsharat",
+        "Shaolei Ren"
+      ],
+      "published": "2026-11-12T22:15:33+00:00",
+      "first_seen": "2026-11-16T17:31:09.539606",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2611.11295": {
+      "arxiv_id": "2611.11295",
+      "title": "Samyama-SDG: A Declarative GraphQL @count and Regex/Ontology Synthetic Data Compiler with $O(1)$-Memory Referential Integrity and Causal Ground Truth",
+      "authors": [
+        "Madhulatha Mandarapu",
+        "Sandeep Kunkunuru"
+      ],
+      "published": "2026-11-08T10:40:35+00:00",
+      "first_seen": "2026-11-16T17:31:09.539614",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.DB"
+      ]
+    },
+    "2611.17869": {
+      "arxiv_id": "2611.17869",
+      "title": "Process Mining-Enabled Federated Anomaly Detection for the Industrial IoT",
+      "authors": [
+        "Francesco Vitale",
+        "Salvatore Bramante",
+        "Francesco Flammini",
+        "Hangli Ge"
+      ],
+      "published": "2026-11-13T08:00:34+00:00",
+      "first_seen": "2026-11-16T17:31:13.956951",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.17794": {
+      "arxiv_id": "2611.17794",
+      "title": "Federated Physics-Informed Thermal Field Prediction Across Unseen Geometries in Distributed Additive Manufacturing",
+      "authors": [
+        "Amirul Islam Saimon",
+        "Zhenyu",
+        "Kong"
+      ],
+      "published": "2026-11-13T06:14:10+00:00",
+      "first_seen": "2026-11-16T17:31:13.956962",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.18244": {
+      "arxiv_id": "2611.18244",
+      "title": "RACE: Ranking-Uncertainty Aware Capacity-Adaptive Customization for Efficient Sequential Recommendation",
+      "authors": [
+        "Tianqi Liu",
+        "Kaipu Sun",
+        "Kairui Fu",
+        "Wenkai Wang",
+        "Sihao Liu",
+        "Hui Zang",
+        "Ran Chen",
+        "Tao Wang",
+        "Shengyu Zhang"
+      ],
+      "published": "2026-11-13T14:40:26+00:00",
+      "first_seen": "2026-11-16T17:31:17.126608",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2611.17981": {
+      "arxiv_id": "2611.17981",
+      "title": "When Does Oversampling Help? A Decision Framework for Imbalanced Data Streams Under Label Delay and Concept Drift",
+      "authors": [
+        "Ahmed Awad",
+        "Anirudh Sengar"
+      ],
+      "published": "2026-11-13T10:09:06+00:00",
+      "first_seen": "2026-11-16T17:31:17.126621",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.17921": {
+      "arxiv_id": "2611.17921",
+      "title": "RecMem: Recurrent Memory Compression for Long-Sequence Generative Recommendation",
+      "authors": [
+        "Haoyi Hu",
+        "Gaoyang Guo",
+        "Yunjia Xi",
+        "Wen Chen",
+        "Weiwen Liu",
+        "Jian Wu",
+        "Yuning Jiang",
+        "Weinan Zhang"
+      ],
+      "published": "2026-11-13T08:59:44+00:00",
+      "first_seen": "2026-11-16T17:31:17.126630",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2611.17874": {
+      "arxiv_id": "2611.17874",
+      "title": "What a Memory Preview Cannot Tell You: Ambiguity in AI Memory Permissions",
+      "authors": [
+        "Sadia Noman Tonni",
+        "Nafis Fuad Shahid"
+      ],
+      "published": "2026-11-13T08:04:11+00:00",
+      "first_seen": "2026-11-16T17:31:17.126637",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2611.17856": {
+      "arxiv_id": "2611.17856",
+      "title": "DECODE: Diagnosing Interpretability Failures in Automated Interpretation Process",
+      "authors": [
+        "Dohyun Kim",
+        "Jaeung Lee",
+        "Donghee Hong",
+        "Jaemin Jo"
+      ],
+      "published": "2026-11-13T07:40:51+00:00",
+      "first_seen": "2026-11-16T17:31:17.126643",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.HC"
+      ]
+    },
+    "2611.17790": {
+      "arxiv_id": "2611.17790",
+      "title": "AutoRL: A Multi-Agent System towards Autonomous Reinforcement Learning",
+      "authors": [
+        "Simon Tang",
+        "Wenjie Shi",
+        "Yongjing Yin",
+        "Keheng Wang",
+        "Jialin Liu",
+        "Zheng Zhang",
+        "Linvo Lin",
+        "Xiangyuan Xue",
+        "Kan Ren",
+        "Jingang Wang",
+        "Xunliang Cai"
+      ],
+      "published": "2026-11-13T06:06:36+00:00",
+      "first_seen": "2026-11-16T17:31:17.126650",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2611.17608": {
+      "arxiv_id": "2611.17608",
+      "title": "Neural Simulation-Based Inference for Computational Cognitive Models: A Tutorial",
+      "authors": [
+        "Ti-Fen Pan",
+        "Yi Cheng",
+        "Anne GE Collins"
+      ],
+      "published": "2026-11-13T00:09:54+00:00",
+      "first_seen": "2026-11-16T17:31:17.126657",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "q-bio.NC"
+      ]
+    },
+    "2611.17490": {
+      "arxiv_id": "2611.17490",
+      "title": "Learning Recommendations under Imperfect Human Compliance with Record-Level Differential Privacy",
+      "authors": [
+        "Yuwen Ma",
+        "Nicola Bastianello",
+        "Sarah Spurgeon",
+        "Boli Chen"
+      ],
+      "published": "2026-11-12T20:24:52+00:00",
+      "first_seen": "2026-11-16T17:31:17.126664",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
       ]
     }
   }
