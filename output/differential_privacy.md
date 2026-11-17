@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-13 | [Quantifying Membership Inference Risks in Genomic Data Sharing: The Role of Attacker's Auxiliary Information](https://arxiv.org/abs/2611.18909) | Genomic data sharing is essential for biomedical research but introduces significant privacy risks, including membership inference attacks, in which an adversary determines whether a specific... |
 | 2026-11-13 | [Differentially Private Federated Class-Incremental Learning for EEG Mental State Classification](https://arxiv.org/abs/2611.17944) | Federated learning (FL) under differential privacy (DP) is typically evaluated on large client cohorts, where subsampling and cross-client averaging amplify privacy and smooth injected noise. |
 | 2026-11-13 | [iGRAIL: Blockchain-Based Generative Federated Learning for Trustworthy Healthcare Intelligence](https://arxiv.org/abs/2611.17703) | Healthcare organizations collect huge amounts of patient data from clinical records, medical tests, monitoring systems, and healthcare services. |
 | 2026-11-12 | [Tractable Importance Sampling for Monte Carlo Privacy Accounting](https://arxiv.org/abs/2611.17596) | Evaluating tight Differential Privacy (DP) parameters for DP matrix factorization with privacy amplification by sampling requires analyzing high-dimensional, correlated Gaussian mixtures. |
