@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-17T17:06:59.469026",
+  "last_updated": "2026-11-18T16:44:50.039724",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -86245,6 +86245,457 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2611.23175": {
+      "arxiv_id": "2611.23175",
+      "title": "Finding Patient Zero in Temporal Contact Networks: A Comparative Study",
+      "authors": [
+        "Nathan Cincera Brack",
+        "Martin Sterchi",
+        "Lorenz Hilfiker",
+        "Abraham Bernstein"
+      ],
+      "published": "2026-11-17T18:22:22+00:00",
+      "first_seen": "2026-11-18T16:44:26.290658",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.SI"
+      ]
+    },
+    "2611.22607": {
+      "arxiv_id": "2611.22607",
+      "title": "DLS: Dual-Logic Graph Neural Networks with Chaos-Fuzzy Residuals for Robust Link Prediction",
+      "authors": [
+        "Mohammad Mehdi Keikha",
+        "Abolfazl Nadi"
+      ],
+      "published": "2026-11-17T11:22:55+00:00",
+      "first_seen": "2026-11-18T16:44:26.290666",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.SI"
+      ]
+    },
+    "2611.22543": {
+      "arxiv_id": "2611.22543",
+      "title": "JointGV: Structure-Aware Correction of Visual World Models with Parallel Graph Dynamics for Long-Horizon Modeling",
+      "authors": [
+        "Tian Lyu",
+        "Yichen Jiang",
+        "Ziyuan Cheng",
+        "Yunda Yan",
+        "Xiangyu Pan",
+        "Junjie Jiang",
+        "Jialin Yu",
+        "Boyu Ning",
+        "Pietro Liò",
+        "Fan Mo"
+      ],
+      "published": "2026-11-17T10:33:21+00:00",
+      "first_seen": "2026-11-18T16:44:26.290671",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.RO",
+        "cs.AI",
+        "cs.CV"
+      ]
+    },
+    "2611.22140": {
+      "arxiv_id": "2611.22140",
+      "title": "Synthetic Crystal Data Generation for Diffusion Pretraining in Material Property Prediction",
+      "authors": [
+        "Aamod Varma",
+        "Shuyi Jia",
+        "Victor Fung"
+      ],
+      "published": "2026-11-17T03:27:08+00:00",
+      "first_seen": "2026-11-18T16:44:26.290676",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cond-mat.mtrl-sci"
+      ]
+    },
+    "2611.21828": {
+      "arxiv_id": "2611.21828",
+      "title": "Coordination of Heterogeneous Teams with Uncertain Task Requirements",
+      "authors": [
+        "Jongann Lee",
+        "Melkior Ornik"
+      ],
+      "published": "2026-11-16T19:48:17+00:00",
+      "first_seen": "2026-11-18T16:44:26.290680",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.MA",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2611.22444": {
+      "arxiv_id": "2611.22444",
+      "title": "Efficient Machine Learning Interatomic Potentials",
+      "authors": [
+        "Yury Lysogorskiy",
+        "Anton Bochkarev",
+        "Ralf Drautz"
+      ],
+      "published": "2026-11-17T09:14:12+00:00",
+      "first_seen": "2026-11-18T16:44:29.112038",
+      "topic": "Graph Generation",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cs.LG"
+      ]
+    },
+    "2611.22179": {
+      "arxiv_id": "2611.22179",
+      "title": "RAG in a Trenchcoat: When Minimal Memory Is Enough for Agentic Systems, and When It Isn't",
+      "authors": [
+        "Jingyu Liu",
+        "Zongze Li",
+        "Zach Xu",
+        "Zhanhui Zhou",
+        "Tahseen Rabbani",
+        "Dawn Song",
+        "Ce Zhang"
+      ],
+      "published": "2026-11-17T04:16:34+00:00",
+      "first_seen": "2026-11-18T16:44:29.112074",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2611.22732": {
+      "arxiv_id": "2611.22732",
+      "title": "Provable Mixing Properties of Parallel Mixnets Revisited",
+      "authors": [
+        "Pierfrancesco Ingo",
+        "Peter Druschel",
+        "Deepak Garg"
+      ],
+      "published": "2026-11-17T13:02:51+00:00",
+      "first_seen": "2026-11-18T16:44:35.107088",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2611.22929": {
+      "arxiv_id": "2611.22929",
+      "title": "Projected Penalty-Gradient Tracking for Communication-Efficient Byzantine-Resilient Federated Learning",
+      "authors": [
+        "Yanjie Dong"
+      ],
+      "published": "2026-11-17T15:28:03+00:00",
+      "first_seen": "2026-11-18T16:44:41.034136",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2611.22904": {
+      "arxiv_id": "2611.22904",
+      "title": "Who Pays for Byzantine Robustness? Validity, Data-Share Dictatorships, and Fairness When Only a Few Hospitals Collaborate",
+      "authors": [
+        "Adnan Malkani"
+      ],
+      "published": "2026-11-17T15:08:55+00:00",
+      "first_seen": "2026-11-18T16:44:41.034144",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2611.21970": {
+      "arxiv_id": "2611.21970",
+      "title": "Hierarchical Personalized Federated Learning for Fine-Grained Intrusion Detection: A Multi-Class Analysis in Heterogeneous Attack Environments",
+      "authors": [
+        "Abul Kalam Azad",
+        "Travis Atkison"
+      ],
+      "published": "2026-11-16T22:55:29+00:00",
+      "first_seen": "2026-11-18T16:44:41.034149",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2611.21932": {
+      "arxiv_id": "2611.21932",
+      "title": "V2V Communications Using Blockchain-Enabled 6G Technology and Federated Learning",
+      "authors": [
+        "Tahir H. Ahmed",
+        "Jun Jiat Tiang",
+        "Azwan Mahmud",
+        "Dinh-Thuan Do",
+        "Truong Tran",
+        "Shahid Mumtaz"
+      ],
+      "published": "2026-11-16T21:46:07+00:00",
+      "first_seen": "2026-11-18T16:44:41.034152",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.NI",
+        "cs.AI",
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2611.22956": {
+      "arxiv_id": "2611.22956",
+      "title": "Is model self-assessment enough for diverse LVLM ensembles?",
+      "authors": [
+        "Michael Smith",
+        "Frank P. Ferrie"
+      ],
+      "published": "2026-11-17T15:43:35+00:00",
+      "first_seen": "2026-11-18T16:44:44.065542",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2611.22921": {
+      "arxiv_id": "2611.22921",
+      "title": "Action-outcome coupling: a pre-investment feasibility audit for offline reinforcement learning in supply chain operations",
+      "authors": [
+        "Tung Dang",
+        "The Hung Phung",
+        "Son Lam Nguyen",
+        "Tu Nguyen"
+      ],
+      "published": "2026-11-17T15:21:50+00:00",
+      "first_seen": "2026-11-18T16:44:44.065549",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CE",
+        "econ.EM",
+        "stat.AP"
+      ]
+    },
+    "2611.22846": {
+      "arxiv_id": "2611.22846",
+      "title": "Music Similarity Learning in Sparse Latin Scenarios",
+      "authors": [
+        "Gabrielly Xavier dos Santos",
+        "Lucas Dias Cler",
+        "Olga Goussevskaia"
+      ],
+      "published": "2026-11-17T14:28:01+00:00",
+      "first_seen": "2026-11-18T16:44:44.065553",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.22838": {
+      "arxiv_id": "2611.22838",
+      "title": "Better Rankers, Worse Retrievers: The Hidden Cost of RL Post-Training in Generative Recommendation",
+      "authors": [
+        "Yuheng Chen",
+        "Fan Zhang",
+        "Yixuan Xu",
+        "Chao Yang",
+        "Yang Xiang",
+        "Can Yang"
+      ],
+      "published": "2026-11-17T14:19:22+00:00",
+      "first_seen": "2026-11-18T16:44:44.065556",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI"
+      ]
+    },
+    "2611.22788": {
+      "arxiv_id": "2611.22788",
+      "title": "IntentGR: Enhancing Intent for End-to-End Personalized Generative Retrieval in Search",
+      "authors": [
+        "Gefan Ye",
+        "Yanjing Wu",
+        "Yinfu Feng",
+        "Zhiqiang Wang",
+        "Liang Li",
+        "Jun Xiao",
+        "Rong Xiao",
+        "Xiaoyi Zeng"
+      ],
+      "published": "2026-11-17T13:51:07+00:00",
+      "first_seen": "2026-11-18T16:44:44.065560",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.22756": {
+      "arxiv_id": "2611.22756",
+      "title": "Learning Cross-Domain Media Similarity from Amazon Reviews",
+      "authors": [
+        "Gabrielly Xavier dos Santos",
+        "Lucas Dias Cler",
+        "Luciana Fujii Pontello",
+        "Olga Goussevskaia"
+      ],
+      "published": "2026-11-17T13:24:45+00:00",
+      "first_seen": "2026-11-18T16:44:44.065563",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.22597": {
+      "arxiv_id": "2611.22597",
+      "title": "COTTI: Contrastive Training and Time-Aware Inference for Robust Industrial Recommendation under Promotional Drift",
+      "authors": [
+        "Maolei Huang",
+        "Jing Tian",
+        "Dexuan Duan",
+        "Fangfang Lin",
+        "Huawei Cao",
+        "Shuhan Song"
+      ],
+      "published": "2026-11-17T11:18:28+00:00",
+      "first_seen": "2026-11-18T16:44:44.065567",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2611.22410": {
+      "arxiv_id": "2611.22410",
+      "title": "More Than a Score: Reinforcement Learning with Verbalized Feedback for Generative Recommendation",
+      "authors": [
+        "Zipeng Chen",
+        "Xinyu Lin",
+        "Yuliang Sun",
+        "Sheng Zhang",
+        "Zeyu Wang",
+        "Xiaowen Shi",
+        "Junwei Pan",
+        "Chengguo Yin"
+      ],
+      "published": "2026-11-17T08:47:30+00:00",
+      "first_seen": "2026-11-18T16:44:44.065570",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.22274": {
+      "arxiv_id": "2611.22274",
+      "title": "GuardAgent: A Memory-Augmented Agentic Framework for Adaptive Detection of Adversarial Promotions in LLM-Based Recommendation",
+      "authors": [
+        "Shiyi Yang",
+        "Xinshu Li",
+        "Chen Wang",
+        "Xiwei Xu",
+        "Liming Zhu",
+        "Lina Yao"
+      ],
+      "published": "2026-11-17T06:20:53+00:00",
+      "first_seen": "2026-11-18T16:44:44.065573",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CR"
+      ]
+    },
+    "2611.22163": {
+      "arxiv_id": "2611.22163",
+      "title": "Cluster-Guided Decoding with Trust-Region Constraints for Personalized Recommendation",
+      "authors": [
+        "Gezheng Wen",
+        "Chao Shen",
+        "Raviteja Anantha",
+        "Tan Shen Cliff Chung",
+        "Layne C. Price"
+      ],
+      "published": "2026-11-17T03:53:19+00:00",
+      "first_seen": "2026-11-18T16:44:44.065577",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.22128": {
+      "arxiv_id": "2611.22128",
+      "title": "TempQuant: Learning Adaptive Temperatures for Quantized Language Models",
+      "authors": [
+        "Mukund Athmaram",
+        "Liang Ma",
+        "Manoj Rao"
+      ],
+      "published": "2026-11-17T03:11:36+00:00",
+      "first_seen": "2026-11-18T16:44:44.065580",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.22033": {
+      "arxiv_id": "2611.22033",
+      "title": "Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents",
+      "authors": [
+        "Adi Krishnamoorthy",
+        "X. Y. Han"
+      ],
+      "published": "2026-11-17T00:55:58+00:00",
+      "first_seen": "2026-11-18T16:44:44.065583",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.CL",
+        "cs.CY",
+        "cs.HC",
+        "econ.GN"
+      ]
+    },
+    "2611.21983": {
+      "arxiv_id": "2611.21983",
+      "title": "Large Language Models as Nonlinear Dynamical Systems: The Three Clocks of Depth, Training, and Generation",
+      "authors": [
+        "Maor Farid"
+      ],
+      "published": "2026-11-16T23:11:52+00:00",
+      "first_seen": "2026-11-18T16:44:44.065586",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.CL",
+        "math.DS",
+        "nlin.CD"
+      ]
+    },
+    "2611.21920": {
+      "arxiv_id": "2611.21920",
+      "title": "KVUse: Reusable-KV User Memory for Efficient LLM Recommenders",
+      "authors": [
+        "Xin Guo",
+        "Qiang Zhang",
+        "Xiang Zhou",
+        "Arushi Rai",
+        "Siyu Lin",
+        "Yifan Wu",
+        "Xiang Shen",
+        "Lei Huang",
+        "Qunshu Zhang",
+        "Xiangjun Fan",
+        "Lizhu Zhang"
+      ],
+      "published": "2026-11-16T21:32:01+00:00",
+      "first_seen": "2026-11-18T16:44:44.065590",
+      "topic": "Recommender Systems",
+      "categories": [
         "cs.LG"
       ]
     }
