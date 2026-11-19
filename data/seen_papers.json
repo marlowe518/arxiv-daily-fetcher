@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-18T16:44:50.039724",
+  "last_updated": "2026-11-19T16:51:30.548981",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -86697,6 +86697,339 @@
       "topic": "Recommender Systems",
       "categories": [
         "cs.LG"
+      ]
+    },
+    "2611.24274": {
+      "arxiv_id": "2611.24274",
+      "title": "Element-Wise Femoral Stress Prediction: A Hybrid Graph Neural Network Surrogate for Finite Element Analysis",
+      "authors": [
+        "Sikha O K",
+        "Abdollah Moslemi",
+        "Elham Alizadeh",
+        "Ludovic Humbert",
+        "Miguel A. Gonzalez Ballester",
+        "Jerome Noailly"
+      ],
+      "published": "2026-11-18T11:52:10+00:00",
+      "first_seen": "2026-11-19T16:51:06.726526",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.23729": {
+      "arxiv_id": "2611.23729",
+      "title": "Toward Out-of-Distribution Generalization in Neural AC Power Flow",
+      "authors": [
+        "Ojas Sanghi",
+        "Anvita Bhagavathula",
+        "Alvaro Carbonero",
+        "Priya L. Donti"
+      ],
+      "published": "2026-11-18T02:41:59+00:00",
+      "first_seen": "2026-11-19T16:51:06.726535",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2611.23533": {
+      "arxiv_id": "2611.23533",
+      "title": "Can LLMs Understand What They Predict? Evaluating Latent Causal Structure Inference in Financial Markets",
+      "authors": [
+        "Yixiang Zheng",
+        "Yuechen Jiang",
+        "Zhiwei Liu",
+        "Jimin Huang",
+        "Yuyan Wang",
+        "Sophia Ananiadou"
+      ],
+      "published": "2026-11-17T21:39:56+00:00",
+      "first_seen": "2026-11-19T16:51:09.503681",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CL",
+        "cs.LG"
+      ]
+    },
+    "2611.24623": {
+      "arxiv_id": "2611.24623",
+      "title": "Robust, Lightweight Locally Differentially Private Histogram Estimation and the Role of Dropout Attacks",
+      "authors": [
+        "Haochen Sun",
+        "Jacob Imola",
+        "Xi He"
+      ],
+      "published": "2026-11-18T15:38:28+00:00",
+      "first_seen": "2026-11-19T16:51:15.486552",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2611.23701": {
+      "arxiv_id": "2611.23701",
+      "title": "Data Poisoning Attacks to Locally Differentially Private Triangle Counting Protocols",
+      "authors": [
+        "Tingxuan Han",
+        "Wei Tong",
+        "Zijian Wang",
+        "Sheng Zhong"
+      ],
+      "published": "2026-11-18T01:47:10+00:00",
+      "first_seen": "2026-11-19T16:51:15.486565",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2611.24689": {
+      "arxiv_id": "2611.24689",
+      "title": "Stealing Exact Training Data from Other Clients during Federated Learning",
+      "authors": [
+        "Omkar Shrikanth",
+        "Soham Dambalkar",
+        "Parag Jyoti Pal",
+        "Advik Raj Basani",
+        "Arnab K. Paul"
+      ],
+      "published": "2026-11-18T16:19:03+00:00",
+      "first_seen": "2026-11-19T16:51:21.464738",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DC"
+      ]
+    },
+    "2611.24367": {
+      "arxiv_id": "2611.24367",
+      "title": "VAFL: A Vertical Analytic Federated Learning Mechanism for Efficient Crowdsourced Services via Closed-Form Solutions",
+      "authors": [
+        "Yajiang Huang",
+        "Anfeng Liu",
+        "Tian Wang",
+        "Mianxiong Dong",
+        "Houbing Herbert Song"
+      ],
+      "published": "2026-11-18T13:00:45+00:00",
+      "first_seen": "2026-11-19T16:51:21.464746",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2611.24070": {
+      "arxiv_id": "2611.24070",
+      "title": "FDM+: A Framework for Constrained Control of the 2D Radiative Transport Equation",
+      "authors": [
+        "Hualing Zhong",
+        "Shuai Wang",
+        "Hui Xie",
+        "Heng Yong"
+      ],
+      "published": "2026-11-18T09:02:31+00:00",
+      "first_seen": "2026-11-19T16:51:21.464752",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "physics.comp-ph"
+      ]
+    },
+    "2611.24057": {
+      "arxiv_id": "2611.24057",
+      "title": "Faster to the Wrong Answer: The Price of Local Updates in Federated Optimization",
+      "authors": [
+        "Molly Wang"
+      ],
+      "published": "2026-11-18T08:49:17+00:00",
+      "first_seen": "2026-11-19T16:51:21.464757",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.23908": {
+      "arxiv_id": "2611.23908",
+      "title": "Training-Free Domain Generation for One-Shot Federated Learning with Server-Side Pre-trained Diffusion Models",
+      "authors": [
+        "Yixuan Tong",
+        "Yuanguo Bi",
+        "Mingjian Zhi",
+        "Wenchao Xu",
+        "Yuan Wu"
+      ],
+      "published": "2026-11-18T05:59:45+00:00",
+      "first_seen": "2026-11-19T16:51:21.464760",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.AI",
+        "cs.CV",
+        "cs.DC"
+      ]
+    },
+    "2611.23742": {
+      "arxiv_id": "2611.23742",
+      "title": "Same Rank, Different Needs: Rethinking LoRA Redistribution in Federated Learning",
+      "authors": [
+        "Jinqian Chen",
+        "Jihua Zhu",
+        "Chang Liu"
+      ],
+      "published": "2026-11-18T02:53:25+00:00",
+      "first_seen": "2026-11-19T16:51:21.464764",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.24757": {
+      "arxiv_id": "2611.24757",
+      "title": "Variance-Optimal Counterfactual Policy Design for Sample-Efficient Online A/B Testing",
+      "authors": [
+        "Shashank Gupta",
+        "Subhadeep Maji"
+      ],
+      "published": "2026-11-18T17:11:57+00:00",
+      "first_seen": "2026-11-19T16:51:24.442853",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.IR"
+      ]
+    },
+    "2611.24426": {
+      "arxiv_id": "2611.24426",
+      "title": "DyNA-Mixer: Decoupling Time and Topology for Scalable Dynamic Node Affinity Prediction",
+      "authors": [
+        "Yuanxing Zheng",
+        "Liping Wang",
+        "Xuemin Lin"
+      ],
+      "published": "2026-11-18T13:45:25+00:00",
+      "first_seen": "2026-11-19T16:51:24.442860",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.24342": {
+      "arxiv_id": "2611.24342",
+      "title": "Exploring Daily Emotional Well-Being through Personalized Data Analysis",
+      "authors": [
+        "Adriana Rodríguez Rodríguez"
+      ],
+      "published": "2026-11-18T12:40:49+00:00",
+      "first_seen": "2026-11-19T16:51:24.442864",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC",
+        "cs.LG"
+      ]
+    },
+    "2611.24006": {
+      "arxiv_id": "2611.24006",
+      "title": "MARS Technical Report",
+      "authors": [
+        "Tong Liu",
+        "Chaoqun Hou",
+        "Longxiang Xiong",
+        "Junhong Lou",
+        "Jiaqi Zheng",
+        "Qixin Li",
+        "Zixin Zhao",
+        "Yong Duan",
+        "Xiannian Hu",
+        "Fengze Jiang",
+        "Yu Zhu",
+        "Cheng Guo",
+        "Xinyuan Qi",
+        "Zi Zhuang",
+        "Ping Liu",
+        "Lv Shao",
+        "Zongwei Wang"
+      ],
+      "published": "2026-11-18T07:56:58+00:00",
+      "first_seen": "2026-11-19T16:51:24.442868",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.23969": {
+      "arxiv_id": "2611.23969",
+      "title": "ReflectRec: Cycle-Consistency Preference Verification for LLM-based Recommendation",
+      "authors": [
+        "Dae Kyoo Kim",
+        "Heejung Cho",
+        "Sungmoo Hong",
+        "Eunil Park"
+      ],
+      "published": "2026-11-18T07:10:39+00:00",
+      "first_seen": "2026-11-19T16:51:24.442872",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.CL",
+        "cs.IR"
+      ]
+    },
+    "2611.23710": {
+      "arxiv_id": "2611.23710",
+      "title": "CONCORD-Rec: Catalog-Conditioned Modality Utility for Semantic-ID Diffusion Recommendation",
+      "authors": [
+        "Haopeng Jin",
+        "Bingkang Shi",
+        "Tao Yu",
+        "Yifei Ma",
+        "Hao Liu",
+        "Hongzhu Yi",
+        "Jinwen Luo"
+      ],
+      "published": "2026-11-18T02:09:51+00:00",
+      "first_seen": "2026-11-19T16:51:24.442876",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.23676": {
+      "arxiv_id": "2611.23676",
+      "title": "Finetuning VLAs for Dexterous Manipulation: The Right Checkpoint Is All You Need",
+      "authors": [
+        "Artur Kuramshin",
+        "Charlotte Cloutier",
+        "Michael Przystupa",
+        "Kirsty Ellis",
+        "Mohammad S. Akhter",
+        "Glen Berseth"
+      ],
+      "published": "2026-11-18T01:04:46+00:00",
+      "first_seen": "2026-11-19T16:51:24.442880",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.RO",
+        "cs.LG"
+      ]
+    },
+    "2611.23339": {
+      "arxiv_id": "2611.23339",
+      "title": "Optimize the Cob, Then the Kernel: Optimizing Beam Search for Generative Recommendation Inference",
+      "authors": [
+        "Shing Wai Pun",
+        "Kai Wu",
+        "Pengfei Xia",
+        "Hui Zang",
+        "Wei Guo",
+        "Yong Liu"
+      ],
+      "published": "2026-11-17T07:14:52+00:00",
+      "first_seen": "2026-11-19T16:51:24.442884",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
       ]
     }
   }

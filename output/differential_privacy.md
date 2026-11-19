@@ -5,6 +5,8 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-18 | [Robust, Lightweight Locally Differentially Private Histogram Estimation and the Role of Dropout Attacks](https://arxiv.org/abs/2611.24623) | Local differential privacy (LDP) is vulnerable to output manipulation by malicious clients. |
+| 2026-11-18 | [Data Poisoning Attacks to Locally Differentially Private Triangle Counting Protocols](https://arxiv.org/abs/2611.23701) | Local differential privacy (LDP) has become a crucial paradigm for privacy-preserving graph analytics, enabling graph analytics tasks such as subgraph counting without requiring a trusted curator. |
 | 2026-11-17 | [Provable Mixing Properties of Parallel Mixnets Revisited](https://arxiv.org/abs/2611.22732) | A mix-network (mixnet) is a routing network that breaks source-to-destination message trackability by indistinguishably mixing the routes of concurrently transmitted messages, thus providing... |
 | 2026-11-13 | [Quantifying Membership Inference Risks in Genomic Data Sharing: The Role of Attacker's Auxiliary Information](https://arxiv.org/abs/2611.18909) | Genomic data sharing is essential for biomedical research but introduces significant privacy risks, including membership inference attacks, in which an adversary determines whether a specific... |
 | 2026-11-13 | [Differentially Private Federated Class-Incremental Learning for EEG Mental State Classification](https://arxiv.org/abs/2611.17944) | Federated learning (FL) under differential privacy (DP) is typically evaluated on large client cohorts, where subsampling and cross-client averaging amplify privacy and smooth injected noise. |
