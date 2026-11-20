@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-19 | [Differentially Private Score Estimation with Applications to Score-Based Generative Models](https://arxiv.org/abs/2611.25536) | Estimating the score function of a distribution plays a central role in statistics and machine learning, with applications in distribution estimation, sampling, and score-based generative modeling. |
+| 2026-11-19 | [Instance-Optimal Moment Estimation in the Add-Remove Model of Differential Privacy](https://arxiv.org/abs/2611.25425) | In this paper, we study the problem of estimating empirical means, variances, and covariances under pure differential privacy in the add-remove model. |
+| 2026-11-18 | [PriTabICL: Differentially Private Tabular In-Context Learning with Task-Aligned Cluster-Wise Synthesis](https://arxiv.org/abs/2611.25073) | Tabular in-context learning (TabICL) enables large language models (LLMs) to predict target records using a handful of labeled demonstrations in their prompts. |
 | 2026-11-18 | [Robust, Lightweight Locally Differentially Private Histogram Estimation and the Role of Dropout Attacks](https://arxiv.org/abs/2611.24623) | Local differential privacy (LDP) is vulnerable to output manipulation by malicious clients. |
 | 2026-11-18 | [Data Poisoning Attacks to Locally Differentially Private Triangle Counting Protocols](https://arxiv.org/abs/2611.23701) | Local differential privacy (LDP) has become a crucial paradigm for privacy-preserving graph analytics, enabling graph analytics tasks such as subgraph counting without requiring a trusted curator. |
 | 2026-11-17 | [Provable Mixing Properties of Parallel Mixnets Revisited](https://arxiv.org/abs/2611.22732) | A mix-network (mixnet) is a routing network that breaks source-to-destination message trackability by indistinguishably mixing the routes of concurrently transmitted messages, thus providing... |

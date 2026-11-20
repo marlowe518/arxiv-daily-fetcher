@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-19 | [How Network Topology and Data Heterogeneity Shape Decentralized Learning: A Spectral Analysis](https://arxiv.org/abs/2611.26104) | Network topology influences decentralized federated learning through information mixing and the relative contribution of individual nodes. |
+| 2026-11-18 | [SplitReAlign: Partition-Aware Representation Realignment for Split Federated Unlearning](https://arxiv.org/abs/2611.25301) | Split federated learning (SFL) distributes neural networks across clients and a server, coupling class-specific knowledge across their representations. |
+| 2026-11-18 | [Federated Learning of Car Aerodynamics Surrogates with Spectral Optimizers](https://arxiv.org/abs/2611.25300) | Neural surrogates predict the aerodynamic forces on a car in seconds, compared with hours for a CFD simulation, but training them requires thousands of CFD simulations of different car designs, which... |
 | 2026-11-18 | [Stealing Exact Training Data from Other Clients during Federated Learning](https://arxiv.org/abs/2611.24689) | Malicious adversaries can employ gradient inversion attacks to reverse-engineer private data using the model updates of a round in Federated Learning. |
 | 2026-11-18 | [VAFL: A Vertical Analytic Federated Learning Mechanism for Efficient Crowdsourced Services via Closed-Form Solutions](https://arxiv.org/abs/2611.24367) | Intelligent services often rely on complementary information held by different organizations, motivating Vertical Federated Learning without centralized raw-data pooling. |
 | 2026-11-18 | [FDM+: A Framework for Constrained Control of the 2D Radiative Transport Equation](https://arxiv.org/abs/2611.24070) | Applying the frozen diffusion model (FDM) [29] to the constrained control of the 2D radiative transport equation presents several challenges. |

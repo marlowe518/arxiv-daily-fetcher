@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-19T16:51:30.548981",
+  "last_updated": "2026-11-20T16:26:36.763968",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -87030,6 +87030,389 @@
       "categories": [
         "cs.LG",
         "cs.AI"
+      ]
+    },
+    "2611.26349": {
+      "arxiv_id": "2611.26349",
+      "title": "Perfumer: A Large Language Model-based Agentic Framework Accelerating Structural Relaxation and Electronic Band Prediction for First-Principle Calculation",
+      "authors": [
+        "Zhiwei Li",
+        "Yuhao Zhou",
+        "Yikai Yang",
+        "Haonan Wang",
+        "Qing Ye",
+        "Jiancheng Lv",
+        "Kazunari Matsuda"
+      ],
+      "published": "2026-11-19T16:23:33+00:00",
+      "first_seen": "2026-11-20T16:26:13.681271",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cs.LG"
+      ]
+    },
+    "2611.26094": {
+      "arxiv_id": "2611.26094",
+      "title": "Phantom of the Masquerade: Graph Neural Network-Based Detection of Masquerade Attacks in Controller Area Networks",
+      "authors": [
+        "Nehal Ameen",
+        "Pablo Moriano",
+        "Irfan Ahmed"
+      ],
+      "published": "2026-11-19T13:30:46+00:00",
+      "first_seen": "2026-11-20T16:26:13.681282",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2611.25646": {
+      "arxiv_id": "2611.25646",
+      "title": "AdsNet: A Graph Neural Network for Direct Adsorption Energy Prediction",
+      "authors": [
+        "Changzhi Ai",
+        "Frank Abild-Pedersen",
+        "Johannes Voss"
+      ],
+      "published": "2026-11-19T07:29:41+00:00",
+      "first_seen": "2026-11-20T16:26:13.681291",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cond-mat.mtrl-sci",
+        "cs.LG",
+        "physics.comp-ph"
+      ]
+    },
+    "2611.25603": {
+      "arxiv_id": "2611.25603",
+      "title": "On the Informativeness of Structural Stability Bounds for GNNs: GINs versus GATs",
+      "authors": [
+        "Alan Gany",
+        "Paul Landrier",
+        "Bogdan Cautis",
+        "Laks V. S. Lakshmanan",
+        "Silviu Maniu"
+      ],
+      "published": "2026-11-19T06:49:22+00:00",
+      "first_seen": "2026-11-20T16:26:13.681298",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "cs.LO"
+      ]
+    },
+    "2611.25376": {
+      "arxiv_id": "2611.25376",
+      "title": "Causal Discovery with False Positive Error Control",
+      "authors": [
+        "Erik Jahn",
+        "Venkat Chandrasekaran",
+        "Frederick Eberhardt",
+        "Leonard Schulman"
+      ],
+      "published": "2026-11-19T02:15:34+00:00",
+      "first_seen": "2026-11-20T16:26:13.681304",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2611.25273": {
+      "arxiv_id": "2611.25273",
+      "title": "Scone: Symmetry-aware Neural Combinatorial Optimization for Graph Coloring",
+      "authors": [
+        "Paolo Pellizzoni",
+        "Melanie Weber"
+      ],
+      "published": "2026-11-18T23:05:46+00:00",
+      "first_seen": "2026-11-20T16:26:13.681310",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.26359": {
+      "arxiv_id": "2611.26359",
+      "title": "Learning from Context: Leave-One-Out Prediction in Jump Diffusions",
+      "authors": [
+        "Christian Wald"
+      ],
+      "published": "2026-11-19T16:28:58+00:00",
+      "first_seen": "2026-11-20T16:26:16.126076",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.25536": {
+      "arxiv_id": "2611.25536",
+      "title": "Differentially Private Score Estimation with Applications to Score-Based Generative Models",
+      "authors": [
+        "Mengxiao Gao",
+        "Elly K. H. Hung",
+        "Yuchen Wu",
+        "Yi Yu"
+      ],
+      "published": "2026-11-19T05:34:19+00:00",
+      "first_seen": "2026-11-20T16:26:21.928770",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.ST",
+        "stat.ME"
+      ]
+    },
+    "2611.25425": {
+      "arxiv_id": "2611.25425",
+      "title": "Instance-Optimal Moment Estimation in the Add-Remove Model of Differential Privacy",
+      "authors": [
+        "Shokichi Takakura"
+      ],
+      "published": "2026-11-19T03:06:27+00:00",
+      "first_seen": "2026-11-20T16:26:21.928782",
+      "topic": "Differential Privacy",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2611.25073": {
+      "arxiv_id": "2611.25073",
+      "title": "PriTabICL: Differentially Private Tabular In-Context Learning with Task-Aligned Cluster-Wise Synthesis",
+      "authors": [
+        "Syed Ahzaz Shah",
+        "Evan Bramblett",
+        "Héber H. Arcolezi",
+        "Chen Gong",
+        "Qianqian Tong",
+        "Xiaochen Li"
+      ],
+      "published": "2026-11-18T19:15:01+00:00",
+      "first_seen": "2026-11-20T16:26:21.928789",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.LG"
+      ]
+    },
+    "2611.26104": {
+      "arxiv_id": "2611.26104",
+      "title": "How Network Topology and Data Heterogeneity Shape Decentralized Learning: A Spectral Analysis",
+      "authors": [
+        "Luigi Palmieri",
+        "Lorenzo Valerio",
+        "Chiara Boldrini",
+        "Andrea Passarella",
+        "Marco Conti",
+        "János Kertész"
+      ],
+      "published": "2026-11-19T13:36:27+00:00",
+      "first_seen": "2026-11-20T16:26:27.934115",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.SI"
+      ]
+    },
+    "2611.25301": {
+      "arxiv_id": "2611.25301",
+      "title": "SplitReAlign: Partition-Aware Representation Realignment for Split Federated Unlearning",
+      "authors": [
+        "Jia Chen",
+        "Yecheng Lv",
+        "Xinrong Hu",
+        "Jun Bai"
+      ],
+      "published": "2026-11-18T23:53:22+00:00",
+      "first_seen": "2026-11-20T16:26:27.934126",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.CR",
+        "cs.DC"
+      ]
+    },
+    "2611.25300": {
+      "arxiv_id": "2611.25300",
+      "title": "Federated Learning of Car Aerodynamics Surrogates with Spectral Optimizers",
+      "authors": [
+        "Arman Bolatov",
+        "Nikolay Spitsyn",
+        "Daniil Medyakov",
+        "Vladimir Aletov",
+        "Dmitry Bylinkin",
+        "Martin Takáč",
+        "Aleksandr Beznosikov"
+      ],
+      "published": "2026-11-18T23:52:00+00:00",
+      "first_seen": "2026-11-20T16:26:27.934132",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.26369": {
+      "arxiv_id": "2611.26369",
+      "title": "From Benchmarks to the Bench: Preference, Correspondence and Selectivity in Bidirectional Drug-Target Screening",
+      "authors": [
+        "Jiangjie Qiu",
+        "Chengrui Xu",
+        "Xiaonan Wang"
+      ],
+      "published": "2026-11-19T16:34:29+00:00",
+      "first_seen": "2026-11-20T16:26:31.034758",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.26096": {
+      "arxiv_id": "2611.26096",
+      "title": "From Sessions to Serving: Integrating LLM-Based Embeddings into Retrieval for Production Content Recommendation",
+      "authors": [
+        "Zhixiong Hu",
+        "Meng Li",
+        "Maggie Zhang",
+        "Deborshi Goswami",
+        "David Bailey",
+        "James Bradley"
+      ],
+      "published": "2026-11-19T13:31:04+00:00",
+      "first_seen": "2026-11-20T16:26:31.034769",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2611.25627": {
+      "arxiv_id": "2611.25627",
+      "title": "Uncontrolled source titles: When Nature, Science, and PNAS meet Scopus",
+      "authors": [
+        "Weishu Liu",
+        "Ruifeng Zhang",
+        "Haifeng Wang"
+      ],
+      "published": "2026-11-19T07:14:16+00:00",
+      "first_seen": "2026-11-20T16:26:31.034775",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.DL",
+        "cs.IR"
+      ]
+    },
+    "2611.25606": {
+      "arxiv_id": "2611.25606",
+      "title": "Generative News Recommendation Reproduces Popularity: A Memorization-Based Analysis",
+      "authors": [
+        "Shotaro Ishihara"
+      ],
+      "published": "2026-11-19T06:54:22+00:00",
+      "first_seen": "2026-11-20T16:26:31.034781",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CL"
+      ]
+    },
+    "2611.25527": {
+      "arxiv_id": "2611.25527",
+      "title": "Learning Generative Ranking Policies for Whole-Page Optimization",
+      "authors": [
+        "Chen Qiu",
+        "Zhigang Hua",
+        "Qi Xu",
+        "Jizhe Zhang",
+        "Sha Hua",
+        "Ren Mao",
+        "Luke Simon"
+      ],
+      "published": "2026-11-19T05:27:22+00:00",
+      "first_seen": "2026-11-20T16:26:31.034786",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2611.25288": {
+      "arxiv_id": "2611.25288",
+      "title": "Intelligent Embedding Pruning for Large-Scale Recommendation Models",
+      "authors": [
+        "Anish Khazane",
+        "Alex Saad-Falcon",
+        "Guanchu Wu",
+        "Marcio Porto",
+        "Jasper Shan",
+        "Fei Yu",
+        "Eugene Shulga",
+        "Intaik Park",
+        "Yongzhe Zhang",
+        "Xiaoyu Deng",
+        "Sheng Luo",
+        "Xiaoya Wang"
+      ],
+      "published": "2026-11-18T23:26:49+00:00",
+      "first_seen": "2026-11-20T16:26:31.034792",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2611.25256": {
+      "arxiv_id": "2611.25256",
+      "title": "LQ-Rec: Late Quantization for Sequential Recommendation",
+      "authors": [
+        "Satoshi Koide",
+        "Yueqi Wang",
+        "Julian McAuley"
+      ],
+      "published": "2026-11-18T22:41:09+00:00",
+      "first_seen": "2026-11-20T16:26:31.034797",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.25219": {
+      "arxiv_id": "2611.25219",
+      "title": "Statistical, Machine Learning and Deep Learning Methods for Missing Covariates: An Empirical Evaluation with Applications to Alzheimer's Disease Research",
+      "authors": [
+        "Yiqing Pan",
+        "Sharon X. Xie",
+        "Shujie Ma",
+        "Angela L. Jefferson",
+        "Panpan Zhang"
+      ],
+      "published": "2026-11-18T21:44:58+00:00",
+      "first_seen": "2026-11-20T16:26:31.034802",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.LG"
+      ]
+    },
+    "2611.24988": {
+      "arxiv_id": "2611.24988",
+      "title": "Variance-Adaptive Upper Confidence Bounds for Multi-Armed Bandits with Kaplan--Meier Survival Estimation",
+      "authors": [
+        "Yangfan Cui",
+        "Andrew Papanicolaou"
+      ],
+      "published": "2026-11-18T05:42:54+00:00",
+      "first_seen": "2026-11-20T16:26:31.034808",
+      "topic": "Recommender Systems",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.PR"
       ]
     }
   }
