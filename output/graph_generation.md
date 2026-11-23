@@ -5,6 +5,7 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-20 | [Fix Where It Fails: Root-Cause-Guided Agentic Harness Optimization for Scene Graph Generation](https://arxiv.org/abs/2611.27529) | Scene graph generation (SGG) aims to detect objects in an image and predict the relationships between them. |
 | 2026-11-19 | [Learning from Context: Leave-One-Out Prediction in Jump Diffusions](https://arxiv.org/abs/2611.26359) | Continuous diffusion models generate discrete data through stochastic dynamics in an embedding space. |
 | 2026-11-17 | [Can LLMs Understand What They Predict? Evaluating Latent Causal Structure Inference in Financial Markets](https://arxiv.org/abs/2611.23533) | Large language models (LLMs) are increasingly evaluated through their ability to predict future outcomes, implicitly assuming that predictive success reflects an understanding of the underlying... |
 | 2026-11-17 | [Efficient Machine Learning Interatomic Potentials](https://arxiv.org/abs/2611.22444) | Machine learning interatomic potentials (MLIPs) reach an accuracy close to quantum mechanical reference calculations at a small fraction of the cost. |

@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-22T15:43:30.730400",
+  "last_updated": "2026-11-23T19:31:46.573993",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -87413,6 +87413,335 @@
         "stat.ML",
         "cs.LG",
         "math.PR"
+      ]
+    },
+    "2611.27809": {
+      "arxiv_id": "2611.27809",
+      "title": "DOiT: Better Money-Flow Ranking Can Coexist with Worse Account Selection in Anti-Money Laundering Review",
+      "authors": [
+        "Gwangui Hong",
+        "Seonkyu Lim",
+        "Min-Soo Kim"
+      ],
+      "published": "2026-11-20T16:36:52+00:00",
+      "first_seen": "2026-11-23T19:31:25.094536",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.CE",
+        "cs.LG"
+      ]
+    },
+    "2611.27698": {
+      "arxiv_id": "2611.27698",
+      "title": "Spatiotemporal Graph Neural Networks for Fault Detection and Structural Learning in Chemical Processes: Use Case on the Tennessee Eastman Process",
+      "authors": [
+        "Rayane Ammar Khodja",
+        "Alexandre Voisin",
+        "Victor Costa",
+        "Fanny Casteran",
+        "Benoit Celse",
+        "Benoît Iung"
+      ],
+      "published": "2026-11-20T15:04:35+00:00",
+      "first_seen": "2026-11-23T19:31:25.094550",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI",
+        "cs.LG"
+      ]
+    },
+    "2611.27609": {
+      "arxiv_id": "2611.27609",
+      "title": "Quantum-Informed Regularized Poisson Learning for Graph-Based Semi-Supervised Classification",
+      "authors": [
+        "Hamed Gholipour",
+        "Farid Bozorgnia",
+        "Hamzeh Mohammadigheymasi",
+        "Joao Neves",
+        "Moharram Challenger"
+      ],
+      "published": "2026-11-20T13:38:56+00:00",
+      "first_seen": "2026-11-23T19:31:25.094558",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "quant-ph"
+      ]
+    },
+    "2611.27435": {
+      "arxiv_id": "2611.27435",
+      "title": "Learned Network Dynamics for Model Predictive Traffic Signal Control under Incidents",
+      "authors": [
+        "Dang Viet Anh Nguyen",
+        "Carlos Lima Azevedo",
+        "Tomer Toledo",
+        "Filipe Rodrigues"
+      ],
+      "published": "2026-11-20T10:32:08+00:00",
+      "first_seen": "2026-11-23T19:31:25.094565",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "eess.SY"
+      ]
+    },
+    "2611.27283": {
+      "arxiv_id": "2611.27283",
+      "title": "DermKG: A Concept-Centric Knowledge Graph for Interpretable Skin Disease Diagnosis from Dermatological Morphology",
+      "authors": [
+        "Cheng Huang",
+        "Yanmei Li",
+        "Mao Lin"
+      ],
+      "published": "2026-11-20T08:22:54+00:00",
+      "first_seen": "2026-11-23T19:31:25.094572",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.AI"
+      ]
+    },
+    "2611.26847": {
+      "arxiv_id": "2611.26847",
+      "title": "A Sparsity Analysis of Traffic Forecasting Architectures: How Much Missing Data is Too Much?",
+      "authors": [
+        "Mohamed Hamad",
+        "Bilal Mutahir",
+        "Mohamed Mabrok",
+        "Nizar Zorba",
+        "Hamid Saeedi",
+        "Halim Yanikomeroglu"
+      ],
+      "published": "2026-11-19T22:05:31+00:00",
+      "first_seen": "2026-11-23T19:31:25.094578",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.26828": {
+      "arxiv_id": "2611.26828",
+      "title": "Graph-XGB: A Hybrid GNN Framework for Outdoor-to-Indoor 5G Signal Reconstruction via Aerial-Only UAV RF Sensing",
+      "authors": [
+        "David Hason Rudd",
+        "Eunkwang Shin",
+        "Nithiwat Pattrapong",
+        "Huan Huo",
+        "Xiangmeng Wang"
+      ],
+      "published": "2026-11-19T21:22:24+00:00",
+      "first_seen": "2026-11-23T19:31:25.094585",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.NI",
+        "eess.SP"
+      ]
+    },
+    "2611.27529": {
+      "arxiv_id": "2611.27529",
+      "title": "Fix Where It Fails: Root-Cause-Guided Agentic Harness Optimization for Scene Graph Generation",
+      "authors": [
+        "Jee Eun Kim",
+        "Donghyeon Choi",
+        "Sangjune An",
+        "Hae Beom Lee",
+        "Kyong Hwan Jin"
+      ],
+      "published": "2026-11-20T12:26:00+00:00",
+      "first_seen": "2026-11-23T19:31:25.638586",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.CV",
+        "cs.AI",
+        "cs.MA"
+      ]
+    },
+    "2611.27900": {
+      "arxiv_id": "2611.27900",
+      "title": "Communication-Efficient Federated Learning of Latent Patient Representations from Multi-Institutional EHRs",
+      "authors": [
+        "Zhiyu Yan",
+        "Shiao Liu",
+        "Rahul Mahajan",
+        "Anand Viswanathan",
+        "Christopher D. Anderson",
+        "Rui Duan"
+      ],
+      "published": "2026-11-20T17:38:32+00:00",
+      "first_seen": "2026-11-23T19:31:37.833192",
+      "topic": "Federated Learning",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "math.ST"
+      ]
+    },
+    "2611.27686": {
+      "arxiv_id": "2611.27686",
+      "title": "Learning in Symbiosis: Heterogeneous Federated Learning with ANNs and SNNs",
+      "authors": [
+        "Manh V. Nguyen",
+        "Liang Zhao",
+        "Bobin Deng",
+        "Xinyue Zhang",
+        "Shaoen Wu"
+      ],
+      "published": "2026-11-20T14:54:36+00:00",
+      "first_seen": "2026-11-23T19:31:37.833204",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.AI",
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2611.27170": {
+      "arxiv_id": "2611.27170",
+      "title": "FedQCal: Quadratic Programming with Dual-Space Calibration for One-Shot Federated Learning",
+      "authors": [
+        "Shunsei Koshibuchi",
+        "Hiroshi Kera",
+        "Kazuhiko Kawamoto"
+      ],
+      "published": "2026-11-20T05:57:10+00:00",
+      "first_seen": "2026-11-23T19:31:37.833211",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CV",
+        "cs.LG"
+      ]
+    },
+    "2611.27117": {
+      "arxiv_id": "2611.27117",
+      "title": "Highly Efficient Vertical Federated Clustering with Triangle-Inequality-based Pruning",
+      "authors": [
+        "Feiteng Nie",
+        "Shengkun Zhu",
+        "Zepeng Liu",
+        "Sheng Wang",
+        "Yuan Sun",
+        "Zhiyong Peng"
+      ],
+      "published": "2026-11-20T04:41:13+00:00",
+      "first_seen": "2026-11-23T19:31:37.833217",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.DB",
+        "cs.LG"
+      ]
+    },
+    "2611.27114": {
+      "arxiv_id": "2611.27114",
+      "title": "Federated and Balanced $k$-means: Communication Efficiency, Privacy, and Heterogeneity",
+      "authors": [
+        "Feiteng Nie",
+        "Shengkun Zhu",
+        "Sheng Wang",
+        "Yuan Sun",
+        "Feiping Nie",
+        "Wei Song",
+        "Zhiyong Peng"
+      ],
+      "published": "2026-11-20T04:39:23+00:00",
+      "first_seen": "2026-11-23T19:31:37.833224",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DB"
+      ]
+    },
+    "2611.26731": {
+      "arxiv_id": "2611.26731",
+      "title": "Cross-Attack Robust Aggregation for Federated Learning",
+      "authors": [
+        "Eyhab Al-Masri"
+      ],
+      "published": "2026-11-19T19:25:51+00:00",
+      "first_seen": "2026-11-23T19:31:37.833229",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.27894": {
+      "arxiv_id": "2611.27894",
+      "title": "FairITR: Fairness-Aware Learning of Multicategory Individualized Treatment Rules",
+      "authors": [
+        "Zeyu Chen",
+        "Wei Qian",
+        "Bintong Chen"
+      ],
+      "published": "2026-11-20T17:35:49+00:00",
+      "first_seen": "2026-11-23T19:31:40.643884",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.27826": {
+      "arxiv_id": "2611.27826",
+      "title": "Graph Signal Generation via Graph-Aware Diffusion Models",
+      "authors": [
+        "Vimal K B",
+        "Sergio Rozada",
+        "Antonio G. Marques",
+        "Elvin Isufi",
+        "Hadi J. Rad"
+      ],
+      "published": "2026-11-20T16:47:39+00:00",
+      "first_seen": "2026-11-23T19:31:40.643896",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2611.27514": {
+      "arxiv_id": "2611.27514",
+      "title": "Deep Cross-Division Network for Product-and-Ratio Feature Interactions in Industrial Ranking",
+      "authors": [
+        "Mikhail Trapeznikov",
+        "Sofia Gulevskaia",
+        "Maksim Utushkin",
+        "Aleksandr Poslavsky",
+        "Alexander D'yakonov"
+      ],
+      "published": "2026-11-20T12:06:35+00:00",
+      "first_seen": "2026-11-23T19:31:40.643903",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.LG"
+      ]
+    },
+    "2611.27007": {
+      "arxiv_id": "2611.27007",
+      "title": "Scalable Evaluation of Medical AI using Evidence-based Practice Recommendations",
+      "authors": [
+        "Teya Bergamaschi",
+        "Bijal Rajput",
+        "Akshay Goel",
+        "Matthew Thompson",
+        "Jacqueline Shreibati",
+        "Dave Steiner",
+        "Ashley Carrick",
+        "Mahvish Nagda",
+        "Dale R. Webster",
+        "Avinatan Hassidim",
+        "Katherine Chou",
+        "Yossi Matias",
+        "Po-Hsuan Cameron Chen",
+        "Christina Chen",
+        "Mike Schaekermann",
+        "Yun Liu",
+        "Anil Palepu"
+      ],
+      "published": "2026-11-20T02:36:36+00:00",
+      "first_seen": "2026-11-23T19:31:40.643910",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.HC"
       ]
     }
   }
