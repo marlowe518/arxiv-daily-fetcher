@@ -5,6 +5,8 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-21 | [Global Stability and Loss Convergence in Matrix Factorization](https://arxiv.org/abs/2611.28975) | We study the matrix factorization objective $\mathcal L(X,Y)=f(XY)$ for convex, twice continuously differentiable output losses with bounded and Lipschitz gradient and a minimizing set that is... |
+| 2026-11-21 | [Can Ideologues Agree on Quality? From Non-identifiable Latent Factors to Collective Outcomes](https://arxiv.org/abs/2611.28615) | To surface "objective" fact-check notes, X's Community Notes uses Biased Matrix Factorization (BMF) on crowd-sourced ratings to separate note quality from reviewer ideology. |
 | 2026-11-08 | [Shape-Adaptive Subspace-Constrained Quadratic Matrix Factorization](https://arxiv.org/abs/2611.11313) | Quadratic manifold fitting provides a flexible framework for modeling nonlinear low-dimensional structures embedded in high-dimensional spaces. |
 | 2026-11-07 | [Representing Tensors as Compositions for Efficient Computation on Sparse and Structured Data](https://arxiv.org/abs/2611.10855) | We propose a new mathematical formalism in which all kinds of tensors and of operations on those tensors are represented as simple function compositions. |
 | 2026-11-03 | [Finite Spectral Depth Controls Gaussian Entrance Rank and Avoidance of the First Gradient-Flow Saddle](https://arxiv.org/abs/2611.05022) | Matrix factorization provides a simple model for studying the training dynamics of neural networks. |

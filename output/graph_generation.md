@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-23 | [Vasicek Diffusion Bridge for Graph Generation](https://arxiv.org/abs/2611.30605) | Diffusion-based graph generation models progressively transform Gaussian noise into structured graphs through stochastic dynamics. |
+| 2026-11-23 | [De Novo Generation of Odorant Molecules with Targeted Olfactory Receptor Activation Patterns](https://arxiv.org/abs/2611.30509) | Odor perception arises from a combinatorial code in which each molecule activates a specific subset of olfactory receptors (ORs), and the resulting activation pattern determines the perceived smell. |
+| 2026-11-22 | [Reward Tilting via Semantic Noising](https://arxiv.org/abs/2611.29318) | Steering a generative model toward a desired property typically requires separate fine-tuning for each reward or additional computation during sampling. |
 | 2026-11-20 | [Fix Where It Fails: Root-Cause-Guided Agentic Harness Optimization for Scene Graph Generation](https://arxiv.org/abs/2611.27529) | Scene graph generation (SGG) aims to detect objects in an image and predict the relationships between them. |
 | 2026-11-19 | [Learning from Context: Leave-One-Out Prediction in Jump Diffusions](https://arxiv.org/abs/2611.26359) | Continuous diffusion models generate discrete data through stochastic dynamics in an embedding space. |
 | 2026-11-17 | [Can LLMs Understand What They Predict? Evaluating Latent Causal Structure Inference in Financial Markets](https://arxiv.org/abs/2611.23533) | Large language models (LLMs) are increasingly evaluated through their ability to predict future outcomes, implicitly assuming that predictive success reflects an understanding of the underlying... |
