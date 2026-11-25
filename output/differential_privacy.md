@@ -5,6 +5,8 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-23 | [Your bids are showing: re-identifying power plants in anonymized market data, and a differentially private alternative](https://arxiv.org/abs/2611.31681) | ERCOT publishes every generator's hourly offer curve 60 days after the operating day. |
+| 2026-11-23 | [Trustworthy Edge AI: Security, Privacy, and Resilience for Distributed Intelligence](https://arxiv.org/abs/2611.31331) | This chapter examines the principles and emerging research directions for building secure, privacy-preserving, and resilient Edge Artificial Intelligence (Edge AI) systems. |
 | 2026-11-23 | [Optimal Private Gaussian Multi-sampling](https://arxiv.org/abs/2611.30146) | We give polynomial-time algorithms for Gaussian multi-sampling under approximate $(\varepsilon,δ)$-differential privacy, with optimal sample complexity up to logarithmic factors. |
 | 2026-11-23 | [Super-Multiplicativity of the Noncommutative Minimum and Applications to Quantum Privacy and Hypothesis Testing](https://arxiv.org/abs/2611.30038) | The hockey-stick divergence is a fundamental distinguishability measure in quantum information theory. |
 | 2026-11-21 | [Reporting Differential Privacy Guarantees via Operationally Equivalent $\varepsilon$: What Does $\varepsilon=19.61$ Mean for the 2020 U.S. Census?](https://arxiv.org/abs/2611.28790) | The large value $\varepsilon=19. |

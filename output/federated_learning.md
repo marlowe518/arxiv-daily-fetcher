@@ -5,6 +5,10 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-24 | [A Unified Control Framework for Gradient Inversion Defense in Federated Learning](https://arxiv.org/abs/2611.32174) | Gradient perturbations are widely recognized as an effective defense against gradient inversion attacks in federated learning, but they are equally known to impair optimization, creating a persistent... |
+| 2026-11-24 | [PFedHASNet: A Personalized Federated Hybrid Analog-Spike Network for Multi-Subject Motor Imagery EEG Decoding](https://arxiv.org/abs/2611.32019) | Motor imagery electroencephalography (MI-EEG) data are often collected and stored separately across subjects or institutions, and EEG acquisition and annotation remain costly. |
+| 2026-11-24 | [Multi Agent Reinforcement Learning enhanced Federated Learning for Predicting Remaining Useful Lifetime](https://arxiv.org/abs/2611.31880) | Remaining useful life (RUL) prediction is central to Prognostics and Health Management (PHM). |
+| 2026-11-23 | [ECLIPSE: Embedding-Centered Foundation-Model Federated Knowledge Transfer for Data-Free Edge Intelligence](https://arxiv.org/abs/2611.31527) | Foundation Models (FMs) are envisioned to become an integral component of intelligent federated edge networks because of their strong representation and generalization capabilities. |
 | 2026-11-23 | [Placing the Control Plane: Cloud-Native Federated Learning Across Batch-Scheduled HPC](https://arxiv.org/abs/2611.30381) | The United Kingdom's AI Research Resource (AIRR) opens national supercomputers to a community familiar with always-reachable cloud services. |
 | 2026-11-23 | [What Do Co-Folding Models Learn? Insights from Enhanced Transition Path Sampling](https://arxiv.org/abs/2611.30062) | Co-folding models are diffusion-based generative models that sample biomolecular complexes from distributions learned on a large corpus of experimental data. |
 | 2026-11-21 | [Mirrored Min-of-K Training](https://arxiv.org/abs/2611.29008) | Min-of-K (MoK) training is widely used to train models that produce diverse outputs from random noise. |

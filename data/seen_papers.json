@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-24T19:07:42.929011",
+  "last_updated": "2026-11-25T18:13:00.279216",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -88492,6 +88492,324 @@
       "categories": [
         "cs.CY",
         "cs.LG"
+      ]
+    },
+    "2611.32651": {
+      "arxiv_id": "2611.32651",
+      "title": "LATEC: Learned Axial TEnsor Compression for High-Dimensional Scientific Data",
+      "authors": [
+        "Hippolyte Verninas",
+        "Hadrien Hendrikx",
+        "Thomas Moreau"
+      ],
+      "published": "2026-11-24T14:09:07+00:00",
+      "first_seen": "2026-11-25T18:12:36.483805",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.32602": {
+      "arxiv_id": "2611.32602",
+      "title": "ST-GNN-AAAS: Spatio-Temporal Graph Neural Networks for Anytime Automatic Algorithm Selection in the Traveling Salesman Problem",
+      "authors": [
+        "Zeyu Zhang",
+        "Mustafa Misir"
+      ],
+      "published": "2026-11-24T13:37:07+00:00",
+      "first_seen": "2026-11-25T18:12:36.483814",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.32598": {
+      "arxiv_id": "2611.32598",
+      "title": "On the Effectiveness of Resampling for Supervised Graph Anomaly Detection",
+      "authors": [
+        "Cyril Perosino",
+        "Rino Di Chiara",
+        "Hamida Seba"
+      ],
+      "published": "2026-11-24T13:36:12+00:00",
+      "first_seen": "2026-11-25T18:12:36.483818",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.32509": {
+      "arxiv_id": "2611.32509",
+      "title": "Analysis of Federated Graph Neural Networks for Predicting Nuclear Core Properties",
+      "authors": [
+        "Oliver Kožul",
+        "Mihailo Ilić",
+        "Julia Bartos",
+        "Tuan Tran",
+        "Miloš Savić",
+        "Vladimir Kurbalija",
+        "Edo Frederix",
+        "Dušan Jakovetić"
+      ],
+      "published": "2026-11-24T12:40:40+00:00",
+      "first_seen": "2026-11-25T18:12:36.483823",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.DC",
+        "cs.LG"
+      ]
+    },
+    "2611.32033": {
+      "arxiv_id": "2611.32033",
+      "title": "Scale-Robust and Global-Aware Representation Learning for Multivariate Time Series Anomaly Detection",
+      "authors": [
+        "Gyuwon Lee",
+        "Saejoon Park",
+        "Won-Seok Hwang",
+        "Bogoan Kim",
+        "Yunyong Ko"
+      ],
+      "published": "2026-11-24T06:15:23+00:00",
+      "first_seen": "2026-11-25T18:12:36.483828",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.31661": {
+      "arxiv_id": "2611.31661",
+      "title": "Boundary Representation-Driven Graph Transformer Modeling for Machining Operation Sequencing",
+      "authors": [
+        "Fatemeh Elhambakhsh",
+        "Gaurav Ameta",
+        "Aditi Roy",
+        "Hyunwoong Ko"
+      ],
+      "published": "2026-11-23T22:45:26+00:00",
+      "first_seen": "2026-11-25T18:12:36.483832",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.CE"
+      ]
+    },
+    "2611.31681": {
+      "arxiv_id": "2611.31681",
+      "title": "Your bids are showing: re-identifying power plants in anonymized market data, and a differentially private alternative",
+      "authors": [
+        "Nikhil Ravi"
+      ],
+      "published": "2026-11-23T23:13:06+00:00",
+      "first_seen": "2026-11-25T18:12:45.282254",
+      "topic": "Differential Privacy",
+      "categories": [
+        "eess.SY",
+        "cs.CR"
+      ]
+    },
+    "2611.31331": {
+      "arxiv_id": "2611.31331",
+      "title": "Trustworthy Edge AI: Security, Privacy, and Resilience for Distributed Intelligence",
+      "authors": [
+        "Jaydip Sen",
+        "Subhasis Dasgupta"
+      ],
+      "published": "2026-11-23T14:24:04+00:00",
+      "first_seen": "2026-11-25T18:12:45.282263",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.NI"
+      ]
+    },
+    "2611.32174": {
+      "arxiv_id": "2611.32174",
+      "title": "A Unified Control Framework for Gradient Inversion Defense in Federated Learning",
+      "authors": [
+        "Lianhai Ren",
+        "Chi Zhang"
+      ],
+      "published": "2026-11-24T08:26:45+00:00",
+      "first_seen": "2026-11-25T18:12:51.374075",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2611.32019": {
+      "arxiv_id": "2611.32019",
+      "title": "PFedHASNet: A Personalized Federated Hybrid Analog-Spike Network for Multi-Subject Motor Imagery EEG Decoding",
+      "authors": [
+        "Peijia Li",
+        "Ruidong Ma",
+        "Xianghong Lin",
+        "Xiangwen Wang",
+        "Guoyong Shi",
+        "Shuai Huang",
+        "Hongqi Li"
+      ],
+      "published": "2026-11-24T06:00:22+00:00",
+      "first_seen": "2026-11-25T18:12:51.374082",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.31880": {
+      "arxiv_id": "2611.31880",
+      "title": "Multi Agent Reinforcement Learning enhanced Federated Learning for Predicting Remaining Useful Lifetime",
+      "authors": [
+        "Rajarshi Chattopadhyay",
+        "Chen-Khong Tham"
+      ],
+      "published": "2026-11-24T03:39:05+00:00",
+      "first_seen": "2026-11-25T18:12:51.374087",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG",
+        "cs.DC"
+      ]
+    },
+    "2611.31527": {
+      "arxiv_id": "2611.31527",
+      "title": "ECLIPSE: Embedding-Centered Foundation-Model Federated Knowledge Transfer for Data-Free Edge Intelligence",
+      "authors": [
+        "S. Kawa Atapour",
+        "S. Jamal Seyedmohammadi",
+        "Maryam Hosseini",
+        "S. Mohammad Sheikholeslami",
+        "Jamshid Abouei",
+        "Konstantinos Plataniotis",
+        "Arash Mohammadi"
+      ],
+      "published": "2026-11-23T20:33:51+00:00",
+      "first_seen": "2026-11-25T18:12:51.374091",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.33036": {
+      "arxiv_id": "2611.33036",
+      "title": "Towards Realistic Evaluation of Uncertainty Quantification for LLM-Based Recommender Systems",
+      "authors": [
+        "Hao Wu",
+        "Sipeng Chen",
+        "Weikai Li",
+        "Tianyi Chen",
+        "Qiancheng Yang",
+        "Hang Zhou",
+        "Yizhou Sun",
+        "Wei Wang",
+        "Xiao Luo"
+      ],
+      "published": "2026-11-24T17:48:54+00:00",
+      "first_seen": "2026-11-25T18:12:54.945616",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CL",
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2611.32855": {
+      "arxiv_id": "2611.32855",
+      "title": "Speculative Decoding for Semantic-ID-Based Generative Recommendations",
+      "authors": [
+        "Harshal A. Chaudhari"
+      ],
+      "published": "2026-11-24T15:57:21+00:00",
+      "first_seen": "2026-11-25T18:12:54.945624",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.32590": {
+      "arxiv_id": "2611.32590",
+      "title": "LazUnirec: Unifying Retrieval and Ranking in Multi-scenario Industrial Recommendation",
+      "authors": [
+        "Xiaodong Li",
+        "Junfeng Zhang",
+        "Shichao Nie",
+        "Ziyue Guo",
+        "Yiming Liu",
+        "Xinxin Xu",
+        "Xurong Li",
+        "Jinyuan Dang",
+        "Zhanming Ou",
+        "Jianan Yan",
+        "Tao Luo",
+        "Xiaoyi Zeng"
+      ],
+      "published": "2026-11-24T13:26:54+00:00",
+      "first_seen": "2026-11-25T18:12:54.945628",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.32568": {
+      "arxiv_id": "2611.32568",
+      "title": "Representation and Model Contributions on Small Molecular Benchmarks: Controlled Comparisons and External Evaluation",
+      "authors": [
+        "Nora A. M. A. Talkhan",
+        "Ibrahim Abdelbaky",
+        "Fatma A. Omara"
+      ],
+      "published": "2026-11-24T13:13:51+00:00",
+      "first_seen": "2026-11-25T18:12:54.945632",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.32543": {
+      "arxiv_id": "2611.32543",
+      "title": "Beyond Robust Algorithmic Recourse: Sharing the Burden of Validity through Model Multiplicity",
+      "authors": [
+        "Prakhar Ganesh",
+        "Afaf Taïk",
+        "Golnoosh Farnadi"
+      ],
+      "published": "2026-11-24T13:01:39+00:00",
+      "first_seen": "2026-11-25T18:12:54.945636",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.31951": {
+      "arxiv_id": "2611.31951",
+      "title": "User-Adaptive Fusion of Multiple Foundation Models for Recommender Systems",
+      "authors": [
+        "Sunwoo Kim",
+        "Hyunjin Hwang",
+        "Geon Lee",
+        "Kyungho Kim",
+        "Kijung Shin"
+      ],
+      "published": "2026-11-24T04:57:30+00:00",
+      "first_seen": "2026-11-25T18:12:54.945640",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.31319": {
+      "arxiv_id": "2611.31319",
+      "title": "Conformalized Tree-Based Gradient Ensembles for Out-of-Distribution Detection and Plausible Recourse",
+      "authors": [
+        "Mariam Zakaria Moussa Ali"
+      ],
+      "published": "2026-11-23T08:04:46+00:00",
+      "first_seen": "2026-11-25T18:12:54.945644",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
       ]
     }
   }
