@@ -5,6 +5,10 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-25 | [Poisoning Attacks to Local Differential Privacy Protocols for Dynamic Graphs](https://arxiv.org/abs/2611.34340) | With the increasing adoption of privacy-preserving techniques in dynamic graph analysis, local differential privacy (LDP) has become a fundamental paradigm for protecting user data in decentralized... |
+| 2026-11-25 | [Train-Only-Constrained LM for Synthetic Clinical Trajectories: Leak-Safe Calibration and Auditable Dynamics](https://arxiv.org/abs/2611.34258) | Simulating clinical time series necessitates temporal realism, calibration that preserves model integrity, and privacy transparency. |
+| 2026-11-25 | [Node Differential Privacy via Node-Stable Graph Projections](https://arxiv.org/abs/2611.33672) | Node-differentially private algorithms enable learning on network-structured datasets in which records reflect interactions among individuals. |
+| 2026-11-24 | [Differentially Private Policy Optimization in Linear MDPs with Adversarial Rewards](https://arxiv.org/abs/2611.33469) | Reinforcement learning (RL) in personalized services often relies on sensitive interaction data. |
 | 2026-11-23 | [Your bids are showing: re-identifying power plants in anonymized market data, and a differentially private alternative](https://arxiv.org/abs/2611.31681) | ERCOT publishes every generator's hourly offer curve 60 days after the operating day. |
 | 2026-11-23 | [Trustworthy Edge AI: Security, Privacy, and Resilience for Distributed Intelligence](https://arxiv.org/abs/2611.31331) | This chapter examines the principles and emerging research directions for building secure, privacy-preserving, and resilient Edge Artificial Intelligence (Edge AI) systems. |
 | 2026-11-23 | [Optimal Private Gaussian Multi-sampling](https://arxiv.org/abs/2611.30146) | We give polynomial-time algorithms for Gaussian multi-sampling under approximate $(\varepsilon,δ)$-differential privacy, with optimal sample complexity up to logarithmic factors. |

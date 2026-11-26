@@ -5,6 +5,8 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-25 | [MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculative Decoding and Sub-Millisecond Seam Healing for 3D Molecules](https://arxiv.org/abs/2611.33985) | Autoregressive generation over adaptive 3D octrees (Uni-3DAR) offers an intrinsic $O(N \log N)$ sparsity advantage over dense $O(N^2)$ equivariant diffusion and flow models on large drug-like... |
+| 2026-11-25 | [DiffER$^2$: Diffusion Ensembles for Retrosynthesis Prediction with SMILES Adapted Particle Guidance](https://arxiv.org/abs/2611.33557) | Computational retrosynthesis prediction has the potential to reduce development time for newly discovered drugs by automatically generating potential reactions for a target product. |
 | 2026-11-23 | [Vasicek Diffusion Bridge for Graph Generation](https://arxiv.org/abs/2611.30605) | Diffusion-based graph generation models progressively transform Gaussian noise into structured graphs through stochastic dynamics. |
 | 2026-11-23 | [De Novo Generation of Odorant Molecules with Targeted Olfactory Receptor Activation Patterns](https://arxiv.org/abs/2611.30509) | Odor perception arises from a combinatorial code in which each molecule activates a specific subset of olfactory receptors (ORs), and the resulting activation pattern determines the perceived smell. |
 | 2026-11-22 | [Reward Tilting via Semantic Noising](https://arxiv.org/abs/2611.29318) | Steering a generative model toward a desired property typically requires separate fine-tuning for each reward or additional computation during sampling. |

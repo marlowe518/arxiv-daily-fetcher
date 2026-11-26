@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "last_updated": "2026-11-25T18:13:00.279216",
+  "last_updated": "2026-11-26T17:55:16.732612",
   "papers": {
     "2603.05343": {
       "arxiv_id": "2603.05343",
@@ -88810,6 +88810,399 @@
       "categories": [
         "cs.LG",
         "cs.AI"
+      ]
+    },
+    "2611.34711": {
+      "arxiv_id": "2611.34711",
+      "title": "Spec2Weights: Certifying Networks that a Language Model Writes from a Specification",
+      "authors": [
+        "Soumik Bhattacharjee",
+        "Musa Tur Farazi",
+        "Md Nasir Uddin",
+        "Tishna Sabrina",
+        "Chowdhury Mohammad Rakin Haider"
+      ],
+      "published": "2026-11-25T17:05:38+00:00",
+      "first_seen": "2026-11-26T17:54:52.863816",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.34687": {
+      "arxiv_id": "2611.34687",
+      "title": "Evacuation Traffic Prediction for Dynamic Transportation Networks over Multiple Hurricanes: A Generalized Graph Learning Approach",
+      "authors": [
+        "Md Nafees Fuad Rafi",
+        "Samiul Hasan"
+      ],
+      "published": "2026-11-25T16:48:09+00:00",
+      "first_seen": "2026-11-26T17:54:52.863826",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "cs.LG",
+        "cs.AI"
+      ]
+    },
+    "2611.34616": {
+      "arxiv_id": "2611.34616",
+      "title": "Conditional Independence Graph Learning from Dependent Data Via Time-Delay Embedding",
+      "authors": [
+        "Jitendra K. Tugnait"
+      ],
+      "published": "2026-11-25T16:03:46+00:00",
+      "first_seen": "2026-11-26T17:54:52.863832",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "stat.ML",
+        "cs.LG",
+        "eess.SP"
+      ]
+    },
+    "2611.34332": {
+      "arxiv_id": "2611.34332",
+      "title": "Scaling and Cross-Simulation Generalization of Graph Neural Networks for Cosmic-Web Classification in CAMELS",
+      "authors": [
+        "Kalash Thakkar",
+        "Unnati Shah"
+      ],
+      "published": "2026-11-25T13:10:54+00:00",
+      "first_seen": "2026-11-26T17:54:52.863837",
+      "topic": "Graph Neural Networks",
+      "categories": [
+        "astro-ph.CO",
+        "cs.LG"
+      ]
+    },
+    "2611.33985": {
+      "arxiv_id": "2611.33985",
+      "title": "MolGPAO: Molecular Generative Pre-trained Autoregressive Octree with Speculative Decoding and Sub-Millisecond Seam Healing for 3D Molecules",
+      "authors": [
+        "Shangqian Chen",
+        "Guojiang Zhao",
+        "Zheng Cheng",
+        "Jiankun Wang",
+        "Hongshuai Wang",
+        "Zhifeng Gao"
+      ],
+      "published": "2026-11-25T08:41:30+00:00",
+      "first_seen": "2026-11-26T17:54:55.714372",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG",
+        "cs.AI",
+        "q-bio.BM"
+      ]
+    },
+    "2611.33557": {
+      "arxiv_id": "2611.33557",
+      "title": "DiffER$^2$: Diffusion Ensembles for Retrosynthesis Prediction with SMILES Adapted Particle Guidance",
+      "authors": [
+        "Sean Current",
+        "Daniel Adu-Ampratwum",
+        "Xia Ning",
+        "Srinivasan Parthasarathy"
+      ],
+      "published": "2026-11-25T00:07:10+00:00",
+      "first_seen": "2026-11-26T17:54:55.714382",
+      "topic": "Graph Generation",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.34340": {
+      "arxiv_id": "2611.34340",
+      "title": "Poisoning Attacks to Local Differential Privacy Protocols for Dynamic Graphs",
+      "authors": [
+        "Shang Liu",
+        "Yuhan Bao",
+        "Hongbin Zhao",
+        "Yanmei Zhang",
+        "Guan Yuan",
+        "Yang Cao"
+      ],
+      "published": "2026-11-25T13:14:12+00:00",
+      "first_seen": "2026-11-26T17:55:01.804188",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2611.34258": {
+      "arxiv_id": "2611.34258",
+      "title": "Train-Only-Constrained LM for Synthetic Clinical Trajectories: Leak-Safe Calibration and Auditable Dynamics",
+      "authors": [
+        "Yaser Kord",
+        "Moritz Hess"
+      ],
+      "published": "2026-11-25T12:21:08+00:00",
+      "first_seen": "2026-11-26T17:55:01.804200",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "cs.CR"
+      ]
+    },
+    "2611.33672": {
+      "arxiv_id": "2611.33672",
+      "title": "Node Differential Privacy via Node-Stable Graph Projections",
+      "authors": [
+        "Ishaq Aden-Ali",
+        "Adam Sealfon",
+        "Adam Smith",
+        "Thomas Steinke",
+        "Jonathan Ullman"
+      ],
+      "published": "2026-11-25T02:37:05+00:00",
+      "first_seen": "2026-11-26T17:55:01.804206",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.CR",
+        "cs.DS",
+        "cs.LG"
+      ]
+    },
+    "2611.33469": {
+      "arxiv_id": "2611.33469",
+      "title": "Differentially Private Policy Optimization in Linear MDPs with Adversarial Rewards",
+      "authors": [
+        "Yi He"
+      ],
+      "published": "2026-11-24T21:46:00+00:00",
+      "first_seen": "2026-11-26T17:55:01.804211",
+      "topic": "Differential Privacy",
+      "categories": [
+        "cs.LG",
+        "stat.ML"
+      ]
+    },
+    "2611.34876": {
+      "arxiv_id": "2611.34876",
+      "title": "SoK: When FL Clients Cannot Train -- Delegated Federated Learning for IoT",
+      "authors": [
+        "Hamed Mohammed Alkharsh",
+        "Aydin Abadi",
+        "Jakub Szelag",
+        "Suleiman Muhammad Sabo",
+        "Ishak Semuel Beno"
+      ],
+      "published": "2026-11-25T18:37:29+00:00",
+      "first_seen": "2026-11-26T17:55:07.737238",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.CR"
+      ]
+    },
+    "2611.34049": {
+      "arxiv_id": "2611.34049",
+      "title": "Decentralized Clustered Federated Learning for Cellular Traffic Forecasting over LEO Constellations",
+      "authors": [
+        "Jonas Kirch",
+        "Tiago Koketsu Rodrigues",
+        "Yuichi Kawamoto"
+      ],
+      "published": "2026-11-25T09:25:55+00:00",
+      "first_seen": "2026-11-26T17:55:07.737247",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.33395": {
+      "arxiv_id": "2611.33395",
+      "title": "Federated Learning with Uncertainty Quantification on Pseudo Label Exchange",
+      "authors": [
+        "Jingqiao Tang",
+        "Phuoc-Toan Huynh",
+        "Richard Archibald",
+        "Feng Bao"
+      ],
+      "published": "2026-11-24T20:17:45+00:00",
+      "first_seen": "2026-11-26T17:55:07.737252",
+      "topic": "Federated Learning",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.34825": {
+      "arxiv_id": "2611.34825",
+      "title": "Routeability Before Routing: Routeability Audit Protocol (RAP) and RouteabilityBench for Audited LLM Model Selection",
+      "authors": [
+        "Yihang Lu",
+        "Denica Kjorvezir",
+        "Ana Gjorgjevikj",
+        "Carola Doerr",
+        "Tome Eftimov"
+      ],
+      "published": "2026-11-25T18:08:01+00:00",
+      "first_seen": "2026-11-26T17:55:10.773001",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.34723": {
+      "arxiv_id": "2611.34723",
+      "title": "Robust Recourse under Causal Graph Ambiguity",
+      "authors": [
+        "Muyan Anna Li",
+        "Juliette Sinnott",
+        "Mohammad Kohandel",
+        "Amir-Hossein Karimi"
+      ],
+      "published": "2026-11-25T17:10:34+00:00",
+      "first_seen": "2026-11-26T17:55:10.773010",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.34721": {
+      "arxiv_id": "2611.34721",
+      "title": "Privileged On-Policy Distillation for Calibrated Alzheimer's Diagnosis With Missing Modalities",
+      "authors": [
+        "Vo Minh Khoi Nguyen",
+        "Dat Tien Chung",
+        "Quang Minh Khoa Le",
+        "Duc Khang Nguyen",
+        "Le Thien Phuc Nguyen",
+        "Hoang Thien Nguyen",
+        "Minh Huu Nhat Le",
+        "Phat K. Huynh",
+        "Cuong Tuan Nguyen",
+        "Thanh Huy Nguyen",
+        "Ulas Bagci"
+      ],
+      "published": "2026-11-25T17:09:34+00:00",
+      "first_seen": "2026-11-26T17:55:10.773016",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.LG"
+      ]
+    },
+    "2611.34436": {
+      "arxiv_id": "2611.34436",
+      "title": "Grounding User Preferences in Shared Multimodal Concepts for Recommendation",
+      "authors": [
+        "Ao Xu",
+        "Jinhui Huang",
+        "Wenqiang Tang",
+        "Tiehua Mei",
+        "Hongru Hou",
+        "Hengrui Chen",
+        "Jiaqing Liang",
+        "Deqing Yang"
+      ],
+      "published": "2026-11-25T14:20:51+00:00",
+      "first_seen": "2026-11-26T17:55:10.773021",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR"
+      ]
+    },
+    "2611.34407": {
+      "arxiv_id": "2611.34407",
+      "title": "Agentic Waterfall: An Intent-Driven Information Discovery Framework for Reclaiming User Control in the Attention Economy",
+      "authors": [
+        "Yige Luo",
+        "Shining Zhang",
+        "Jikun Liu",
+        "Hongjiao Qiang",
+        "Ran Guan"
+      ],
+      "published": "2026-11-25T14:04:25+00:00",
+      "first_seen": "2026-11-26T17:55:10.773026",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.AI",
+        "cs.IR"
+      ]
+    },
+    "2611.34346": {
+      "arxiv_id": "2611.34346",
+      "title": "Music Similarity Estimation from Jukebox Embeddings",
+      "authors": [
+        "Johannes Grafinger",
+        "Gerhard Widmer",
+        "Jan Schlüter"
+      ],
+      "published": "2026-11-25T13:17:43+00:00",
+      "first_seen": "2026-11-26T17:55:10.773031",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.SD",
+        "cs.LG",
+        "eess.AS"
+      ]
+    },
+    "2611.34330": {
+      "arxiv_id": "2611.34330",
+      "title": "RecField: Embedding Recommendations into Spatial Movie Organization as Affordances for Serendipitous Encounters",
+      "authors": [
+        "Kenta Oku"
+      ],
+      "published": "2026-11-25T13:09:49+00:00",
+      "first_seen": "2026-11-26T17:55:10.773035",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.HC"
+      ]
+    },
+    "2611.33727": {
+      "arxiv_id": "2611.33727",
+      "title": "Knocking on Minds Door; A Mixed-Methods Field Study of a Voice LLM Companion in Older Adults Daily Lives",
+      "authors": [
+        "Inhee Cho",
+        "Jinyoung Jeong",
+        "Byung Ju Kim",
+        "Jiwon Baek",
+        "Jungmin Lee",
+        "Jiseob Park",
+        "Youngjae Yoo"
+      ],
+      "published": "2026-11-25T03:45:51+00:00",
+      "first_seen": "2026-11-26T17:55:10.773040",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.HC"
+      ]
+    },
+    "2611.33628": {
+      "arxiv_id": "2611.33628",
+      "title": "Multi-Modal Causal Disentanglement for Multi-Domain Sequential Audio Recommendation",
+      "authors": [
+        "Yu Ren",
+        "Pengcheng Li",
+        "Weijun Xu",
+        "Hengzhong Zhou",
+        "Shufeng Ye",
+        "Qiang Xiao",
+        "Dongjing Wang",
+        "Chuanjiang Luo",
+        "Yong Li"
+      ],
+      "published": "2026-11-25T01:57:30+00:00",
+      "first_seen": "2026-11-26T17:55:10.773045",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.SD"
+      ]
+    },
+    "2611.33240": {
+      "arxiv_id": "2611.33240",
+      "title": "Learning the Platform, Not the Learner: Sequencing Shortcuts in the Offline Evaluation of Educational Recommender Systems and LLM Rankers",
+      "authors": [
+        "Youssef Jdidou"
+      ],
+      "published": "2026-11-24T13:48:16+00:00",
+      "first_seen": "2026-11-26T17:55:10.773049",
+      "topic": "Recommender Systems",
+      "categories": [
+        "cs.IR",
+        "cs.CY",
+        "cs.LG"
       ]
     }
   }

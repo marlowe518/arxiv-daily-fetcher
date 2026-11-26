@@ -5,6 +5,9 @@ Newest entries appear at the top.
 
 | Date | Title | One-line Summary |
 |------|-------|------------------|
+| 2026-11-25 | [SoK: When FL Clients Cannot Train -- Delegated Federated Learning for IoT](https://arxiv.org/abs/2611.34876) | Federated learning (FL) assumes that a client can perform the computation required to produce its own contribution. |
+| 2026-11-25 | [Decentralized Clustered Federated Learning for Cellular Traffic Forecasting over LEO Constellations](https://arxiv.org/abs/2611.34049) | Low Earth Orbit (LEO) satellite constellations are positioned to act as orbital edge-compute nodes in emerging 6G non-terrestrial networks, supporting forecasting and control tasks for ground... |
+| 2026-11-24 | [Federated Learning with Uncertainty Quantification on Pseudo Label Exchange](https://arxiv.org/abs/2611.33395) | In this work, we investigate federated stochastic operator learning for stochastic partial differential equations (SPDEs), with an emphasis on heterogeneous client data distributions and uncertainty... |
 | 2026-11-24 | [A Unified Control Framework for Gradient Inversion Defense in Federated Learning](https://arxiv.org/abs/2611.32174) | Gradient perturbations are widely recognized as an effective defense against gradient inversion attacks in federated learning, but they are equally known to impair optimization, creating a persistent... |
 | 2026-11-24 | [PFedHASNet: A Personalized Federated Hybrid Analog-Spike Network for Multi-Subject Motor Imagery EEG Decoding](https://arxiv.org/abs/2611.32019) | Motor imagery electroencephalography (MI-EEG) data are often collected and stored separately across subjects or institutions, and EEG acquisition and annotation remain costly. |
 | 2026-11-24 | [Multi Agent Reinforcement Learning enhanced Federated Learning for Predicting Remaining Useful Lifetime](https://arxiv.org/abs/2611.31880) | Remaining useful life (RUL) prediction is central to Prognostics and Health Management (PHM). |
